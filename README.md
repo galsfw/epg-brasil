@@ -28,19 +28,7 @@ depois de publicado, você não precisa mexer em mais nada.
 
 - **Conteúdo adulto/pornográfico** (grupos como "CANAIS | ADULTOS +18" e
   "FILMES | ADULTOS +18"): removido de `canais_ao_vivo.m3u8` **e** de
-  `filmes_series.m3u8`. O filtro (`is_adult_group()` em `common.py`) olha
-  só o nome do **grupo**, nunca palavras no título — isso evita remover
-  por engano conteúdo legítimo que apenas contém termos parecidos, como o
-  documentário "Pornhub: Sexo Bilionário", a minissérie "Gêmeas Trans", o
-  filme de ação "xXx: Reativado" ou a série "Adultos" da Disney+.
-- **ASMR** (grupo "Canais | Dormir e Relaxar" + qualquer canal com "ASMR"
-  no nome, mesmo fora desse grupo, como o "K-ASMR"): removido de
-  `canais_ao_vivo.m3u8` e do EPG — são loops sem grade real.
-- **Copa do Mundo 2026** (grupo temporário com jogos avulsos, sem
-  `tvg-id`): não entra em `canais_ao_vivo.m3u8` nem no EPG.
-- **Filmes e Séries** (grupos `Filmes | *`, `Series | *`, `Doramas`,
-  `Novelas`, `Novelas Turcas`, `Mini Series`): não entram mais junto com
-  os canais de TV — vão exclusivamente para `filmes_series.m3u8`.
+  `filmes_series.m3u8`. 
 
 `canais_ao_vivo.m3u8` e `canais_ao_vivo_epg.xml` contêm somente TV ao vivo
 de verdade (Globo, SBT, RecordTV, Band, SporTV, ESPN, HBO, Telecine,
@@ -59,21 +47,6 @@ a `CanaisBR06`). Elas foram checadas uma a uma quanto à saúde dos streams:
 | `CanaisBR03` | ❌ Não usada | Mesmo conteúdo da BR04, mas com credenciais de stream expiradas (praticamente tudo fora do ar) |
 | `CanaisBR01`, `CanaisBR02` | ❌ Não usadas | Servidores retornando erro de autenticação (401) em quase todos os streams testados |
 | `CanaisBR05` | ❌ Não usada | Servidor não responde (timeout total nos testes) |
-
-Tanto `canais_ao_vivo.m3u8` quanto `filmes_series.m3u8` mesclam BR06 +
-BR04, usando o nome/título normalizado como chave (acentos, maiúsculas e
-espaços não contam) para não duplicar o mesmo conteúdo:
-
-- **Canais ao vivo**: a deduplicação é feita **entre fontes diferentes**
-  (BR06 vs. BR04) — dentro da mesma fonte, variações de **qualidade**
-  (HD, FHD, 4K, H265 etc.) continuam todas na playlist, como streams
-  alternativos do mesmo canal.
-- **Filmes e séries**: a deduplicação é **global** — vale tanto para
-  repetições dentro da mesma lista (algumas listas catalogam o mesmo
-  filme em mais de uma categoria) quanto entre BR06 e BR04. Em ambos os
-  casos, marcadores de **Legendado** (`[L]`/`[LEG]`) e **4K** ficam
-  intactos na chave: uma versão legendada ou 4K nunca é tratada como
-  duplicata da versão "normal" e continua saindo como item separado.
 
 ## 🔗 Como funciona o casamento de canais (M3U ⇄ EPG)
 
@@ -125,36 +98,7 @@ epg-br/
 ├── .github/workflows/update-epg.yml   # roda tudo sozinho, de 6 em 6h
 └── README.md
 ```
-
-## 🚀 Como publicar isso "de verdade" (para funcionar sozinho)
-
-Para o TiviMate conseguir **buscar sozinho** as atualizações, os arquivos
-precisam estar acessíveis por uma URL pública estável. O jeito mais
-simples e gratuito:
-
-1. Crie um repositório no GitHub e suba a pasta `epg-br/` inteira
-   (`scripts/` + `.github/workflows/` + este `README.md`).
-2. Em **Settings → Actions → General → Workflow permissions**, marque
-   **"Read and write permissions"** (necessário para a Action conseguir
-   dar `git push` sozinha).
-3. Rode a Action uma vez manualmente: aba **Actions → Atualizar canais ao
-   vivo, EPG e Filmes/Séries → Run workflow**. Isso já cria a pasta
-   `playlists/` com os 5 arquivos dentro do repositório.
-4. Use as URLs "raw" do GitHub nos seus apps (troque
-   `SEU_USUARIO/SEU_REPO` pelos dados do seu repositório):
-   - Canais ao vivo: `https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPO/main/playlists/canais_ao_vivo.m3u8`
-   - EPG: `https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPO/main/playlists/canais_ao_vivo_epg.xml`
-   - Filmes/Séries: `https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPO/main/playlists/filmes_series.m3u8`
-
-Depois disso a GitHub Action roda sozinha a cada 6 horas, refaz os três
-arquivos, e o TiviMate puxa a versão nova automaticamente sempre que
-atualizar a lista/o guia.
-
-> Alternativa sem GitHub: qualquer servidor/VPS com Python 3 e um `cron`
-> rodando `python3 scripts/update_all.py` a cada poucas horas, servindo a
-> pasta `playlists/` por HTTP, funciona do mesmo jeito.
-
-## 📺 Como configurar no TiviMate
+## 📺 Como configurar no aplicativo
 
 ### 1) Canais ao vivo + EPG
 1. **Configurações → Listas de reprodução → Adicionar** e cole a URL de
