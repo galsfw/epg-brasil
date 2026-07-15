@@ -72,6 +72,15 @@ EPG_SOURCES = [
 # VOD, playlists de música/ASMR etc. não têm EPG tradicional e são ignorados.
 LIVE_GROUP_PREFIX = "canais"
 
+# Grupos que, apesar de começarem com "Canais", não são canais de TV com
+# programação real e por isso são sempre excluídos do EPG:
+#  - "Canais | Dormir e Relaxar": loops de ASMR/chuva/natureza sem grade.
+# Obs.: o grupo "Copa do Mundo 2026" já é excluído automaticamente porque
+# seu group-title não começa com "Canais".
+EXCLUDED_GROUPS = {
+    "canais | dormir e relaxar",
+}
+
 # Redes nacionais cujas afiliadas regionais podem herdar a grade nacional
 # quando não encontramos uma grade específica para a praça local.
 NETWORK_FALLBACK_KEYWORDS = {
@@ -172,7 +181,10 @@ def parse_m3u(text: str) -> list[Channel]:
 
 
 def is_live_channel(ch: Channel) -> bool:
-    return ch.group_title.lower().startswith(LIVE_GROUP_PREFIX)
+    group = ch.group_title.lower()
+    if group in EXCLUDED_GROUPS:
+        return False
+    return group.startswith(LIVE_GROUP_PREFIX)
 
 
 # ---------------------------------------------------------------------------
