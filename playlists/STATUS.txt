@@ -1,5 +1,5 @@
-Última atualização (UTC): 2026-07-15T15:22:16.275358+00:00
-Duração: 38.5s
+Última atualização (UTC): 2026-07-15T15:36:15.859892+00:00
+Duração: 31.8s
 
 == Canais ao vivo (playlists/canais_ao_vivo.m3u8 + canais_ao_vivo_epg.xml) ==
 Canais na playlist (entradas): 6865
@@ -10,6 +10,6 @@ Canais sem EPG disponível: 416
 Canais no arquivo XMLTV final: 748
 Programas no arquivo XMLTV final: 42743
 
-== Filmes e Séries (playlists/<categoria>.m3u8) ==
+== Filmes e Séries (playlists/filmes_e_series*.m3u8) ==
 Itens (filmes + episódios de séries): 446349
-Arquivos: filmes.m3u8, series.m3u8, series_2.m3u8, series_3.m3u8, doramas.m3u8, novelas.m3u8, mini_series.m3u8
+Arquivos: filmes_e_series1.m3u8, filmes_e_series2.m3u8, filmes_e_series3.m3u8
