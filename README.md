@@ -3,8 +3,8 @@
 Gera automaticamente, a partir das listas públicas do
 [Ramys/Iptv-Brasil-2026](https://github.com/Ramys/Iptv-Brasil-2026)
 (`CanaisBR06.m3u8` como base + `CanaisBR04.m3u8` como fonte extra),
-os arquivos prontos para usar no **TiviMate** (ou qualquer player compatível
-com M3U/XMLTV). Tudo fica em uma única pasta, `playlists/`, para ser fácil
+os arquivos prontos para usar em qualquer player compatível
+com M3U/XMLTV. Tudo fica em uma única pasta, `playlists/`, para ser fácil
 de achar o que você precisa.
 
 ## 📂 Onde estão os arquivos (é só olhar em `playlists/`)
