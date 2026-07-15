@@ -13,22 +13,50 @@ de achar o que você precisa.
 |---|---|---|
 | `playlists/canais_ao_vivo.m3u8` | Playlist só de **TV ao vivo**, já filtrada | Adicione como sua lista principal no TiviMate |
 | `playlists/canais_ao_vivo_epg.xml` (e `.xml.gz`) | Guia de programação (**EPG/XMLTV**) desses mesmos canais | Adicione como fonte de EPG da lista acima |
-| `playlists/filmes_series.m3u8` | Playlist separada só de **Filmes e Séries** (VOD) | Adicione como uma **segunda lista** no TiviMate |
+| `playlists/filmes.m3u8` | Playlist só de **Filmes** | Adicione como lista extra no TiviMate |
+| `playlists/series.m3u8`, `series_2.m3u8`, `series_3.m3u8`, ... | Playlist(s) só de **Séries** (episódio por episódio) | Adicione cada uma como lista extra no TiviMate |
+| `playlists/novelas.m3u8` | Playlist só de **Novelas** | Adicione como lista extra no TiviMate |
+| `playlists/doramas.m3u8` | Playlist só de **Doramas** | Adicione como lista extra no TiviMate |
+| `playlists/mini_series.m3u8` | Playlist só de **Minisséries** | Adicione como lista extra no TiviMate |
 | `playlists/STATUS.txt` | Relatório da última atualização (contagens, hora) | Só para conferência/depuração |
 
-Os dois "pacotes" — canais ao vivo (playlist + EPG) e filmes/séries — vivem
-lado a lado na mesma pasta, sempre com esses mesmos nomes, então depois da
-primeira configuração você nunca precisa procurar de novo: é só apontar o
-player para a URL fixa de cada arquivo.
+### Por que Filmes/Séries virou vários arquivos em vez de um só?
 
-Todos são regenerados sozinhos por uma GitHub Action (cron a cada 6h) —
-depois de publicado, você não precisa mexer em mais nada.
+O GitHub **recusa qualquer arquivo maior que 100 MB** enviado direto no
+repositório (sem usar Git LFS). O conteúdo de VOD mesclado (Ramys BR06 +
+BR04) já passa de **110 MB** num arquivo único e só tende a crescer com o
+tempo — foi exatamente isso que causou o erro
+`File ... exceeds GitHub's file size limit of 100.00 MB` / `GH001: Large
+files detected` ao tentar dar `git push`.
+
+A solução foi dividir a saída de VOD automaticamente:
+
+1. **Por categoria** (Filmes, Séries, Novelas, Doramas, Minisséries) —
+   o que já é uma divisão natural, útil também no TiviMate.
+2. **Por tamanho**, dentro de uma categoria: se um arquivo passar de
+   ~40 MB (bem abaixo do limite de 100 MB do GitHub, com folga para
+   crescer), o gerador abre automaticamente uma "parte" nova
+   (`series.m3u8`, `series_2.m3u8`, `series_3.m3u8`, ...). Isso é feito
+   sozinho a cada execução — mesmo que o catálogo dobre de tamanho no
+   futuro, nunca mais deve estourar o limite do GitHub.
+
+Basta adicionar **cada arquivo `.m3u8` de VOD que existir** em
+`playlists/` como uma lista separada no TiviMate (o app deixa juntar
+quantas listas você quiser — elas aparecem juntas no mesmo catálogo,
+organizadas pelas categorias/`group-title` de cada item).
+
+Todos os arquivos são regenerados sozinhos por uma GitHub Action (cron a
+cada 6h) — depois de publicado, você não precisa mexer em mais nada. A
+cada execução, arquivos de "partes" antigos que não são mais necessários
+(porque uma categoria encolheu) são apagados automaticamente, para não
+acumular lixo no repositório.
 
 ## 🧹 O que é filtrado / removido
 
 - **Conteúdo adulto/pornográfico** (grupos como "CANAIS | ADULTOS +18" e
   "FILMES | ADULTOS +18"): removido de `canais_ao_vivo.m3u8` **e** de
-  `filmes_series.m3u8`. O filtro (`is_adult_group()` em `common.py`) olha
+  todos os arquivos de VOD (`filmes.m3u8`, `series*.m3u8`, `novelas.m3u8`,
+  `doramas.m3u8`, `mini_series.m3u8`). O filtro (`is_adult_group()` em `common.py`) olha
   só o nome do **grupo**, nunca palavras no título — isso evita remover
   por engano conteúdo legítimo que apenas contém termos parecidos, como o
   documentário "Pornhub: Sexo Bilionário", a minissérie "Gêmeas Trans", o
@@ -40,7 +68,9 @@ depois de publicado, você não precisa mexer em mais nada.
   `tvg-id`): não entra em `canais_ao_vivo.m3u8` nem no EPG.
 - **Filmes e Séries** (grupos `Filmes | *`, `Series | *`, `Doramas`,
   `Novelas`, `Novelas Turcas`, `Mini Series`): não entram mais junto com
-  os canais de TV — vão exclusivamente para `filmes_series.m3u8`.
+  os canais de TV — vão exclusivamente para os arquivos de VOD
+  (`filmes.m3u8`, `series*.m3u8`, `novelas.m3u8`, `doramas.m3u8`,
+  `mini_series.m3u8`).
 
 `canais_ao_vivo.m3u8` e `canais_ao_vivo_epg.xml` contêm somente TV ao vivo
 de verdade (Globo, SBT, RecordTV, Band, SporTV, ESPN, HBO, Telecine,
@@ -60,7 +90,7 @@ a `CanaisBR06`). Elas foram checadas uma a uma quanto à saúde dos streams:
 | `CanaisBR01`, `CanaisBR02` | ❌ Não usadas | Servidores retornando erro de autenticação (401) em quase todos os streams testados |
 | `CanaisBR05` | ❌ Não usada | Servidor não responde (timeout total nos testes) |
 
-Tanto `canais_ao_vivo.m3u8` quanto `filmes_series.m3u8` mesclam BR06 +
+Tanto `canais_ao_vivo.m3u8` quanto os arquivos de VOD mesclam BR06 +
 BR04, usando o nome/título normalizado como chave (acentos, maiúsculas e
 espaços não contam) para não duplicar o mesmo conteúdo:
 
@@ -115,12 +145,16 @@ epg-br/
 │   ├── canais_ao_vivo.m3u8
 │   ├── canais_ao_vivo_epg.xml
 │   ├── canais_ao_vivo_epg.xml.gz
-│   ├── filmes_series.m3u8
+│   ├── filmes.m3u8
+│   ├── series.m3u8, series_2.m3u8, series_3.m3u8, ...  (partes automáticas)
+│   ├── novelas.m3u8
+│   ├── doramas.m3u8
+│   ├── mini_series.m3u8
 │   └── STATUS.txt
 ├── scripts/
 │   ├── common.py            # download, parsing de M3U, normalização e filtro de conteúdo adulto (compartilhado)
-│   ├── generate_live.py     # mescla BR06+BR04, gera canais_ao_vivo.m3u8 + canais_ao_vivo_epg.xml(.gz)
-│   ├── generate_vod.py      # mescla BR06+BR04, gera filmes_series.m3u8
+│   ├── generate_live.py     # mescla BR06+BR04+xKzin, gera canais_ao_vivo.m3u8 + canais_ao_vivo_epg.xml(.gz)
+│   ├── generate_vod.py      # mescla BR06+BR04, gera filmes.m3u8/series*.m3u8/novelas.m3u8/doramas.m3u8/mini_series.m3u8 (divididos por categoria e por tamanho, para nunca passar do limite de 100 MB do GitHub)
 │   └── update_all.py        # roda os dois geradores e grava playlists/STATUS.txt
 ├── .github/workflows/update-epg.yml   # roda tudo sozinho, de 6 em 6h
 └── README.md
@@ -139,14 +173,19 @@ simples e gratuito:
    dar `git push` sozinha).
 3. Rode a Action uma vez manualmente: aba **Actions → Atualizar canais ao
    vivo, EPG e Filmes/Séries → Run workflow**. Isso já cria a pasta
-   `playlists/` com os 5 arquivos dentro do repositório.
+   `playlists/` com todos os arquivos dentro do repositório.
 4. Use as URLs "raw" do GitHub nos seus apps (troque
    `SEU_USUARIO/SEU_REPO` pelos dados do seu repositório):
    - Canais ao vivo: `https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPO/main/playlists/canais_ao_vivo.m3u8`
    - EPG: `https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPO/main/playlists/canais_ao_vivo_epg.xml`
-   - Filmes/Séries: `https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPO/main/playlists/filmes_series.m3u8`
+   - Filmes: `https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPO/main/playlists/filmes.m3u8`
+   - Séries: `https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPO/main/playlists/series.m3u8` (e
+     `series_2.m3u8`, `series_3.m3u8`, ... se existirem — confira em `playlists/` no seu repositório)
+   - Novelas: `https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPO/main/playlists/novelas.m3u8`
+   - Doramas: `https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPO/main/playlists/doramas.m3u8`
+   - Minisséries: `https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPO/main/playlists/mini_series.m3u8`
 
-Depois disso a GitHub Action roda sozinha a cada 6 horas, refaz os três
+Depois disso a GitHub Action roda sozinha a cada 6 horas, refaz todos os
 arquivos, e o TiviMate puxa a versão nova automaticamente sempre que
 atualizar a lista/o guia.
 
@@ -167,11 +206,14 @@ atualizar a lista/o guia.
    SporTV, ESPN, HBO, Telecine, Premiere, afiliadas regionais etc.) já
    aparecem com a grade.
 
-### 2) Filmes e Séries (lista separada)
-1. **Configurações → Listas de reprodução → Adicionar** de novo, agora
-   com a URL de `filmes_series.m3u8`.
-2. Não é preciso configurar EPG para essa lista — filmes/séries não usam
-   guia de programação; o TiviMate organiza pelas categorias
+### 2) Filmes e Séries (listas separadas)
+1. **Configurações → Listas de reprodução → Adicionar** de novo, uma vez
+   para **cada** arquivo de VOD que existir em `playlists/` (`filmes.m3u8`,
+   `series.m3u8`, `series_2.m3u8`, `series_3.m3u8`, ..., `novelas.m3u8`,
+   `doramas.m3u8`, `mini_series.m3u8`). O TiviMate deixa juntar quantas
+   listas você quiser — elas aparecem lado a lado no mesmo catálogo.
+2. Não é preciso configurar EPG para essas listas — filmes/séries não
+   usam guia de programação; o TiviMate organiza pelas categorias
    (`group-title`) e mostra o pôster (`tvg-logo`) normalmente.
 
 ## 🛠 Rodando localmente (opcional, para testar/depurar)
