@@ -11,9 +11,9 @@ de achar o que você precisa.
 
 | Arquivo | O que é | Para que serve |
 |---|---|---|
-| `playlists/canais_ao_vivo.m3u8` | Playlist só de **TV ao vivo**, já filtrada | Adicione como sua lista principal no TiviMate |
+| `playlists/canais_ao_vivo.m3u8` | Playlist só de **TV ao vivo**, já filtrada | Adicione como sua lista principal |
 | `playlists/canais_ao_vivo_epg.xml` (e `.xml.gz`) | Guia de programação (**EPG/XMLTV**) desses mesmos canais | Adicione como fonte de EPG da lista acima |
-| `playlists/filmes_series.m3u8` | Playlist separada só de **Filmes e Séries** (VOD) | Adicione como uma **segunda lista** no TiviMate |
+| `playlists/filmes_series.m3u8` | Playlist separada só de **Filmes e Séries** (VOD) | Adicione como uma **segunda lista** |
 | `playlists/STATUS.txt` | Relatório da última atualização (contagens, hora) | Só para conferência/depuração |
 
 Os dois "pacotes" — canais ao vivo (playlist + EPG) e filmes/séries — vivem
