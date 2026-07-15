@@ -58,6 +58,8 @@ def main() -> int:
         f"Canais na playlist (entradas): {live_stats['canais_na_playlist']}",
         f"Canais únicos (por tvg-id): {live_stats['canais_unicos_por_tvg_id']}",
         f"Canais com EPG casado: {live_stats['canais_com_epg_casado']}",
+        f"  (dos quais herdados de uma variação de qualidade irmã: "
+        f"{live_stats['canais_com_epg_herdado_de_irmao']})",
         f"Canais sem EPG disponível: {live_stats['canais_sem_epg']}",
         f"Canais no arquivo XMLTV final: {live_stats['canais_no_epg_final']}",
         f"Programas no arquivo XMLTV final: {live_stats['programas_no_epg_final']}",
