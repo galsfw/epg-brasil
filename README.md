@@ -88,35 +88,7 @@ epg-br/
 └── README.md
 ```
 
-## 🚀 Como publicar isso "de verdade" (para funcionar sozinho)
-
-Para o TiviMate conseguir **buscar sozinho** as atualizações, os arquivos
-precisam estar acessíveis por uma URL pública estável. O jeito mais
-simples e gratuito:
-
-1. Crie um repositório no GitHub e suba a pasta `epg-br/` inteira
-   (`scripts/` + `.github/workflows/` + este `README.md`).
-2. Em **Settings → Actions → General → Workflow permissions**, marque
-   **"Read and write permissions"** (necessário para a Action conseguir
-   dar `git push` sozinha).
-3. Rode a Action uma vez manualmente: aba **Actions → Atualizar canais ao
-   vivo, EPG e Filmes/Séries → Run workflow**. Isso já cria a pasta
-   `playlists/` com os 5 arquivos dentro do repositório.
-4. Use as URLs "raw" do GitHub nos seus apps (troque
-   `SEU_USUARIO/SEU_REPO` pelos dados do seu repositório):
-   - Canais ao vivo: `https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPO/main/playlists/canais_ao_vivo.m3u8`
-   - EPG: `https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPO/main/playlists/canais_ao_vivo_epg.xml`
-   - Filmes/Séries: `https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPO/main/playlists/filmes_series.m3u8`
-
-Depois disso a GitHub Action roda sozinha a cada 6 horas, refaz os três
-arquivos, e o TiviMate puxa a versão nova automaticamente sempre que
-atualizar a lista/o guia.
-
-> Alternativa sem GitHub: qualquer servidor/VPS com Python 3 e um `cron`
-> rodando `python3 scripts/update_all.py` a cada poucas horas, servindo a
-> pasta `playlists/` por HTTP, funciona do mesmo jeito.
-
-## 📺 Como configurar no TiviMate
+## 📺 Como configurar no TiviMate/IPTV Smartes/outros aplicativos que suportem XML ou M3U8.
 
 ### 1) Canais ao vivo + EPG
 1. **Configurações → Listas de reprodução → Adicionar** e cole a URL de
