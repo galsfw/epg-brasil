@@ -1,6 +1,0 @@
-Última atualização (UTC): 2026-07-15T02:54:55.293414+00:00
-Canais na playlist (ao vivo, únicos): 634
-Canais com EPG casado: 267
-Canais sem EPG disponível: 367
-Canais no arquivo final: 267
-Programas no arquivo final: 23115
