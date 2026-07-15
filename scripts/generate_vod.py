@@ -31,18 +31,48 @@ conteúdo de VOD (só canais ao vivo) e BR03 é uma cópia da BR04 com
 streams fora do ar (credenciais expiradas) — nenhuma das quatro é usada
 aqui.
 
+ORDENAÇÃO / AGRUPAMENTO DE SÉRIES (IMPORTANTE):
+Nas listas de origem, os episódios de uma mesma série NÃO vêm em ordem
+sequencial — é comum encontrar "Série X S03E12", bem mais adiante
+"Série X S05E01" e só depois "Série X S02E01", por exemplo. Se a saída
+só seguisse a ordem de chegada dos itens (como em versões anteriores
+deste script), cada player ia mostrar os episódios de uma série
+espalhados/fora de ordem dentro da categoria.
+
+Por isso, depois de filtrar e deduplicar, TODOS os itens de VOD passam
+por uma ordenação explícita antes de serem gravados nos arquivos finais:
+  1. Primeiro pelo título "base" (sem o sufixo de temporada/episódio),
+     normalizado (sem acentos, maiúsculo) — isso já junta todos os
+     episódios de uma mesma série em sequência no arquivo.
+  2. Depois pelo número da temporada (S01, S02, ...).
+  3. Depois pelo número do episódio (E01, E02, ...).
+Filmes (sem "SxxExx" no nome) são tratados como "temporada 0, episódio
+0" e ficam ordenados só pelo título, junto dos demais.
+
+Essa ordenação é feita com o utilitário `sort` do sistema (mesmo usado
+em qualquer Linux), que faz um "merge sort" em disco em vez de carregar
+tudo na memória de uma vez — assim continua funcionando mesmo com um
+catálogo de ~450 mil itens numa máquina com pouca memória disponível.
+
 Divisão em vários arquivos (IMPORTANTE):
 GitHub recusa qualquer arquivo comum acima de 100 MB (sem Git LFS). Como
 o conteúdo de VOD mesclado passa facilmente de 100 MB num arquivo único
 (e só tende a crescer com o tempo), a saída fica em uma ÚNICA série de
 arquivos numerados — filmes_e_series1.m3u8, filmes_e_series2.m3u8,
 filmes_e_series3.m3u8, ... — todos misturando Filmes, Séries, Novelas,
-Doramas e Mini Séries juntos (sem separar por categoria; o TiviMate já
-organiza tudo pelas categorias/group-title de cada item, então não há
-necessidade de arquivos separados por tipo). Um novo arquivo é aberto
-automaticamente sempre que o atual ultrapassa um limite de segurança
-(bem abaixo dos 100 MB do GitHub) — continua funcionando mesmo que o
-conteúdo dobre de tamanho no futuro, nunca mais deve estourar o limite.
+Doramas e Mini Séries juntos, já na ordem descrita acima (sem separar
+por categoria; o TiviMate já organiza tudo pelas categorias/group-title
+de cada item, então não há necessidade de arquivos separados por tipo).
+Um novo arquivo é aberto automaticamente sempre que o atual ultrapassa
+um limite de segurança (bem abaixo dos 100 MB do GitHub) — continua
+funcionando mesmo que o conteúdo dobre de tamanho no futuro, nunca mais
+deve estourar o limite. Como a ordenação acontece ANTES da divisão em
+partes, uma série nunca fica cortada "no meio" de forma confusa: ela
+sempre aparece inteira e em ordem dentro do arquivo onde começou (a
+única exceção, rara, é quando uma série for tão grande a ponto de cair
+bem na fronteira de tamanho entre duas partes — mesmo assim os episódios
+continuam em ordem, só que a partir de um certo ponto passam a ficar no
+arquivo seguinte).
 
 Arquivos antigos (de execuções anteriores, incluindo os antigos por
 categoria "filmes.m3u8"/"series.m3u8"/etc. e o monolítico
@@ -51,16 +81,23 @@ escrever os novos, para não deixar lixo obsoleto na pasta playlists/.
 
 Nota de implementação: as duas listas somam ~580 mil entradas e quase
 tudo é VOD (o filtro de grupo não reduz muito o volume). Para não
-estourar a memória, o processamento é feito em streaming — uma fonte
-é baixada, escaneada linha a linha e gravada direto no(s) arquivo(s) de
-saída, sem acumular listas gigantes de objetos em memória.
+estourar a memória, o processamento é feito em streaming — uma fonte é
+baixada, escaneada linha a linha e gravada num arquivo temporário de
+"registros para ordenar" (chave de ordenação + a entrada M3U), sem
+acumular listas gigantes de objetos em memória; só depois de todas as
+fontes processadas é que o arquivo temporário inteiro é ordenado em
+disco e finalmente dividido nos arquivos de saída.
 """
 
 from __future__ import annotations
 
 import gc
+import os
 import re
+import shutil
+import subprocess
 import sys
+import unicodedata
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
@@ -69,6 +106,8 @@ from common import fetch_text, is_adult_group, normalize_vod_key  # noqa: E402
 ROOT = Path(__file__).resolve().parent.parent
 PLAYLISTS_DIR = ROOT / "playlists"
 PLAYLISTS_DIR.mkdir(exist_ok=True)
+
+TMP_DIR = ROOT / ".vod_tmp"
 
 # Limite de segurança por arquivo: bem abaixo do limite real do GitHub
 # (100 MB) para deixar folga para o crescimento entre uma atualização e
@@ -98,15 +137,45 @@ VOD_GROUP_PREFIXES = (
 GROUP_RE = re.compile(r'group-title="([^"]*)"')
 NAME_RE = re.compile(r'tvg-name="([^"]*)"')
 
+# Reconhece "S01E01", "S1E1", "S123E4567" etc. no final (ou perto do
+# final) do título, para separar "título base" de "temporada/episódio".
+EPISODE_RE = re.compile(r'^(.*?)\s*S(\d{1,3})E(\d{1,5})\s*$')
+
+# Separadores de controle usados só internamente no arquivo temporário de
+# ordenação — nunca aparecem em texto normal de M3U, então são seguros
+# como delimitadores de campo para o `sort` do sistema.
+KEY_FIELD_SEP = "\x1f"    # separa norm/temporada/episódio dentro da chave
+RECORD_SEP = "\x01"       # separa a chave do restante do registro
+
 # Nomes usados em execuções anteriores deste projeto — apagados a cada
 # execução para não deixar arquivos obsoletos versionados.
 LEGACY_VOD_NAMES = ("filmes_series", "filmes", "series", "doramas", "novelas", "mini_series")
+
+
+def strip_accents(s: str) -> str:
+    s = unicodedata.normalize("NFKD", s)
+    return "".join(c for c in s if not unicodedata.combining(c))
 
 
 def is_vod_group(group_title: str) -> bool:
     if is_adult_group(group_title):
         return False
     return group_title.strip().lower().startswith(VOD_GROUP_PREFIXES)
+
+
+def vod_sort_key(title: str) -> str:
+    """Gera uma chave de ordenação (título base normalizado + temporada +
+    episódio, em campos de largura fixa) para que episódios da mesma
+    série fiquem juntos e em ordem certa depois do `sort`.
+    """
+    m = EPISODE_RE.match(title)
+    if m:
+        base, season, episode = m.group(1), int(m.group(2)), int(m.group(3))
+    else:
+        base, season, episode = title, 0, 0
+    norm = strip_accents(base).upper()
+    norm = re.sub(r"\s+", " ", norm).strip()
+    return f"{norm}{KEY_FIELD_SEP}{season:05d}{KEY_FIELD_SEP}{episode:06d}"
 
 
 def iter_vod_lines(text: str):
@@ -200,52 +269,109 @@ def cleanup_old_vod_files():
             path.unlink(missing_ok=True)
 
 
+def external_sort(input_path: Path, output_path: Path) -> None:
+    """Ordena um arquivo de registros (chave + \\x01 + resto) por chave,
+    usando o utilitário `sort` do sistema — ele faz merge sort em disco
+    (spillando para arquivos temporários conforme necessário) em vez de
+    carregar tudo na memória de uma vez, o que é essencial num ambiente
+    com pouca RAM disponível para um catálogo de ~450 mil itens.
+    """
+    env = dict(os.environ)
+    env["LC_ALL"] = "C"  # ordenação byte-a-byte, estável e previsível
+    subprocess.run(
+        [
+            "sort",
+            "-t", RECORD_SEP,
+            "-k1,1",
+            "-S", "150M",       # buffer de memória por "run" do sort
+            "--parallel=2",
+            "-T", str(TMP_DIR), # onde guardar os arquivos temporários do sort
+            "-o", str(output_path),
+            str(input_path),
+        ],
+        env=env,
+        check=True,
+    )
+
+
 def run() -> dict:
     print("=== Filmes e Séries (VOD) - IPTV Brasil 2026 ===")
 
     cleanup_old_vod_files()
 
-    seen_keys: set[str] = set()
-    stats = {"por_fonte": []}
-    writer = PartedWriter(OUTPUT_BASENAME)
-    total_written = 0
+    if TMP_DIR.exists():
+        shutil.rmtree(TMP_DIR)
+    TMP_DIR.mkdir(parents=True)
+    unsorted_path = TMP_DIR / "vod_unsorted.tmp"
+    sorted_path = TMP_DIR / "vod_sorted.tmp"
 
-    for url in SOURCE_PLAYLIST_URLS:
-        print(f"Baixando playlist: {url}")
-        text = fetch_text(url)
-        if not text.strip():
-            print(f"  aviso: não foi possível baixar {url}, pulando esta fonte")
-            stats["por_fonte"].append((url, 0, 0))
-            continue
+    try:
+        seen_keys: set[str] = set()
+        stats = {"por_fonte": []}
+        total_collected = 0
 
-        total_entries = text.count("#EXTINF")
-        vod_count = 0
-        added = 0
-        for extinf_line, url_line, title in iter_vod_lines(text):
-            vod_count += 1
-            key = normalize_vod_key(title)
-            if key and key in seen_keys:
-                continue
-            writer.write_entry(extinf_line, url_line)
-            added += 1
-            total_written += 1
-            if key:
-                seen_keys.add(key)
+        with unsorted_path.open("w", encoding="utf-8") as staging:
+            for url in SOURCE_PLAYLIST_URLS:
+                print(f"Baixando playlist: {url}")
+                text = fetch_text(url)
+                if not text.strip():
+                    print(f"  aviso: não foi possível baixar {url}, pulando esta fonte")
+                    stats["por_fonte"].append((url, 0, 0))
+                    continue
 
-        print(f"  -> {total_entries} entradas totais, {vod_count} itens de Filmes/Séries "
-              f"({added} novos, {vod_count - added} já existiam - mesma lista ou fonte anterior)")
-        stats["por_fonte"].append((url, vod_count, added))
+                total_entries = text.count("#EXTINF")
+                vod_count = 0
+                added = 0
+                for extinf_line, url_line, title in iter_vod_lines(text):
+                    vod_count += 1
+                    dedup_key = normalize_vod_key(title)
+                    if dedup_key and dedup_key in seen_keys:
+                        continue
+                    sort_key = vod_sort_key(title)
+                    staging.write(
+                        f"{sort_key}{RECORD_SEP}{extinf_line}{RECORD_SEP}{url_line}\n"
+                    )
+                    added += 1
+                    total_collected += 1
+                    if dedup_key:
+                        seen_keys.add(dedup_key)
 
-        # libera a memória do texto da fonte atual antes de baixar a próxima
-        del text
+                print(f"  -> {total_entries} entradas totais, {vod_count} itens de Filmes/Séries "
+                      f"({added} novos, {vod_count - added} já existiam - mesma lista ou fonte anterior)")
+                stats["por_fonte"].append((url, vod_count, added))
+
+                # libera a memória do texto da fonte atual antes de baixar a próxima
+                del text
+                gc.collect()
+
+        # libera a memória do conjunto de chaves de deduplicação — não é
+        # mais necessário depois que todas as fontes foram processadas
+        del seen_keys
         gc.collect()
 
-    writer.close()
+        if total_collected == 0:
+            raise RuntimeError("nenhum item de VOD encontrado")
 
-    if total_written == 0:
-        for path in writer.files_written:
-            path.unlink(missing_ok=True)
-        raise RuntimeError("nenhum item de VOD encontrado")
+        print(f"\nOrdenando {total_collected} itens (agrupando episódios de cada "
+              f"série/novela/dorama em sequência)...")
+        external_sort(unsorted_path, sorted_path)
+
+        writer = PartedWriter(OUTPUT_BASENAME)
+        total_written = 0
+        with sorted_path.open("r", encoding="utf-8") as sorted_file:
+            for line in sorted_file:
+                line = line.rstrip("\n")
+                _, extinf_line, url_line = line.split(RECORD_SEP, 2)
+                writer.write_entry(extinf_line, url_line)
+                total_written += 1
+        writer.close()
+
+        if total_written != total_collected:
+            print(f"  aviso: {total_collected} itens coletados mas {total_written} "
+                  f"gravados após ordenação — verifique separadores de campo")
+
+    finally:
+        shutil.rmtree(TMP_DIR, ignore_errors=True)
 
     print("\nArquivos gerados:")
     for path, count in zip(writer.files_written, writer.items_per_file):

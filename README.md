@@ -32,7 +32,8 @@ por categoria e por serviço de streaming de origem (Netflix, Prime
 Video, HBO Max, Disney+, Paramount+, Apple TV, Globoplay, Star+ e mais),
 incluindo:
 - Filmes por gênero (ação, comédia, terror, drama, animação...)
-- Séries completas, episódio por episódio
+- Séries completas, com os episódios organizados em ordem (temporada e
+  episódio), fáceis de assistir em sequência
 - Novelas (brasileiras e turcas)
 - Doramas e animes
 - Versões **legendadas** e em **4K**, quando disponíveis, sempre como

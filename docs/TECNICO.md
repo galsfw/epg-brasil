@@ -56,6 +56,66 @@ anteriores por categoria, ou "partes" numeradas que sobraram de um
 catálogo que encolheu) são apagados automaticamente, para não acumular
 lixo no repositório.
 
+### Agrupamento de episódios de série (ordenação)
+
+Nas listas de origem, os episódios de uma mesma série **não vêm em
+ordem sequencial** — é comum encontrar, por exemplo, "Breaking Bad
+S03E12", bem mais adiante "Breaking Bad S05E01" e só depois "Breaking
+Bad S02E01". Se a saída só seguisse a ordem de chegada dos itens (como
+em versões anteriores deste script), cada player mostrava os episódios
+de uma série espalhados/fora de ordem dentro da categoria.
+
+Por isso, depois de filtrar e deduplicar, **todos os itens de VOD
+passam por uma ordenação explícita** antes de serem gravados nos
+arquivos finais (`generate_vod.py`, função `vod_sort_key`):
+
+1. Primeiro pelo **título "base"** (sem o sufixo de temporada/episódio),
+   normalizado (sem acentos, maiúsculo) — isso já junta todos os
+   episódios de uma mesma série em sequência no arquivo.
+2. Depois pelo **número da temporada** (`S01`, `S02`, ...).
+3. Depois pelo **número do episódio** (`E01`, `E02`, ...).
+
+Filmes (sem `SxxExx` no nome) são tratados como "temporada 0, episódio
+0" e ficam ordenados só pelo título, junto dos demais.
+
+Essa ordenação é feita com o utilitário `sort` do próprio sistema
+operacional (`external_sort()` em `generate_vod.py`), que faz um "merge
+sort" em disco em vez de carregar tudo na memória de uma vez — assim
+continua funcionando mesmo com um catálogo de ~450 mil itens numa
+máquina com pouca memória disponível (~1.9 GB no sandbox de
+desenvolvimento). O fluxo é:
+
+1. Cada fonte é baixada e escaneada linha a linha (streaming, como
+   antes); para cada item de VOD não-duplicado, grava-se um registro
+   `chave_de_ordenação` + separador de controle + `entrada_extinf` +
+   separador + `url` num arquivo temporário
+   (`.vod_tmp/vod_unsorted.tmp`), usando um caractere de controle como
+   separador (nunca aparece em texto normal de M3U).
+2. Depois que todas as fontes foram processadas, o arquivo temporário
+   inteiro é ordenado com `sort -t <separador> -k1,1 -S 150M
+   --parallel=2`, gerando `.vod_tmp/vod_sorted.tmp`.
+3. O arquivo ordenado é lido em streaming e dividido nos arquivos finais
+   (`filmes_e_series1.m3u8`, `_2`, `_3`, ...) pela mesma lógica de
+   `PartedWriter` de antes.
+4. A pasta temporária `.vod_tmp/` é sempre removida ao final (em um
+   bloco `try/finally`), mesmo se a execução falhar no meio.
+
+Como a ordenação acontece **antes** da divisão em partes, uma série
+nunca fica cortada "no meio" de forma confusa: ela sempre aparece
+inteira e em ordem dentro do arquivo onde começa (a única exceção, rara,
+é quando uma série for tão grande a ponto de cair bem na fronteira de
+tamanho entre duas partes — mesmo assim os episódios continuam em
+ordem, só que a partir de um certo ponto passam a ficar no arquivo
+seguinte).
+
+Validado manualmente após a implementação: séries como "Breaking Bad",
+"The Capture" e "A Grande Família" (que antes apareciam com episódios
+espalhados por dezenas de milhares de linhas de distância) agora saem
+com todos os episódios em sequência estrita de temporada/episódio. As
+poucas "lacunas" remanescentes (ex.: falta o episódio 29 de uma
+temporada) são lacunas reais na numeração da lista de origem, não um
+efeito da ordenação.
+
 ## 🧹 O que é filtrado / removido
 
 - **Conteúdo adulto/pornográfico** (grupos como "CANAIS | ADULTOS +18" e
