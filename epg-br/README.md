@@ -11,23 +11,6 @@ partir da playlist pública [Ramys/Iptv-Brasil-2026 — `CanaisBR06.m3u8`](https
 Ambos são regenerados sozinhos por uma GitHub Action (cron), então depois
 de configurado uma vez você nunca mais precisa mexer manualmente.
 
-## O que foi removido / separado
-
-- **ASMR / "Dormir e Relaxar"** (ASMR, som de chuva, som de natureza,
-  lofi, música para bebê etc.): excluído do EPG — são loops sem grade de
-  programação real.
-- **Copa do Mundo 2026**: excluído do EPG — são canais/eventos temporários
-  sem `tvg-id` e sem guia de programação.
-- **Filmes e Séries** (todos os grupos `Filmes | *`, `Series | *`,
-  `Doramas`, `Novelas`, `Novelas Turcas`, `Mini Series`): não entram mais
-  no EPG (nunca tiveram grade — são VOD) e agora saem em um **M3U próprio**
-  (`filmes_series.m3u8`), atualizado junto com o EPG.
-
-O `epg.xml` final contém somente os grupos que começam com `Canais |`
-(TV ao vivo de verdade: Globo, SBT, RecordTV, Band, SporTV, ESPN, HBO,
-Telecine, Premiere, canais Abertos/Estaduais, etc.), com a grade real
-casada a partir de fontes públicas de EPG.
-
 ## Como funciona o casamento de canais (M3U ⇄ EPG)
 
 A playlist usa `tvg-id`s próprios (ex.: `globo.br`, `sportv.br`,
