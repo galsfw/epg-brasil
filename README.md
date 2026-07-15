@@ -1,239 +1,117 @@
-# IPTV Brasil 2026 — Canais ao Vivo + EPG + Filmes/Séries
+# 📺 IPTV Brasil 2026 — Canais ao Vivo, Guia de Programação e Filmes/Séries
 
-Gera automaticamente, a partir das listas públicas do
-[Ramys/Iptv-Brasil-2026](https://github.com/Ramys/Iptv-Brasil-2026)
-(`CanaisBR06.m3u8` como base + `CanaisBR04.m3u8` como fonte extra),
-os arquivos prontos para usar no **TiviMate** (ou qualquer player compatível
-com M3U/XMLTV). Tudo fica em uma única pasta, `playlists/`, para ser fácil
-de achar o que você precisa.
+Uma coleção pronta para usar no seu aplicativo de IPTV favorito, com
+**canais de TV ao vivo**, **guia de programação (EPG)** e um catálogo
+enorme de **filmes, séries, novelas e doramas**. Tudo atualizado
+automaticamente, então você só precisa configurar uma vez.
 
-## 📂 Onde estão os arquivos (é só olhar em `playlists/`)
+## ✨ O que você encontra aqui
 
-| Arquivo | O que é | Para que serve |
-|---|---|---|
-| `playlists/canais_ao_vivo.m3u8` | Playlist só de **TV ao vivo**, já filtrada | Adicione como sua lista principal no TiviMate |
-| `playlists/canais_ao_vivo_epg.xml` (e `.xml.gz`) | Guia de programação (**EPG/XMLTV**) desses mesmos canais | Adicione como fonte de EPG da lista acima |
-| `playlists/filmes.m3u8` | Playlist só de **Filmes** | Adicione como lista extra no TiviMate |
-| `playlists/series.m3u8`, `series_2.m3u8`, `series_3.m3u8`, ... | Playlist(s) só de **Séries** (episódio por episódio) | Adicione cada uma como lista extra no TiviMate |
-| `playlists/novelas.m3u8` | Playlist só de **Novelas** | Adicione como lista extra no TiviMate |
-| `playlists/doramas.m3u8` | Playlist só de **Doramas** | Adicione como lista extra no TiviMate |
-| `playlists/mini_series.m3u8` | Playlist só de **Minisséries** | Adicione como lista extra no TiviMate |
-| `playlists/STATUS.txt` | Relatório da última atualização (contagens, hora) | Só para conferência/depuração |
+### 📡 Canais ao vivo
+Uma playlist com **milhares de canais**, incluindo:
+- TV aberta (Globo e afiliadas regionais, SBT, RecordTV, Band, RedeTV!)
+- Canais a cabo/streaming (SporTV, Premiere, ESPN, HBO, Telecine, Discovery,
+  Paramount+, Prime Video, Disney+, Max, Apple TV e muitos outros)
+- Esportes, notícias, infantil, variedades, documentários, música, religiosos
+- Canais internacionais (Portugal, Estados Unidos, América Latina)
+- Rádios
 
-### Por que Filmes/Séries virou vários arquivos em vez de um só?
+Sempre que existir mais de uma opção de qualidade (HD, FHD, 4K, Dual
+Áudio), todas ficam disponíveis como alternativas do mesmo canal — se uma
+não estiver funcionando bem no seu link, dá para trocar por outra sem
+precisar procurar em outro lugar.
 
-O GitHub **recusa qualquer arquivo maior que 100 MB** enviado direto no
-repositório (sem usar Git LFS). O conteúdo de VOD mesclado (Ramys BR06 +
-BR04) já passa de **110 MB** num arquivo único e só tende a crescer com o
-tempo — foi exatamente isso que causou o erro
-`File ... exceeds GitHub's file size limit of 100.00 MB` / `GH001: Large
-files detected` ao tentar dar `git push`.
+### 🗓️ Guia de programação (EPG)
+Um guia com a grade de **centenas de canais**, mostrando o que está
+passando agora e o que vem a seguir — igual à sua TV a cabo. Basta
+carregar esse arquivo junto com a playlist no seu player.
 
-A solução foi dividir a saída de VOD automaticamente:
+### 🎬 Filmes, séries, novelas e doramas
+Um catálogo enorme com **centenas de milhares de títulos**, organizado
+por categoria e por serviço de streaming de origem (Netflix, Prime
+Video, HBO Max, Disney+, Paramount+, Apple TV, Globoplay, Star+ e mais),
+incluindo:
+- Filmes por gênero (ação, comédia, terror, drama, animação...)
+- Séries completas, episódio por episódio
+- Novelas (brasileiras e turcas)
+- Doramas e animes
+- Versões **legendadas** e em **4K**, quando disponíveis, sempre como
+  opções extras ao lado da versão padrão
 
-1. **Por categoria** (Filmes, Séries, Novelas, Doramas, Minisséries) —
-   o que já é uma divisão natural, útil também no TiviMate.
-2. **Por tamanho**, dentro de uma categoria: se um arquivo passar de
-   ~40 MB (bem abaixo do limite de 100 MB do GitHub, com folga para
-   crescer), o gerador abre automaticamente uma "parte" nova
-   (`series.m3u8`, `series_2.m3u8`, `series_3.m3u8`, ...). Isso é feito
-   sozinho a cada execução — mesmo que o catálogo dobre de tamanho no
-   futuro, nunca mais deve estourar o limite do GitHub.
+Como o catálogo é grande, ele vem dividido em alguns arquivos numerados
+(`filmes_e_series1`, `filmes_e_series2`, ...) — é só adicionar todos no
+seu player, que ele junta tudo automaticamente num catálogo só.
 
-Basta adicionar **cada arquivo `.m3u8` de VOD que existir** em
-`playlists/` como uma lista separada no TiviMate (o app deixa juntar
-quantas listas você quiser — elas aparecem juntas no mesmo catálogo,
-organizadas pelas categorias/`group-title` de cada item).
+### 🔄 Sempre atualizado
+Um robô atualiza esses arquivos sozinho a cada poucas horas, então você
+configura uma vez e a lista/guia vão se mantendo em dia sem precisar
+baixar nada de novo manualmente.
 
-Todos os arquivos são regenerados sozinhos por uma GitHub Action (cron a
-cada 6h) — depois de publicado, você não precisa mexer em mais nada. A
-cada execução, arquivos de "partes" antigos que não são mais necessários
-(porque uma categoria encolheu) são apagados automaticamente, para não
-acumular lixo no repositório.
+---
 
-## 🧹 O que é filtrado / removido
+## 🚀 Como instalar (tutorial rápido)
 
-- **Conteúdo adulto/pornográfico** (grupos como "CANAIS | ADULTOS +18" e
-  "FILMES | ADULTOS +18"): removido de `canais_ao_vivo.m3u8` **e** de
-  todos os arquivos de VOD (`filmes.m3u8`, `series*.m3u8`, `novelas.m3u8`,
-  `doramas.m3u8`, `mini_series.m3u8`). O filtro (`is_adult_group()` em `common.py`) olha
-  só o nome do **grupo**, nunca palavras no título — isso evita remover
-  por engano conteúdo legítimo que apenas contém termos parecidos, como o
-  documentário "Pornhub: Sexo Bilionário", a minissérie "Gêmeas Trans", o
-  filme de ação "xXx: Reativado" ou a série "Adultos" da Disney+.
-- **ASMR** (grupo "Canais | Dormir e Relaxar" + qualquer canal com "ASMR"
-  no nome, mesmo fora desse grupo, como o "K-ASMR"): removido de
-  `canais_ao_vivo.m3u8` e do EPG — são loops sem grade real.
-- **Copa do Mundo 2026** (grupo temporário com jogos avulsos, sem
-  `tvg-id`): não entra em `canais_ao_vivo.m3u8` nem no EPG.
-- **Filmes e Séries** (grupos `Filmes | *`, `Series | *`, `Doramas`,
-  `Novelas`, `Novelas Turcas`, `Mini Series`): não entram mais junto com
-  os canais de TV — vão exclusivamente para os arquivos de VOD
-  (`filmes.m3u8`, `series*.m3u8`, `novelas.m3u8`, `doramas.m3u8`,
-  `mini_series.m3u8`).
+Funciona em praticamente qualquer aplicativo de IPTV — TiviMate, IPTV
+Smarters, Smart IPTV, GSE Smart IPTV, VLC, etc. A ideia é sempre a
+mesma: você adiciona a **playlist** (o link que termina em `.m3u8`) e,
+se o app tiver essa opção, adiciona também o **guia de programação**
+(o link que termina em `.xml`).
 
-`canais_ao_vivo.m3u8` e `canais_ao_vivo_epg.xml` contêm somente TV ao vivo
-de verdade (Globo, SBT, RecordTV, Band, SporTV, ESPN, HBO, Telecine,
-Premiere, canais Abertos/Estaduais etc.), com a grade real casada a partir
-de fontes públicas de EPG.
+### Passo a passo (exemplo com o TiviMate, o mais usado)
 
-## 🔀 De onde vêm os canais e o conteúdo de VOD
+1. Abra o TiviMate e vá em **Configurações → Listas de reprodução →
+   Adicionar lista de reprodução**.
+2. Escolha **"Link (URL)"** e cole o endereço da playlist de canais ao
+   vivo. Dê um nome (ex.: "Canais ao Vivo") e confirme.
+3. Repita o passo 2 para **cada arquivo de Filmes e Séries**
+   (`filmes_e_series1`, `filmes_e_series2`, etc.) — cada um vira uma
+   lista separada, mas todos aparecem juntos no catálogo.
+4. Agora vá em **Configurações → EPG → Fontes de EPG → Adicionar fonte
+   de EPG**, escolha **"Link (URL)"** e cole o endereço do guia de
+   programação.
+5. Volte em **Listas de reprodução**, escolha a lista de canais ao vivo,
+   entre em **Fonte de EPG** e selecione a fonte que você acabou de
+   adicionar.
+6. Pronto! Abra o guia de canais — a programação já deve aparecer nos
+   canais compatíveis, e o catálogo de filmes/séries já estará
+   disponível organizado por categoria.
 
-O repositório Ramys/Iptv-Parasil-2026 publica várias listas (`CanaisBR01`
-a `CanaisBR06`). Elas foram checadas uma a uma quanto à saúde dos streams:
+> 💡 Em outros aplicativos o caminho é parecido: procure por algo como
+> "Adicionar playlist/lista M3U" e "Adicionar fonte de EPG/XMLTV" nas
+> configurações. Se o seu app só aceitar **um** link de playlist, dá
+> para juntar os arquivos de filmes/séries em sequência ou usar um app
+> que aceite múltiplas listas (a maioria aceita).
 
-| Lista | Uso neste projeto | Motivo |
-|---|---|---|
-| `CanaisBR06` | ✅ Base (canais ao vivo + VOD) | Principal, mais completa e atualizada |
-| `CanaisBR04` | ✅ Fonte extra (canais ao vivo + VOD) | Majoritariamente funcional nos testes; adiciona ~300 canais e ~250 mil itens de VOD que não estão na BR06 |
-| `CanaisBR03` | ❌ Não usada | Mesmo conteúdo da BR04, mas com credenciais de stream expiradas (praticamente tudo fora do ar) |
-| `CanaisBR01`, `CanaisBR02` | ❌ Não usadas | Servidores retornando erro de autenticação (401) em quase todos os streams testados |
-| `CanaisBR05` | ❌ Não usada | Servidor não responde (timeout total nos testes) |
+### Onde pegar os links
+Os links das playlists e do guia de programação ficam na pasta
+`playlists/` deste projeto. Se você recebeu este material através de um
+repositório no GitHub, use os links "raw" de cada arquivo (peça para
+quem compartilhou o projeto com você, caso não tenha os links à mão).
 
-Tanto `canais_ao_vivo.m3u8` quanto os arquivos de VOD mesclam BR06 +
-BR04, usando o nome/título normalizado como chave (acentos, maiúsculas e
-espaços não contam) para não duplicar o mesmo conteúdo:
+---
 
-- **Canais ao vivo**: a deduplicação é feita **entre fontes diferentes**
-  (BR06 vs. BR04) — dentro da mesma fonte, variações de **qualidade**
-  (HD, FHD, 4K, H265 etc.) continuam todas na playlist, como streams
-  alternativos do mesmo canal.
-- **Filmes e séries**: a deduplicação é **global** — vale tanto para
-  repetições dentro da mesma lista (algumas listas catalogam o mesmo
-  filme em mais de uma categoria) quanto entre BR06 e BR04. Em ambos os
-  casos, marcadores de **Legendado** (`[L]`/`[LEG]`) e **4K** ficam
-  intactos na chave: uma versão legendada ou 4K nunca é tratada como
-  duplicata da versão "normal" e continua saindo como item separado.
+## 🙏 Créditos e fontes
 
-## 🔗 Como funciona o casamento de canais (M3U ⇄ EPG)
+Este projeto não hospeda nem produz nenhum conteúdo — ele apenas reúne,
+organiza e casa metadados de fontes públicas e gratuitas, que são os
+verdadeiros responsáveis por disponibilizar os canais e o guia de
+programação:
 
-A playlist usa `tvg-id`s próprios (ex.: `globo.br`, `sportv.br`,
-`recordtvsãopaulo.br`) que raramente batem com o `id` usado pelas fontes
-públicas de EPG. O gerador:
+- **[Ramys/Iptv-Brasil-2026](https://github.com/Ramys/Iptv-Brasil-2026)**
+  — playlists de canais ao vivo e catálogo de filmes/séries.
+- **[xKzin/IPTV-Brazuka](https://github.com/xKzin/IPTV-Brazuka)** —
+  playlists adicionais de canais ao vivo.
+- **[limaalef/BrazilTVEPG](https://github.com/limaalef/BrazilTVEPG)** —
+  guias de programação (EPG) de canais brasileiros.
+- **[epgshare01.online](https://epgshare01.online/)** — guias de
+  programação (EPG) do Brasil.
+- **[open-epg.com](https://www.open-epg.com/)** — guias de programação
+  (EPG) adicionais do Brasil.
 
-1. Baixa a playlist e filtra os canais "ao vivo" (removendo ASMR/Copa do
-   Mundo/VOD, como explicado acima);
-2. Baixa várias fontes de EPG (XMLTV) gratuitas para o Brasil:
-   - `epgshare01.online` (BR1 e BR2)
-   - `limaalef/BrazilTVEPG` (`globo.xml`, `epg.xml`, `claro.xml`,
-     `vivoplay.xml`, `maissbt.xml`)
-   - `open-epg.com` — apenas os arquivos do Brasil (`brazil1.xml.gz` a
-     `brazil5.xml.gz`, os únicos disponíveis lá para o país no momento)
-3. Tenta casar cada canal, nesta ordem:
-   1. **ID exato** (normalizado, sem acento/maiúsculas);
-   2. **Nome exato** (nome do canal normalizado);
-   3. **Fuzzy match** de nome (similaridade ≥ 90%);
-   4. **Fallback por rede nacional**: afiliadas regionais de Globo, SBT,
-      RecordTV, Band e RedeTV! sem grade própria publicada herdam a
-      grade do canal "mãe" nacional (ex.: uma afiliada da Globo sem EPG
-      específico usa a grade da Globo São Paulo).
-4. Gera um `canais_ao_vivo_epg.xml` cujo `<channel id="...">` é
-   **idêntico ao `tvg-id`** da playlist — não é preciso reatribuir EPG
-   manualmente no player.
+Todo o crédito pelos links de streaming e pelos dados de programação é
+dessas fontes originais. Este projeto só faz o trabalho de juntar tudo,
+remover duplicatas e deixar pronto para usar.
 
-Hoje, cerca de **97% dos canais de TV aberta/afiliadas regionais** (com
-`tvg-id` terminando em `.br`) e a maioria dos canais a cabo/streaming
-ficam com grade real. Canais muito de nicho, sem nenhuma fonte pública de
-dados, ficam sem `<channel>` no XML (o player mostra "sem informação"
-para eles, sem quebrar o restante do guia).
-
-## 🗂 Estrutura do projeto
-
-```
-epg-br/
-├── playlists/                        ← TUDO que você vai usar está aqui
-│   ├── canais_ao_vivo.m3u8
-│   ├── canais_ao_vivo_epg.xml
-│   ├── canais_ao_vivo_epg.xml.gz
-│   ├── filmes.m3u8
-│   ├── series.m3u8, series_2.m3u8, series_3.m3u8, ...  (partes automáticas)
-│   ├── novelas.m3u8
-│   ├── doramas.m3u8
-│   ├── mini_series.m3u8
-│   └── STATUS.txt
-├── scripts/
-│   ├── common.py            # download, parsing de M3U, normalização e filtro de conteúdo adulto (compartilhado)
-│   ├── generate_live.py     # mescla BR06+BR04+xKzin, gera canais_ao_vivo.m3u8 + canais_ao_vivo_epg.xml(.gz)
-│   ├── generate_vod.py      # mescla BR06+BR04, gera filmes.m3u8/series*.m3u8/novelas.m3u8/doramas.m3u8/mini_series.m3u8 (divididos por categoria e por tamanho, para nunca passar do limite de 100 MB do GitHub)
-│   └── update_all.py        # roda os dois geradores e grava playlists/STATUS.txt
-├── .github/workflows/update-epg.yml   # roda tudo sozinho, de 6 em 6h
-└── README.md
-```
-
-## 🚀 Como publicar isso "de verdade" (para funcionar sozinho)
-
-Para o TiviMate conseguir **buscar sozinho** as atualizações, os arquivos
-precisam estar acessíveis por uma URL pública estável. O jeito mais
-simples e gratuito:
-
-1. Crie um repositório no GitHub e suba a pasta `epg-br/` inteira
-   (`scripts/` + `.github/workflows/` + este `README.md`).
-2. Em **Settings → Actions → General → Workflow permissions**, marque
-   **"Read and write permissions"** (necessário para a Action conseguir
-   dar `git push` sozinha).
-3. Rode a Action uma vez manualmente: aba **Actions → Atualizar canais ao
-   vivo, EPG e Filmes/Séries → Run workflow**. Isso já cria a pasta
-   `playlists/` com todos os arquivos dentro do repositório.
-4. Use as URLs "raw" do GitHub nos seus apps (troque
-   `SEU_USUARIO/SEU_REPO` pelos dados do seu repositório):
-   - Canais ao vivo: `https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPO/main/playlists/canais_ao_vivo.m3u8`
-   - EPG: `https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPO/main/playlists/canais_ao_vivo_epg.xml`
-   - Filmes: `https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPO/main/playlists/filmes.m3u8`
-   - Séries: `https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPO/main/playlists/series.m3u8` (e
-     `series_2.m3u8`, `series_3.m3u8`, ... se existirem — confira em `playlists/` no seu repositório)
-   - Novelas: `https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPO/main/playlists/novelas.m3u8`
-   - Doramas: `https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPO/main/playlists/doramas.m3u8`
-   - Minisséries: `https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPO/main/playlists/mini_series.m3u8`
-
-Depois disso a GitHub Action roda sozinha a cada 6 horas, refaz todos os
-arquivos, e o TiviMate puxa a versão nova automaticamente sempre que
-atualizar a lista/o guia.
-
-> Alternativa sem GitHub: qualquer servidor/VPS com Python 3 e um `cron`
-> rodando `python3 scripts/update_all.py` a cada poucas horas, servindo a
-> pasta `playlists/` por HTTP, funciona do mesmo jeito.
-
-## 📺 Como configurar no TiviMate
-
-### 1) Canais ao vivo + EPG
-1. **Configurações → Listas de reprodução → Adicionar** e cole a URL de
-   `canais_ao_vivo.m3u8`.
-2. **Configurações → EPG → Fontes de EPG → Adicionar** e cole a URL de
-   `canais_ao_vivo_epg.xml` (ou `.xml.gz`).
-3. Volte em **Listas de reprodução → [sua lista] → Fonte de EPG** e
-   habilite a fonte que você acabou de adicionar.
-4. Abra o guia de canais — os canais casados (Globo, SBT, RecordTV, Band,
-   SporTV, ESPN, HBO, Telecine, Premiere, afiliadas regionais etc.) já
-   aparecem com a grade.
-
-### 2) Filmes e Séries (listas separadas)
-1. **Configurações → Listas de reprodução → Adicionar** de novo, uma vez
-   para **cada** arquivo de VOD que existir em `playlists/` (`filmes.m3u8`,
-   `series.m3u8`, `series_2.m3u8`, `series_3.m3u8`, ..., `novelas.m3u8`,
-   `doramas.m3u8`, `mini_series.m3u8`). O TiviMate deixa juntar quantas
-   listas você quiser — elas aparecem lado a lado no mesmo catálogo.
-2. Não é preciso configurar EPG para essas listas — filmes/séries não
-   usam guia de programação; o TiviMate organiza pelas categorias
-   (`group-title`) e mostra o pôster (`tvg-logo`) normalmente.
-
-## 🛠 Rodando localmente (opcional, para testar/depurar)
-
-```bash
-cd epg-br
-python3 scripts/update_all.py       # gera tudo de uma vez (recomendado)
-
-# ou, se quiser rodar só uma parte:
-python3 scripts/generate_live.py    # só canais ao vivo + EPG
-python3 scripts/generate_vod.py     # só filmes e séries
-```
-
-Todos os scripts usam apenas a biblioteca padrão do Python (3.9+), sem
-dependências externas.
-
-## ⚠️ Aviso
-
-Este projeto apenas organiza e casa metadados de EPG públicos com uma
-playlist de terceiros; não hospeda, transmite ou redistribui nenhum
-stream de vídeo. Os links de streaming continuam sendo os mesmos
-publicados originalmente pelo repositório
-[Ramys/Iptv-Brasil-2026](https://github.com/Ramys/Iptv-Brasil-2026).
+> ⚠️ Este é um projeto de organização de metadados para uso pessoal. Os
+> links de streaming continuam sendo os mesmos publicados originalmente
+> pelas fontes listadas acima.

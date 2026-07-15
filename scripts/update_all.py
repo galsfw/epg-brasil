@@ -64,7 +64,7 @@ def main() -> int:
         f"Canais no arquivo XMLTV final: {live_stats['canais_no_epg_final']}",
         f"Programas no arquivo XMLTV final: {live_stats['programas_no_epg_final']}",
         "",
-        "== Filmes e Séries (playlists/<categoria>.m3u8) ==",
+        "== Filmes e Séries (playlists/filmes_e_series*.m3u8) ==",
         f"Itens (filmes + episódios de séries): {vod_stats['itens_filmes_series']}",
         "Arquivos: " + ", ".join(vod_stats["arquivos_filmes_series"]),
         "",

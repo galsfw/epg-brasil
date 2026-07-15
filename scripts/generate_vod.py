@@ -34,20 +34,20 @@ aqui.
 Divisão em vários arquivos (IMPORTANTE):
 GitHub recusa qualquer arquivo comum acima de 100 MB (sem Git LFS). Como
 o conteúdo de VOD mesclado passa facilmente de 100 MB num arquivo único
-(e só tende a crescer com o tempo), a saída é dividida automaticamente:
+(e só tende a crescer com o tempo), a saída fica em uma ÚNICA série de
+arquivos numerados — filmes_e_series1.m3u8, filmes_e_series2.m3u8,
+filmes_e_series3.m3u8, ... — todos misturando Filmes, Séries, Novelas,
+Doramas e Mini Séries juntos (sem separar por categoria; o TiviMate já
+organiza tudo pelas categorias/group-title de cada item, então não há
+necessidade de arquivos separados por tipo). Um novo arquivo é aberto
+automaticamente sempre que o atual ultrapassa um limite de segurança
+(bem abaixo dos 100 MB do GitHub) — continua funcionando mesmo que o
+conteúdo dobre de tamanho no futuro, nunca mais deve estourar o limite.
 
-1. Primeiro por categoria (Filmes, Séries, Novelas, Doramas, Mini Séries)
-   — o próprio TiviMate já mostra isso como listas separadas, então é
-   uma divisão natural e amigável.
-2. Dentro de uma categoria, se o arquivo ultrapassar um limite de
-   segurança (bem abaixo dos 100 MB do GitHub), um novo "part" é aberto
-   automaticamente (ex.: series_1.m3u8, series_2.m3u8, ...). Isso é
-   automático e continua funcionando mesmo que o conteúdo dobre de
-   tamanho no futuro — nunca mais deve estourar o limite do GitHub.
-
-Arquivos antigos de "parts" que não são mais necessários (porque uma
-categoria encolheu) são apagados antes de escrever os novos, para não
-deixar lixo obsoleto na pasta playlists/.
+Arquivos antigos (de execuções anteriores, incluindo os antigos por
+categoria "filmes.m3u8"/"series.m3u8"/etc. e o monolítico
+"filmes_series.m3u8") que não são mais necessários são apagados antes de
+escrever os novos, para não deixar lixo obsoleto na pasta playlists/.
 
 Nota de implementação: as duas listas somam ~580 mil entradas e quase
 tudo é VOD (o filtro de grupo não reduz muito o volume). Para não
@@ -75,6 +75,9 @@ PLAYLISTS_DIR.mkdir(exist_ok=True)
 # a próxima.
 MAX_PART_BYTES = 40 * 1024 * 1024  # 40 MB
 
+# Nome-base dos arquivos de saída: filmes_e_series1.m3u8, _2.m3u8, ...
+OUTPUT_BASENAME = "filmes_e_series"
+
 # Listas M3U de origem, em ordem de prioridade: se o mesmo título (mesmo
 # nome normalizado) aparecer em mais de uma lista, a primeira que o
 # contiver "ganha" e as demais ocorrências são descartadas.
@@ -83,41 +86,33 @@ SOURCE_PLAYLIST_URLS = [
     "https://raw.githubusercontent.com/Ramys/Iptv-Brasil-2026/master/CanaisBR04.m3u8",
 ]
 
-# Prefixo (em minúsculo) de group-title -> categoria/base do nome de
-# arquivo de saída. A ordem importa: prefixos mais específicos primeiro
-# ("mini series" antes de "series", já que "mini series" também começa
-# com essas letras não, mas por clareza mantemos explícito).
-VOD_CATEGORIES = [
-    ("mini series", "mini_series"),
-    ("filmes", "filmes"),
-    ("series", "series"),
-    ("doramas", "doramas"),
-    ("novelas", "novelas"),
-]
+# Prefixos (em minúsculo) de group-title considerados "Filmes e Séries".
+VOD_GROUP_PREFIXES = (
+    "filmes",
+    "series",
+    "doramas",
+    "novelas",
+    "mini series",
+)
 
 GROUP_RE = re.compile(r'group-title="([^"]*)"')
 NAME_RE = re.compile(r'tvg-name="([^"]*)"')
 
+# Nomes usados em execuções anteriores deste projeto — apagados a cada
+# execução para não deixar arquivos obsoletos versionados.
+LEGACY_VOD_NAMES = ("filmes_series", "filmes", "series", "doramas", "novelas", "mini_series")
 
-def classify_vod_group(group_title: str) -> str | None:
-    """Retorna o nome-base da categoria (para nome de arquivo) se o
-    group-title for de Filmes/Séries/etc., ou None se não for VOD ou for
-    conteúdo adulto (sempre removido).
-    """
+
+def is_vod_group(group_title: str) -> bool:
     if is_adult_group(group_title):
-        return None
-    g = group_title.strip().lower()
-    for prefix, category in VOD_CATEGORIES:
-        if g.startswith(prefix):
-            return category
-    return None
+        return False
+    return group_title.strip().lower().startswith(VOD_GROUP_PREFIXES)
 
 
 def iter_vod_lines(text: str):
     """Percorre o texto do M3U linha a linha (sem materializar listas
-    grandes de objetos) e produz (extinf_line, url_line, title,
-    categoria) só para as entradas de VOD (sem conteúdo adulto) que
-    tiverem uma URL.
+    grandes de objetos) e produz (extinf_line, url_line, title) só para
+    as entradas de VOD (sem conteúdo adulto) que tiverem uma URL.
     """
     lines = text.splitlines()
     n = len(lines)
@@ -131,25 +126,24 @@ def iter_vod_lines(text: str):
                 continue
             group_match = GROUP_RE.search(line)
             group_title = group_match.group(1) if group_match else ""
-            category = classify_vod_group(group_title)
-            if category is None:
+            if not is_vod_group(group_title):
                 continue
             name_match = NAME_RE.search(line)
             title = name_match.group(1) if name_match else line.rsplit(",", 1)[-1]
-            yield line, url_line.strip(), title, category
+            yield line, url_line.strip(), title
         else:
             i += 1
 
 
 class PartedWriter:
-    """Escreve uma sequência de entradas M3U em um ou mais arquivos
-    "<categoria>.m3u8" / "<categoria>_2.m3u8" / "<categoria>_3.m3u8" ...,
+    """Escreve uma sequência de entradas M3U em uma série de arquivos
+    "<basename>1.m3u8" / "<basename>2.m3u8" / "<basename>3.m3u8" ...,
     abrindo um novo arquivo sempre que o atual ultrapassa MAX_PART_BYTES,
     para nunca esbarrar no limite de 100 MB do GitHub.
     """
 
-    def __init__(self, category: str):
-        self.category = category
+    def __init__(self, basename: str):
+        self.basename = basename
         self.part_index = 1
         self.file = None
         self.bytes_written = 0
@@ -159,9 +153,7 @@ class PartedWriter:
         self._open_new_part()
 
     def _part_path(self, index: int) -> Path:
-        if index == 1:
-            return PLAYLISTS_DIR / f"{self.category}.m3u8"
-        return PLAYLISTS_DIR / f"{self.category}_{index}.m3u8"
+        return PLAYLISTS_DIR / f"{self.basename}{index}.m3u8"
 
     def _open_new_part(self):
         path = self._part_path(self.part_index)
@@ -191,21 +183,21 @@ class PartedWriter:
 
 
 def cleanup_old_vod_files():
-    """Remove arquivos de VOD gerados em execuções anteriores (incluindo
-    o antigo filmes_series.m3u8 monolítico e "parts" de categorias que
-    hoje têm menos partes do que tinham antes), para não deixar lixo
-    obsoleto versionado no repositório.
+    """Remove arquivos de VOD gerados em execuções anteriores (nomes por
+    categoria de uma versão antiga deste script, o monolítico
+    "filmes_series.m3u8", e partes numeradas antigas do
+    "filmes_e_series" que hoje não são mais necessárias porque o
+    catálogo encolheu), para não deixar lixo obsoleto versionado no
+    repositório.
     """
-    old_monolithic = PLAYLISTS_DIR / "filmes_series.m3u8"
-    old_monolithic.unlink(missing_ok=True)
+    for name in LEGACY_VOD_NAMES:
+        (PLAYLISTS_DIR / f"{name}.m3u8").unlink(missing_ok=True)
+        for path in PLAYLISTS_DIR.glob(f"{name}_*.m3u8"):
+            path.unlink(missing_ok=True)
 
-    categories = [c for _, c in VOD_CATEGORIES]
-    for path in PLAYLISTS_DIR.glob("*.m3u8"):
-        stem = path.stem
-        for cat in categories:
-            if stem == cat or re.fullmatch(rf"{re.escape(cat)}_\d+", stem):
-                path.unlink(missing_ok=True)
-                break
+    for path in PLAYLISTS_DIR.glob(f"{OUTPUT_BASENAME}*.m3u8"):
+        if re.fullmatch(rf"{re.escape(OUTPUT_BASENAME)}\d+", path.stem):
+            path.unlink(missing_ok=True)
 
 
 def run() -> dict:
@@ -214,8 +206,8 @@ def run() -> dict:
     cleanup_old_vod_files()
 
     seen_keys: set[str] = set()
-    stats = {"por_fonte": [], "por_categoria": {}}
-    writers: dict[str, PartedWriter] = {}
+    stats = {"por_fonte": []}
+    writer = PartedWriter(OUTPUT_BASENAME)
     total_written = 0
 
     for url in SOURCE_PLAYLIST_URLS:
@@ -229,15 +221,11 @@ def run() -> dict:
         total_entries = text.count("#EXTINF")
         vod_count = 0
         added = 0
-        for extinf_line, url_line, title, category in iter_vod_lines(text):
+        for extinf_line, url_line, title in iter_vod_lines(text):
             vod_count += 1
             key = normalize_vod_key(title)
             if key and key in seen_keys:
                 continue
-            writer = writers.get(category)
-            if writer is None:
-                writer = PartedWriter(category)
-                writers[category] = writer
             writer.write_entry(extinf_line, url_line)
             added += 1
             total_written += 1
@@ -252,28 +240,22 @@ def run() -> dict:
         del text
         gc.collect()
 
-    for category, writer in writers.items():
-        writer.close()
-        stats["por_categoria"][category] = {
-            "itens": sum(writer.items_per_file),
-            "arquivos": [p.name for p in writer.files_written],
-        }
+    writer.close()
 
     if total_written == 0:
+        for path in writer.files_written:
+            path.unlink(missing_ok=True)
         raise RuntimeError("nenhum item de VOD encontrado")
 
     print("\nArquivos gerados:")
-    for category, info in stats["por_categoria"].items():
-        for path, count in zip(info["arquivos"], writers[category].items_per_file):
-            size = (PLAYLISTS_DIR / path).stat().st_size
-            print(f"  {path}: {count} itens, {size:,} bytes")
+    for path, count in zip(writer.files_written, writer.items_per_file):
+        size = path.stat().st_size
+        print(f"  {path.name}: {count} itens, {size:,} bytes")
     print(f"Total de itens (filmes + episódios de séries): {total_written}")
 
     return {
         "itens_filmes_series": total_written,
-        "arquivos_filmes_series": [
-            name for info in stats["por_categoria"].values() for name in info["arquivos"]
-        ],
+        "arquivos_filmes_series": [p.name for p in writer.files_written],
     }
 
 
