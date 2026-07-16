@@ -1,5 +1,5 @@
-Última atualização (UTC): 2026-07-16T17:35:28.103138+00:00
-Duração: 41.2s
+Última atualização (UTC): 2026-07-16T14:24:55.726878+00:00
+Duração: 35.2s
 
 == Canais ao vivo (playlists/canais_ao_vivo.m3u8 + canais_ao_vivo_epg.xml) ==
 Canais na playlist (entradas): 6865
@@ -8,8 +8,8 @@ Canais com EPG casado: 748
   (dos quais herdados de uma variação de qualidade irmã: 2)
 Canais sem EPG disponível: 416
 Canais no arquivo XMLTV final: 748
-Programas no arquivo XMLTV final: 44049
+Programas no arquivo XMLTV final: 43433
 
 == Filmes e Séries (playlists/filmes_e_series*.m3u8) ==
 Itens (filmes + episódios de séries): 446349
-Arquivos: filmes_e_series1.m3u8, filmes_e_series2.m3u8, filmes_e_series3.m3u8, filmes_e_series4.m3u8
+Arquivos: filmes_e_series1.m3u8, filmes_e_series2.m3u8, filmes_e_series3.m3u8
