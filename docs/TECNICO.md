@@ -116,6 +116,37 @@ poucas "lacunas" remanescentes (ex.: falta o episódio 29 de uma
 temporada) são lacunas reais na numeração da lista de origem, não um
 efeito da ordenação.
 
+### Marcação tvg-type="movie"/"series" (separar Filmes de Séries no player)
+
+Playlists M3U puras (sem Xtream Codes) não têm um jeito 100%
+padronizado/documentado de dizer a um player "isto é uma série, não um
+filme". Isso causa um problema visível em players como o TiviMate: eles
+têm abas próprias de "Filmes" e "Séries" na tela de **Gerenciar
+Grupos**, mas sem uma marcação explícita todo o conteúdo de VOD cai
+misturado (a aba "Séries" existe, mas fica vazia ou mostra tudo junto
+com os filmes).
+
+Por isso, cada item de `filmes_e_series*.m3u8` ganha um atributo
+`tvg-type="movie"` ou `tvg-type="series"` (`generate_vod.py`, função
+`tag_tvg_type()`), decidido pela própria presença do padrão de
+temporada/episódio `SxxExx` no título — o mesmo critério já usado para
+agrupar/ordenar episódios:
+
+```
+#EXTINF:-1 tvg-type="movie" tvg-name="Filme Exemplo (2024)" ...
+#EXTINF:-1 tvg-type="series" tvg-name="Série Exemplo S01E01" ...
+```
+
+Importante: **`tvg-type` não é um atributo oficial do padrão M3U** —
+é a convenção mais citada pela comunidade de IPTV para esse fim, mas
+não há garantia documentada de que todo player (ou toda versão do
+TiviMate) a reconheça. Se o player não entender o atributo, ele é
+simplesmente ignorado como qualquer atributo desconhecido — não quebra
+nem muda o comportamento anterior. Validado no catálogo completo
+(446.349 itens): 34.229 marcados como `movie` e 412.120 como `series`,
+0 divergências entre a marcação e a real presença de `SxxExx` no
+título.
+
 ## 🧹 O que é filtrado / removido
 
 - **Conteúdo adulto/pornográfico** (grupos como "CANAIS | ADULTOS +18" e
@@ -289,6 +320,81 @@ python3 scripts/generate_vod.py     # só filmes e séries
 Todos os scripts usam apenas a biblioteca padrão do Python (3.9+), sem
 dependências externas.
 
+## 🖼️ Completar pôsteres faltantes/genéricos via TMDB (opcional, não roda sozinho)
+
+O formato M3U não tem campo de sinopse/descrição — só `tvg-logo`
+(pôster), então a única melhoria de metadados possível é completar/
+corrigir os pôsteres. `scripts/tmdb_enrich.py` cobre dois casos:
+
+1. **Pôster vazio** (`tvg-logo=""`): a maioria são filmes sem `(ano)`
+   reconhecível no título ou títulos onde a versão brasileira difere
+   muito do nome original cadastrado no TMDB.
+2. **Pôster "genérico"/reciclado** (bug encontrado na fonte original,
+   não introduzido por este projeto): algumas listas de origem, quando
+   não têm o pôster real de um título, reciclam a imagem de outro item
+   qualquer em vez de deixar em branco. Isso é detectado contando, para
+   cada URL de pôster, quantos títulos BASE distintos a usam — uma
+   imagem de pôster de verdade pertence a UM título só; se a mesma URL
+   aparece em 2+ títulos diferentes, é tratada como genérica
+   (`find_generic_poster_urls()`). Exemplo real encontrado e corrigido:
+   a série "A Sombra do Batman" usava uma imagem de capa de uma novela
+   chinesa sem relação nenhuma, porque essa mesma URL de imagem estava
+   reciclada em 286 títulos diferentes na fonte original.
+
+Em ambos os casos, o título limpo é buscado no TMDB e só aceito se:
+
+1. o nome bater **exatamente** (sem acento/maiúsculas) com o candidato
+   do TMDB;
+2. quando o título tiver um ano reconhecível, o ano do candidato bater
+   (±1 ano de tolerância);
+3. o candidato tiver **pelo menos 1 voto** no TMDB (evita escolher ao
+   acaso entre vários registros fantasmas com 0 votos cada, um problema
+   real observado em testes com títulos genéricos como "Bandit");
+4. não houver **empate** no topo entre dois ou mais candidatos (nesse
+   caso, fica sem pôster em vez de arriscar errado).
+
+Um pôster genérico só é **trocado** quando uma correspondência nova e
+confiável é encontrada — se a busca falhar, o pôster antigo (mesmo que
+genérico) é mantido intacto, para nunca arriscar piorar o que já
+existia.
+
+Validado no catálogo completo (446.349 itens, ~17.450 títulos únicos a
+resolver): 2.170 pôsteres genéricos detectados, ~88% de taxa de acerto
+geral (vazios + genéricos), 86.443 itens de VOD tiveram o pôster
+corrigido/completado numa única rodada.
+
+**Esse script NÃO roda automaticamente** dentro do `update_all.py` nem
+da GitHub Action — é opcional e precisa ser chamado à parte, porque
+depende de uma chave própria do TMDB:
+
+```bash
+export TMDB_API_KEY="sua_chave_aqui"   # cadastro grátis em themoviedb.org/settings/api
+python3 scripts/tmdb_enrich.py
+```
+
+No catálogo completo, a primeira execução (sem nada em cache ainda)
+leva ~1h20 (respeitando o limite de requisições do TMDB). Os resultados
+(inclusive os "não encontrados", para não tentar de novo à toa) ficam
+salvos em `scripts/tmdb_poster_cache.json` — rodar de novo no futuro só
+gasta cota do TMDB nos títulos novos que ainda não estão no cache
+(uma segunda rodada sobre a mesma base leva só alguns segundos).
+
+> ⚠️ **IMPORTANTE — ordem de execução**: `python3 scripts/generate_vod.py`
+> (chamado também por `update_all.py`) **sempre baixa tudo de novo da
+> fonte original e reescreve os arquivos `filmes_e_series*.m3u8` do
+> zero**, sem pôsteres corrigidos. Ou seja: sempre que
+> `update_all.py`/`generate_vod.py` rodar depois de você ter usado o
+> `tmdb_enrich.py`, as correções de pôster são perdidas e precisam ser
+> reaplicadas — **rode `tmdb_enrich.py` sempre por último**, depois de
+> `update_all.py`. Isso é rápido (segundos) graças ao cache, mas é fácil
+> esquecer esse passo. Se quiser automatizar isso de vez, dá para
+> adicionar um passo no `.github/workflows/update-epg.yml` chamando
+> `python3 scripts/tmdb_enrich.py` (com `TMDB_API_KEY` configurada como
+> GitHub Secret do repositório) logo depois do
+> `python3 scripts/update_all.py` — isso não foi feito por padrão
+> porque o usuário preferiu rodar manualmente quando quiser, em vez de
+> deixar automático.
+
 ## ⚠️ Aviso
 
 Este projeto apenas organiza e casa metadados de EPG públicos com uma
@@ -296,3 +402,8 @@ playlist de terceiros; não hospeda, transmite ou redistribui nenhum
 stream de vídeo. Os links de streaming continuam sendo os mesmos
 publicados originalmente pelo repositório
 [Ramys/Iptv-Brasil-2026](https://github.com/Ramys/Iptv-Brasil-2026).
+
+Os pôsteres completados via TMDB usam a API pública do TMDB
+("This product uses the TMDB API but is not endorsed or certified by
+TMDB"), respeitando o uso não-comercial gratuito.
+

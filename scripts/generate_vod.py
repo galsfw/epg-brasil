@@ -14,6 +14,21 @@ extras no TiviMate (ou em qualquer outro player).
 Conteúdo adulto/pornográfico (grupos como "FILMES | ADULTOS +18") é
 sempre removido, de ambas as listas — ver is_adult_group() em common.py.
 
+MARCAÇÃO tvg-type="movie"/"series" (para separar Filmes de Séries no
+player): listas M3U puras (sem Xtream Codes) não têm um jeito 100%
+padronizado/documentado de dizer a um player "isto é uma série, não um
+filme" — alguns players como o TiviMate têm abas próprias de "Filmes" e
+"Séries" na tela de Gerenciar Grupos, mas sem essa marcação eles não
+conseguem diferenciar um do outro (tudo cai como "filme" ou fica
+misturado). Por isso cada item ganha um atributo `tvg-type="movie"` ou
+`tvg-type="series"` (função tag_tvg_type()), decidido pela própria
+presença do padrão de temporada/episódio "SxxExx" no título — o mesmo
+critério já usado para agrupar/ordenar episódios. Esse atributo não é
+oficial do padrão M3U: se o player não o reconhecer, ele é simplesmente
+ignorado e nada muda; não há garantia de que resolva 100% dos casos em
+todo player, mas é a abordagem mais citada pela comunidade para tentar
+essa separação sem trocar de Xtream Codes.
+
 Sobre a mesclagem: a BR04 tem majoritariamente os MESMOS títulos que a
 BR06 (95%+ de sobreposição nos testes), e cada lista também repete
 alguns títulos internamente (o mesmo filme catalogado em mais de uma
@@ -136,10 +151,28 @@ VOD_GROUP_PREFIXES = (
 
 GROUP_RE = re.compile(r'group-title="([^"]*)"')
 NAME_RE = re.compile(r'tvg-name="([^"]*)"')
+EXTINF_PREFIX_RE = re.compile(r'^(#EXTINF:-?\d+)\s+')
 
 # Reconhece "S01E01", "S1E1", "S123E4567" etc. no final (ou perto do
 # final) do título, para separar "título base" de "temporada/episódio".
 EPISODE_RE = re.compile(r'^(.*?)\s*S(\d{1,3})E(\d{1,5})\s*$')
+
+
+def tag_tvg_type(extinf_line: str, title: str) -> str:
+    """Insere o atributo tvg-type="series" ou tvg-type="movie" logo no
+    início da linha #EXTINF, com base em o título ter (ou não) o padrão
+    de temporada/episódio "SxxExx".
+
+    Isso é uma tentativa de fazer players como o TiviMate separarem de
+    verdade Filmes e Séries em suas abas próprias — em listas M3U puras
+    (sem Xtream Codes) não existe uma forma 100% padronizada/documentada
+    de sinalizar isso, mas "tvg-type" é o atributo não-oficial mais
+    citado para esse fim. Se o player não reconhecer, o atributo é
+    simplesmente ignorado (não quebra nada) e o comportamento fica igual
+    ao de antes.
+    """
+    media_type = "series" if EPISODE_RE.match(title) else "movie"
+    return EXTINF_PREFIX_RE.sub(rf'\1 tvg-type="{media_type}" ', extinf_line, count=1)
 
 # Separadores de controle usados só internamente no arquivo temporário de
 # ordenação — nunca aparecem em texto normal de M3U, então são seguros
@@ -328,8 +361,9 @@ def run() -> dict:
                     if dedup_key and dedup_key in seen_keys:
                         continue
                     sort_key = vod_sort_key(title)
+                    tagged_line = tag_tvg_type(extinf_line, title)
                     staging.write(
-                        f"{sort_key}{RECORD_SEP}{extinf_line}{RECORD_SEP}{url_line}\n"
+                        f"{sort_key}{RECORD_SEP}{tagged_line}{RECORD_SEP}{url_line}\n"
                     )
                     added += 1
                     total_collected += 1
