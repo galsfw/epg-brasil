@@ -212,10 +212,21 @@ def collect_live_channels(urls: list[str]) -> tuple[list[Channel], dict]:
     mesma fonte são preservadas de propósito (ex.: variantes de
     qualidade "TNT", "TNT HD", "TNT FHD" continuam todas na playlist,
     dando ao usuário streams alternativos do mesmo canal).
+
+    Antes de aceitar uma fonte, testamos sua SAÚDE com requisições HTTP
+    reais numa amostra de streams (ver common.check_source_health()) —
+    isso detecta fontes cujo provedor por trás expirou (credencial
+    revogada, servidor reciclando um "erro genérico" com HTTP 200 em
+    tudo, como descoberto em 2026-07-16 na fonte CanaisBR04). Uma fonte
+    "morta" é pulada NESTA execução (0 canais entram dela), mas continua
+    na lista `SOURCE_PLAYLIST_URLS` normalmente — na próxima atualização
+    automática (a cada 6h) ela é testada de novo do zero, então volta
+    sozinha caso o provedor original volte a funcionar, sem precisar
+    editar código nenhum.
     """
     merged: list[Channel] = []
     seen_from_prior_sources: set[str] = set()
-    stats = {"por_fonte": []}
+    stats = {"por_fonte": [], "fontes_mortas": []}
 
     for url in urls:
         print(f"Baixando playlist: {url}")
@@ -226,6 +237,16 @@ def collect_live_channels(urls: list[str]) -> tuple[list[Channel], dict]:
             continue
         parsed = common.parse_m3u(text)
         live = [c for c in parsed if is_live_channel(c)]
+
+        stream_urls = [c.url for c in live if c.url]
+        is_alive, reason = common.check_source_health(stream_urls, label=url.rsplit("/", 1)[-1])
+        print(f"  checagem de saúde: {reason}")
+        if not is_alive:
+            print(f"  aviso: fonte parece MORTA (credencial expirada/servidor fora do ar) "
+                  f"— pulando {len(live)} canais desta fonte nesta execução")
+            stats["por_fonte"].append((url, 0, 0))
+            stats["fontes_mortas"].append(url)
+            continue
 
         added = 0
         current_source_names: set[str] = set()
@@ -243,6 +264,12 @@ def collect_live_channels(urls: list[str]) -> tuple[list[Channel], dict]:
               f"({added} mantidos, {len(live) - added} já existiam em fonte anterior)")
         stats["por_fonte"].append((url, len(live), added))
 
+    if stats["fontes_mortas"]:
+        print(f"\n{len(stats['fontes_mortas'])} fonte(s) de canais ao vivo pulada(s) "
+              f"por parecerem mortas nesta execução:")
+        for url in stats["fontes_mortas"]:
+            print(f"  - {url}")
+
     return merged, stats
 
 
@@ -259,7 +286,20 @@ class EpgSource:
 
 
 def load_epg_sources(urls: list[str]) -> list[EpgSource]:
+    # Fontes de EPG cujo repositório/site de origem parece ter parado de
+    # atualizar precisam de uma margem de tolerância maior que streams de
+    # canal ao vivo — uma grade de EPG normalmente cobre só alguns dias
+    # à frente, então qualquer coisa sem NENHUM programa daqui a
+    # STALE_EPG_MAX_DAYS_BEHIND dias já é sinal de que o arquivo parou de
+    # ser atualizado (descoberto em 2026-07-16: limaalef/plutotv.xml
+    # estava com dados de outubro/2025, quase 10 meses parado, enquanto
+    # as outras 6 fontes do mesmo repositório continuavam sendo
+    # atualizadas normalmente a cada poucas horas).
+    STALE_EPG_MAX_DAYS_BEHIND = 2
+    today = datetime.now(timezone.utc).date()
+
     sources = []
+    stale_sources = []
     for url in urls:
         print(f"Baixando EPG: {url}")
         text = fetch_text(url)
@@ -280,6 +320,31 @@ def load_epg_sources(urls: list[str]) -> list[EpgSource]:
         except ET.ParseError as exc:
             print(f"  aviso: XML inválido em {url}: {exc}")
             continue
+
+        # Checagem de ATUALIDADE: olha a data mais recente entre os
+        # programas do arquivo. Se o "fim" da grade já ficou no passado
+        # (a fonte parou de publicar dias novos), ela é tratada como
+        # morta nesta execução — mas continua na lista de URLs, então
+        # volta a ser usada sozinha se o mantenedor voltar a atualizá-la.
+        max_prog_date = None
+        for prog in root.findall("programme"):
+            stop = prog.get("stop") or prog.get("start") or ""
+            if len(stop) >= 8:
+                try:
+                    d = datetime.strptime(stop[:8], "%Y%m%d").date()
+                    if max_prog_date is None or d > max_prog_date:
+                        max_prog_date = d
+                except ValueError:
+                    continue
+        if max_prog_date is not None:
+            days_behind = (today - max_prog_date).days
+            if days_behind > STALE_EPG_MAX_DAYS_BEHIND:
+                print(f"  aviso: EPG parece DESATUALIZADO — o programa mais recente "
+                      f"termina em {max_prog_date} ({days_behind} dias atrás) — "
+                      f"pulando esta fonte nesta execução")
+                stale_sources.append(url)
+                continue
+
         src = EpgSource(url=url, tree=root)
         for ch in root.findall("channel"):
             cid = ch.get("id", "")
@@ -295,6 +360,13 @@ def load_epg_sources(urls: list[str]) -> list[EpgSource]:
         n_prog = len(root.findall("programme"))
         print(f"  -> {len(src.by_id)} canais, {n_prog} programas")
         sources.append(src)
+
+    if stale_sources:
+        print(f"\n{len(stale_sources)} fonte(s) de EPG pulada(s) por parecerem "
+              f"desatualizadas/abandonadas nesta execução:")
+        for url in stale_sources:
+            print(f"  - {url}")
+
     return sources
 
 

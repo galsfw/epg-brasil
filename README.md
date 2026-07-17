@@ -48,6 +48,14 @@ Um robô atualiza esses arquivos sozinho a cada poucas horas, então você
 configura uma vez e a lista/guia vão se mantendo em dia sem precisar
 baixar nada de novo manualmente.
 
+### ✅ Só entra o que está funcionando de verdade
+Antes de usar qualquer fonte, o robô testa uma amostra de streams com
+requisições reais. Se uma fonte inteira estiver fora do ar (provedor
+expirado, servidor caído), ela é deixada de fora **daquela
+atualização** — sem quebrar o resto da lista. Assim que a fonte voltar
+a funcionar, ela entra de volta sozinha na atualização seguinte, sem
+precisar de nenhuma ação manual.
+
 ---
 
 ## 🚀 Como instalar (tutorial rápido)

@@ -180,14 +180,15 @@ a `CanaisBR06`). Elas foram checadas uma a uma quanto à saúde dos streams:
 | Lista | Uso neste projeto | Motivo |
 |---|---|---|
 | `CanaisBR06` | ✅ Base (canais ao vivo + VOD) | Principal, mais completa e atualizada |
-| `CanaisBR04` | ✅ Fonte extra (canais ao vivo + VOD) | Majoritariamente funcional nos testes; adiciona ~300 canais e ~250 mil itens de VOD que não estão na BR06 |
+| `CanaisBR04` | ⚠️ Fonte extra, sujeita à checagem automática de saúde | Foi funcional em testes anteriores, mas em 2026-07-16 detectamos que o provedor por trás expirou — ver seção "Checagem automática de saúde" abaixo. Continua na lista de fontes e volta a ser usada sozinha se o provedor voltar ao ar. |
 | `CanaisBR03` | ❌ Não usada | Mesmo conteúdo da BR04, mas com credenciais de stream expiradas (praticamente tudo fora do ar) |
 | `CanaisBR01`, `CanaisBR02` | ❌ Não usadas | Servidores retornando erro de autenticação (401) em quase todos os streams testados |
 | `CanaisBR05` | ❌ Não usada | Servidor não responde (timeout total nos testes) |
 
 Tanto `canais_ao_vivo.m3u8` quanto os arquivos de VOD mesclam BR06 +
-BR04, usando o nome/título normalizado como chave (acentos, maiúsculas e
-espaços não contam) para não duplicar o mesmo conteúdo:
+BR04 (quando BR04 estiver saudável), usando o nome/título normalizado
+como chave (acentos, maiúsculas e espaços não contam) para não duplicar
+o mesmo conteúdo:
 
 - **Canais ao vivo**: a deduplicação é feita **entre fontes diferentes**
   (BR06 vs. BR04) — dentro da mesma fonte, variações de **qualidade**
@@ -200,7 +201,140 @@ espaços não contam) para não duplicar o mesmo conteúdo:
   intactos na chave: uma versão legendada ou 4K nunca é tratada como
   duplicata da versão "normal" e continua saindo como item separado.
 
+### Checagem automática de saúde de cada fonte (fontes mortas saem e voltam sozinhas)
+
+Em 2026-07-16, o usuário reportou (com fotos) uma tela de erro "SEU
+ACESSO EXPIROU" ao tentar assistir canais como "+SBT TV ZYN HD" e "ABC
+News Live". Investigando, descobrimos que **toda a fonte `CanaisBR04`**
+(servidor `joyfrvr.cc`) tinha expirado: qualquer URL de stream — canal
+ao vivo, filme ou série, não importa o ID — devolvia HTTP 200 mas
+sempre **os mesmos bytes** (um arquivo de erro genérico reciclado, não
+o vídeo real). Isso passaria despercebido num teste simples de "o
+servidor respondeu?", então foi preciso comparar o *conteúdo* de várias
+amostras entre si.
+
+O mesmo teste, aplicado às fontes do xKzin/IPTV-Brazuka, revelou mais
+3 fontes igualmente mortas na mesma data: `IPTV-Brazuka.m3u`
+(`onlivex.pro`, devolvendo a página padrão "Welcome to nginx" em
+tudo), `IPTV-Brazuka4.m3u` (`dns.p2.wtf`, 404 em tudo) e
+`IPTV-Brazuka5.m3u` (`cerejadoce.live`, mesma página "nginx" que a
+Brazuka1 — parecem ser o mesmo provedor por trás das duas).
+
+Em vez de simplesmente remover essas URLs do código manualmente (o que
+exigiria alguém perceber o problema e editar os scripts toda vez que
+uma fonte pública cair), implementamos `common.check_source_health()`:
+
+1. Depois de baixar e filtrar uma fonte, pega uma amostra aleatória de
+   ~10 URLs de stream dela.
+2. Faz uma requisição HTTP real em cada uma (com uma pequena pausa
+   entre elas), lendo só os primeiros 4 KB (rápido — não baixa o vídeo
+   inteiro). O corpo é lido mesmo quando o servidor responde com um
+   código de erro HTTP (ver bug abaixo).
+3. **Critério de "fonte morta"**:
+   - menos de 34% das amostras respondem (timeout/erro de rede) → fonte
+     fora do ar; OU
+   - 3+ amostras (ou metade das que responderam, o que for maior)
+     devolvem **exatamente o mesmo conteúdo** entre si → sinal de
+     arquivo de erro genérico sendo reciclado para tudo.
+4. Se a primeira rodada indicar "morta", uma **segunda rodada** é feita
+   depois de uma pausa maior antes de aceitar o veredito — só confirma
+   "morta de verdade" se as duas rodadas concordarem.
+5. Se a fonte for considerada morta (nas duas rodadas), ela é **pulada
+   nesta execução** (0 canais/itens entram dela) — mas a URL
+   **continua** normalmente em `SOURCE_PLAYLIST_URLS`. Na próxima
+   atualização automática (a cada 6h via GitHub Action), a mesma fonte
+   é testada de novo do zero: se o provedor original voltar ao ar, ela
+   passa a ser usada de novo automaticamente, sem precisar editar nada.
+
+Essa checagem roda tanto em `generate_live.py` (canais ao vivo, testando
+amostra dos streams já filtrados de cada fonte) quanto em
+`generate_vod.py` (VOD, testando amostra dos primeiros ~2.000 itens de
+cada fonte — suficiente para decidir sobre a fonte inteira, sem precisar
+escanear as ~200-380 mil entradas todas só para montar a amostra).
+
+#### Bug encontrado e corrigido: falso positivo por rate-limit do próprio provedor
+
+Ao validar a implementação em produção, a fonte `CanaisBR06` — sabidamente
+saudável — foi classificada erroneamente como "morta". Investigando,
+descobrimos que o provedor por trás dela (`play.pollarplay.com`) tem um
+limite de conexões simultâneas por IP, e responde com HTTP 500 + corpo
+`{"message":"Maximum number of connections reached"}` quando esse
+limite é atingido — o que aconteceu porque a própria checagem de saúde
+(rodando repetidamente durante testes) estava gerando esse volume de
+conexões. Dois problemas em cascata:
+
+1. A implementação original descartava (`return None`) qualquer
+   resposta HTTP ≥ 400 sem ler o corpo — então a mensagem de rate-limit
+   nunca chegava a ser vista, e a amostra contava simplesmente como
+   "falha", empurrando a fonte para "menos de 34% respondendo" ⇒ morta.
+2. Mesmo lendo o corpo, uma mensagem de rate-limit genérica poderia ser
+   confundida com "conteúdo de erro reciclado" (o mesmo padrão usado
+   para detectar fontes de verdade mortas).
+
+Corrigido com três mudanças em `common.py`:
+- `_sample_stream_bytes()` agora lê o corpo da resposta mesmo em caso de
+  erro HTTP (via `except urllib.error.HTTPError as exc: exc.read(...)`).
+- Uma lista de marcadores de texto (`RATE_LIMIT_MARKERS`, ex.: `"maximum
+  number of connections"`) é reconhecida e essas amostras são excluídas
+  da contagem (nem "ok" nem "falha" nem "conteúdo repetido de erro") —
+  ficam como resultado inconclusivo daquela amostra específica.
+- Uma pequena pausa entre requisições (`HEALTH_CHECK_DELAY_BETWEEN`) e a
+  segunda rodada de confirmação (`HEALTH_CHECK_RETRY_DELAY`) reduzem a
+  chance de a própria checagem instabilizar temporariamente um provedor
+  saudável.
+
+Validado depois da correção: mesmo com a fonte BR06 sob rate-limit
+pesado (10/10 amostras retornando a mensagem de limite de conexões), a
+checagem corretamente reconheceu isso como inconclusivo e manteve a
+fonte como viva, em vez de descartá-la por engano.
+
+Testes de calibração finais (depois da correção): fontes conhecidas
+como vivas (BR06, Brazuka2, Brazuka6) classificadas corretamente como
+saudáveis mesmo sob rate-limit; fontes conhecidas como mortas (BR04,
+Brazuka1, Brazuka4, Brazuka5) continuaram corretamente classificadas
+como mortas — 0 falso positivo/negativo nos casos testados. Resultado
+real de uma execução em produção: `canais_ao_vivo.m3u8` com 4.330
+entradas e VOD com 196.754 itens (refletindo BR04 realmente fora do ar
+e BR06 saudável).
+
+### Checagem automática de atualidade das fontes de EPG
+
+O mesmo dia (2026-07-16), verificamos também a saúde das 14 fontes de
+`EPG_SOURCES` — não só "o arquivo baixa e é XML válido" (o que já era
+checado), mas também "os dados são realmente atuais". Descobrimos que
+`limaalef/BrazilTVEPG/plutotv.xml` estava tecnicamente OK (XML válido,
+baixa sem erro) mas continha uma grade de **outubro/2025** — quase 10
+meses parada, enquanto os outros 6 arquivos do mesmo repositório
+continuavam sendo atualizados normalmente a cada poucas horas
+(confirmado no histórico de commits do GitHub: todos os outros arquivos
+tinham commits de minutos atrás, só o `plutotv.xml` estava parado desde
+04/10/2025).
+
+Isso não é só "uma fonte a menos": como essa fonte vem **antes** das
+fontes `open-epg.com` na ordem de prioridade de `find_match()`, dois
+canais reais da nossa lista ("Cultura" e "Jovem Pan News") batiam por
+nome tanto no `plutotv.xml` morto quanto em fontes atuais — e, pela
+ordem de busca (a primeira fonte que bater "ganha"), esses canais
+estavam recebendo a **grade errada e desatualizada**, quando havia uma
+grade atual disponível mais abaixo na lista.
+
+Implementado em `load_epg_sources()` (`generate_live.py`): depois de
+baixar e parsear cada fonte de EPG, olhamos a data mais recente entre
+todos os `<programme>` do arquivo. Se essa data já ficou mais de
+`STALE_EPG_MAX_DAYS_BEHIND` (2) dias no passado — ou seja, a fonte parou
+de publicar dias novos — ela é tratada como desatualizada e pulada
+**nesta execução**, mas continua em `EPG_SOURCES` normalmente: se o
+mantenedor voltar a atualizá-la, ela volta a ser usada sozinha na
+próxima atualização automática.
+
+Validado: com a correção, `plutotv.xml` passou a ser pulado
+automaticamente (mensagem: "o programa mais recente termina em
+2025-10-12 (277 dias atrás)"), e os canais "Cultura"/"Jovem Pan News"
+passaram a receber corretamente a grade atual do `open-epg.com` (dados
+de 2026-07-15) em vez da grade morta.
+
 ## 🔗 Como funciona o casamento de canais (M3U ⇄ EPG)
+
 
 A playlist usa `tvg-id`s próprios (ex.: `globo.br`, `sportv.br`,
 `recordtvsãopaulo.br`) que raramente batem com o `id` usado pelas fontes

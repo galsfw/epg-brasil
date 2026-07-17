@@ -116,6 +116,7 @@ import unicodedata
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
+import common  # noqa: E402
 from common import fetch_text, is_adult_group, normalize_vod_key  # noqa: E402
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -340,7 +341,7 @@ def run() -> dict:
 
     try:
         seen_keys: set[str] = set()
-        stats = {"por_fonte": []}
+        stats = {"por_fonte": [], "fontes_mortas": []}
         total_collected = 0
 
         with unsorted_path.open("w", encoding="utf-8") as staging:
@@ -353,6 +354,35 @@ def run() -> dict:
                     continue
 
                 total_entries = text.count("#EXTINF")
+
+                # Testa a SAÚDE da fonte (requisições HTTP reais numa
+                # amostra de streams) antes de processar tudo — detecta
+                # fontes cujo provedor expirou (credencial revogada,
+                # servidor reciclando um "erro genérico" com HTTP 200 em
+                # tudo, como descoberto em 2026-07-16 na fonte
+                # CanaisBR04). Uma fonte "morta" é pulada NESTA execução,
+                # mas continua na lista SOURCE_PLAYLIST_URLS normalmente
+                # — na próxima atualização automática ela é testada de
+                # novo do zero, então volta sozinha se o provedor
+                # original voltar a funcionar.
+                sample_urls = [
+                    url_line for _extinf, url_line, _title in iter_vod_lines(text)
+                ][:2000]  # amostra dos primeiros itens é suficiente; evita
+                # percorrer os ~200-380 mil itens de uma fonte só pra
+                # montar a amostra de saúde
+                is_alive, reason = common.check_source_health(
+                    sample_urls, label=url.rsplit("/", 1)[-1]
+                )
+                print(f"  checagem de saúde: {reason}")
+                if not is_alive:
+                    print(f"  aviso: fonte parece MORTA (credencial expirada/servidor "
+                          f"fora do ar) — pulando esta fonte nesta execução")
+                    stats["por_fonte"].append((url, 0, 0))
+                    stats["fontes_mortas"].append(url)
+                    del text
+                    gc.collect()
+                    continue
+
                 vod_count = 0
                 added = 0
                 for extinf_line, url_line, title in iter_vod_lines(text):
@@ -382,6 +412,12 @@ def run() -> dict:
         # mais necessário depois que todas as fontes foram processadas
         del seen_keys
         gc.collect()
+
+        if stats["fontes_mortas"]:
+            print(f"\n{len(stats['fontes_mortas'])} fonte(s) de VOD pulada(s) "
+                  f"por parecerem mortas nesta execução:")
+            for url in stats["fontes_mortas"]:
+                print(f"  - {url}")
 
         if total_collected == 0:
             raise RuntimeError("nenhum item de VOD encontrado")
