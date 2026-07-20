@@ -333,6 +333,72 @@ automaticamente (mensagem: "o programa mais recente termina em
 passaram a receber corretamente a grade atual do `open-epg.com` (dados
 de 2026-07-15) em vez da grade morta.
 
+### Pipeline resiliente: uma categoria zerada não derruba a outra
+
+Em 2026-07-19, a GitHub Action falhou (`Process completed with exit
+code 1`) e nada foi commitado. O log mostrava `CanaisBR06` (a fonte
+BASE de VOD e uma das fontes de canais ao vivo) sendo classificada como
+morta pela checagem de saúde — junto com `CanaisBR04`, que já sabíamos
+morta desde 2026-07-16. Investigando com dois resolvedores de DNS
+públicos e independentes (Google DNS e Cloudflare DNS, fora do
+ambiente da Action), confirmamos que **o domínio `pollarplay.com`
+deixou de existir de vez** (resposta `NXDOMAIN`/`Status: 3` — diferente
+de casos anteriores como `joyfrvr.cc`/`onlivex.pro`, que continuavam
+resolvendo e só serviam conteúdo de erro). Ou seja, desta vez a
+checagem de saúde **acertou**: a fonte morreu de verdade.
+
+O problema real não era a detecção, e sim o que aconteceu depois dela:
+como as duas únicas fontes de `generate_vod.py` (`CanaisBR06` e
+`CanaisBR04`) morreram ao mesmo tempo, `total_collected` ficou em 0 e o
+código antigo fazia `raise RuntimeError("nenhum item de VOD
+encontrado")`. Esse erro subia sem tratamento até `update_all.py`, que
+retornava código de saída 1 **antes mesmo de tentar o commit/push** —
+então nem as atualizações de canais ao vivo (que tinham rodado
+normalmente, com `IPTV-Brazuka2` e `IPTV-Brazuka6` saudáveis) eram
+salvas no repositório. Resultado: a Action ficaria falhando a cada 6h,
+sem nunca gerar nada de novo, até alguém notar e mexer manualmente no
+código.
+
+Corrigido com mudanças em três arquivos:
+
+1. **`generate_vod.py`**: quando `total_collected == 0` (nenhuma fonte
+   de VOD saudável), em vez de lançar `RuntimeError`, gera um arquivo
+   `filmes_e_series1.m3u8` vazio (só o cabeçalho `#EXTM3U`) e retorna
+   normalmente com `itens_filmes_series: 0`. `cleanup_old_vod_files()`
+   já cuida de remover partes antigas (`_2`, `_3`, `_4`, ...) que não
+   fazem mais sentido com um catálogo vazio.
+2. **`generate_live.py`**: mesma lógica — se não sobrar nenhum canal ao
+   vivo, ou nenhuma fonte de EPG utilizável, os arquivos
+   (`canais_ao_vivo.m3u8`, `canais_ao_vivo_epg.xml`/`.gz`) são gerados
+   vazios/mínimos em vez de lançar exceção.
+3. **`update_all.py`**: reescrito para rodar as duas etapas (`canais ao
+   vivo + EPG` e `Filmes e Séries`) de forma **independente**, cada uma
+   dentro do seu próprio `try/except Exception` — um erro inesperado
+   numa etapa não impede a outra de rodar nem de ser salva. O
+   `STATUS.txt` é sempre escrito ao final com o que foi possível
+   apurar, incluindo avisos explícitos quando uma categoria ficou
+   zerada e quais fontes foram puladas por parecerem mortas. O processo
+   só termina com código de saída diferente de zero (falha de verdade,
+   sem nada a commitar) se **as duas etapas** falharem de forma
+   inesperada ao mesmo tempo — uma categoria "zerada" por falta de
+   fontes saudáveis não conta como falha, porque os arquivos foram
+   gerados normalmente (só que vazios).
+
+Validado com testes que simulam os três cenários: (a) as duas fontes de
+VOD mortas (cenário real de 2026-07-19) — pipeline conclui com sucesso,
+canais ao vivo salvos normalmente, VOD fica vazio e documentado no
+STATUS.txt; (b) uma exceção de verdade só na etapa de VOD — mesmo
+resultado, canais ao vivo não são afetados; (c) exceção de verdade nas
+duas etapas ao mesmo tempo — aí sim o processo termina com erro,
+corretamente, já que não haveria nada de novo para salvar.
+
+**Nota sobre o catálogo de VOD**: por decisão do usuário, o projeto
+ficou **sem nenhuma fonte de VOD saudável** depois da queda do
+`pollarplay.com` — `filmes_e_series1.m3u8` fica vazio até uma fonte
+nova ser adicionada (ou até alguma das duas fontes atuais,
+`CanaisBR06`/`CanaisBR04`, voltar ao ar sozinha, o que a checagem de
+saúde detectaria automaticamente na atualização seguinte).
+
 ## 🔗 Como funciona o casamento de canais (M3U ⇄ EPG)
 
 

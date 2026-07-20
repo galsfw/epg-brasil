@@ -27,10 +27,18 @@ passando agora e o que vem a seguir — igual à sua TV a cabo. Basta
 carregar esse arquivo junto com a playlist no seu player.
 
 ### 🎬 Filmes, séries, novelas e doramas
-Um catálogo enorme com **centenas de milhares de títulos**, organizado
-por categoria e por serviço de streaming de origem (Netflix, Prime
-Video, HBO Max, Disney+, Paramount+, Apple TV, Globoplay, Star+ e mais),
-incluindo:
+
+> ⚠️ **Aviso temporário (2026-07-19):** as fontes públicas usadas para
+> montar este catálogo saíram do ar (um dos provedores de origem
+> encerrou o domínio por completo). O arquivo `filmes_e_series1.m3u8`
+> está temporariamente vazio até uma fonte nova ser configurada — os
+> **canais ao vivo e o guia de programação continuam funcionando
+> normalmente**, sem nenhum problema.
+
+Quando saudável, esta seção do projeto entrega um catálogo enorme com
+**centenas de milhares de títulos**, organizado por categoria e por
+serviço de streaming de origem (Netflix, Prime Video, HBO Max, Disney+,
+Paramount+, Apple TV, Globoplay, Star+ e mais), incluindo:
 - Filmes por gênero (ação, comédia, terror, drama, animação...)
 - Séries completas, com os episódios organizados em ordem (temporada e
   episódio), fáceis de assistir em sequência

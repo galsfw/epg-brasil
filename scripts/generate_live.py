@@ -563,24 +563,53 @@ def indent(elem: ET.Element, level: int = 0) -> None:
 
 def run() -> dict:
     """Executa a geração e retorna um dicionário com métricas (usado pelo
-    script orquestrador scripts/update_all.py para montar o relatório)."""
+    script orquestrador scripts/update_all.py para montar o relatório).
+
+    IMPORTANTE: desde 2026-07-19, este script NUNCA levanta RuntimeError
+    por falta de canais/EPG — mesmo que todas as fontes configuradas
+    estejam mortas nesta execução (o que já aconteceu de verdade: o
+    domínio pollarplay.com, usado pela fonte CanaisBR06, saiu do ar por
+    completo). Antes, um RuntimeError aqui derrubava update_all.py
+    inteiro antes do commit/push, então nem o restante do pipeline (ex.:
+    VOD, se estivesse saudável) era salvo. Agora, na ausência total de
+    canais/EPG, os arquivos são gerados vazios (só o cabeçalho) e o
+    dicionário de métricas reflete isso com zeros — update_all.py decide
+    o que fazer com um resultado "zerado" (ver ali o aviso e o registro
+    em STATUS.txt), mas o processo como um todo continua e o que
+    funcionou é salvo normalmente.
+    """
     print("=== Canais ao vivo + EPG - IPTV Brasil 2026 ===")
 
     all_channels, source_stats = collect_live_channels(SOURCE_PLAYLIST_URLS)
 
     if not all_channels:
-        raise RuntimeError("nenhum canal ao vivo encontrado")
+        print("\naviso: nenhum canal ao vivo encontrado (todas as fontes "
+              "configuradas parecem mortas nesta execução) — gerando "
+              "playlist/EPG vazios, sem interromper o restante do pipeline")
 
     n_m3u = write_live_m3u(all_channels)
     print(f"\nPlaylist gerada: {OUT_M3U} ({n_m3u} entradas de {len(source_stats['por_fonte'])} fonte(s))")
 
     print()
-    sources = load_epg_sources(EPG_SOURCES)
-    if not sources:
-        raise RuntimeError("nenhuma fonte de EPG pôde ser baixada")
+    sources = load_epg_sources(EPG_SOURCES) if all_channels else []
+    if all_channels and not sources:
+        print("\naviso: nenhuma fonte de EPG pôde ser baixada/está atualizada "
+              "nesta execução — gerando XMLTV vazio")
 
-    print("\nCasando canais da playlist com as fontes de EPG...")
-    tv_root, matched, unmatched, inherited = build_xmltv(all_channels, sources)
+    if sources:
+        print("\nCasando canais da playlist com as fontes de EPG...")
+        tv_root, matched, unmatched, inherited = build_xmltv(all_channels, sources)
+    else:
+        tv_root = ET.Element(
+            "tv",
+            attrib={
+                "generator-info-name": "epg-br-auto-generator",
+                "generator-info-url": "https://github.com/",
+                "date": datetime.now(timezone.utc).strftime("%Y%m%d%H%M%S +0000"),
+            },
+        )
+        matched, unmatched, inherited = 0, len(all_channels), 0
+
     total_unique = matched + unmatched
     print(f"  -> {matched}/{total_unique} canais com programação encontrada "
           f"(dos quais {inherited} herdaram o EPG de uma variação de qualidade irmã)")
@@ -607,6 +636,7 @@ def run() -> dict:
         "canais_sem_epg": unmatched,
         "canais_no_epg_final": n_channels,
         "programas_no_epg_final": n_programmes,
+        "fontes_mortas": source_stats.get("fontes_mortas", []),
     }
 
 

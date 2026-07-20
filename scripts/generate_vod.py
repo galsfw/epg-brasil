@@ -420,25 +420,46 @@ def run() -> dict:
                 print(f"  - {url}")
 
         if total_collected == 0:
-            raise RuntimeError("nenhum item de VOD encontrado")
+            # IMPORTANTE: não travamos mais o pipeline inteiro com um
+            # RuntimeError aqui. Descoberto em 2026-07-19: quando TODAS
+            # as fontes de VOD configuradas ficam mortas ao mesmo tempo
+            # (ex.: o domínio pollarplay.com, usado pela CanaisBR06,
+            # saiu do ar de vez — confirmado via NXDOMAIN em resolvedores
+            # DNS públicos — bem depois de CanaisBR04 já estar morta),
+            # um erro fatal aqui derrubava update_all.py inteiro ANTES
+            # do commit/push, então nem as atualizações de canais ao
+            # vivo (que tinham funcionado normalmente) eram salvas no
+            # repositório, e a GitHub Action ficava falhando a cada 6h
+            # sem gerar nada de novo. Agora, sem nenhuma fonte saudável,
+            # geramos um arquivo de VOD vazio (só o cabeçalho #EXTM3U) e
+            # deixamos o restante do pipeline (canais ao vivo/EPG)
+            # continuar e ser salvo normalmente — assim que qualquer
+            # fonte de VOD voltar a funcionar, o catálogo volta sozinho
+            # na atualização seguinte.
+            print("\naviso: nenhum item de VOD encontrado (todas as fontes "
+                  "configuradas parecem mortas nesta execução) — gerando "
+                  "arquivo de VOD vazio, sem interromper o restante do pipeline")
+            writer = PartedWriter(OUTPUT_BASENAME)
+            writer.close()
+            total_written = 0
+        else:
+            print(f"\nOrdenando {total_collected} itens (agrupando episódios de cada "
+                  f"série/novela/dorama em sequência)...")
+            external_sort(unsorted_path, sorted_path)
 
-        print(f"\nOrdenando {total_collected} itens (agrupando episódios de cada "
-              f"série/novela/dorama em sequência)...")
-        external_sort(unsorted_path, sorted_path)
+            writer = PartedWriter(OUTPUT_BASENAME)
+            total_written = 0
+            with sorted_path.open("r", encoding="utf-8") as sorted_file:
+                for line in sorted_file:
+                    line = line.rstrip("\n")
+                    _, extinf_line, url_line = line.split(RECORD_SEP, 2)
+                    writer.write_entry(extinf_line, url_line)
+                    total_written += 1
+            writer.close()
 
-        writer = PartedWriter(OUTPUT_BASENAME)
-        total_written = 0
-        with sorted_path.open("r", encoding="utf-8") as sorted_file:
-            for line in sorted_file:
-                line = line.rstrip("\n")
-                _, extinf_line, url_line = line.split(RECORD_SEP, 2)
-                writer.write_entry(extinf_line, url_line)
-                total_written += 1
-        writer.close()
-
-        if total_written != total_collected:
-            print(f"  aviso: {total_collected} itens coletados mas {total_written} "
-                  f"gravados após ordenação — verifique separadores de campo")
+            if total_written != total_collected:
+                print(f"  aviso: {total_collected} itens coletados mas {total_written} "
+                      f"gravados após ordenação — verifique separadores de campo")
 
     finally:
         shutil.rmtree(TMP_DIR, ignore_errors=True)
@@ -452,6 +473,7 @@ def run() -> dict:
     return {
         "itens_filmes_series": total_written,
         "arquivos_filmes_series": [p.name for p in writer.files_written],
+        "fontes_mortas": stats["fontes_mortas"],
     }
 
 
