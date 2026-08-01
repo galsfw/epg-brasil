@@ -1,15 +1,15 @@
-Última atualização (UTC): 2026-07-31T19:54:59.245272+00:00
-Duração: 117.4s
+Última atualização (UTC): 2026-08-01T03:52:30.236131+00:00
+Duração: 94.0s
 
 == Canais ao vivo (playlists/canais_ao_vivo.m3u8 + canais_ao_vivo_epg.xml) ==
-Canais na playlist (entradas): 3285
-Canais únicos (por tvg-id): 494
-Canais com EPG casado: 410
+Canais na playlist (entradas): 2860
+Canais únicos (por tvg-id): 277
+Canais com EPG casado: 252
   (dos quais herdados de uma variação de qualidade irmã: 2)
-Canais sem EPG disponível: 84
-Canais no arquivo XMLTV final: 410
-Programas no arquivo XMLTV final: 34362
-  Fontes puladas por parecerem mortas: CanaisBR06.m3u8, CanaisBR04.m3u8, IPTV-Brazuka.m3u, IPTV-Brazuka5.m3u
+Canais sem EPG disponível: 25
+Canais no arquivo XMLTV final: 252
+Programas no arquivo XMLTV final: 18335
+  Fontes puladas por parecerem mortas: CanaisBR06.m3u8, CanaisBR04.m3u8, IPTV-Brazuka.m3u, IPTV-Brazuka4.m3u, IPTV-Brazuka5.m3u
 
 == Filmes e Séries (playlists/filmes_e_series*.m3u8) ==
 Itens (filmes + episódios de séries): 0
