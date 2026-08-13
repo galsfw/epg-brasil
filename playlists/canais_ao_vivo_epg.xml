@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="epg-br-auto-generator" generator-info-url="https://github.com/" date="20260812193047 +0000">
+<tv generator-info-name="epg-br-auto-generator" generator-info-url="https://github.com/" date="20260813024837 +0000">
   <channel id="426013">
     <display-name>TNT NOVELAS FHD</display-name>
     <icon src="https://yzd4m2fdufvgdzbv.public.blob.vercel-storage.com/logos/filmes_tnt_novelas.png" />
@@ -2369,106 +2369,6 @@
   <programme channel="426040" start="20260815220000 -0300" stop="20260816002500 -0300">
     <title lang="pt">O Ataque</title>
   </programme>
-  <programme start="20260811180000 -0300" stop="20260811200000 -0300" channel="426112">
-    <title lang="pt">Saideira</title>
-    <category lang="pt">Filme</category>
-    <category lang="pt">Comédia</category>
-  </programme>
-  <programme start="20260811200000 -0300" stop="20260811210000 -0300" channel="426112">
-    <title lang="pt">Graham Norton Meets Madonna</title>
-    <category lang="pt">Variedades</category>
-    <category lang="pt">Entrevista</category>
-  </programme>
-  <programme start="20260811210000 -0300" stop="20260811215500 -0300" channel="426112">
-    <title lang="pt">Síndrome De Helsinque</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Drama</category>
-  </programme>
-  <programme start="20260811215500 -0300" stop="20260811225500 -0300" channel="426112">
-    <title lang="pt">Síndrome De Helsinque</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Drama</category>
-  </programme>
-  <programme start="20260811225500 -0300" stop="20260812013500 -0300" channel="426112">
-    <title lang="pt">Respect: A História de Aretha Franklin</title>
-    <category lang="pt">Filme</category>
-    <category lang="pt">Documentário</category>
-  </programme>
-  <programme start="20260812013500 -0300" stop="20260812023000 -0300" channel="426112">
-    <title lang="pt">Graham Norton Meets Madonna</title>
-    <category lang="pt">Variedades</category>
-    <category lang="pt">Entrevista</category>
-  </programme>
-  <programme start="20260812023000 -0300" stop="20260812033000 -0300" channel="426112">
-    <title lang="pt">Nicolas Cage: O Gênio Louco De Hollywood</title>
-    <category lang="pt">Documentário</category>
-    <category lang="pt">Biografia</category>
-  </programme>
-  <programme start="20260812033000 -0300" stop="20260812043000 -0300" channel="426112">
-    <title lang="pt">Johnny Depp - Criança Selvagem</title>
-    <category lang="pt">Documentário</category>
-    <category lang="pt">Biografia</category>
-  </programme>
-  <programme start="20260812043000 -0300" stop="20260812051500 -0300" channel="426112">
-    <title lang="pt">Síndrome De Helsinque</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Drama</category>
-  </programme>
-  <programme start="20260812051500 -0300" stop="20260812060500 -0300" channel="426112">
-    <title lang="pt">Síndrome De Helsinque</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Drama</category>
-  </programme>
-  <programme start="20260812060500 -0300" stop="20260812063000 -0300" channel="426112">
-    <title lang="pt">Mais Presença De Villa-lobos</title>
-    <category lang="pt">Documentário</category>
-    <category lang="pt">Biografia</category>
-  </programme>
-  <programme start="20260812063000 -0300" stop="20260812073000 -0300" channel="426112">
-    <title lang="pt">The Graham Norton Show</title>
-    <category lang="pt">Variedades</category>
-    <category lang="pt">Diversos</category>
-  </programme>
-  <programme start="20260812073000 -0300" stop="20260812082300 -0300" channel="426112">
-    <title lang="pt">Mr. Loverman</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Drama</category>
-  </programme>
-  <programme start="20260812082300 -0300" stop="20260812083500 -0300" channel="426112">
-    <title lang="pt">Graciela Borges, Mi Vida En El Cine</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Documentário</category>
-  </programme>
-  <programme start="20260812083500 -0300" stop="20260812110000 -0300" channel="426112">
-    <title lang="pt">Lago Dos Cisnes Em 360°</title>
-    <category lang="pt">Espetáculo</category>
-    <category lang="pt">Balé</category>
-  </programme>
-  <programme start="20260812110000 -0300" stop="20260812120000 -0300" channel="426112">
-    <title lang="pt">Nicolas Cage: O Gênio Louco De Hollywood</title>
-    <category lang="pt">Documentário</category>
-    <category lang="pt">Biografia</category>
-  </programme>
-  <programme start="20260812120000 -0300" stop="20260812130000 -0300" channel="426112">
-    <title lang="pt">Johnny Depp - Criança Selvagem</title>
-    <category lang="pt">Documentário</category>
-    <category lang="pt">Biografia</category>
-  </programme>
-  <programme start="20260812130000 -0300" stop="20260812140000 -0300" channel="426112">
-    <title lang="pt">The Graham Norton Show</title>
-    <category lang="pt">Variedades</category>
-    <category lang="pt">Diversos</category>
-  </programme>
-  <programme start="20260812140000 -0300" stop="20260812145000 -0300" channel="426112">
-    <title lang="pt">Síndrome De Helsinque</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Drama</category>
-  </programme>
-  <programme start="20260812145000 -0300" stop="20260812154500 -0300" channel="426112">
-    <title lang="pt">Síndrome De Helsinque</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Drama</category>
-  </programme>
   <programme start="20260812154500 -0300" stop="20260812182500 -0300" channel="426112">
     <title lang="pt">Respect: A História de Aretha Franklin</title>
     <category lang="pt">Filme</category>
@@ -2698,6 +2598,86 @@
     <title lang="pt">Licorice Pizza</title>
     <category lang="pt">Filme</category>
     <category lang="pt">Comédia</category>
+  </programme>
+  <programme start="20260815002500 -0300" stop="20260815020500 -0300" channel="426112">
+    <title lang="pt">Veneza</title>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Comédia</category>
+  </programme>
+  <programme start="20260815020500 -0300" stop="20260815030500 -0300" channel="426112">
+    <title lang="pt">Strauss: A Mulher Sem Sombra</title>
+    <category lang="pt">Espetáculo</category>
+    <category lang="pt">Ópera</category>
+  </programme>
+  <programme start="20260815030500 -0300" stop="20260815060000 -0300" channel="426112">
+    <title lang="pt">Strauss: A Mulher Sem Sombra</title>
+    <category lang="pt">Espetáculo</category>
+    <category lang="pt">Ópera</category>
+  </programme>
+  <programme start="20260815060000 -0300" stop="20260815063000 -0300" channel="426112">
+    <title lang="pt">Nossa Bossa</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20260815063000 -0300" stop="20260815072500 -0300" channel="426112">
+    <title lang="pt">The Graham Norton Show</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20260815072500 -0300" stop="20260815082500 -0300" channel="426112">
+    <title lang="pt">Strauss: A Mulher Sem Sombra</title>
+    <category lang="pt">Espetáculo</category>
+    <category lang="pt">Ópera</category>
+  </programme>
+  <programme start="20260815082500 -0300" stop="20260815105700 -0300" channel="426112">
+    <title lang="pt">Strauss: A Mulher Sem Sombra</title>
+    <category lang="pt">Espetáculo</category>
+    <category lang="pt">Ópera</category>
+  </programme>
+  <programme start="20260815105700 -0300" stop="20260815115700 -0300" channel="426112">
+    <title lang="pt">Nicolas Cage: O Gênio Louco De Hollywood</title>
+    <category lang="pt">Documentário</category>
+    <category lang="pt">Biografia</category>
+  </programme>
+  <programme start="20260815115700 -0300" stop="20260815124700 -0300" channel="426112">
+    <title lang="pt">Mozart Mozart</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Drama</category>
+  </programme>
+  <programme start="20260815124700 -0300" stop="20260815134000 -0300" channel="426112">
+    <title lang="pt">Mozart Mozart</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Drama</category>
+  </programme>
+  <programme start="20260815134000 -0300" stop="20260815143000 -0300" channel="426112">
+    <title lang="pt">The Graham Norton Show</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20260815143000 -0300" stop="20260815161500 -0300" channel="426112">
+    <title lang="pt">Veneza</title>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Comédia</category>
+  </programme>
+  <programme start="20260815161500 -0300" stop="20260815184000 -0300" channel="426112">
+    <title lang="pt">Licorice Pizza</title>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Comédia</category>
+  </programme>
+  <programme start="20260815184000 -0300" stop="20260815201500 -0300" channel="426112">
+    <title lang="pt">Vera</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Drama</category>
+  </programme>
+  <programme start="20260815201500 -0300" stop="20260815220000 -0300" channel="426112">
+    <title lang="pt">Foyle´s War</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Drama</category>
+  </programme>
+  <programme start="20260815220000 -0300" stop="20260816001000 -0300" channel="426112">
+    <title lang="pt">A Irmã De Mozart</title>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Biografia</category>
   </programme>
   <programme channel="523313" start="20260812004000 -0300" stop="20260812013500 -0300">
     <title lang="pt">Criminal Minds</title>
@@ -47667,131 +47647,6 @@ superação, determinação e talento.</desc>
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260811170900 -0300" stop="20260811185200 -0300" channel="Discoveryhomehealth.br">
-    <title lang="pt">Quilos Mortais: Como Eles Estão Agora?</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Reality Show</category>
-  </programme>
-  <programme start="20260811185200 -0300" stop="20260811203000 -0300" channel="Discoveryhomehealth.br">
-    <title lang="pt">Quilos Mortais: Como Eles Estão Agora?</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Reality Show</category>
-  </programme>
-  <programme start="20260811203000 -0300" stop="20260811211900 -0300" channel="Discoveryhomehealth.br">
-    <title lang="pt">Grandes Demais</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Medicina</category>
-  </programme>
-  <programme start="20260811211900 -0300" stop="20260811220800 -0300" channel="Discoveryhomehealth.br">
-    <title lang="pt">Dra. Sandra Lee: Casos Explosivos</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Reality Show</category>
-  </programme>
-  <programme start="20260811220800 -0300" stop="20260811225700 -0300" channel="Discoveryhomehealth.br">
-    <title lang="pt">Dra. Sandra Lee: Casos Explosivos</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Reality Show</category>
-  </programme>
-  <programme start="20260811225700 -0300" stop="20260811232600 -0300" channel="Discoveryhomehealth.br">
-    <title lang="pt">Sobre Essa Pele</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Reality Show</category>
-  </programme>
-  <programme start="20260811232600 -0300" stop="20260811235400 -0300" channel="Discoveryhomehealth.br">
-    <title lang="pt">Sobre Essa Pele</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Reality Show</category>
-  </programme>
-  <programme start="20260811235400 -0300" stop="20260812013400 -0300" channel="Discoveryhomehealth.br">
-    <title lang="pt">Quilos Mortais</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Reality Show</category>
-  </programme>
-  <programme start="20260812013400 -0300" stop="20260812022300 -0300" channel="Discoveryhomehealth.br">
-    <title lang="pt">90 Dias Para Casar: Felizes Para Sempre?</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Reality Show</category>
-  </programme>
-  <programme start="20260812022300 -0300" stop="20260812035800 -0300" channel="Discoveryhomehealth.br">
-    <title lang="pt">Pesadelo na Cozinha</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Culinária</category>
-  </programme>
-  <programme start="20260812035800 -0300" stop="20260812042600 -0300" channel="Discoveryhomehealth.br">
-    <title lang="pt">Sobre Essa Pele</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Reality Show</category>
-  </programme>
-  <programme start="20260812042600 -0300" stop="20260812060000 -0300" channel="Discoveryhomehealth.br">
-    <title lang="pt">Quilos Mortais</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Reality Show</category>
-  </programme>
-  <programme start="20260812060000 -0300" stop="20260812064400 -0300" channel="Discoveryhomehealth.br">
-    <title lang="pt">Keith &amp; Evan: Reformando Com O Coração</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Reality Show</category>
-  </programme>
-  <programme start="20260812064400 -0300" stop="20260812073500 -0300" channel="Discoveryhomehealth.br">
-    <title lang="pt">Irmãos à Obra: Compra e Venda</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Comportamento</category>
-  </programme>
-  <programme start="20260812073500 -0300" stop="20260812081900 -0300" channel="Discoveryhomehealth.br">
-    <title lang="pt">SOS Restaurante</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Culinária</category>
-  </programme>
-  <programme start="20260812081900 -0300" stop="20260812091100 -0300" channel="Discoveryhomehealth.br">
-    <title lang="pt">A Guerra dos Bolos</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Culinária</category>
-  </programme>
-  <programme start="20260812091100 -0300" stop="20260812100300 -0300" channel="Discoveryhomehealth.br">
-    <title lang="pt">90 Dias para Casar: Do Outro Lado</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Reality Show</category>
-  </programme>
-  <programme start="20260812100300 -0300" stop="20260812105800 -0300" channel="Discoveryhomehealth.br">
-    <title lang="pt">90 Dias para Casar: Do Outro Lado</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Reality Show</category>
-  </programme>
-  <programme start="20260812105800 -0300" stop="20260812115300 -0300" channel="Discoveryhomehealth.br">
-    <title lang="pt">A Pequena Grande Família</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Reality Show</category>
-  </programme>
-  <programme start="20260812115300 -0300" stop="20260812124500 -0300" channel="Discoveryhomehealth.br">
-    <title lang="pt">A Pequena Grande Família</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Reality Show</category>
-  </programme>
-  <programme start="20260812124500 -0300" stop="20260812133700 -0300" channel="Discoveryhomehealth.br">
-    <title lang="pt">Irmãos À Obra: Lar Sempre Lar</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Reality Show</category>
-  </programme>
-  <programme start="20260812133700 -0300" stop="20260812142900 -0300" channel="Discoveryhomehealth.br">
-    <title lang="pt">Irmãos À Obra: Lar Sempre Lar</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Reality Show</category>
-  </programme>
-  <programme start="20260812142900 -0300" stop="20260812152300 -0300" channel="Discoveryhomehealth.br">
-    <title lang="pt">Do Velho Ao Novo</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Comportamento</category>
-  </programme>
-  <programme start="20260812152300 -0300" stop="20260812161700 -0300" channel="Discoveryhomehealth.br">
-    <title lang="pt">Os Pequenos Johnstons</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Reality Show</category>
-  </programme>
-  <programme start="20260812161700 -0300" stop="20260812170900 -0300" channel="Discoveryhomehealth.br">
-    <title lang="pt">Amy e Tammy: Irmãs Contra o Peso</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Reality Show</category>
-  </programme>
   <programme start="20260812170900 -0300" stop="20260812185100 -0300" channel="Discoveryhomehealth.br">
     <title lang="pt">Quilos Mortais</title>
     <category lang="pt">Séries</category>
@@ -48071,6 +47926,126 @@ superação, determinação e talento.</desc>
     <title lang="pt">A Batalha dos 100 Cozinheiros</title>
     <category lang="pt">Séries</category>
     <category lang="pt">Reality Show</category>
+  </programme>
+  <programme start="20260815003400 -0300" stop="20260815010100 -0300" channel="Discoveryhomehealth.br">
+    <title lang="pt">Duelo Com Bobby Flay</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Culinária</category>
+  </programme>
+  <programme start="20260815010100 -0300" stop="20260815012300 -0300" channel="Discoveryhomehealth.br">
+    <title lang="pt">Duelo Com Bobby Flay</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Culinária</category>
+  </programme>
+  <programme start="20260815012300 -0300" stop="20260815015000 -0300" channel="Discoveryhomehealth.br">
+    <title lang="pt">Duelo Com Bobby Flay</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Culinária</category>
+  </programme>
+  <programme start="20260815015000 -0300" stop="20260815023900 -0300" channel="Discoveryhomehealth.br">
+    <title lang="pt">90 Dias Para Casar: Felizes Para Sempre?</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+  </programme>
+  <programme start="20260815023900 -0300" stop="20260815042700 -0300" channel="Discoveryhomehealth.br">
+    <title lang="pt">Masterchef Brasil</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Culinária</category>
+  </programme>
+  <programme start="20260815042700 -0300" stop="20260815060000 -0300" channel="Discoveryhomehealth.br">
+    <title lang="pt">Quilos Mortais</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+  </programme>
+  <programme start="20260815060000 -0300" stop="20260815064900 -0300" channel="Discoveryhomehealth.br">
+    <title lang="pt">O Sócio</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+  </programme>
+  <programme start="20260815064900 -0300" stop="20260815073800 -0300" channel="Discoveryhomehealth.br">
+    <title lang="pt">24 Em 24: O Último Chef em Pé</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+  </programme>
+  <programme start="20260815073800 -0300" stop="20260815093200 -0300" channel="Discoveryhomehealth.br">
+    <title lang="pt">Masterchef Celebridades</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Culinária</category>
+  </programme>
+  <programme start="20260815093200 -0300" stop="20260815102400 -0300" channel="Discoveryhomehealth.br">
+    <title lang="pt">Casa Em Obra: Do Pesadelo Ao Sonho</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+  </programme>
+  <programme start="20260815121200 -0300" stop="20260815130600 -0300" channel="Discoveryhomehealth.br">
+    <title lang="pt">Irmãos à Obra: Compra e Venda</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comportamento</category>
+  </programme>
+  <programme start="20260815130600 -0300" stop="20260815140000 -0300" channel="Discoveryhomehealth.br">
+    <title lang="pt">Irmãos à Obra: Compra e Venda</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comportamento</category>
+  </programme>
+  <programme start="20260815140000 -0300" stop="20260815145200 -0300" channel="Discoveryhomehealth.br">
+    <title lang="pt">Leslie E Lyndsay: Irmãs Pra Toda Obra</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+  </programme>
+  <programme start="20260815145200 -0300" stop="20260815154400 -0300" channel="Discoveryhomehealth.br">
+    <title lang="pt">De Casa Nova</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+  </programme>
+  <programme start="20260815154400 -0300" stop="20260815163600 -0300" channel="Discoveryhomehealth.br">
+    <title lang="pt">Imóveis Que Cabem No Bolso</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+  </programme>
+  <programme start="20260815163600 -0300" stop="20260815172800 -0300" channel="Discoveryhomehealth.br">
+    <title lang="pt">Te Devo Essa! Reforma das Estrelas</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+  </programme>
+  <programme start="20260815172800 -0300" stop="20260815182000 -0300" channel="Discoveryhomehealth.br">
+    <title lang="pt">Irmãos À Obra: Lar Sempre Lar</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+  </programme>
+  <programme start="20260815182000 -0300" stop="20260815191100 -0300" channel="Discoveryhomehealth.br">
+    <title lang="pt">Irmãos à Obra: Compra e Venda</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comportamento</category>
+  </programme>
+  <programme start="20260815191100 -0300" stop="20260815200500 -0300" channel="Discoveryhomehealth.br">
+    <title lang="pt">Menos É Demais</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comportamento</category>
+  </programme>
+  <programme start="20260815200500 -0300" stop="20260815205500 -0300" channel="Discoveryhomehealth.br">
+    <title lang="pt">Mama June: Vida Nova</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+  </programme>
+  <programme start="20260815205500 -0300" stop="20260815214500 -0300" channel="Discoveryhomehealth.br">
+    <title lang="pt">Baylen: Uma Vida Sem Filtro</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+  </programme>
+  <programme start="20260815214500 -0300" stop="20260815223400 -0300" channel="Discoveryhomehealth.br">
+    <title lang="pt">Baylen: Uma Vida Sem Filtro</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+  </programme>
+  <programme start="20260815223400 -0300" stop="20260815232400 -0300" channel="Discoveryhomehealth.br">
+    <title lang="pt">Restaurando Casas Com Dave e Jenny</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comportamento</category>
+  </programme>
+  <programme start="20260815232400 -0300" stop="20260816001400 -0300" channel="Discoveryhomehealth.br">
+    <title lang="pt">Reforma Aloha</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
   </programme>
   <programme channel="Discoverykids.br" start="20260812000200 -0300" stop="20260812000700 -0300">
     <title lang="pt">Mini Beat Power Rockers</title>
@@ -94343,76 +94318,6 @@ Primeiro Claude ensina a receita ao mini chef, depois o aprendiz vai cozinhar so
       <value>[16]</value>
     </rating>
   </programme>
-  <programme start="20260811174000 -0300" stop="20260811185000 -0300" channel="Hboplus.br">
-    <title lang="pt">Pinguim</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Drama</category>
-  </programme>
-  <programme start="20260811185000 -0300" stop="20260811195000 -0300" channel="Hboplus.br">
-    <title lang="pt">Pinguim</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Drama</category>
-  </programme>
-  <programme start="20260811195000 -0300" stop="20260811220000 -0300" channel="Hboplus.br">
-    <title lang="pt">Adão Negro</title>
-    <category lang="pt">Filme</category>
-    <category lang="pt">Aventura</category>
-  </programme>
-  <programme start="20260811220000 -0300" stop="20260811231000 -0300" channel="Hboplus.br">
-    <title lang="pt">A Casa do Dragão</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Drama</category>
-  </programme>
-  <programme start="20260811231000 -0300" stop="20260812011500 -0300" channel="Hboplus.br">
-    <title lang="pt">Liga da Justiça</title>
-    <category lang="pt">Filme</category>
-    <category lang="pt">Ação</category>
-  </programme>
-  <programme start="20260812011500 -0300" stop="20260812021000 -0300" channel="Hboplus.br">
-    <title lang="pt">Watchmen</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Ação</category>
-  </programme>
-  <programme start="20260812021000 -0300" stop="20260812030500 -0300" channel="Hboplus.br">
-    <title lang="pt">Watchmen</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Ação</category>
-  </programme>
-  <programme start="20260812030500 -0300" stop="20260812045500 -0300" channel="Hboplus.br">
-    <title lang="pt">Orgulho e Preconceito e Zumbis</title>
-    <category lang="pt">Filme</category>
-    <category lang="pt">Ação</category>
-  </programme>
-  <programme start="20260812045500 -0300" stop="20260812060000 -0300" channel="Hboplus.br">
-    <title lang="pt">Cuidado Com Quem Chama</title>
-    <category lang="pt">Filme</category>
-    <category lang="pt">Terror</category>
-  </programme>
-  <programme start="20260812060000 -0300" stop="20260812084000 -0300" channel="Hboplus.br">
-    <title lang="pt">Duna</title>
-    <category lang="pt">Filme</category>
-    <category lang="pt">Aventura</category>
-  </programme>
-  <programme start="20260812084000 -0300" stop="20260812102000 -0300" channel="Hboplus.br">
-    <title lang="pt">Invasores</title>
-    <category lang="pt">Filme</category>
-    <category lang="pt">Suspense</category>
-  </programme>
-  <programme start="20260812102000 -0300" stop="20260812123000 -0300" channel="Hboplus.br">
-    <title lang="pt">Superman</title>
-    <category lang="pt">Filme</category>
-    <category lang="pt">Ação</category>
-  </programme>
-  <programme start="20260812123000 -0300" stop="20260812144500 -0300" channel="Hboplus.br">
-    <title lang="pt">Shazam!</title>
-    <category lang="pt">Filme</category>
-    <category lang="pt">Ação</category>
-  </programme>
-  <programme start="20260812144500 -0300" stop="20260812172000 -0300" channel="Hboplus.br">
-    <title lang="pt">Mulher-Maravilha 1984</title>
-    <category lang="pt">Filme</category>
-    <category lang="pt">Ação</category>
-  </programme>
   <programme start="20260812172000 -0300" stop="20260812182500 -0300" channel="Hboplus.br">
     <title lang="pt">Pinguim</title>
     <category lang="pt">Séries</category>
@@ -94577,6 +94482,86 @@ Primeiro Claude ensina a receita ao mini chef, depois o aprendiz vai cozinhar so
     <title lang="pt">Aquaman 2: O Reino Perdido</title>
     <category lang="pt">Filme</category>
     <category lang="pt">Ação</category>
+  </programme>
+  <programme start="20260815011500 -0300" stop="20260815022500 -0300" channel="Hboplus.br">
+    <title lang="pt">Watchmen</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Ação</category>
+  </programme>
+  <programme start="20260815022500 -0300" stop="20260815040500 -0300" channel="Hboplus.br">
+    <title lang="pt">A Garota da Vez</title>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Suspense</category>
+  </programme>
+  <programme start="20260815040500 -0300" stop="20260815060000 -0300" channel="Hboplus.br">
+    <title lang="pt">As Trambiqueiras</title>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Comédia</category>
+  </programme>
+  <programme start="20260815060000 -0300" stop="20260815082500 -0300" channel="Hboplus.br">
+    <title lang="pt">Coringa: Delírio a Dois</title>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Drama</category>
+  </programme>
+  <programme start="20260815082500 -0300" stop="20260815102500 -0300" channel="Hboplus.br">
+    <title lang="pt">Invocação do Mal 3: A Ordem do Demônio</title>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Terror</category>
+  </programme>
+  <programme start="20260815102500 -0300" stop="20260815124000 -0300" channel="Hboplus.br">
+    <title lang="pt">Shazam! Fúria dos Deuses</title>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Ação</category>
+  </programme>
+  <programme start="20260815124000 -0300" stop="20260815134500 -0300" channel="Hboplus.br">
+    <title lang="pt">Watchmen</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Ação</category>
+  </programme>
+  <programme start="20260815134500 -0300" stop="20260815144500 -0300" channel="Hboplus.br">
+    <title lang="pt">Watchmen</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Ação</category>
+  </programme>
+  <programme start="20260815144500 -0300" stop="20260815154000 -0300" channel="Hboplus.br">
+    <title lang="pt">Watchmen</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Ação</category>
+  </programme>
+  <programme start="20260815154000 -0300" stop="20260815163500 -0300" channel="Hboplus.br">
+    <title lang="pt">Watchmen</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Ação</category>
+  </programme>
+  <programme start="20260815163500 -0300" stop="20260815174000 -0300" channel="Hboplus.br">
+    <title lang="pt">Watchmen</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Ação</category>
+  </programme>
+  <programme start="20260815174000 -0300" stop="20260815184500 -0300" channel="Hboplus.br">
+    <title lang="pt">Watchmen</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Ação</category>
+  </programme>
+  <programme start="20260815184500 -0300" stop="20260815194500 -0300" channel="Hboplus.br">
+    <title lang="pt">Watchmen</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Ação</category>
+  </programme>
+  <programme start="20260815194500 -0300" stop="20260815205000 -0300" channel="Hboplus.br">
+    <title lang="pt">Watchmen</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Ação</category>
+  </programme>
+  <programme start="20260815205000 -0300" stop="20260815220000 -0300" channel="Hboplus.br">
+    <title lang="pt">Watchmen</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Ação</category>
+  </programme>
+  <programme start="20260815220000 -0300" stop="20260816001500 -0300" channel="Hboplus.br">
+    <title lang="pt">A Hora do Mal</title>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Terror</category>
   </programme>
   <programme start="20260806220000 -0300" stop="20260807002000 -0300" channel="Hbopop.br">
     <title lang="pt">Homem-Aranha 3</title>
@@ -158800,161 +158785,6 @@ Ao longo de 5 episódios, vamos descobrir como este primeiro ano do ciclo olímp
     <desc lang="pt">Todas as emoções da principal competição de futebol masculino disputada entre clubes europeus.</desc>
     <episode-num system="xmltv_ns">2026..</episode-num>
   </programme>
-  <programme start="20260811175000 -0300" stop="20260811184000 -0300" channel="aande.br">
-    <title lang="pt">Arquivo Morto: O Dna Não Falha</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Investigação</category>
-  </programme>
-  <programme start="20260811184000 -0300" stop="20260811193000 -0300" channel="aande.br">
-    <title lang="pt">Em Nome da Justiça</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Documentário</category>
-  </programme>
-  <programme start="20260811193000 -0300" stop="20260811202000 -0300" channel="aande.br">
-    <title lang="pt">Palavra de Assassino</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Policial</category>
-  </programme>
-  <programme start="20260811202000 -0300" stop="20260811211000 -0300" channel="aande.br">
-    <title lang="pt">Mentes Assassinas</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Investigação</category>
-  </programme>
-  <programme start="20260811211000 -0300" stop="20260811220000 -0300" channel="aande.br">
-    <title lang="pt">Culto À Personalidade</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Documentário</category>
-  </programme>
-  <programme start="20260811220000 -0300" stop="20260811225000 -0300" channel="aande.br">
-    <title lang="pt">Bosch</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Policial</category>
-  </programme>
-  <programme start="20260811225000 -0300" stop="20260811234000 -0300" channel="aande.br">
-    <title lang="pt">Palavra de Assassino</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Policial</category>
-  </programme>
-  <programme start="20260811234000 -0300" stop="20260812003000 -0300" channel="aande.br">
-    <title lang="pt">Mentes Assassinas</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Investigação</category>
-  </programme>
-  <programme start="20260812003000 -0300" stop="20260812012000 -0300" channel="aande.br">
-    <title lang="pt">Culto À Personalidade</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Documentário</category>
-  </programme>
-  <programme start="20260812012000 -0300" stop="20260812021000 -0300" channel="aande.br">
-    <title lang="pt">Me Diga Como Morri</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Investigação</category>
-  </programme>
-  <programme start="20260812021000 -0300" stop="20260812025400 -0300" channel="aande.br">
-    <title lang="pt">As Primeiras 48 Horas</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Policial</category>
-  </programme>
-  <programme start="20260812025400 -0300" stop="20260812033800 -0300" channel="aande.br">
-    <title lang="pt">Casos Arquivados</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Investigação</category>
-  </programme>
-  <programme start="20260812033800 -0300" stop="20260812042200 -0300" channel="aande.br">
-    <title lang="pt">Casos Arquivados</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Investigação</category>
-  </programme>
-  <programme start="20260812042200 -0300" stop="20260812051300 -0300" channel="aande.br">
-    <title lang="pt">Bosch</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Policial</category>
-  </programme>
-  <programme start="20260812051300 -0300" stop="20260812053500 -0300" channel="aande.br">
-    <title lang="pt">Guerra No Trânsito</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Ação</category>
-  </programme>
-  <programme start="20260812053500 -0300" stop="20260812060000 -0300" channel="aande.br">
-    <title lang="pt">Guerra No Trânsito</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Ação</category>
-  </programme>
-  <programme start="20260812060000 -0300" stop="20260812065000 -0300" channel="aande.br">
-    <title lang="pt">Arquivo Morto: O Dna Não Falha</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Investigação</category>
-  </programme>
-  <programme start="20260812065000 -0300" stop="20260812073500 -0300" channel="aande.br">
-    <title lang="pt">Cidade Confidencial</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Investigação</category>
-  </programme>
-  <programme start="20260812073500 -0300" stop="20260812082000 -0300" channel="aande.br">
-    <title lang="pt">Mentes Assassinas</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Investigação</category>
-  </programme>
-  <programme start="20260812082000 -0300" stop="20260812091000 -0300" channel="aande.br">
-    <title lang="pt">Culto À Personalidade</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Documentário</category>
-  </programme>
-  <programme start="20260812091000 -0300" stop="20260812100000 -0300" channel="aande.br">
-    <title lang="pt">As Primeiras 48 Horas</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Policial</category>
-  </programme>
-  <programme start="20260812100000 -0300" stop="20260812105000 -0300" channel="aande.br">
-    <title lang="pt">Casos Arquivados</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Investigação</category>
-  </programme>
-  <programme start="20260812105000 -0300" stop="20260812114000 -0300" channel="aande.br">
-    <title lang="pt">Casos Arquivados</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Investigação</category>
-  </programme>
-  <programme start="20260812114000 -0300" stop="20260812123000 -0300" channel="aande.br">
-    <title lang="pt">Acumuladores Compulsivos</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Reality Show</category>
-  </programme>
-  <programme start="20260812123000 -0300" stop="20260812132000 -0300" channel="aande.br">
-    <title lang="pt">Acumuladores Compulsivos</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Reality Show</category>
-  </programme>
-  <programme start="20260812132000 -0300" stop="20260812145500 -0300" channel="aande.br">
-    <title lang="pt">Acumuladores Compulsivos</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Reality Show</category>
-  </programme>
-  <programme start="20260812145500 -0300" stop="20260812151500 -0300" channel="aande.br">
-    <title lang="pt">Polícia Em Ação</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Policial</category>
-  </programme>
-  <programme start="20260812151500 -0300" stop="20260812154000 -0300" channel="aande.br">
-    <title lang="pt">Polícia Em Ação</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Policial</category>
-  </programme>
-  <programme start="20260812154000 -0300" stop="20260812160000 -0300" channel="aande.br">
-    <title lang="pt">Polícia Em Ação</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Policial</category>
-  </programme>
-  <programme start="20260812160000 -0300" stop="20260812165500 -0300" channel="aande.br">
-    <title lang="pt">Caçadores de Fugitivos</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Policial</category>
-  </programme>
-  <programme start="20260812165500 -0300" stop="20260812175000 -0300" channel="aande.br">
-    <title lang="pt">Bosch</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Policial</category>
-  </programme>
   <programme start="20260812175000 -0300" stop="20260812184000 -0300" channel="aande.br">
     <title lang="pt">Arquivo Morto: O Dna Não Falha</title>
     <category lang="pt">Séries</category>
@@ -159369,6 +159199,211 @@ Ao longo de 5 episódios, vamos descobrir como este primeiro ano do ciclo olímp
     <title lang="pt">Acusado: Fui Eu Que Fiz Isso?</title>
     <category lang="pt">Séries</category>
     <category lang="pt">Investigação</category>
+  </programme>
+  <programme start="20260815002800 -0300" stop="20260815011300 -0300" channel="aande.br">
+    <title lang="pt">Me Diga Como Morri</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Investigação</category>
+  </programme>
+  <programme start="20260815011300 -0300" stop="20260815013500 -0300" channel="aande.br">
+    <title lang="pt">Polícia Em Ação</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Policial</category>
+  </programme>
+  <programme start="20260815013500 -0300" stop="20260815015700 -0300" channel="aande.br">
+    <title lang="pt">Polícia Em Ação</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Policial</category>
+  </programme>
+  <programme start="20260815015700 -0300" stop="20260815024200 -0300" channel="aande.br">
+    <title lang="pt">As Primeiras 48 Horas</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Policial</category>
+  </programme>
+  <programme start="20260815024200 -0300" stop="20260815032700 -0300" channel="aande.br">
+    <title lang="pt">Casos Arquivados</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Investigação</category>
+  </programme>
+  <programme start="20260815032700 -0300" stop="20260815041200 -0300" channel="aande.br">
+    <title lang="pt">Casos Arquivados</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Investigação</category>
+  </programme>
+  <programme start="20260815041200 -0300" stop="20260815050000 -0300" channel="aande.br">
+    <title lang="pt">Bosch</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Policial</category>
+  </programme>
+  <programme start="20260815050000 -0300" stop="20260815052100 -0300" channel="aande.br">
+    <title lang="pt">Guerra No Trânsito</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Ação</category>
+  </programme>
+  <programme start="20260815052100 -0300" stop="20260815054300 -0300" channel="aande.br">
+    <title lang="pt">Guerra No Trânsito</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Ação</category>
+  </programme>
+  <programme start="20260815054300 -0300" stop="20260815060000 -0300" channel="aande.br">
+    <title lang="pt">Rota: A Polícia de Elite</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Policial</category>
+  </programme>
+  <programme start="20260815060000 -0300" stop="20260815064500 -0300" channel="aande.br">
+    <title lang="pt">Acusado: Culpado Ou Inocente?</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20260815064500 -0300" stop="20260815073000 -0300" channel="aande.br">
+    <title lang="pt">Acusado: Culpado Ou Inocente?</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20260815073000 -0300" stop="20260815081500 -0300" channel="aande.br">
+    <title lang="pt">Casos Arquivados</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Investigação</category>
+  </programme>
+  <programme start="20260815081500 -0300" stop="20260815084000 -0300" channel="aande.br">
+    <title lang="pt">Clientes Em Guerra</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+  </programme>
+  <programme start="20260815084000 -0300" stop="20260815090000 -0300" channel="aande.br">
+    <title lang="pt">Clientes Em Guerra</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+  </programme>
+  <programme start="20260815090000 -0300" stop="20260815092500 -0300" channel="aande.br">
+    <title lang="pt">Clientes Em Guerra</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+  </programme>
+  <programme start="20260815092500 -0300" stop="20260815094500 -0300" channel="aande.br">
+    <title lang="pt">Clientes Em Guerra</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+  </programme>
+  <programme start="20260815094500 -0300" stop="20260815101000 -0300" channel="aande.br">
+    <title lang="pt">Quem dá Mais?</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+  </programme>
+  <programme start="20260815101000 -0300" stop="20260815103000 -0300" channel="aande.br">
+    <title lang="pt">Quem dá Mais?</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+  </programme>
+  <programme start="20260815103000 -0300" stop="20260815105500 -0300" channel="aande.br">
+    <title lang="pt">Quem dá Mais?</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+  </programme>
+  <programme start="20260815105500 -0300" stop="20260815111500 -0300" channel="aande.br">
+    <title lang="pt">Quem dá Mais?</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+  </programme>
+  <programme start="20260815111500 -0300" stop="20260815114000 -0300" channel="aande.br">
+    <title lang="pt">Quem dá Mais?</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+  </programme>
+  <programme start="20260815114000 -0300" stop="20260815120000 -0300" channel="aande.br">
+    <title lang="pt">Quem dá Mais?</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+  </programme>
+  <programme start="20260815120000 -0300" stop="20260815122500 -0300" channel="aande.br">
+    <title lang="pt">Quem dá Mais?</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+  </programme>
+  <programme start="20260815122500 -0300" stop="20260815125000 -0300" channel="aande.br">
+    <title lang="pt">Quem dá Mais?</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+  </programme>
+  <programme start="20260815125000 -0300" stop="20260815131500 -0300" channel="aande.br">
+    <title lang="pt">Quem dá Mais?</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+  </programme>
+  <programme start="20260815131500 -0300" stop="20260815134000 -0300" channel="aande.br">
+    <title lang="pt">Quem dá Mais?</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+  </programme>
+  <programme start="20260815134000 -0300" stop="20260815140500 -0300" channel="aande.br">
+    <title lang="pt">Quem dá Mais?</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+  </programme>
+  <programme start="20260815140500 -0300" stop="20260815143000 -0300" channel="aande.br">
+    <title lang="pt">Quem dá Mais?</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+  </programme>
+  <programme start="20260815143000 -0300" stop="20260815145500 -0300" channel="aande.br">
+    <title lang="pt">Quem dá Mais?</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+  </programme>
+  <programme start="20260815145500 -0300" stop="20260815152000 -0300" channel="aande.br">
+    <title lang="pt">Quem dá Mais?</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+  </programme>
+  <programme start="20260815152000 -0300" stop="20260815161000 -0300" channel="aande.br">
+    <title lang="pt">Acusado: Fui Eu Que Fiz Isso?</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Investigação</category>
+  </programme>
+  <programme start="20260815161000 -0300" stop="20260815170000 -0300" channel="aande.br">
+    <title lang="pt">Palavra de Assassino</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Policial</category>
+  </programme>
+  <programme start="20260815170000 -0300" stop="20260815175000 -0300" channel="aande.br">
+    <title lang="pt">Me Diga Como Morri</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Investigação</category>
+  </programme>
+  <programme start="20260815175000 -0300" stop="20260815184000 -0300" channel="aande.br">
+    <title lang="pt">Quem Matou Tupac?</title>
+    <category lang="pt">Documentário</category>
+    <category lang="pt">Investigação</category>
+  </programme>
+  <programme start="20260815184000 -0300" stop="20260815193000 -0300" channel="aande.br">
+    <title lang="pt">As Primeiras 48 Horas: Minutos Críticos</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20260815193000 -0300" stop="20260815202000 -0300" channel="aande.br">
+    <title lang="pt">Esquadrão de Homicídios: Nova Orleans</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20260815202000 -0300" stop="20260815211000 -0300" channel="aande.br">
+    <title lang="pt">Esquadrão de Homicídios: Nova Orleans</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20260815211000 -0300" stop="20260815220000 -0300" channel="aande.br">
+    <title lang="pt">Repúblicas de Terror: Os Segredos Obscuros Das Fraternidades</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Investigação</category>
+  </programme>
+  <programme start="20260815220000 -0300" stop="20260815225000 -0300" channel="aande.br">
+    <title lang="pt">Assassinatos Em Motéis</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Investigação</category>
+  </programme>
+  <programme start="20260815225000 -0300" stop="20260816002000 -0300" channel="aande.br">
+    <title lang="pt">Chicano Squad: Justiça Latina</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
   </programme>
   <programme start="20260806234800 -0300" stop="20260807001100 -0300" channel="adultswim.br">
     <title lang="pt">Justiça Jovem : A Negação</title>
@@ -194321,131 +194356,6 @@ superação, determinação e talento.</desc>
     <title lang="pt">Aeroporto</title>
     <sub-title lang="pt">Área Restrita: Estados Unidos</sub-title>
   </programme>
-  <programme start="20260811170900 -0300" stop="20260811185200 -0300" channel="discoveryhomehealth.br">
-    <title lang="pt">Quilos Mortais: Como Eles Estão Agora?</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Reality Show</category>
-  </programme>
-  <programme start="20260811185200 -0300" stop="20260811203000 -0300" channel="discoveryhomehealth.br">
-    <title lang="pt">Quilos Mortais: Como Eles Estão Agora?</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Reality Show</category>
-  </programme>
-  <programme start="20260811203000 -0300" stop="20260811211900 -0300" channel="discoveryhomehealth.br">
-    <title lang="pt">Grandes Demais</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Medicina</category>
-  </programme>
-  <programme start="20260811211900 -0300" stop="20260811220800 -0300" channel="discoveryhomehealth.br">
-    <title lang="pt">Dra. Sandra Lee: Casos Explosivos</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Reality Show</category>
-  </programme>
-  <programme start="20260811220800 -0300" stop="20260811225700 -0300" channel="discoveryhomehealth.br">
-    <title lang="pt">Dra. Sandra Lee: Casos Explosivos</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Reality Show</category>
-  </programme>
-  <programme start="20260811225700 -0300" stop="20260811232600 -0300" channel="discoveryhomehealth.br">
-    <title lang="pt">Sobre Essa Pele</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Reality Show</category>
-  </programme>
-  <programme start="20260811232600 -0300" stop="20260811235400 -0300" channel="discoveryhomehealth.br">
-    <title lang="pt">Sobre Essa Pele</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Reality Show</category>
-  </programme>
-  <programme start="20260811235400 -0300" stop="20260812013400 -0300" channel="discoveryhomehealth.br">
-    <title lang="pt">Quilos Mortais</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Reality Show</category>
-  </programme>
-  <programme start="20260812013400 -0300" stop="20260812022300 -0300" channel="discoveryhomehealth.br">
-    <title lang="pt">90 Dias Para Casar: Felizes Para Sempre?</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Reality Show</category>
-  </programme>
-  <programme start="20260812022300 -0300" stop="20260812035800 -0300" channel="discoveryhomehealth.br">
-    <title lang="pt">Pesadelo na Cozinha</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Culinária</category>
-  </programme>
-  <programme start="20260812035800 -0300" stop="20260812042600 -0300" channel="discoveryhomehealth.br">
-    <title lang="pt">Sobre Essa Pele</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Reality Show</category>
-  </programme>
-  <programme start="20260812042600 -0300" stop="20260812060000 -0300" channel="discoveryhomehealth.br">
-    <title lang="pt">Quilos Mortais</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Reality Show</category>
-  </programme>
-  <programme start="20260812060000 -0300" stop="20260812064400 -0300" channel="discoveryhomehealth.br">
-    <title lang="pt">Keith &amp; Evan: Reformando Com O Coração</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Reality Show</category>
-  </programme>
-  <programme start="20260812064400 -0300" stop="20260812073500 -0300" channel="discoveryhomehealth.br">
-    <title lang="pt">Irmãos à Obra: Compra e Venda</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Comportamento</category>
-  </programme>
-  <programme start="20260812073500 -0300" stop="20260812081900 -0300" channel="discoveryhomehealth.br">
-    <title lang="pt">SOS Restaurante</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Culinária</category>
-  </programme>
-  <programme start="20260812081900 -0300" stop="20260812091100 -0300" channel="discoveryhomehealth.br">
-    <title lang="pt">A Guerra dos Bolos</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Culinária</category>
-  </programme>
-  <programme start="20260812091100 -0300" stop="20260812100300 -0300" channel="discoveryhomehealth.br">
-    <title lang="pt">90 Dias para Casar: Do Outro Lado</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Reality Show</category>
-  </programme>
-  <programme start="20260812100300 -0300" stop="20260812105800 -0300" channel="discoveryhomehealth.br">
-    <title lang="pt">90 Dias para Casar: Do Outro Lado</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Reality Show</category>
-  </programme>
-  <programme start="20260812105800 -0300" stop="20260812115300 -0300" channel="discoveryhomehealth.br">
-    <title lang="pt">A Pequena Grande Família</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Reality Show</category>
-  </programme>
-  <programme start="20260812115300 -0300" stop="20260812124500 -0300" channel="discoveryhomehealth.br">
-    <title lang="pt">A Pequena Grande Família</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Reality Show</category>
-  </programme>
-  <programme start="20260812124500 -0300" stop="20260812133700 -0300" channel="discoveryhomehealth.br">
-    <title lang="pt">Irmãos À Obra: Lar Sempre Lar</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Reality Show</category>
-  </programme>
-  <programme start="20260812133700 -0300" stop="20260812142900 -0300" channel="discoveryhomehealth.br">
-    <title lang="pt">Irmãos À Obra: Lar Sempre Lar</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Reality Show</category>
-  </programme>
-  <programme start="20260812142900 -0300" stop="20260812152300 -0300" channel="discoveryhomehealth.br">
-    <title lang="pt">Do Velho Ao Novo</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Comportamento</category>
-  </programme>
-  <programme start="20260812152300 -0300" stop="20260812161700 -0300" channel="discoveryhomehealth.br">
-    <title lang="pt">Os Pequenos Johnstons</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Reality Show</category>
-  </programme>
-  <programme start="20260812161700 -0300" stop="20260812170900 -0300" channel="discoveryhomehealth.br">
-    <title lang="pt">Amy e Tammy: Irmãs Contra o Peso</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Reality Show</category>
-  </programme>
   <programme start="20260812170900 -0300" stop="20260812185100 -0300" channel="discoveryhomehealth.br">
     <title lang="pt">Quilos Mortais</title>
     <category lang="pt">Séries</category>
@@ -194725,6 +194635,126 @@ superação, determinação e talento.</desc>
     <title lang="pt">A Batalha dos 100 Cozinheiros</title>
     <category lang="pt">Séries</category>
     <category lang="pt">Reality Show</category>
+  </programme>
+  <programme start="20260815003400 -0300" stop="20260815010100 -0300" channel="discoveryhomehealth.br">
+    <title lang="pt">Duelo Com Bobby Flay</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Culinária</category>
+  </programme>
+  <programme start="20260815010100 -0300" stop="20260815012300 -0300" channel="discoveryhomehealth.br">
+    <title lang="pt">Duelo Com Bobby Flay</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Culinária</category>
+  </programme>
+  <programme start="20260815012300 -0300" stop="20260815015000 -0300" channel="discoveryhomehealth.br">
+    <title lang="pt">Duelo Com Bobby Flay</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Culinária</category>
+  </programme>
+  <programme start="20260815015000 -0300" stop="20260815023900 -0300" channel="discoveryhomehealth.br">
+    <title lang="pt">90 Dias Para Casar: Felizes Para Sempre?</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+  </programme>
+  <programme start="20260815023900 -0300" stop="20260815042700 -0300" channel="discoveryhomehealth.br">
+    <title lang="pt">Masterchef Brasil</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Culinária</category>
+  </programme>
+  <programme start="20260815042700 -0300" stop="20260815060000 -0300" channel="discoveryhomehealth.br">
+    <title lang="pt">Quilos Mortais</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+  </programme>
+  <programme start="20260815060000 -0300" stop="20260815064900 -0300" channel="discoveryhomehealth.br">
+    <title lang="pt">O Sócio</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+  </programme>
+  <programme start="20260815064900 -0300" stop="20260815073800 -0300" channel="discoveryhomehealth.br">
+    <title lang="pt">24 Em 24: O Último Chef em Pé</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+  </programme>
+  <programme start="20260815073800 -0300" stop="20260815093200 -0300" channel="discoveryhomehealth.br">
+    <title lang="pt">Masterchef Celebridades</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Culinária</category>
+  </programme>
+  <programme start="20260815093200 -0300" stop="20260815102400 -0300" channel="discoveryhomehealth.br">
+    <title lang="pt">Casa Em Obra: Do Pesadelo Ao Sonho</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+  </programme>
+  <programme start="20260815121200 -0300" stop="20260815130600 -0300" channel="discoveryhomehealth.br">
+    <title lang="pt">Irmãos à Obra: Compra e Venda</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comportamento</category>
+  </programme>
+  <programme start="20260815130600 -0300" stop="20260815140000 -0300" channel="discoveryhomehealth.br">
+    <title lang="pt">Irmãos à Obra: Compra e Venda</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comportamento</category>
+  </programme>
+  <programme start="20260815140000 -0300" stop="20260815145200 -0300" channel="discoveryhomehealth.br">
+    <title lang="pt">Leslie E Lyndsay: Irmãs Pra Toda Obra</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+  </programme>
+  <programme start="20260815145200 -0300" stop="20260815154400 -0300" channel="discoveryhomehealth.br">
+    <title lang="pt">De Casa Nova</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+  </programme>
+  <programme start="20260815154400 -0300" stop="20260815163600 -0300" channel="discoveryhomehealth.br">
+    <title lang="pt">Imóveis Que Cabem No Bolso</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+  </programme>
+  <programme start="20260815163600 -0300" stop="20260815172800 -0300" channel="discoveryhomehealth.br">
+    <title lang="pt">Te Devo Essa! Reforma das Estrelas</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+  </programme>
+  <programme start="20260815172800 -0300" stop="20260815182000 -0300" channel="discoveryhomehealth.br">
+    <title lang="pt">Irmãos À Obra: Lar Sempre Lar</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+  </programme>
+  <programme start="20260815182000 -0300" stop="20260815191100 -0300" channel="discoveryhomehealth.br">
+    <title lang="pt">Irmãos à Obra: Compra e Venda</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comportamento</category>
+  </programme>
+  <programme start="20260815191100 -0300" stop="20260815200500 -0300" channel="discoveryhomehealth.br">
+    <title lang="pt">Menos É Demais</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comportamento</category>
+  </programme>
+  <programme start="20260815200500 -0300" stop="20260815205500 -0300" channel="discoveryhomehealth.br">
+    <title lang="pt">Mama June: Vida Nova</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+  </programme>
+  <programme start="20260815205500 -0300" stop="20260815214500 -0300" channel="discoveryhomehealth.br">
+    <title lang="pt">Baylen: Uma Vida Sem Filtro</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+  </programme>
+  <programme start="20260815214500 -0300" stop="20260815223400 -0300" channel="discoveryhomehealth.br">
+    <title lang="pt">Baylen: Uma Vida Sem Filtro</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+  </programme>
+  <programme start="20260815223400 -0300" stop="20260815232400 -0300" channel="discoveryhomehealth.br">
+    <title lang="pt">Restaurando Casas Com Dave e Jenny</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comportamento</category>
+  </programme>
+  <programme start="20260815232400 -0300" stop="20260816001400 -0300" channel="discoveryhomehealth.br">
+    <title lang="pt">Reforma Aloha</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
   </programme>
   <programme channel="discoverykids.br" start="20260812000200 -0300" stop="20260812000700 -0300">
     <title lang="pt">Mini Beat Power Rockers</title>
@@ -230477,76 +230507,6 @@ Primeiro Claude ensina a receita ao mini chef, depois o aprendiz vai cozinhar so
       <value>[16]</value>
     </rating>
   </programme>
-  <programme start="20260811174000 -0300" stop="20260811185000 -0300" channel="hboplusbrasil.br">
-    <title lang="pt">Pinguim</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Drama</category>
-  </programme>
-  <programme start="20260811185000 -0300" stop="20260811195000 -0300" channel="hboplusbrasil.br">
-    <title lang="pt">Pinguim</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Drama</category>
-  </programme>
-  <programme start="20260811195000 -0300" stop="20260811220000 -0300" channel="hboplusbrasil.br">
-    <title lang="pt">Adão Negro</title>
-    <category lang="pt">Filme</category>
-    <category lang="pt">Aventura</category>
-  </programme>
-  <programme start="20260811220000 -0300" stop="20260811231000 -0300" channel="hboplusbrasil.br">
-    <title lang="pt">A Casa do Dragão</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Drama</category>
-  </programme>
-  <programme start="20260811231000 -0300" stop="20260812011500 -0300" channel="hboplusbrasil.br">
-    <title lang="pt">Liga da Justiça</title>
-    <category lang="pt">Filme</category>
-    <category lang="pt">Ação</category>
-  </programme>
-  <programme start="20260812011500 -0300" stop="20260812021000 -0300" channel="hboplusbrasil.br">
-    <title lang="pt">Watchmen</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Ação</category>
-  </programme>
-  <programme start="20260812021000 -0300" stop="20260812030500 -0300" channel="hboplusbrasil.br">
-    <title lang="pt">Watchmen</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Ação</category>
-  </programme>
-  <programme start="20260812030500 -0300" stop="20260812045500 -0300" channel="hboplusbrasil.br">
-    <title lang="pt">Orgulho e Preconceito e Zumbis</title>
-    <category lang="pt">Filme</category>
-    <category lang="pt">Ação</category>
-  </programme>
-  <programme start="20260812045500 -0300" stop="20260812060000 -0300" channel="hboplusbrasil.br">
-    <title lang="pt">Cuidado Com Quem Chama</title>
-    <category lang="pt">Filme</category>
-    <category lang="pt">Terror</category>
-  </programme>
-  <programme start="20260812060000 -0300" stop="20260812084000 -0300" channel="hboplusbrasil.br">
-    <title lang="pt">Duna</title>
-    <category lang="pt">Filme</category>
-    <category lang="pt">Aventura</category>
-  </programme>
-  <programme start="20260812084000 -0300" stop="20260812102000 -0300" channel="hboplusbrasil.br">
-    <title lang="pt">Invasores</title>
-    <category lang="pt">Filme</category>
-    <category lang="pt">Suspense</category>
-  </programme>
-  <programme start="20260812102000 -0300" stop="20260812123000 -0300" channel="hboplusbrasil.br">
-    <title lang="pt">Superman</title>
-    <category lang="pt">Filme</category>
-    <category lang="pt">Ação</category>
-  </programme>
-  <programme start="20260812123000 -0300" stop="20260812144500 -0300" channel="hboplusbrasil.br">
-    <title lang="pt">Shazam!</title>
-    <category lang="pt">Filme</category>
-    <category lang="pt">Ação</category>
-  </programme>
-  <programme start="20260812144500 -0300" stop="20260812172000 -0300" channel="hboplusbrasil.br">
-    <title lang="pt">Mulher-Maravilha 1984</title>
-    <category lang="pt">Filme</category>
-    <category lang="pt">Ação</category>
-  </programme>
   <programme start="20260812172000 -0300" stop="20260812182500 -0300" channel="hboplusbrasil.br">
     <title lang="pt">Pinguim</title>
     <category lang="pt">Séries</category>
@@ -230711,6 +230671,86 @@ Primeiro Claude ensina a receita ao mini chef, depois o aprendiz vai cozinhar so
     <title lang="pt">Aquaman 2: O Reino Perdido</title>
     <category lang="pt">Filme</category>
     <category lang="pt">Ação</category>
+  </programme>
+  <programme start="20260815011500 -0300" stop="20260815022500 -0300" channel="hboplusbrasil.br">
+    <title lang="pt">Watchmen</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Ação</category>
+  </programme>
+  <programme start="20260815022500 -0300" stop="20260815040500 -0300" channel="hboplusbrasil.br">
+    <title lang="pt">A Garota da Vez</title>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Suspense</category>
+  </programme>
+  <programme start="20260815040500 -0300" stop="20260815060000 -0300" channel="hboplusbrasil.br">
+    <title lang="pt">As Trambiqueiras</title>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Comédia</category>
+  </programme>
+  <programme start="20260815060000 -0300" stop="20260815082500 -0300" channel="hboplusbrasil.br">
+    <title lang="pt">Coringa: Delírio a Dois</title>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Drama</category>
+  </programme>
+  <programme start="20260815082500 -0300" stop="20260815102500 -0300" channel="hboplusbrasil.br">
+    <title lang="pt">Invocação do Mal 3: A Ordem do Demônio</title>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Terror</category>
+  </programme>
+  <programme start="20260815102500 -0300" stop="20260815124000 -0300" channel="hboplusbrasil.br">
+    <title lang="pt">Shazam! Fúria dos Deuses</title>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Ação</category>
+  </programme>
+  <programme start="20260815124000 -0300" stop="20260815134500 -0300" channel="hboplusbrasil.br">
+    <title lang="pt">Watchmen</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Ação</category>
+  </programme>
+  <programme start="20260815134500 -0300" stop="20260815144500 -0300" channel="hboplusbrasil.br">
+    <title lang="pt">Watchmen</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Ação</category>
+  </programme>
+  <programme start="20260815144500 -0300" stop="20260815154000 -0300" channel="hboplusbrasil.br">
+    <title lang="pt">Watchmen</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Ação</category>
+  </programme>
+  <programme start="20260815154000 -0300" stop="20260815163500 -0300" channel="hboplusbrasil.br">
+    <title lang="pt">Watchmen</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Ação</category>
+  </programme>
+  <programme start="20260815163500 -0300" stop="20260815174000 -0300" channel="hboplusbrasil.br">
+    <title lang="pt">Watchmen</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Ação</category>
+  </programme>
+  <programme start="20260815174000 -0300" stop="20260815184500 -0300" channel="hboplusbrasil.br">
+    <title lang="pt">Watchmen</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Ação</category>
+  </programme>
+  <programme start="20260815184500 -0300" stop="20260815194500 -0300" channel="hboplusbrasil.br">
+    <title lang="pt">Watchmen</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Ação</category>
+  </programme>
+  <programme start="20260815194500 -0300" stop="20260815205000 -0300" channel="hboplusbrasil.br">
+    <title lang="pt">Watchmen</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Ação</category>
+  </programme>
+  <programme start="20260815205000 -0300" stop="20260815220000 -0300" channel="hboplusbrasil.br">
+    <title lang="pt">Watchmen</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Ação</category>
+  </programme>
+  <programme start="20260815220000 -0300" stop="20260816001500 -0300" channel="hboplusbrasil.br">
+    <title lang="pt">A Hora do Mal</title>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Terror</category>
   </programme>
   <programme start="20260806220000 -0300" stop="20260807002000 -0300" channel="hbopop.br">
     <title lang="pt">Homem-Aranha 3</title>
