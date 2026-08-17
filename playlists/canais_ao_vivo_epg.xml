@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="epg-br-auto-generator" generator-info-url="https://github.com/" date="20260816184840 +0000">
+<tv generator-info-name="epg-br-auto-generator" generator-info-url="https://github.com/" date="20260817015703 +0000">
   <channel id="24HAnimes">
     <display-name>Record News HD</display-name>
     <icon src="http://top-logos.xyz/pt/recordnews.png" />
@@ -880,221 +880,6 @@
     <display-name>Woohoo FHD</display-name>
     <icon src="https://img.nnl.pw/draco/woohoo.png" />
   </channel>
-  <programme start="20260815175000 -0300" stop="20260815184000 -0300" channel="AE.br">
-    <title lang="pt">Quem Matou Tupac?</title>
-    <category lang="pt">Documentário</category>
-    <category lang="pt">Investigação</category>
-  </programme>
-  <programme start="20260815184000 -0300" stop="20260815193000 -0300" channel="AE.br">
-    <title lang="pt">As Primeiras 48 Horas: Minutos Críticos</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Documentário</category>
-  </programme>
-  <programme start="20260815193000 -0300" stop="20260815202000 -0300" channel="AE.br">
-    <title lang="pt">Esquadrão de Homicídios: Nova Orleans</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Documentário</category>
-  </programme>
-  <programme start="20260815202000 -0300" stop="20260815211000 -0300" channel="AE.br">
-    <title lang="pt">Esquadrão de Homicídios: Nova Orleans</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Documentário</category>
-  </programme>
-  <programme start="20260815211000 -0300" stop="20260815220000 -0300" channel="AE.br">
-    <title lang="pt">Repúblicas de Terror: Os Segredos Obscuros Das Fraternidades</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Investigação</category>
-  </programme>
-  <programme start="20260815220000 -0300" stop="20260815225000 -0300" channel="AE.br">
-    <title lang="pt">Assassinatos Em Motéis</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Investigação</category>
-  </programme>
-  <programme start="20260815225000 -0300" stop="20260816002000 -0300" channel="AE.br">
-    <title lang="pt">Chicano Squad: Justiça Latina</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Documentário</category>
-  </programme>
-  <programme start="20260816002000 -0300" stop="20260816004500 -0300" channel="AE.br">
-    <title lang="pt">Quem dá Mais?</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Reality Show</category>
-  </programme>
-  <programme start="20260816004500 -0300" stop="20260816010500 -0300" channel="AE.br">
-    <title lang="pt">Quem dá Mais?</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Reality Show</category>
-  </programme>
-  <programme start="20260816010500 -0300" stop="20260816013000 -0300" channel="AE.br">
-    <title lang="pt">Quem dá Mais?</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Reality Show</category>
-  </programme>
-  <programme start="20260816013000 -0300" stop="20260816015000 -0300" channel="AE.br">
-    <title lang="pt">Quem dá Mais?</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Reality Show</category>
-  </programme>
-  <programme start="20260816015000 -0300" stop="20260816021500 -0300" channel="AE.br">
-    <title lang="pt">Quem dá Mais?</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Reality Show</category>
-  </programme>
-  <programme start="20260816021500 -0300" stop="20260816023500 -0300" channel="AE.br">
-    <title lang="pt">Quem dá Mais?</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Reality Show</category>
-  </programme>
-  <programme start="20260816023500 -0300" stop="20260816030000 -0300" channel="AE.br">
-    <title lang="pt">Quem dá Mais?</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Reality Show</category>
-  </programme>
-  <programme start="20260816030000 -0300" stop="20260816032000 -0300" channel="AE.br">
-    <title lang="pt">Quem dá Mais?</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Reality Show</category>
-  </programme>
-  <programme start="20260816032000 -0300" stop="20260816034500 -0300" channel="AE.br">
-    <title lang="pt">Quem dá Mais?</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Reality Show</category>
-  </programme>
-  <programme start="20260816034500 -0300" stop="20260816040500 -0300" channel="AE.br">
-    <title lang="pt">Quem dá Mais?</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Reality Show</category>
-  </programme>
-  <programme start="20260816040500 -0300" stop="20260816042500 -0300" channel="AE.br">
-    <title lang="pt">Quem dá Mais?</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Reality Show</category>
-  </programme>
-  <programme start="20260816042500 -0300" stop="20260816051000 -0300" channel="AE.br">
-    <title lang="pt">Cidade Confidencial</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Investigação</category>
-  </programme>
-  <programme start="20260816051000 -0300" stop="20260816060000 -0300" channel="AE.br">
-    <title lang="pt">Acumuladores Compulsivos</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Reality Show</category>
-  </programme>
-  <programme start="20260816060000 -0300" stop="20260816073000 -0300" channel="AE.br">
-    <title lang="pt">Acusado: Culpado Ou Inocente?</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Documentário</category>
-  </programme>
-  <programme start="20260816073000 -0300" stop="20260816081500 -0300" channel="AE.br">
-    <title lang="pt">Casos Arquivados</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Investigação</category>
-  </programme>
-  <programme start="20260816081500 -0300" stop="20260816090000 -0300" channel="AE.br">
-    <title lang="pt">As Primeiras 48 Horas</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Policial</category>
-  </programme>
-  <programme start="20260816090000 -0300" stop="20260816092500 -0300" channel="AE.br">
-    <title lang="pt">Guerra No Trânsito</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Ação</category>
-  </programme>
-  <programme start="20260816092500 -0300" stop="20260816094500 -0300" channel="AE.br">
-    <title lang="pt">Guerra No Trânsito</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Ação</category>
-  </programme>
-  <programme start="20260816094500 -0300" stop="20260816101000 -0300" channel="AE.br">
-    <title lang="pt">Quem dá Mais?</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Reality Show</category>
-  </programme>
-  <programme start="20260816101000 -0300" stop="20260816103000 -0300" channel="AE.br">
-    <title lang="pt">Quem dá Mais?</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Reality Show</category>
-  </programme>
-  <programme start="20260816103000 -0300" stop="20260816105500 -0300" channel="AE.br">
-    <title lang="pt">Quem dá Mais?</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Reality Show</category>
-  </programme>
-  <programme start="20260816105500 -0300" stop="20260816111500 -0300" channel="AE.br">
-    <title lang="pt">Quem dá Mais?</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Reality Show</category>
-  </programme>
-  <programme start="20260816111500 -0300" stop="20260816114000 -0300" channel="AE.br">
-    <title lang="pt">Quem dá Mais?</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Reality Show</category>
-  </programme>
-  <programme start="20260816114000 -0300" stop="20260816120000 -0300" channel="AE.br">
-    <title lang="pt">Quem dá Mais?</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Reality Show</category>
-  </programme>
-  <programme start="20260816120000 -0300" stop="20260816122500 -0300" channel="AE.br">
-    <title lang="pt">Quem dá Mais?</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Reality Show</category>
-  </programme>
-  <programme start="20260816122500 -0300" stop="20260816125000 -0300" channel="AE.br">
-    <title lang="pt">Quem dá Mais?</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Reality Show</category>
-  </programme>
-  <programme start="20260816125000 -0300" stop="20260816131500 -0300" channel="AE.br">
-    <title lang="pt">Quem dá Mais?</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Reality Show</category>
-  </programme>
-  <programme start="20260816131500 -0300" stop="20260816134000 -0300" channel="AE.br">
-    <title lang="pt">Quem dá Mais?</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Reality Show</category>
-  </programme>
-  <programme start="20260816134000 -0300" stop="20260816140500 -0300" channel="AE.br">
-    <title lang="pt">Quem dá Mais?</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Reality Show</category>
-  </programme>
-  <programme start="20260816140500 -0300" stop="20260816143000 -0300" channel="AE.br">
-    <title lang="pt">Quem dá Mais?</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Reality Show</category>
-  </programme>
-  <programme start="20260816143000 -0300" stop="20260816145000 -0300" channel="AE.br">
-    <title lang="pt">Quem dá Mais?</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Reality Show</category>
-  </programme>
-  <programme start="20260816145000 -0300" stop="20260816151500 -0300" channel="AE.br">
-    <title lang="pt">Quem dá Mais?</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Reality Show</category>
-  </programme>
-  <programme start="20260816151500 -0300" stop="20260816153500 -0300" channel="AE.br">
-    <title lang="pt">Quem dá Mais?</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Reality Show</category>
-  </programme>
-  <programme start="20260816153500 -0300" stop="20260816162500 -0300" channel="AE.br">
-    <title lang="pt">Cidade Confidencial</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Investigação</category>
-  </programme>
-  <programme start="20260816162500 -0300" stop="20260816171500 -0300" channel="AE.br">
-    <title lang="pt">Cidade Confidencial</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Investigação</category>
-  </programme>
-  <programme start="20260816171500 -0300" stop="20260816180500 -0300" channel="AE.br">
-    <title lang="pt">Acusado: Culpado Ou Inocente?</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Documentário</category>
-  </programme>
   <programme start="20260816180500 -0300" stop="20260816185500 -0300" channel="AE.br">
     <title lang="pt">Segredos Das Celebridades: Sex Tapes</title>
     <category lang="pt">Séries</category>
@@ -1504,6 +1289,161 @@
     <title lang="pt">Mentes Assassinas</title>
     <category lang="pt">Séries</category>
     <category lang="pt">Investigação</category>
+  </programme>
+  <programme start="20260819002500 -0300" stop="20260819011500 -0300" channel="AE.br">
+    <title lang="pt">Culto À Personalidade</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20260819011500 -0300" stop="20260819020500 -0300" channel="AE.br">
+    <title lang="pt">Me Diga Como Morri</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Investigação</category>
+  </programme>
+  <programme start="20260819020500 -0300" stop="20260819025000 -0300" channel="AE.br">
+    <title lang="pt">As Primeiras 48 Horas</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Policial</category>
+  </programme>
+  <programme start="20260819025000 -0300" stop="20260819033500 -0300" channel="AE.br">
+    <title lang="pt">Casos Arquivados</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Investigação</category>
+  </programme>
+  <programme start="20260819033500 -0300" stop="20260819042500 -0300" channel="AE.br">
+    <title lang="pt">Casos Arquivados</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Investigação</category>
+  </programme>
+  <programme start="20260819042500 -0300" stop="20260819051300 -0300" channel="AE.br">
+    <title lang="pt">Bosch</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Policial</category>
+  </programme>
+  <programme start="20260819051300 -0300" stop="20260819053500 -0300" channel="AE.br">
+    <title lang="pt">Guerra No Trânsito</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Ação</category>
+  </programme>
+  <programme start="20260819053500 -0300" stop="20260819060000 -0300" channel="AE.br">
+    <title lang="pt">Guerra No Trânsito</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Ação</category>
+  </programme>
+  <programme start="20260819060000 -0300" stop="20260819065000 -0300" channel="AE.br">
+    <title lang="pt">Arquivo Morto: O Dna Não Falha</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Investigação</category>
+  </programme>
+  <programme start="20260819065000 -0300" stop="20260819073500 -0300" channel="AE.br">
+    <title lang="pt">Cidade Confidencial</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Investigação</category>
+  </programme>
+  <programme start="20260819073500 -0300" stop="20260819082000 -0300" channel="AE.br">
+    <title lang="pt">Mentes Assassinas</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Investigação</category>
+  </programme>
+  <programme start="20260819082000 -0300" stop="20260819091000 -0300" channel="AE.br">
+    <title lang="pt">Culto À Personalidade</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20260819091000 -0300" stop="20260819100000 -0300" channel="AE.br">
+    <title lang="pt">As Primeiras 48 Horas</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Policial</category>
+  </programme>
+  <programme start="20260819100000 -0300" stop="20260819105000 -0300" channel="AE.br">
+    <title lang="pt">Casos Arquivados</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Investigação</category>
+  </programme>
+  <programme start="20260819105000 -0300" stop="20260819114000 -0300" channel="AE.br">
+    <title lang="pt">Casos Arquivados</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Investigação</category>
+  </programme>
+  <programme start="20260819114000 -0300" stop="20260819123000 -0300" channel="AE.br">
+    <title lang="pt">Acumuladores Compulsivos</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+  </programme>
+  <programme start="20260819123000 -0300" stop="20260819132000 -0300" channel="AE.br">
+    <title lang="pt">Acumuladores Compulsivos</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+  </programme>
+  <programme start="20260819132000 -0300" stop="20260819145500 -0300" channel="AE.br">
+    <title lang="pt">Acumuladores Compulsivos</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+  </programme>
+  <programme start="20260819145500 -0300" stop="20260819151500 -0300" channel="AE.br">
+    <title lang="pt">Polícia Em Ação</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Policial</category>
+  </programme>
+  <programme start="20260819151500 -0300" stop="20260819154000 -0300" channel="AE.br">
+    <title lang="pt">Polícia Em Ação</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Policial</category>
+  </programme>
+  <programme start="20260819154000 -0300" stop="20260819160000 -0300" channel="AE.br">
+    <title lang="pt">Polícia Em Ação</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Policial</category>
+  </programme>
+  <programme start="20260819160000 -0300" stop="20260819165500 -0300" channel="AE.br">
+    <title lang="pt">Caçadores de Fugitivos</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Policial</category>
+  </programme>
+  <programme start="20260819165500 -0300" stop="20260819175000 -0300" channel="AE.br">
+    <title lang="pt">Bosch</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Policial</category>
+  </programme>
+  <programme start="20260819175000 -0300" stop="20260819184000 -0300" channel="AE.br">
+    <title lang="pt">Arquivo Morto: O Dna Não Falha</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Investigação</category>
+  </programme>
+  <programme start="20260819184000 -0300" stop="20260819193000 -0300" channel="AE.br">
+    <title lang="pt">Cidade Confidencial</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Investigação</category>
+  </programme>
+  <programme start="20260819193000 -0300" stop="20260819202000 -0300" channel="AE.br">
+    <title lang="pt">As Primeiras 48 Horas: Minutos Críticos</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20260819202000 -0300" stop="20260819211000 -0300" channel="AE.br">
+    <title lang="pt">Esquadrão de Homicídios: Nova Orleans</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20260819211000 -0300" stop="20260819220000 -0300" channel="AE.br">
+    <title lang="pt">Esquadrão de Homicídios: Nova Orleans</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20260819220000 -0300" stop="20260819224500 -0300" channel="AE.br">
+    <title lang="pt">Bosch</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Policial</category>
+  </programme>
+  <programme start="20260819224500 -0300" stop="20260819233500 -0300" channel="AE.br">
+    <title lang="pt">Cidade Confidencial</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Investigação</category>
+  </programme>
+  <programme start="20260819233500 -0300" stop="20260820002500 -0300" channel="AE.br">
+    <title lang="pt">As Primeiras 48 Horas: Minutos Críticos</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
   </programme>
   <programme start="20260815220000 -0300" stop="20260816002500 -0300" channel="AMC.br">
     <title lang="pt">O Ataque</title>
@@ -28228,136 +28168,6 @@ autenticidade nacional e negra brasileira nos anos 1970.
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20260815172800 -0300" stop="20260815182000 -0300" channel="DiscoveryHomeHealth.br">
-    <title lang="pt">Irmãos À Obra: Lar Sempre Lar</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Reality Show</category>
-  </programme>
-  <programme start="20260815182000 -0300" stop="20260815191100 -0300" channel="DiscoveryHomeHealth.br">
-    <title lang="pt">Irmãos à Obra: Compra e Venda</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Comportamento</category>
-  </programme>
-  <programme start="20260815191100 -0300" stop="20260815200500 -0300" channel="DiscoveryHomeHealth.br">
-    <title lang="pt">Menos É Demais</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Comportamento</category>
-  </programme>
-  <programme start="20260815200500 -0300" stop="20260815205500 -0300" channel="DiscoveryHomeHealth.br">
-    <title lang="pt">Mama June: Vida Nova</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Reality Show</category>
-  </programme>
-  <programme start="20260815205500 -0300" stop="20260815214500 -0300" channel="DiscoveryHomeHealth.br">
-    <title lang="pt">Baylen: Uma Vida Sem Filtro</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Reality Show</category>
-  </programme>
-  <programme start="20260815214500 -0300" stop="20260815223400 -0300" channel="DiscoveryHomeHealth.br">
-    <title lang="pt">Baylen: Uma Vida Sem Filtro</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Reality Show</category>
-  </programme>
-  <programme start="20260815223400 -0300" stop="20260815232400 -0300" channel="DiscoveryHomeHealth.br">
-    <title lang="pt">Restaurando Casas Com Dave e Jenny</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Comportamento</category>
-  </programme>
-  <programme start="20260815232400 -0300" stop="20260816001400 -0300" channel="DiscoveryHomeHealth.br">
-    <title lang="pt">Reforma Aloha</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Documentário</category>
-  </programme>
-  <programme start="20260816001400 -0300" stop="20260816010300 -0300" channel="DiscoveryHomeHealth.br">
-    <title lang="pt">Reforma em Família com Izzy</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Reality Show</category>
-  </programme>
-  <programme start="20260816010300 -0300" stop="20260816015200 -0300" channel="DiscoveryHomeHealth.br">
-    <title lang="pt">Reformar Para Vender Com Tarek E Heather</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Reality Show</category>
-  </programme>
-  <programme start="20260816015200 -0300" stop="20260816021800 -0300" channel="DiscoveryHomeHealth.br">
-    <title lang="pt">Reformas Incríveis</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Reality Show</category>
-  </programme>
-  <programme start="20260816021800 -0300" stop="20260816024300 -0300" channel="DiscoveryHomeHealth.br">
-    <title lang="pt">Reformas Incríveis</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Reality Show</category>
-  </programme>
-  <programme start="20260816024300 -0300" stop="20260816033200 -0300" channel="DiscoveryHomeHealth.br">
-    <title lang="pt">Irmãos À Obra: Um Lar Para Amar</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Comportamento</category>
-  </programme>
-  <programme start="20260816033200 -0300" stop="20260816051100 -0300" channel="DiscoveryHomeHealth.br">
-    <title lang="pt">90 Dias Para Casar: Felizes Para Sempre?</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Reality Show</category>
-  </programme>
-  <programme start="20260816051100 -0300" stop="20260816060000 -0300" channel="DiscoveryHomeHealth.br">
-    <title lang="pt">90 Dias Para Casar: Felizes Para Sempre?</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Reality Show</category>
-  </programme>
-  <programme start="20260816060000 -0300" stop="20260816062700 -0300" channel="DiscoveryHomeHealth.br">
-    <title lang="pt">Reformas Incríveis</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Reality Show</category>
-  </programme>
-  <programme start="20260816062700 -0300" stop="20260816071600 -0300" channel="DiscoveryHomeHealth.br">
-    <title lang="pt">Salvando Reformas Com Jasmine Roth</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Reality Show</category>
-  </programme>
-  <programme start="20260816071600 -0300" stop="20260816080500 -0300" channel="DiscoveryHomeHealth.br">
-    <title lang="pt">Restaurando Casas Com Dave e Jenny</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Comportamento</category>
-  </programme>
-  <programme start="20260816080500 -0300" stop="20260816085400 -0300" channel="DiscoveryHomeHealth.br">
-    <title lang="pt">Restaurando Casas Com Dave e Jenny</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Comportamento</category>
-  </programme>
-  <programme start="20260816085400 -0300" stop="20260816094100 -0300" channel="DiscoveryHomeHealth.br">
-    <title lang="pt">Gordon Ramsay: Do Inferno ao Paraíso em 24 Horas</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Culinária</category>
-  </programme>
-  <programme start="20260816094100 -0300" stop="20260816112800 -0300" channel="DiscoveryHomeHealth.br">
-    <title lang="pt">Pesadelo Na Cozinha</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Culinária</category>
-  </programme>
-  <programme start="20260816112800 -0300" stop="20260816132700 -0300" channel="DiscoveryHomeHealth.br">
-    <title lang="pt">Masterchef Brasil</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Culinária</category>
-  </programme>
-  <programme start="20260816132700 -0300" stop="20260816141900 -0300" channel="DiscoveryHomeHealth.br">
-    <title lang="pt">A Batalha dos 100 Cozinheiros</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Reality Show</category>
-  </programme>
-  <programme start="20260816141900 -0300" stop="20260816151300 -0300" channel="DiscoveryHomeHealth.br">
-    <title lang="pt">Reformar Para Vender Com Tarek E Heather</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Reality Show</category>
-  </programme>
-  <programme start="20260816151300 -0300" stop="20260816160700 -0300" channel="DiscoveryHomeHealth.br">
-    <title lang="pt">Irmãos à Obra: Compra e Venda</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Comportamento</category>
-  </programme>
-  <programme start="20260816160700 -0300" stop="20260816175400 -0300" channel="DiscoveryHomeHealth.br">
-    <title lang="pt">Quilos Mortais</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Reality Show</category>
-  </programme>
   <programme start="20260816175400 -0300" stop="20260816182200 -0300" channel="DiscoveryHomeHealth.br">
     <title lang="pt">Sobre Essa Pele</title>
     <category lang="pt">Séries</category>
@@ -28644,6 +28454,126 @@ autenticidade nacional e negra brasileira nos anos 1970.
     <category lang="pt">Reality Show</category>
   </programme>
   <programme start="20260818235400 -0300" stop="20260819013400 -0300" channel="DiscoveryHomeHealth.br">
+    <title lang="pt">Quilos Mortais</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+  </programme>
+  <programme start="20260819013400 -0300" stop="20260819022300 -0300" channel="DiscoveryHomeHealth.br">
+    <title lang="pt">90 Dias Para Casar: Felizes Para Sempre?</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+  </programme>
+  <programme start="20260819022300 -0300" stop="20260819035800 -0300" channel="DiscoveryHomeHealth.br">
+    <title lang="pt">Pesadelo na Cozinha</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Culinária</category>
+  </programme>
+  <programme start="20260819035800 -0300" stop="20260819042600 -0300" channel="DiscoveryHomeHealth.br">
+    <title lang="pt">Sobre Essa Pele</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+  </programme>
+  <programme start="20260819042600 -0300" stop="20260819060000 -0300" channel="DiscoveryHomeHealth.br">
+    <title lang="pt">Quilos Mortais</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+  </programme>
+  <programme start="20260819060000 -0300" stop="20260819064400 -0300" channel="DiscoveryHomeHealth.br">
+    <title lang="pt">Keith &amp; Evan: Reformando Com O Coração</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+  </programme>
+  <programme start="20260819064400 -0300" stop="20260819073500 -0300" channel="DiscoveryHomeHealth.br">
+    <title lang="pt">Irmãos à Obra: Compra e Venda</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comportamento</category>
+  </programme>
+  <programme start="20260819073500 -0300" stop="20260819081900 -0300" channel="DiscoveryHomeHealth.br">
+    <title lang="pt">SOS Restaurante</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Culinária</category>
+  </programme>
+  <programme start="20260819081900 -0300" stop="20260819091100 -0300" channel="DiscoveryHomeHealth.br">
+    <title lang="pt">A Guerra dos Bolos</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Culinária</category>
+  </programme>
+  <programme start="20260819091100 -0300" stop="20260819105800 -0300" channel="DiscoveryHomeHealth.br">
+    <title lang="pt">90 Dias para Casar: Antes dos 90 Dias</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+  </programme>
+  <programme start="20260819105800 -0300" stop="20260819115300 -0300" channel="DiscoveryHomeHealth.br">
+    <title lang="pt">A Pequena Grande Família</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+  </programme>
+  <programme start="20260819115300 -0300" stop="20260819124500 -0300" channel="DiscoveryHomeHealth.br">
+    <title lang="pt">A Pequena Grande Família</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+  </programme>
+  <programme start="20260819124500 -0300" stop="20260819133700 -0300" channel="DiscoveryHomeHealth.br">
+    <title lang="pt">Irmãos À Obra: Lar Sempre Lar</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+  </programme>
+  <programme start="20260819133700 -0300" stop="20260819142900 -0300" channel="DiscoveryHomeHealth.br">
+    <title lang="pt">Irmãos À Obra: Lar Sempre Lar</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+  </programme>
+  <programme start="20260819142900 -0300" stop="20260819152300 -0300" channel="DiscoveryHomeHealth.br">
+    <title lang="pt">Do Velho Ao Novo</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comportamento</category>
+  </programme>
+  <programme start="20260819152300 -0300" stop="20260819161700 -0300" channel="DiscoveryHomeHealth.br">
+    <title lang="pt">Os Pequenos Johnstons</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+  </programme>
+  <programme start="20260819161700 -0300" stop="20260819170900 -0300" channel="DiscoveryHomeHealth.br">
+    <title lang="pt">Amy e Tammy: Irmãs Contra o Peso</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+  </programme>
+  <programme start="20260819170900 -0300" stop="20260819185100 -0300" channel="DiscoveryHomeHealth.br">
+    <title lang="pt">Quilos Mortais</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+  </programme>
+  <programme start="20260819185100 -0300" stop="20260819194100 -0300" channel="DiscoveryHomeHealth.br">
+    <title lang="pt">Irmãos à Obra: Compra e Venda</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comportamento</category>
+  </programme>
+  <programme start="20260819194100 -0300" stop="20260819203000 -0300" channel="DiscoveryHomeHealth.br">
+    <title lang="pt">Irmãos À Obra: Um Lar Para Amar</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comportamento</category>
+  </programme>
+  <programme start="20260819203000 -0300" stop="20260819211900 -0300" channel="DiscoveryHomeHealth.br">
+    <title lang="pt">Irmãos à Obra: Sob Pressão</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+  </programme>
+  <programme start="20260819211900 -0300" stop="20260819220800 -0300" channel="DiscoveryHomeHealth.br">
+    <title lang="pt">Irmãos À Obra: Lar Sempre Lar</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+  </programme>
+  <programme start="20260819220800 -0300" stop="20260819230300 -0300" channel="DiscoveryHomeHealth.br">
+    <title lang="pt">Menos É Demais</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comportamento</category>
+  </programme>
+  <programme start="20260819230300 -0300" stop="20260819235300 -0300" channel="DiscoveryHomeHealth.br">
+    <title lang="pt">De Casa Nova</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+  </programme>
+  <programme start="20260819235300 -0300" stop="20260820013300 -0300" channel="DiscoveryHomeHealth.br">
     <title lang="pt">Quilos Mortais</title>
     <category lang="pt">Séries</category>
     <category lang="pt">Reality Show</category>
@@ -82973,606 +82903,6 @@ autenticidade nacional e negra brasileira nos anos 1970.
       <value>[L]</value>
     </rating>
   </programme>
-  <programme start="20260815175300 -0300" stop="20260815180700 -0300" channel="Tooncast.us">
-    <title lang="pt">Irmão do Jorel</title>
-    <category lang="pt">Infantil</category>
-    <category lang="pt">Desenho</category>
-  </programme>
-  <programme start="20260815180700 -0300" stop="20260815183200 -0300" channel="Tooncast.us">
-    <title lang="pt">A Mansão Foster Para Amigos Imaginários</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Animação</category>
-  </programme>
-  <programme start="20260815183200 -0300" stop="20260815185700 -0300" channel="Tooncast.us">
-    <title lang="pt">A Mansão Foster Para Amigos Imaginários</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Animação</category>
-  </programme>
-  <programme start="20260815185700 -0300" stop="20260815190800 -0300" channel="Tooncast.us">
-    <title lang="pt">O Acampamento de Lazlo</title>
-    <category lang="pt">Infantil</category>
-    <category lang="pt">Desenho</category>
-  </programme>
-  <programme start="20260815190800 -0300" stop="20260815191900 -0300" channel="Tooncast.us">
-    <title lang="pt">O Acampamento de Lazlo</title>
-    <category lang="pt">Infantil</category>
-    <category lang="pt">Desenho</category>
-  </programme>
-  <programme start="20260815191900 -0300" stop="20260815193000 -0300" channel="Tooncast.us">
-    <title lang="pt">O Acampamento de Lazlo</title>
-    <category lang="pt">Infantil</category>
-    <category lang="pt">Desenho</category>
-  </programme>
-  <programme start="20260815193000 -0300" stop="20260815194300 -0300" channel="Tooncast.us">
-    <title lang="pt">O Acampamento de Lazlo</title>
-    <category lang="pt">Infantil</category>
-    <category lang="pt">Desenho</category>
-  </programme>
-  <programme start="20260815194300 -0300" stop="20260815195400 -0300" channel="Tooncast.us">
-    <title lang="pt">O Acampamento de Lazlo</title>
-    <category lang="pt">Infantil</category>
-    <category lang="pt">Desenho</category>
-  </programme>
-  <programme start="20260815195400 -0300" stop="20260815200700 -0300" channel="Tooncast.us">
-    <title lang="pt">O Acampamento de Lazlo</title>
-    <category lang="pt">Infantil</category>
-    <category lang="pt">Desenho</category>
-  </programme>
-  <programme start="20260815200700 -0300" stop="20260815201800 -0300" channel="Tooncast.us">
-    <title lang="pt">Meu Amigo da Escola é um Macaco</title>
-    <category lang="pt">Infantil</category>
-    <category lang="pt">Desenho</category>
-  </programme>
-  <programme start="20260815201800 -0300" stop="20260815202900 -0300" channel="Tooncast.us">
-    <title lang="pt">Meu Amigo da Escola é um Macaco</title>
-    <category lang="pt">Infantil</category>
-    <category lang="pt">Desenho</category>
-  </programme>
-  <programme start="20260815202900 -0300" stop="20260815204200 -0300" channel="Tooncast.us">
-    <title lang="pt">Meu Amigo da Escola é um Macaco</title>
-    <category lang="pt">Infantil</category>
-    <category lang="pt">Desenho</category>
-  </programme>
-  <programme start="20260815204200 -0300" stop="20260815205300 -0300" channel="Tooncast.us">
-    <title lang="pt">Meu Amigo da Escola é um Macaco</title>
-    <category lang="pt">Infantil</category>
-    <category lang="pt">Desenho</category>
-  </programme>
-  <programme start="20260815205300 -0300" stop="20260815210600 -0300" channel="Tooncast.us">
-    <title lang="pt">Meu Amigo da Escola é um Macaco</title>
-    <category lang="pt">Infantil</category>
-    <category lang="pt">Desenho</category>
-  </programme>
-  <programme start="20260815210600 -0300" stop="20260815211300 -0300" channel="Tooncast.us">
-    <title lang="pt">Hi Hi Puffy Ami Yumi</title>
-    <category lang="pt">Infantil</category>
-    <category lang="pt">Desenho</category>
-  </programme>
-  <programme start="20260815211300 -0300" stop="20260815212000 -0300" channel="Tooncast.us">
-    <title lang="pt">Hi Hi Puffy Ami Yumi</title>
-    <category lang="pt">Infantil</category>
-    <category lang="pt">Desenho</category>
-  </programme>
-  <programme start="20260815212000 -0300" stop="20260815212700 -0300" channel="Tooncast.us">
-    <title lang="pt">Hi Hi Puffy Ami Yumi</title>
-    <category lang="pt">Infantil</category>
-    <category lang="pt">Desenho</category>
-  </programme>
-  <programme start="20260815212700 -0300" stop="20260815213500 -0300" channel="Tooncast.us">
-    <title lang="pt">Hi Hi Puffy Ami Yumi</title>
-    <category lang="pt">Infantil</category>
-    <category lang="pt">Desenho</category>
-  </programme>
-  <programme start="20260815213500 -0300" stop="20260815214600 -0300" channel="Tooncast.us">
-    <title lang="pt">Mike, Lu e Og</title>
-    <category lang="pt">Infantil</category>
-    <category lang="pt">Desenho</category>
-  </programme>
-  <programme start="20260815214600 -0300" stop="20260815215900 -0300" channel="Tooncast.us">
-    <title lang="pt">Mike, Lu e Og</title>
-    <category lang="pt">Infantil</category>
-    <category lang="pt">Desenho</category>
-  </programme>
-  <programme start="20260815215900 -0300" stop="20260815220400 -0300" channel="Tooncast.us">
-    <title lang="pt">Sheep Na Cidade Grande</title>
-    <category lang="pt">Infantil</category>
-    <category lang="pt">Desenho</category>
-  </programme>
-  <programme start="20260815220400 -0300" stop="20260815220500 -0300" channel="Tooncast.us">
-    <title lang="pt">Sheep Na Cidade Grande</title>
-    <category lang="pt">Infantil</category>
-    <category lang="pt">Desenho</category>
-  </programme>
-  <programme start="20260815220500 -0300" stop="20260815220600 -0300" channel="Tooncast.us">
-    <title lang="pt">Sheep Na Cidade Grande</title>
-    <category lang="pt">Infantil</category>
-    <category lang="pt">Desenho</category>
-  </programme>
-  <programme start="20260815220600 -0300" stop="20260815221100 -0300" channel="Tooncast.us">
-    <title lang="pt">Sheep Na Cidade Grande</title>
-    <category lang="pt">Infantil</category>
-    <category lang="pt">Desenho</category>
-  </programme>
-  <programme start="20260815221100 -0300" stop="20260815221200 -0300" channel="Tooncast.us">
-    <title lang="pt">Sheep Na Cidade Grande</title>
-    <category lang="pt">Infantil</category>
-    <category lang="pt">Desenho</category>
-  </programme>
-  <programme start="20260815221200 -0300" stop="20260815221300 -0300" channel="Tooncast.us">
-    <title lang="pt">Sheep Na Cidade Grande</title>
-    <category lang="pt">Infantil</category>
-    <category lang="pt">Desenho</category>
-  </programme>
-  <programme start="20260815221300 -0300" stop="20260815221800 -0300" channel="Tooncast.us">
-    <title lang="pt">Sheep Na Cidade Grande</title>
-    <category lang="pt">Infantil</category>
-    <category lang="pt">Desenho</category>
-  </programme>
-  <programme start="20260815221800 -0300" stop="20260815222500 -0300" channel="Tooncast.us">
-    <title lang="pt">Sheep Na Cidade Grande</title>
-    <category lang="pt">Infantil</category>
-    <category lang="pt">Desenho</category>
-  </programme>
-  <programme start="20260815222500 -0300" stop="20260815222900 -0300" channel="Tooncast.us">
-    <title lang="pt">Sheep Na Cidade Grande</title>
-    <category lang="pt">Infantil</category>
-    <category lang="pt">Desenho</category>
-  </programme>
-  <programme start="20260815222900 -0300" stop="20260815223400 -0300" channel="Tooncast.us">
-    <title lang="pt">Sheep Na Cidade Grande</title>
-    <category lang="pt">Infantil</category>
-    <category lang="pt">Desenho</category>
-  </programme>
-  <programme start="20260815223400 -0300" stop="20260815224500 -0300" channel="Tooncast.us">
-    <title lang="pt">Esquadrão do Tempo</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Animação</category>
-  </programme>
-  <programme start="20260815224500 -0300" stop="20260815225700 -0300" channel="Tooncast.us">
-    <title lang="pt">Esquadrão do Tempo</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Animação</category>
-  </programme>
-  <programme start="20260815225700 -0300" stop="20260815230800 -0300" channel="Tooncast.us">
-    <title lang="pt">As Trapalhadas de Flapjack</title>
-    <category lang="pt">Infantil</category>
-    <category lang="pt">Desenho</category>
-  </programme>
-  <programme start="20260815230800 -0300" stop="20260815231900 -0300" channel="Tooncast.us">
-    <title lang="pt">As Trapalhadas de Flapjack</title>
-    <category lang="pt">Infantil</category>
-    <category lang="pt">Desenho</category>
-  </programme>
-  <programme start="20260815231900 -0300" stop="20260815233000 -0300" channel="Tooncast.us">
-    <title lang="pt">As Trapalhadas de Flapjack</title>
-    <category lang="pt">Infantil</category>
-    <category lang="pt">Desenho</category>
-  </programme>
-  <programme start="20260815233000 -0300" stop="20260815234100 -0300" channel="Tooncast.us">
-    <title lang="pt">Baby Looney Tunes</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Animação</category>
-  </programme>
-  <programme start="20260815234100 -0300" stop="20260815235100 -0300" channel="Tooncast.us">
-    <title lang="pt">Baby Looney Tunes</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Animação</category>
-  </programme>
-  <programme start="20260815235100 -0300" stop="20260816000100 -0300" channel="Tooncast.us">
-    <title lang="pt">Baby Looney Tunes</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Animação</category>
-  </programme>
-  <programme start="20260816000100 -0300" stop="20260816001300 -0300" channel="Tooncast.us">
-    <title lang="pt">Baby Looney Tunes</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Animação</category>
-  </programme>
-  <programme start="20260816001300 -0300" stop="20260816002300 -0300" channel="Tooncast.us">
-    <title lang="pt">Baby Looney Tunes</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Animação</category>
-  </programme>
-  <programme start="20260816002300 -0300" stop="20260816003500 -0300" channel="Tooncast.us">
-    <title lang="pt">Baby Looney Tunes</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Animação</category>
-  </programme>
-  <programme start="20260816003500 -0300" stop="20260816005800 -0300" channel="Tooncast.us">
-    <title lang="pt">Scooby-Doo! Cadê Você?</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Animação</category>
-  </programme>
-  <programme start="20260816005800 -0300" stop="20260816012100 -0300" channel="Tooncast.us">
-    <title lang="pt">Scooby-Doo! Cadê Você?</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Animação</category>
-  </programme>
-  <programme start="20260816012100 -0300" stop="20260816014300 -0300" channel="Tooncast.us">
-    <title lang="pt">Scooby-Doo! Mistério S/A</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Animação</category>
-  </programme>
-  <programme start="20260816014300 -0300" stop="20260816020500 -0300" channel="Tooncast.us">
-    <title lang="pt">Scooby-Doo! Mistério S/A</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Animação</category>
-  </programme>
-  <programme start="20260816020500 -0300" stop="20260816023200 -0300" channel="Tooncast.us">
-    <title lang="pt">Manda Chuva</title>
-    <category lang="pt">Infantil</category>
-    <category lang="pt">Desenho</category>
-  </programme>
-  <programme start="20260816023200 -0300" stop="20260816025900 -0300" channel="Tooncast.us">
-    <title lang="pt">Manda Chuva</title>
-    <category lang="pt">Infantil</category>
-    <category lang="pt">Desenho</category>
-  </programme>
-  <programme start="20260816025900 -0300" stop="20260816032400 -0300" channel="Tooncast.us">
-    <title lang="pt">Os Flintstones</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Animação</category>
-  </programme>
-  <programme start="20260816032400 -0300" stop="20260816034900 -0300" channel="Tooncast.us">
-    <title lang="pt">Os Flintstones</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Animação</category>
-  </programme>
-  <programme start="20260816034900 -0300" stop="20260816035800 -0300" channel="Tooncast.us">
-    <title lang="pt">Corrida Maluca</title>
-    <category lang="pt">Infantil</category>
-    <category lang="pt">Animação</category>
-  </programme>
-  <programme start="20260816035800 -0300" stop="20260816040800 -0300" channel="Tooncast.us">
-    <title lang="pt">Corrida Maluca</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Animação</category>
-  </programme>
-  <programme start="20260816040800 -0300" stop="20260816041800 -0300" channel="Tooncast.us">
-    <title lang="pt">Corrida Maluca</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Animação</category>
-  </programme>
-  <programme start="20260816041800 -0300" stop="20260816042800 -0300" channel="Tooncast.us">
-    <title lang="pt">Corrida Maluca</title>
-    <category lang="pt">Infantil</category>
-    <category lang="pt">Animação</category>
-  </programme>
-  <programme start="20260816042800 -0300" stop="20260816043900 -0300" channel="Tooncast.us">
-    <title lang="pt">Corrida Maluca</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Animação</category>
-  </programme>
-  <programme start="20260816043900 -0300" stop="20260816050000 -0300" channel="Tooncast.us">
-    <title lang="pt">Thundercats</title>
-    <category lang="pt">Infantil</category>
-    <category lang="pt">Desenho</category>
-  </programme>
-  <programme start="20260816050000 -0300" stop="20260816052200 -0300" channel="Tooncast.us">
-    <title lang="pt">Thundercats</title>
-    <category lang="pt">Infantil</category>
-    <category lang="pt">Desenho</category>
-  </programme>
-  <programme start="20260816052200 -0300" stop="20260816053400 -0300" channel="Tooncast.us">
-    <title lang="pt">Irmão do Jorel</title>
-    <category lang="pt">Infantil</category>
-    <category lang="pt">Desenho</category>
-  </programme>
-  <programme start="20260816053400 -0300" stop="20260816054500 -0300" channel="Tooncast.us">
-    <title lang="pt">Irmão do Jorel</title>
-    <category lang="pt">Infantil</category>
-    <category lang="pt">Desenho</category>
-  </programme>
-  <programme start="20260816054500 -0300" stop="20260816060000 -0300" channel="Tooncast.us">
-    <title lang="pt">Irmão do Jorel</title>
-    <category lang="pt">Infantil</category>
-    <category lang="pt">Desenho</category>
-  </programme>
-  <programme start="20260816060000 -0300" stop="20260816062300 -0300" channel="Tooncast.us">
-    <title lang="pt">A Mansão Foster Para Amigos Imaginários</title>
-    <category lang="pt">Infantil</category>
-    <category lang="pt">Desenho</category>
-  </programme>
-  <programme start="20260816062300 -0300" stop="20260816064700 -0300" channel="Tooncast.us">
-    <title lang="pt">A Mansão Foster Para Amigos Imaginários</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Animação</category>
-  </programme>
-  <programme start="20260816064700 -0300" stop="20260816071000 -0300" channel="Tooncast.us">
-    <title lang="pt">O Acampamento de Lazlo</title>
-    <category lang="pt">Infantil</category>
-    <category lang="pt">Desenho</category>
-  </programme>
-  <programme start="20260816071000 -0300" stop="20260816072100 -0300" channel="Tooncast.us">
-    <title lang="pt">O Acampamento de Lazlo</title>
-    <category lang="pt">Infantil</category>
-    <category lang="pt">Desenho</category>
-  </programme>
-  <programme start="20260816072100 -0300" stop="20260816073400 -0300" channel="Tooncast.us">
-    <title lang="pt">O Acampamento de Lazlo</title>
-    <category lang="pt">Infantil</category>
-    <category lang="pt">Desenho</category>
-  </programme>
-  <programme start="20260816073400 -0300" stop="20260816074500 -0300" channel="Tooncast.us">
-    <title lang="pt">O Acampamento de Lazlo</title>
-    <category lang="pt">Infantil</category>
-    <category lang="pt">Desenho</category>
-  </programme>
-  <programme start="20260816074500 -0300" stop="20260816075800 -0300" channel="Tooncast.us">
-    <title lang="pt">O Acampamento de Lazlo</title>
-    <category lang="pt">Infantil</category>
-    <category lang="pt">Desenho</category>
-  </programme>
-  <programme start="20260816075800 -0300" stop="20260816080900 -0300" channel="Tooncast.us">
-    <title lang="pt">Meu Amigo da Escola é um Macaco</title>
-    <category lang="pt">Infantil</category>
-    <category lang="pt">Desenho</category>
-  </programme>
-  <programme start="20260816080900 -0300" stop="20260816082000 -0300" channel="Tooncast.us">
-    <title lang="pt">Meu Amigo da Escola é um Macaco</title>
-    <category lang="pt">Infantil</category>
-    <category lang="pt">Desenho</category>
-  </programme>
-  <programme start="20260816082000 -0300" stop="20260816083300 -0300" channel="Tooncast.us">
-    <title lang="pt">Meu Amigo da Escola é um Macaco</title>
-    <category lang="pt">Infantil</category>
-    <category lang="pt">Desenho</category>
-  </programme>
-  <programme start="20260816083300 -0300" stop="20260816084400 -0300" channel="Tooncast.us">
-    <title lang="pt">Meu Amigo da Escola é um Macaco</title>
-    <category lang="pt">Infantil</category>
-    <category lang="pt">Desenho</category>
-  </programme>
-  <programme start="20260816084400 -0300" stop="20260816085800 -0300" channel="Tooncast.us">
-    <title lang="pt">Meu Amigo da Escola é um Macaco</title>
-    <category lang="pt">Infantil</category>
-    <category lang="pt">Desenho</category>
-  </programme>
-  <programme start="20260816085800 -0300" stop="20260816090500 -0300" channel="Tooncast.us">
-    <title lang="pt">Hi Hi Puffy Ami Yumi</title>
-    <category lang="pt">Infantil</category>
-    <category lang="pt">Desenho</category>
-  </programme>
-  <programme start="20260816090500 -0300" stop="20260816091200 -0300" channel="Tooncast.us">
-    <title lang="pt">Hi Hi Puffy Ami Yumi</title>
-    <category lang="pt">Infantil</category>
-    <category lang="pt">Desenho</category>
-  </programme>
-  <programme start="20260816091200 -0300" stop="20260816091800 -0300" channel="Tooncast.us">
-    <title lang="pt">Hi Hi Puffy Ami Yumi</title>
-    <category lang="pt">Infantil</category>
-    <category lang="pt">Desenho</category>
-  </programme>
-  <programme start="20260816091800 -0300" stop="20260816092500 -0300" channel="Tooncast.us">
-    <title lang="pt">Hi Hi Puffy Ami Yumi</title>
-    <category lang="pt">Infantil</category>
-    <category lang="pt">Desenho</category>
-  </programme>
-  <programme start="20260816092500 -0300" stop="20260816093400 -0300" channel="Tooncast.us">
-    <title lang="pt">Hi Hi Puffy Ami Yumi</title>
-    <category lang="pt">Infantil</category>
-    <category lang="pt">Desenho</category>
-  </programme>
-  <programme start="20260816093400 -0300" stop="20260816094400 -0300" channel="Tooncast.us">
-    <title lang="pt">Mike, Lu e Og</title>
-    <category lang="pt">Infantil</category>
-    <category lang="pt">Desenho</category>
-  </programme>
-  <programme start="20260816094400 -0300" stop="20260816095700 -0300" channel="Tooncast.us">
-    <title lang="pt">Mike, Lu e Og</title>
-    <category lang="pt">Infantil</category>
-    <category lang="pt">Desenho</category>
-  </programme>
-  <programme start="20260816095700 -0300" stop="20260816095900 -0300" channel="Tooncast.us">
-    <title lang="pt">Sheep Na Cidade Grande</title>
-    <category lang="pt">Infantil</category>
-    <category lang="pt">Desenho</category>
-  </programme>
-  <programme start="20260816095900 -0300" stop="20260816100000 -0300" channel="Tooncast.us">
-    <title lang="pt">Sheep Na Cidade Grande</title>
-    <category lang="pt">Infantil</category>
-    <category lang="pt">Desenho</category>
-  </programme>
-  <programme start="20260816100000 -0300" stop="20260816100300 -0300" channel="Tooncast.us">
-    <title lang="pt">Sheep Na Cidade Grande</title>
-    <category lang="pt">Infantil</category>
-    <category lang="pt">Desenho</category>
-  </programme>
-  <programme start="20260816100300 -0300" stop="20260816100400 -0300" channel="Tooncast.us">
-    <title lang="pt">Sheep Na Cidade Grande</title>
-    <category lang="pt">Infantil</category>
-    <category lang="pt">Desenho</category>
-  </programme>
-  <programme start="20260816100400 -0300" stop="20260816100800 -0300" channel="Tooncast.us">
-    <title lang="pt">Sheep Na Cidade Grande</title>
-    <category lang="pt">Infantil</category>
-    <category lang="pt">Desenho</category>
-  </programme>
-  <programme start="20260816100800 -0300" stop="20260816101000 -0300" channel="Tooncast.us">
-    <title lang="pt">Sheep Na Cidade Grande</title>
-    <category lang="pt">Infantil</category>
-    <category lang="pt">Desenho</category>
-  </programme>
-  <programme start="20260816101000 -0300" stop="20260816101200 -0300" channel="Tooncast.us">
-    <title lang="pt">Sheep Na Cidade Grande</title>
-    <category lang="pt">Infantil</category>
-    <category lang="pt">Desenho</category>
-  </programme>
-  <programme start="20260816101200 -0300" stop="20260816101300 -0300" channel="Tooncast.us">
-    <title lang="pt">Sheep Na Cidade Grande</title>
-    <category lang="pt">Infantil</category>
-    <category lang="pt">Desenho</category>
-  </programme>
-  <programme start="20260816101300 -0300" stop="20260816101900 -0300" channel="Tooncast.us">
-    <title lang="pt">Sheep Na Cidade Grande</title>
-    <category lang="pt">Infantil</category>
-    <category lang="pt">Desenho</category>
-  </programme>
-  <programme start="20260816101900 -0300" stop="20260816102100 -0300" channel="Tooncast.us">
-    <title lang="pt">Sheep Na Cidade Grande</title>
-    <category lang="pt">Infantil</category>
-    <category lang="pt">Desenho</category>
-  </programme>
-  <programme start="20260816102100 -0300" stop="20260816102600 -0300" channel="Tooncast.us">
-    <title lang="pt">Sheep Na Cidade Grande</title>
-    <category lang="pt">Infantil</category>
-    <category lang="pt">Desenho</category>
-  </programme>
-  <programme start="20260816102600 -0300" stop="20260816102700 -0300" channel="Tooncast.us">
-    <title lang="pt">Sheep Na Cidade Grande</title>
-    <category lang="pt">Infantil</category>
-    <category lang="pt">Desenho</category>
-  </programme>
-  <programme start="20260816102700 -0300" stop="20260816103400 -0300" channel="Tooncast.us">
-    <title lang="pt">Sheep Na Cidade Grande</title>
-    <category lang="pt">Infantil</category>
-    <category lang="pt">Desenho</category>
-  </programme>
-  <programme start="20260816103400 -0300" stop="20260816104500 -0300" channel="Tooncast.us">
-    <title lang="pt">Esquadrão do Tempo</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Animação</category>
-  </programme>
-  <programme start="20260816104500 -0300" stop="20260816105900 -0300" channel="Tooncast.us">
-    <title lang="pt">Esquadrão do Tempo</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Animação</category>
-  </programme>
-  <programme start="20260816105900 -0300" stop="20260816110900 -0300" channel="Tooncast.us">
-    <title lang="pt">As Trapalhadas de Flapjack</title>
-    <category lang="pt">Infantil</category>
-    <category lang="pt">Desenho</category>
-  </programme>
-  <programme start="20260816110900 -0300" stop="20260816112000 -0300" channel="Tooncast.us">
-    <title lang="pt">As Trapalhadas de Flapjack</title>
-    <category lang="pt">Infantil</category>
-    <category lang="pt">Desenho</category>
-  </programme>
-  <programme start="20260816112000 -0300" stop="20260816113100 -0300" channel="Tooncast.us">
-    <title lang="pt">As Trapalhadas de Flapjack</title>
-    <category lang="pt">Infantil</category>
-    <category lang="pt">Desenho</category>
-  </programme>
-  <programme start="20260816113100 -0300" stop="20260816114100 -0300" channel="Tooncast.us">
-    <title lang="pt">Baby Looney Tunes</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Animação</category>
-  </programme>
-  <programme start="20260816114100 -0300" stop="20260816115100 -0300" channel="Tooncast.us">
-    <title lang="pt">Baby Looney Tunes</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Animação</category>
-  </programme>
-  <programme start="20260816115100 -0300" stop="20260816120200 -0300" channel="Tooncast.us">
-    <title lang="pt">Baby Looney Tunes</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Animação</category>
-  </programme>
-  <programme start="20260816120200 -0300" stop="20260816121200 -0300" channel="Tooncast.us">
-    <title lang="pt">Baby Looney Tunes</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Animação</category>
-  </programme>
-  <programme start="20260816121200 -0300" stop="20260816122400 -0300" channel="Tooncast.us">
-    <title lang="pt">Baby Looney Tunes</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Animação</category>
-  </programme>
-  <programme start="20260816122400 -0300" stop="20260816123500 -0300" channel="Tooncast.us">
-    <title lang="pt">Baby Looney Tunes</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Animação</category>
-  </programme>
-  <programme start="20260816123500 -0300" stop="20260816125500 -0300" channel="Tooncast.us">
-    <title lang="pt">Scooby-Doo! Cadê Você?</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Animação</category>
-  </programme>
-  <programme start="20260816125500 -0300" stop="20260816131800 -0300" channel="Tooncast.us">
-    <title lang="pt">Scooby-Doo! Cadê Você?</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Animação</category>
-  </programme>
-  <programme start="20260816131800 -0300" stop="20260816134000 -0300" channel="Tooncast.us">
-    <title lang="pt">Scooby-Doo! Mistério S/A</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Animação</category>
-  </programme>
-  <programme start="20260816134000 -0300" stop="20260816140300 -0300" channel="Tooncast.us">
-    <title lang="pt">Scooby-Doo! Mistério S/A</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Animação</category>
-  </programme>
-  <programme start="20260816140300 -0300" stop="20260816142900 -0300" channel="Tooncast.us">
-    <title lang="pt">Manda Chuva</title>
-    <category lang="pt">Infantil</category>
-    <category lang="pt">Desenho</category>
-  </programme>
-  <programme start="20260816142900 -0300" stop="20260816145500 -0300" channel="Tooncast.us">
-    <title lang="pt">Manda Chuva</title>
-    <category lang="pt">Infantil</category>
-    <category lang="pt">Desenho</category>
-  </programme>
-  <programme start="20260816145500 -0300" stop="20260816152200 -0300" channel="Tooncast.us">
-    <title lang="pt">Os Flintstones</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Animação</category>
-  </programme>
-  <programme start="20260816152200 -0300" stop="20260816154800 -0300" channel="Tooncast.us">
-    <title lang="pt">Os Flintstones</title>
-    <category lang="pt">Infantil</category>
-    <category lang="pt">Animação</category>
-  </programme>
-  <programme start="20260816154800 -0300" stop="20260816155800 -0300" channel="Tooncast.us">
-    <title lang="pt">Corrida Maluca</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Animação</category>
-  </programme>
-  <programme start="20260816155800 -0300" stop="20260816160800 -0300" channel="Tooncast.us">
-    <title lang="pt">Corrida Maluca</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Animação</category>
-  </programme>
-  <programme start="20260816160800 -0300" stop="20260816162000 -0300" channel="Tooncast.us">
-    <title lang="pt">Corrida Maluca</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Animação</category>
-  </programme>
-  <programme start="20260816162000 -0300" stop="20260816163000 -0300" channel="Tooncast.us">
-    <title lang="pt">Corrida Maluca</title>
-    <category lang="pt">Infantil</category>
-    <category lang="pt">Animação</category>
-  </programme>
-  <programme start="20260816163000 -0300" stop="20260816164200 -0300" channel="Tooncast.us">
-    <title lang="pt">Corrida Maluca</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Animação</category>
-  </programme>
-  <programme start="20260816164200 -0300" stop="20260816170600 -0300" channel="Tooncast.us">
-    <title lang="pt">Thundercats</title>
-    <category lang="pt">Infantil</category>
-    <category lang="pt">Desenho</category>
-  </programme>
-  <programme start="20260816170600 -0300" stop="20260816173000 -0300" channel="Tooncast.us">
-    <title lang="pt">Thundercats</title>
-    <category lang="pt">Infantil</category>
-    <category lang="pt">Desenho</category>
-  </programme>
-  <programme start="20260816173000 -0300" stop="20260816174100 -0300" channel="Tooncast.us">
-    <title lang="pt">Irmão do Jorel</title>
-    <category lang="pt">Infantil</category>
-    <category lang="pt">Desenho</category>
-  </programme>
-  <programme start="20260816174100 -0300" stop="20260816175300 -0300" channel="Tooncast.us">
-    <title lang="pt">Irmão do Jorel</title>
-    <category lang="pt">Infantil</category>
-    <category lang="pt">Desenho</category>
-  </programme>
-  <programme start="20260816175300 -0300" stop="20260816180500 -0300" channel="Tooncast.us">
-    <title lang="pt">Irmão do Jorel</title>
-    <category lang="pt">Infantil</category>
-    <category lang="pt">Desenho</category>
-  </programme>
   <programme start="20260816180500 -0300" stop="20260816182800 -0300" channel="Tooncast.us">
     <title lang="pt">A Mansão Foster Para Amigos Imaginários</title>
     <category lang="pt">Infantil</category>
@@ -84949,6 +84279,616 @@ autenticidade nacional e negra brasileira nos anos 1970.
     <category lang="pt">Animação</category>
   </programme>
   <programme start="20260818235000 -0300" stop="20260819000100 -0300" channel="Tooncast.us">
+    <title lang="pt">Baby Looney Tunes</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+  </programme>
+  <programme start="20260819000100 -0300" stop="20260819001100 -0300" channel="Tooncast.us">
+    <title lang="pt">Baby Looney Tunes</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+  </programme>
+  <programme start="20260819001100 -0300" stop="20260819002100 -0300" channel="Tooncast.us">
+    <title lang="pt">Baby Looney Tunes</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+  </programme>
+  <programme start="20260819002100 -0300" stop="20260819003300 -0300" channel="Tooncast.us">
+    <title lang="pt">Baby Looney Tunes</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+  </programme>
+  <programme start="20260819003300 -0300" stop="20260819005600 -0300" channel="Tooncast.us">
+    <title lang="pt">Scooby-Doo! Cadê Você?</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+  </programme>
+  <programme start="20260819005600 -0300" stop="20260819011900 -0300" channel="Tooncast.us">
+    <title lang="pt">Scooby-Doo! Cadê Você?</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+  </programme>
+  <programme start="20260819011900 -0300" stop="20260819014100 -0300" channel="Tooncast.us">
+    <title lang="pt">Scooby-Doo! Mistério S/A</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+  </programme>
+  <programme start="20260819014100 -0300" stop="20260819020500 -0300" channel="Tooncast.us">
+    <title lang="pt">Scooby-Doo! Mistério S/A</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+  </programme>
+  <programme start="20260819020500 -0300" stop="20260819023100 -0300" channel="Tooncast.us">
+    <title lang="pt">Manda Chuva</title>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Desenho</category>
+  </programme>
+  <programme start="20260819023100 -0300" stop="20260819025700 -0300" channel="Tooncast.us">
+    <title lang="pt">Manda Chuva</title>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Desenho</category>
+  </programme>
+  <programme start="20260819025700 -0300" stop="20260819032400 -0300" channel="Tooncast.us">
+    <title lang="pt">Os Flintstones</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+  </programme>
+  <programme start="20260819032400 -0300" stop="20260819035200 -0300" channel="Tooncast.us">
+    <title lang="pt">Os Flintstones</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+  </programme>
+  <programme start="20260819035200 -0300" stop="20260819040200 -0300" channel="Tooncast.us">
+    <title lang="pt">Corrida Maluca</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+  </programme>
+  <programme start="20260819040200 -0300" stop="20260819041100 -0300" channel="Tooncast.us">
+    <title lang="pt">Corrida Maluca</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+  </programme>
+  <programme start="20260819041100 -0300" stop="20260819042300 -0300" channel="Tooncast.us">
+    <title lang="pt">Corrida Maluca</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+  </programme>
+  <programme start="20260819042300 -0300" stop="20260819043500 -0300" channel="Tooncast.us">
+    <title lang="pt">Corrida Maluca</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+  </programme>
+  <programme start="20260819043500 -0300" stop="20260819045900 -0300" channel="Tooncast.us">
+    <title lang="pt">Thundercats</title>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Desenho</category>
+  </programme>
+  <programme start="20260819045900 -0300" stop="20260819052300 -0300" channel="Tooncast.us">
+    <title lang="pt">Thundercats</title>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Desenho</category>
+  </programme>
+  <programme start="20260819052300 -0300" stop="20260819053400 -0300" channel="Tooncast.us">
+    <title lang="pt">Irmão do Jorel</title>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Desenho</category>
+  </programme>
+  <programme start="20260819053400 -0300" stop="20260819054600 -0300" channel="Tooncast.us">
+    <title lang="pt">Irmão do Jorel</title>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Desenho</category>
+  </programme>
+  <programme start="20260819054600 -0300" stop="20260819060000 -0300" channel="Tooncast.us">
+    <title lang="pt">Irmão do Jorel</title>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Desenho</category>
+  </programme>
+  <programme start="20260819060000 -0300" stop="20260819062500 -0300" channel="Tooncast.us">
+    <title lang="pt">A Mansão Foster Para Amigos Imaginários</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+  </programme>
+  <programme start="20260819062500 -0300" stop="20260819065000 -0300" channel="Tooncast.us">
+    <title lang="pt">A Mansão Foster Para Amigos Imaginários</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+  </programme>
+  <programme start="20260819065000 -0300" stop="20260819070000 -0300" channel="Tooncast.us">
+    <title lang="pt">O Acampamento de Lazlo</title>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Desenho</category>
+  </programme>
+  <programme start="20260819070000 -0300" stop="20260819071100 -0300" channel="Tooncast.us">
+    <title lang="pt">O Acampamento de Lazlo</title>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Desenho</category>
+  </programme>
+  <programme start="20260819071100 -0300" stop="20260819072200 -0300" channel="Tooncast.us">
+    <title lang="pt">O Acampamento de Lazlo</title>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Desenho</category>
+  </programme>
+  <programme start="20260819072200 -0300" stop="20260819073500 -0300" channel="Tooncast.us">
+    <title lang="pt">O Acampamento de Lazlo</title>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Desenho</category>
+  </programme>
+  <programme start="20260819073500 -0300" stop="20260819074600 -0300" channel="Tooncast.us">
+    <title lang="pt">O Acampamento de Lazlo</title>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Desenho</category>
+  </programme>
+  <programme start="20260819074600 -0300" stop="20260819075900 -0300" channel="Tooncast.us">
+    <title lang="pt">O Acampamento de Lazlo</title>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Desenho</category>
+  </programme>
+  <programme start="20260819075900 -0300" stop="20260819081000 -0300" channel="Tooncast.us">
+    <title lang="pt">Meu Amigo da Escola é um Macaco</title>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Desenho</category>
+  </programme>
+  <programme start="20260819081000 -0300" stop="20260819082100 -0300" channel="Tooncast.us">
+    <title lang="pt">Meu Amigo da Escola é um Macaco</title>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Desenho</category>
+  </programme>
+  <programme start="20260819082100 -0300" stop="20260819083400 -0300" channel="Tooncast.us">
+    <title lang="pt">Meu Amigo da Escola é um Macaco</title>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Desenho</category>
+  </programme>
+  <programme start="20260819083400 -0300" stop="20260819084500 -0300" channel="Tooncast.us">
+    <title lang="pt">Meu Amigo da Escola é um Macaco</title>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Desenho</category>
+  </programme>
+  <programme start="20260819084500 -0300" stop="20260819085800 -0300" channel="Tooncast.us">
+    <title lang="pt">Meu Amigo da Escola é um Macaco</title>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Desenho</category>
+  </programme>
+  <programme start="20260819085800 -0300" stop="20260819090500 -0300" channel="Tooncast.us">
+    <title lang="pt">Hi Hi Puffy Ami Yumi</title>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Desenho</category>
+  </programme>
+  <programme start="20260819090500 -0300" stop="20260819091100 -0300" channel="Tooncast.us">
+    <title lang="pt">Hi Hi Puffy Ami Yumi</title>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Desenho</category>
+  </programme>
+  <programme start="20260819091100 -0300" stop="20260819091900 -0300" channel="Tooncast.us">
+    <title lang="pt">Hi Hi Puffy Ami Yumi</title>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Desenho</category>
+  </programme>
+  <programme start="20260819091900 -0300" stop="20260819092500 -0300" channel="Tooncast.us">
+    <title lang="pt">Hi Hi Puffy Ami Yumi</title>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Desenho</category>
+  </programme>
+  <programme start="20260819092500 -0300" stop="20260819093400 -0300" channel="Tooncast.us">
+    <title lang="pt">Hi Hi Puffy Ami Yumi</title>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Desenho</category>
+  </programme>
+  <programme start="20260819093400 -0300" stop="20260819094500 -0300" channel="Tooncast.us">
+    <title lang="pt">Mike, Lu e Og</title>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Desenho</category>
+  </programme>
+  <programme start="20260819094500 -0300" stop="20260819095800 -0300" channel="Tooncast.us">
+    <title lang="pt">Mike, Lu e Og</title>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Desenho</category>
+  </programme>
+  <programme start="20260819095800 -0300" stop="20260819100400 -0300" channel="Tooncast.us">
+    <title lang="pt">Sheep Na Cidade Grande</title>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Desenho</category>
+  </programme>
+  <programme start="20260819100400 -0300" stop="20260819100500 -0300" channel="Tooncast.us">
+    <title lang="pt">Sheep Na Cidade Grande</title>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Desenho</category>
+  </programme>
+  <programme start="20260819100500 -0300" stop="20260819101200 -0300" channel="Tooncast.us">
+    <title lang="pt">Sheep Na Cidade Grande</title>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Desenho</category>
+  </programme>
+  <programme start="20260819101200 -0300" stop="20260819101300 -0300" channel="Tooncast.us">
+    <title lang="pt">Sheep Na Cidade Grande</title>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Desenho</category>
+  </programme>
+  <programme start="20260819101300 -0300" stop="20260819101400 -0300" channel="Tooncast.us">
+    <title lang="pt">Sheep Na Cidade Grande</title>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Desenho</category>
+  </programme>
+  <programme start="20260819101400 -0300" stop="20260819101500 -0300" channel="Tooncast.us">
+    <title lang="pt">Sheep Na Cidade Grande</title>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Desenho</category>
+  </programme>
+  <programme start="20260819101500 -0300" stop="20260819101600 -0300" channel="Tooncast.us">
+    <title lang="pt">Sheep Na Cidade Grande</title>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Desenho</category>
+  </programme>
+  <programme start="20260819101600 -0300" stop="20260819101700 -0300" channel="Tooncast.us">
+    <title lang="pt">Sheep Na Cidade Grande</title>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Desenho</category>
+  </programme>
+  <programme start="20260819101700 -0300" stop="20260819102100 -0300" channel="Tooncast.us">
+    <title lang="pt">Sheep Na Cidade Grande</title>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Desenho</category>
+  </programme>
+  <programme start="20260819102100 -0300" stop="20260819102300 -0300" channel="Tooncast.us">
+    <title lang="pt">Sheep Na Cidade Grande</title>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Desenho</category>
+  </programme>
+  <programme start="20260819102300 -0300" stop="20260819102500 -0300" channel="Tooncast.us">
+    <title lang="pt">Sheep Na Cidade Grande</title>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Desenho</category>
+  </programme>
+  <programme start="20260819102500 -0300" stop="20260819102600 -0300" channel="Tooncast.us">
+    <title lang="pt">Sheep Na Cidade Grande</title>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Desenho</category>
+  </programme>
+  <programme start="20260819102600 -0300" stop="20260819103300 -0300" channel="Tooncast.us">
+    <title lang="pt">Sheep Na Cidade Grande</title>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Desenho</category>
+  </programme>
+  <programme start="20260819103300 -0300" stop="20260819104400 -0300" channel="Tooncast.us">
+    <title lang="pt">Esquadrão do Tempo</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+  </programme>
+  <programme start="20260819104400 -0300" stop="20260819105700 -0300" channel="Tooncast.us">
+    <title lang="pt">Esquadrão do Tempo</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+  </programme>
+  <programme start="20260819105700 -0300" stop="20260819110800 -0300" channel="Tooncast.us">
+    <title lang="pt">As Trapalhadas de Flapjack</title>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Desenho</category>
+  </programme>
+  <programme start="20260819110800 -0300" stop="20260819111800 -0300" channel="Tooncast.us">
+    <title lang="pt">As Trapalhadas de Flapjack</title>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Desenho</category>
+  </programme>
+  <programme start="20260819111800 -0300" stop="20260819113100 -0300" channel="Tooncast.us">
+    <title lang="pt">As Trapalhadas de Flapjack</title>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Desenho</category>
+  </programme>
+  <programme start="20260819113100 -0300" stop="20260819114200 -0300" channel="Tooncast.us">
+    <title lang="pt">Baby Looney Tunes</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+  </programme>
+  <programme start="20260819114200 -0300" stop="20260819115200 -0300" channel="Tooncast.us">
+    <title lang="pt">Baby Looney Tunes</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+  </programme>
+  <programme start="20260819115200 -0300" stop="20260819120100 -0300" channel="Tooncast.us">
+    <title lang="pt">Baby Looney Tunes</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+  </programme>
+  <programme start="20260819120100 -0300" stop="20260819121200 -0300" channel="Tooncast.us">
+    <title lang="pt">Baby Looney Tunes</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+  </programme>
+  <programme start="20260819121200 -0300" stop="20260819122200 -0300" channel="Tooncast.us">
+    <title lang="pt">Baby Looney Tunes</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+  </programme>
+  <programme start="20260819122200 -0300" stop="20260819123300 -0300" channel="Tooncast.us">
+    <title lang="pt">Baby Looney Tunes</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+  </programme>
+  <programme start="20260819123300 -0300" stop="20260819125800 -0300" channel="Tooncast.us">
+    <title lang="pt">Scooby-Doo! Cadê Você?</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+  </programme>
+  <programme start="20260819125800 -0300" stop="20260819131900 -0300" channel="Tooncast.us">
+    <title lang="pt">Scooby-Doo! Cadê Você?</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+  </programme>
+  <programme start="20260819131900 -0300" stop="20260819134100 -0300" channel="Tooncast.us">
+    <title lang="pt">Scooby-Doo! Mistério S/A</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+  </programme>
+  <programme start="20260819134100 -0300" stop="20260819140500 -0300" channel="Tooncast.us">
+    <title lang="pt">Scooby-Doo! Mistério S/A</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+  </programme>
+  <programme start="20260819140500 -0300" stop="20260819143100 -0300" channel="Tooncast.us">
+    <title lang="pt">Manda Chuva</title>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Desenho</category>
+  </programme>
+  <programme start="20260819143100 -0300" stop="20260819145700 -0300" channel="Tooncast.us">
+    <title lang="pt">Manda Chuva</title>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Desenho</category>
+  </programme>
+  <programme start="20260819145700 -0300" stop="20260819152300 -0300" channel="Tooncast.us">
+    <title lang="pt">Os Flintstones</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+  </programme>
+  <programme start="20260819152300 -0300" stop="20260819155000 -0300" channel="Tooncast.us">
+    <title lang="pt">Os Flintstones</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+  </programme>
+  <programme start="20260819155000 -0300" stop="20260819160000 -0300" channel="Tooncast.us">
+    <title lang="pt">Corrida Maluca</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+  </programme>
+  <programme start="20260819160000 -0300" stop="20260819161000 -0300" channel="Tooncast.us">
+    <title lang="pt">Corrida Maluca</title>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Animação</category>
+  </programme>
+  <programme start="20260819161000 -0300" stop="20260819162000 -0300" channel="Tooncast.us">
+    <title lang="pt">Corrida Maluca</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+  </programme>
+  <programme start="20260819162000 -0300" stop="20260819163000 -0300" channel="Tooncast.us">
+    <title lang="pt">Corrida Maluca</title>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Animação</category>
+  </programme>
+  <programme start="20260819163000 -0300" stop="20260819164000 -0300" channel="Tooncast.us">
+    <title lang="pt">Corrida Maluca</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+  </programme>
+  <programme start="20260819164000 -0300" stop="20260819170600 -0300" channel="Tooncast.us">
+    <title lang="pt">Thundercats</title>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Desenho</category>
+  </programme>
+  <programme start="20260819170600 -0300" stop="20260819173000 -0300" channel="Tooncast.us">
+    <title lang="pt">Thundercats</title>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Desenho</category>
+  </programme>
+  <programme start="20260819173000 -0300" stop="20260819174100 -0300" channel="Tooncast.us">
+    <title lang="pt">Irmão do Jorel</title>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Desenho</category>
+  </programme>
+  <programme start="20260819174100 -0300" stop="20260819175300 -0300" channel="Tooncast.us">
+    <title lang="pt">Irmão do Jorel</title>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Desenho</category>
+  </programme>
+  <programme start="20260819175300 -0300" stop="20260819180700 -0300" channel="Tooncast.us">
+    <title lang="pt">Irmão do Jorel</title>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Desenho</category>
+  </programme>
+  <programme start="20260819180700 -0300" stop="20260819183100 -0300" channel="Tooncast.us">
+    <title lang="pt">A Mansão Foster Para Amigos Imaginários</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+  </programme>
+  <programme start="20260819183100 -0300" stop="20260819185700 -0300" channel="Tooncast.us">
+    <title lang="pt">A Mansão Foster Para Amigos Imaginários</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+  </programme>
+  <programme start="20260819185700 -0300" stop="20260819190700 -0300" channel="Tooncast.us">
+    <title lang="pt">O Acampamento de Lazlo</title>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Desenho</category>
+  </programme>
+  <programme start="20260819190700 -0300" stop="20260819191800 -0300" channel="Tooncast.us">
+    <title lang="pt">O Acampamento de Lazlo</title>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Desenho</category>
+  </programme>
+  <programme start="20260819191800 -0300" stop="20260819192900 -0300" channel="Tooncast.us">
+    <title lang="pt">O Acampamento de Lazlo</title>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Desenho</category>
+  </programme>
+  <programme start="20260819192900 -0300" stop="20260819194200 -0300" channel="Tooncast.us">
+    <title lang="pt">O Acampamento de Lazlo</title>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Desenho</category>
+  </programme>
+  <programme start="20260819194200 -0300" stop="20260819195300 -0300" channel="Tooncast.us">
+    <title lang="pt">O Acampamento de Lazlo</title>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Desenho</category>
+  </programme>
+  <programme start="20260819195300 -0300" stop="20260819200600 -0300" channel="Tooncast.us">
+    <title lang="pt">O Acampamento de Lazlo</title>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Desenho</category>
+  </programme>
+  <programme start="20260819200600 -0300" stop="20260819201700 -0300" channel="Tooncast.us">
+    <title lang="pt">Meu Amigo da Escola é um Macaco</title>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Desenho</category>
+  </programme>
+  <programme start="20260819201700 -0300" stop="20260819202800 -0300" channel="Tooncast.us">
+    <title lang="pt">Meu Amigo da Escola é um Macaco</title>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Desenho</category>
+  </programme>
+  <programme start="20260819202800 -0300" stop="20260819204100 -0300" channel="Tooncast.us">
+    <title lang="pt">Meu Amigo da Escola é um Macaco</title>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Desenho</category>
+  </programme>
+  <programme start="20260819204100 -0300" stop="20260819205200 -0300" channel="Tooncast.us">
+    <title lang="pt">Meu Amigo da Escola é um Macaco</title>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Desenho</category>
+  </programme>
+  <programme start="20260819205200 -0300" stop="20260819210500 -0300" channel="Tooncast.us">
+    <title lang="pt">Meu Amigo da Escola é um Macaco</title>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Desenho</category>
+  </programme>
+  <programme start="20260819210500 -0300" stop="20260819211200 -0300" channel="Tooncast.us">
+    <title lang="pt">Hi Hi Puffy Ami Yumi</title>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Desenho</category>
+  </programme>
+  <programme start="20260819211200 -0300" stop="20260819211900 -0300" channel="Tooncast.us">
+    <title lang="pt">Hi Hi Puffy Ami Yumi</title>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Desenho</category>
+  </programme>
+  <programme start="20260819211900 -0300" stop="20260819212500 -0300" channel="Tooncast.us">
+    <title lang="pt">Hi Hi Puffy Ami Yumi</title>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Desenho</category>
+  </programme>
+  <programme start="20260819212500 -0300" stop="20260819213400 -0300" channel="Tooncast.us">
+    <title lang="pt">Hi Hi Puffy Ami Yumi</title>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Desenho</category>
+  </programme>
+  <programme start="20260819213400 -0300" stop="20260819214500 -0300" channel="Tooncast.us">
+    <title lang="pt">Mike, Lu e Og</title>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Desenho</category>
+  </programme>
+  <programme start="20260819214500 -0300" stop="20260819215800 -0300" channel="Tooncast.us">
+    <title lang="pt">Mike, Lu e Og</title>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Desenho</category>
+  </programme>
+  <programme start="20260819215800 -0300" stop="20260819220400 -0300" channel="Tooncast.us">
+    <title lang="pt">Sheep Na Cidade Grande</title>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Desenho</category>
+  </programme>
+  <programme start="20260819220400 -0300" stop="20260819220500 -0300" channel="Tooncast.us">
+    <title lang="pt">Sheep Na Cidade Grande</title>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Desenho</category>
+  </programme>
+  <programme start="20260819220500 -0300" stop="20260819221200 -0300" channel="Tooncast.us">
+    <title lang="pt">Sheep Na Cidade Grande</title>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Desenho</category>
+  </programme>
+  <programme start="20260819221200 -0300" stop="20260819221300 -0300" channel="Tooncast.us">
+    <title lang="pt">Sheep Na Cidade Grande</title>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Desenho</category>
+  </programme>
+  <programme start="20260819221300 -0300" stop="20260819221400 -0300" channel="Tooncast.us">
+    <title lang="pt">Sheep Na Cidade Grande</title>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Desenho</category>
+  </programme>
+  <programme start="20260819221400 -0300" stop="20260819221500 -0300" channel="Tooncast.us">
+    <title lang="pt">Sheep Na Cidade Grande</title>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Desenho</category>
+  </programme>
+  <programme start="20260819221500 -0300" stop="20260819221600 -0300" channel="Tooncast.us">
+    <title lang="pt">Sheep Na Cidade Grande</title>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Desenho</category>
+  </programme>
+  <programme start="20260819221600 -0300" stop="20260819221700 -0300" channel="Tooncast.us">
+    <title lang="pt">Sheep Na Cidade Grande</title>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Desenho</category>
+  </programme>
+  <programme start="20260819221700 -0300" stop="20260819222100 -0300" channel="Tooncast.us">
+    <title lang="pt">Sheep Na Cidade Grande</title>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Desenho</category>
+  </programme>
+  <programme start="20260819222100 -0300" stop="20260819222300 -0300" channel="Tooncast.us">
+    <title lang="pt">Sheep Na Cidade Grande</title>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Desenho</category>
+  </programme>
+  <programme start="20260819222300 -0300" stop="20260819222500 -0300" channel="Tooncast.us">
+    <title lang="pt">Sheep Na Cidade Grande</title>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Desenho</category>
+  </programme>
+  <programme start="20260819222500 -0300" stop="20260819222600 -0300" channel="Tooncast.us">
+    <title lang="pt">Sheep Na Cidade Grande</title>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Desenho</category>
+  </programme>
+  <programme start="20260819222600 -0300" stop="20260819223300 -0300" channel="Tooncast.us">
+    <title lang="pt">Sheep Na Cidade Grande</title>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Desenho</category>
+  </programme>
+  <programme start="20260819223300 -0300" stop="20260819224400 -0300" channel="Tooncast.us">
+    <title lang="pt">Esquadrão do Tempo</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+  </programme>
+  <programme start="20260819224400 -0300" stop="20260819225700 -0300" channel="Tooncast.us">
+    <title lang="pt">Esquadrão do Tempo</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+  </programme>
+  <programme start="20260819225700 -0300" stop="20260819230800 -0300" channel="Tooncast.us">
+    <title lang="pt">As Trapalhadas de Flapjack</title>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Desenho</category>
+  </programme>
+  <programme start="20260819230800 -0300" stop="20260819231800 -0300" channel="Tooncast.us">
+    <title lang="pt">As Trapalhadas de Flapjack</title>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Desenho</category>
+  </programme>
+  <programme start="20260819231800 -0300" stop="20260819233100 -0300" channel="Tooncast.us">
+    <title lang="pt">As Trapalhadas de Flapjack</title>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Desenho</category>
+  </programme>
+  <programme start="20260819233100 -0300" stop="20260819234200 -0300" channel="Tooncast.us">
+    <title lang="pt">Baby Looney Tunes</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+  </programme>
+  <programme start="20260819234200 -0300" stop="20260819235200 -0300" channel="Tooncast.us">
+    <title lang="pt">Baby Looney Tunes</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+  </programme>
+  <programme start="20260819235200 -0300" stop="20260820000100 -0300" channel="Tooncast.us">
     <title lang="pt">Baby Looney Tunes</title>
     <category lang="pt">Séries</category>
     <category lang="pt">Animação</category>
@@ -100096,111 +100036,6 @@ autenticidade nacional e negra brasileira nos anos 1970.
   <programme channel="br#futura-hd" start="20260819233000 -0300" stop="20260820000000 -0300">
     <title lang="pt">Hora De Agir</title>
   </programme>
-  <programme start="20260815180000 -0300" stop="20260815200000 -0300" channel="br#globo-news-hd">
-    <title lang="pt">Jornal GloboNews - Edição Das 18h - Ao Vivo</title>
-    <category lang="pt">Jornalismo</category>
-    <category lang="pt">Informativo</category>
-  </programme>
-  <programme start="20260815200000 -0300" stop="20260815213000 -0300" channel="br#globo-news-hd">
-    <title lang="pt">Jornal GloboNews - Edição Das 20h - Ao Vivo</title>
-    <category lang="pt">Jornalismo</category>
-    <category lang="pt">Informativo</category>
-  </programme>
-  <programme start="20260815213000 -0300" stop="20260815220000 -0300" channel="br#globo-news-hd">
-    <title lang="pt">Cidades E Soluções</title>
-    <category lang="pt">Jornalismo</category>
-    <category lang="pt">Informativo</category>
-  </programme>
-  <programme start="20260815220000 -0300" stop="20260815230000 -0300" channel="br#globo-news-hd">
-    <title lang="pt">Jornal Das Dez - Ao Vivo</title>
-    <category lang="pt">Jornalismo</category>
-    <category lang="pt">Informativo</category>
-  </programme>
-  <programme start="20260815230000 -0300" stop="20260816000000 -0300" channel="br#globo-news-hd">
-    <title lang="pt">GloboNews Documentário</title>
-    <category lang="pt">Jornalismo</category>
-    <category lang="pt">Informativo</category>
-  </programme>
-  <programme start="20260816000000 -0300" stop="20260816013000 -0300" channel="br#globo-news-hd">
-    <title lang="pt">Jornal GloboNews - Edição Da Meia-Noite - Ao Vivo</title>
-    <category lang="pt">Jornalismo</category>
-    <category lang="pt">Informativo</category>
-  </programme>
-  <programme start="20260816013000 -0300" stop="20260816023000 -0300" channel="br#globo-news-hd">
-    <title lang="pt">Globo Repórter</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Documentário</category>
-  </programme>
-  <programme start="20260816023000 -0300" stop="20260816030000 -0300" channel="br#globo-news-hd">
-    <title lang="pt">Cidades E Soluções</title>
-    <category lang="pt">Jornalismo</category>
-    <category lang="pt">Informativo</category>
-  </programme>
-  <programme start="20260816030000 -0300" stop="20260816043000 -0300" channel="br#globo-news-hd">
-    <title lang="pt">Jornal GloboNews (3h) - Ao Vivo</title>
-    <category lang="pt">Jornalismo</category>
-    <category lang="pt">Informativo</category>
-  </programme>
-  <programme start="20260816043000 -0300" stop="20260816050000 -0300" channel="br#globo-news-hd">
-    <title lang="pt">GloboNews 30 Anos</title>
-    <category lang="pt">Jornalismo</category>
-    <category lang="pt">Informativo</category>
-  </programme>
-  <programme start="20260816050000 -0300" stop="20260816060000 -0300" channel="br#globo-news-hd">
-    <title lang="pt">Jornal Das Dez</title>
-    <category lang="pt">Jornalismo</category>
-    <category lang="pt">Informativo</category>
-  </programme>
-  <programme start="20260816060000 -0300" stop="20260816062000 -0300" channel="br#globo-news-hd">
-    <title lang="pt">Jornal GloboNews - Edição Das 06h - Ao Vivo</title>
-    <category lang="pt">Jornalismo</category>
-    <category lang="pt">Informativo</category>
-  </programme>
-  <programme start="20260816062000 -0300" stop="20260816070000 -0300" channel="br#globo-news-hd">
-    <title lang="pt">Globo Repórter</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Documentário</category>
-  </programme>
-  <programme start="20260816070000 -0300" stop="20260816080000 -0300" channel="br#globo-news-hd">
-    <title lang="pt">Jornal GloboNews - Edição Das 07h - Ao Vivo</title>
-    <category lang="pt">Jornalismo</category>
-    <category lang="pt">Informativo</category>
-  </programme>
-  <programme start="20260816080000 -0300" stop="20260816100000 -0300" channel="br#globo-news-hd">
-    <title lang="pt">Jornal GloboNews - Edição Das 08h - Ao Vivo</title>
-    <category lang="pt">Jornalismo</category>
-    <category lang="pt">Informativo</category>
-  </programme>
-  <programme start="20260816100000 -0300" stop="20260816110000 -0300" channel="br#globo-news-hd">
-    <title lang="pt">Jornal GloboNews - Edição Das 10h - Ao Vivo</title>
-    <category lang="pt">Jornalismo</category>
-    <category lang="pt">Informativo</category>
-  </programme>
-  <programme start="20260816110000 -0300" stop="20260816123000 -0300" channel="br#globo-news-hd">
-    <title lang="pt">Globo Rural</title>
-    <category lang="pt">Jornalismo</category>
-    <category lang="pt">Informativo</category>
-  </programme>
-  <programme start="20260816123000 -0300" stop="20260816142000 -0300" channel="br#globo-news-hd">
-    <title lang="pt">Jornal GloboNews - Edição Do Meio-Dia - Ao Vivo</title>
-    <category lang="pt">Jornalismo</category>
-    <category lang="pt">Informativo</category>
-  </programme>
-  <programme start="20260816142000 -0300" stop="20260816150000 -0300" channel="br#globo-news-hd">
-    <title lang="pt">Pequenas Empresas Grandes Negócios</title>
-    <category lang="pt">Jornalismo</category>
-    <category lang="pt">Informativo</category>
-  </programme>
-  <programme start="20260816150000 -0300" stop="20260816173000 -0300" channel="br#globo-news-hd">
-    <title lang="pt">Jornal GloboNews - Edição Das 15h - Ao Vivo</title>
-    <category lang="pt">Jornalismo</category>
-    <category lang="pt">Informativo</category>
-  </programme>
-  <programme start="20260816173000 -0300" stop="20260816180000 -0300" channel="br#globo-news-hd">
-    <title lang="pt">GloboNews 30 Anos</title>
-    <category lang="pt">Jornalismo</category>
-    <category lang="pt">Informativo</category>
-  </programme>
   <programme start="20260816180000 -0300" stop="20260816193000 -0300" channel="br#globo-news-hd">
     <title lang="pt">Jornal GloboNews - Edição Das 18h - Ao Vivo</title>
     <category lang="pt">Jornalismo</category>
@@ -100368,6 +100203,76 @@ autenticidade nacional e negra brasileira nos anos 1970.
   </programme>
   <programme start="20260818220000 -0300" stop="20260819000000 -0300" channel="br#globo-news-hd">
     <title lang="pt">Jornal Das Dez - Ao Vivo</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20260819000000 -0300" stop="20260819010000 -0300" channel="br#globo-news-hd">
+    <title lang="pt">Jornal GloboNews - Edição Da Meia-Noite - Ao Vivo</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20260819010000 -0300" stop="20260819030000 -0300" channel="br#globo-news-hd">
+    <title lang="pt">GloboNews Em Pauta</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20260819030000 -0300" stop="20260819050000 -0300" channel="br#globo-news-hd">
+    <title lang="pt">Jornal Das Dez</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20260819050000 -0300" stop="20260819060000 -0300" channel="br#globo-news-hd">
+    <title lang="pt">Jornal GloboNews (5h) - Ao Vivo</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20260819060000 -0300" stop="20260819063000 -0300" channel="br#globo-news-hd">
+    <title lang="pt">Jornal GloboNews - Ao Vivo</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20260819063000 -0300" stop="20260819082500 -0300" channel="br#globo-news-hd">
+    <title lang="pt">GloboNews Em Ponto - Ao Vivo</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20260819082500 -0300" stop="20260819110000 -0300" channel="br#globo-news-hd">
+    <title lang="pt">GloboNews Radar - Ao Vivo</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20260819110000 -0300" stop="20260819130000 -0300" channel="br#globo-news-hd">
+    <title lang="pt">Conexão GloboNews - Ao Vivo</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20260819130000 -0300" stop="20260819160000 -0300" channel="br#globo-news-hd">
+    <title lang="pt">Estúdio i - Ao Vivo</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20260819160000 -0300" stop="20260819180000 -0300" channel="br#globo-news-hd">
+    <title lang="pt">GloboNews Mais - Ao Vivo</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20260819180000 -0300" stop="20260819200000 -0300" channel="br#globo-news-hd">
+    <title lang="pt">Jornal GloboNews Edição das 18h - Ao Vivo</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20260819200000 -0300" stop="20260819220000 -0300" channel="br#globo-news-hd">
+    <title lang="pt">GloboNews Em Pauta</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20260819220000 -0300" stop="20260819233000 -0300" channel="br#globo-news-hd">
+    <title lang="pt">Jornal das Dez</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20260819233000 -0300" stop="20260820000000 -0300" channel="br#globo-news-hd">
+    <title lang="pt">GloboNews Miriam Leitão</title>
     <category lang="pt">Jornalismo</category>
     <category lang="pt">Informativo</category>
   </programme>
