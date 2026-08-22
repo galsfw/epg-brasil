@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="epg-br-auto-generator" generator-info-url="https://github.com/" date="20260821185819 +0000">
+<tv generator-info-name="epg-br-auto-generator" generator-info-url="https://github.com/" date="20260822015206 +0000">
   <channel id="24HAnimes">
     <display-name>Record News HD</display-name>
     <icon src="http://top-logos.xyz/pt/recordnews.png" />
@@ -1682,191 +1682,6 @@
     <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000097610_epg.jpg" />
     <episode-num system="onscreen">S81 E237</episode-num>
   </programme>
-  <programme start="20260820175000 -0300" stop="20260820184000 -0300" channel="AE.br">
-    <title lang="pt">Arquivo Morto: O Dna Não Falha</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Investigação</category>
-  </programme>
-  <programme start="20260820184000 -0300" stop="20260820190500 -0300" channel="AE.br">
-    <title lang="pt">Rota: A Polícia de Elite</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Policial</category>
-  </programme>
-  <programme start="20260820190500 -0300" stop="20260820200000 -0300" channel="AE.br">
-    <title lang="pt">Operação Policial</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Policial</category>
-  </programme>
-  <programme start="20260820200000 -0300" stop="20260820205500 -0300" channel="AE.br">
-    <title lang="pt">Operação Policial</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Policial</category>
-  </programme>
-  <programme start="20260820205500 -0300" stop="20260820220000 -0300" channel="AE.br">
-    <title lang="pt">Linha de Combate</title>
-    <category lang="pt">Variedades</category>
-    <category lang="pt">Diversos</category>
-  </programme>
-  <programme start="20260820220000 -0300" stop="20260820225000 -0300" channel="AE.br">
-    <title lang="pt">Bosch</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Policial</category>
-  </programme>
-  <programme start="20260820225000 -0300" stop="20260820231200 -0300" channel="AE.br">
-    <title lang="pt">Rota: A Polícia de Elite</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Policial</category>
-  </programme>
-  <programme start="20260820231200 -0300" stop="20260820233700 -0300" channel="AE.br">
-    <title lang="pt">Polícia Em Ação</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Policial</category>
-  </programme>
-  <programme start="20260820233700 -0300" stop="20260821000200 -0300" channel="AE.br">
-    <title lang="pt">Polícia Em Ação</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Policial</category>
-  </programme>
-  <programme start="20260821000200 -0300" stop="20260821002400 -0300" channel="AE.br">
-    <title lang="pt">Polícia Em Ação</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Policial</category>
-  </programme>
-  <programme start="20260821002400 -0300" stop="20260821004600 -0300" channel="AE.br">
-    <title lang="pt">Polícia Em Ação</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Policial</category>
-  </programme>
-  <programme start="20260821004600 -0300" stop="20260821013100 -0300" channel="AE.br">
-    <title lang="pt">Caçadores de Fugitivos</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Policial</category>
-  </programme>
-  <programme start="20260821013100 -0300" stop="20260821021600 -0300" channel="AE.br">
-    <title lang="pt">As Primeiras 48 Horas</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Policial</category>
-  </programme>
-  <programme start="20260821021600 -0300" stop="20260821030000 -0300" channel="AE.br">
-    <title lang="pt">As Primeiras 48 Horas</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Policial</category>
-  </programme>
-  <programme start="20260821030000 -0300" stop="20260821034400 -0300" channel="AE.br">
-    <title lang="pt">Casos Arquivados</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Investigação</category>
-  </programme>
-  <programme start="20260821034400 -0300" stop="20260821042900 -0300" channel="AE.br">
-    <title lang="pt">Casos Arquivados</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Investigação</category>
-  </programme>
-  <programme start="20260821042900 -0300" stop="20260821051700 -0300" channel="AE.br">
-    <title lang="pt">Bosch</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Policial</category>
-  </programme>
-  <programme start="20260821051700 -0300" stop="20260821053800 -0300" channel="AE.br">
-    <title lang="pt">Guerra No Trânsito</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Ação</category>
-  </programme>
-  <programme start="20260821053800 -0300" stop="20260821060000 -0300" channel="AE.br">
-    <title lang="pt">Guerra No Trânsito</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Ação</category>
-  </programme>
-  <programme start="20260821060000 -0300" stop="20260821065000 -0300" channel="AE.br">
-    <title lang="pt">Me Diga Como Morri</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Investigação</category>
-  </programme>
-  <programme start="20260821065000 -0300" stop="20260821071500 -0300" channel="AE.br">
-    <title lang="pt">Polícia Em Ação</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Policial</category>
-  </programme>
-  <programme start="20260821071500 -0300" stop="20260821073500 -0300" channel="AE.br">
-    <title lang="pt">Polícia Em Ação</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Policial</category>
-  </programme>
-  <programme start="20260821073500 -0300" stop="20260821080000 -0300" channel="AE.br">
-    <title lang="pt">Polícia Em Ação</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Policial</category>
-  </programme>
-  <programme start="20260821080000 -0300" stop="20260821082000 -0300" channel="AE.br">
-    <title lang="pt">Polícia Em Ação</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Policial</category>
-  </programme>
-  <programme start="20260821082000 -0300" stop="20260821084500 -0300" channel="AE.br">
-    <title lang="pt">Polícia Em Ação</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Policial</category>
-  </programme>
-  <programme start="20260821084500 -0300" stop="20260821090500 -0300" channel="AE.br">
-    <title lang="pt">Polícia Em Ação</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Policial</category>
-  </programme>
-  <programme start="20260821090500 -0300" stop="20260821095500 -0300" channel="AE.br">
-    <title lang="pt">As Primeiras 48 Horas</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Policial</category>
-  </programme>
-  <programme start="20260821095500 -0300" stop="20260821104500 -0300" channel="AE.br">
-    <title lang="pt">Casos Arquivados</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Investigação</category>
-  </programme>
-  <programme start="20260821104500 -0300" stop="20260821113500 -0300" channel="AE.br">
-    <title lang="pt">Casos Arquivados</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Investigação</category>
-  </programme>
-  <programme start="20260821113500 -0300" stop="20260821123000 -0300" channel="AE.br">
-    <title lang="pt">Acumuladores Compulsivos</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Reality Show</category>
-  </programme>
-  <programme start="20260821123000 -0300" stop="20260821131500 -0300" channel="AE.br">
-    <title lang="pt">Acumuladores Compulsivos</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Reality Show</category>
-  </programme>
-  <programme start="20260821131500 -0300" stop="20260821145000 -0300" channel="AE.br">
-    <title lang="pt">Acumuladores Compulsivos</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Reality Show</category>
-  </programme>
-  <programme start="20260821145000 -0300" stop="20260821151000 -0300" channel="AE.br">
-    <title lang="pt">Polícia Em Ação</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Policial</category>
-  </programme>
-  <programme start="20260821151000 -0300" stop="20260821153500 -0300" channel="AE.br">
-    <title lang="pt">Polícia Em Ação</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Policial</category>
-  </programme>
-  <programme start="20260821153500 -0300" stop="20260821155500 -0300" channel="AE.br">
-    <title lang="pt">Polícia Em Ação</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Policial</category>
-  </programme>
-  <programme start="20260821155500 -0300" stop="20260821165000 -0300" channel="AE.br">
-    <title lang="pt">Caçadores de Fugitivos</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Policial</category>
-  </programme>
-  <programme start="20260821165000 -0300" stop="20260821174500 -0300" channel="AE.br">
-    <title lang="pt">Caçadores de Fugitivos</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Policial</category>
-  </programme>
   <programme start="20260821174500 -0300" stop="20260821183500 -0300" channel="AE.br">
     <title lang="pt">Arquivo Morto: O Dna Não Falha</title>
     <category lang="pt">Séries</category>
@@ -2351,6 +2166,201 @@
     <title lang="pt">As Primeiras 48 Horas: Minutos Críticos</title>
     <category lang="pt">Séries</category>
     <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20260824003500 -0300" stop="20260824012000 -0300" channel="AE.br">
+    <title lang="pt">Esquadrão de Homicídios: Nova Orleans</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20260824012000 -0300" stop="20260824021000 -0300" channel="AE.br">
+    <title lang="pt">Esquadrão de Homicídios: Nova Orleans</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20260824021000 -0300" stop="20260824030000 -0300" channel="AE.br">
+    <title lang="pt">Jo</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Drama</category>
+  </programme>
+  <programme start="20260824030000 -0300" stop="20260824035000 -0300" channel="AE.br">
+    <title lang="pt">Jo</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Drama</category>
+  </programme>
+  <programme start="20260824035000 -0300" stop="20260824043500 -0300" channel="AE.br">
+    <title lang="pt">Acusado: Fui Eu Que Fiz Isso?</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Investigação</category>
+  </programme>
+  <programme start="20260824043500 -0300" stop="20260824052000 -0300" channel="AE.br">
+    <title lang="pt">Acumuladores Compulsivos</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+  </programme>
+  <programme start="20260824052000 -0300" stop="20260824060000 -0300" channel="AE.br">
+    <title lang="pt">Acumuladores Compulsivos</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+  </programme>
+  <programme start="20260824060000 -0300" stop="20260824062500 -0300" channel="AE.br">
+    <title lang="pt">Quem dá Mais?</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+  </programme>
+  <programme start="20260824062500 -0300" stop="20260824064500 -0300" channel="AE.br">
+    <title lang="pt">Quem dá Mais?</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+  </programme>
+  <programme start="20260824064500 -0300" stop="20260824071000 -0300" channel="AE.br">
+    <title lang="pt">Quem dá Mais?</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+  </programme>
+  <programme start="20260824071000 -0300" stop="20260824073000 -0300" channel="AE.br">
+    <title lang="pt">Quem dá Mais?</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+  </programme>
+  <programme start="20260824073000 -0300" stop="20260824075500 -0300" channel="AE.br">
+    <title lang="pt">Quem dá Mais?</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+  </programme>
+  <programme start="20260824075500 -0300" stop="20260824082000 -0300" channel="AE.br">
+    <title lang="pt">Quem dá Mais?</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+  </programme>
+  <programme start="20260824082000 -0300" stop="20260824084500 -0300" channel="AE.br">
+    <title lang="pt">Quem dá Mais?</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+  </programme>
+  <programme start="20260824084500 -0300" stop="20260824093500 -0300" channel="AE.br">
+    <title lang="pt">As Primeiras 48 Horas</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Policial</category>
+  </programme>
+  <programme start="20260824093500 -0300" stop="20260824102500 -0300" channel="AE.br">
+    <title lang="pt">Casos Arquivados</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Investigação</category>
+  </programme>
+  <programme start="20260824102500 -0300" stop="20260824111500 -0300" channel="AE.br">
+    <title lang="pt">Casos Arquivados</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Investigação</category>
+  </programme>
+  <programme start="20260824111500 -0300" stop="20260824120500 -0300" channel="AE.br">
+    <title lang="pt">Acumuladores Compulsivos</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+  </programme>
+  <programme start="20260824120500 -0300" stop="20260824125500 -0300" channel="AE.br">
+    <title lang="pt">Acumuladores Compulsivos</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+  </programme>
+  <programme start="20260824125500 -0300" stop="20260824143000 -0300" channel="AE.br">
+    <title lang="pt">Acumuladores Compulsivos</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+  </programme>
+  <programme start="20260824143000 -0300" stop="20260824145500 -0300" channel="AE.br">
+    <title lang="pt">Polícia Em Ação</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Policial</category>
+  </programme>
+  <programme start="20260824145500 -0300" stop="20260824151500 -0300" channel="AE.br">
+    <title lang="pt">Polícia Em Ação</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Policial</category>
+  </programme>
+  <programme start="20260824151500 -0300" stop="20260824154000 -0300" channel="AE.br">
+    <title lang="pt">Polícia Em Ação</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Policial</category>
+  </programme>
+  <programme start="20260824154000 -0300" stop="20260824160000 -0300" channel="AE.br">
+    <title lang="pt">Polícia Em Ação</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Policial</category>
+  </programme>
+  <programme start="20260824160000 -0300" stop="20260824165500 -0300" channel="AE.br">
+    <title lang="pt">Jo</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Drama</category>
+  </programme>
+  <programme start="20260824165500 -0300" stop="20260824175000 -0300" channel="AE.br">
+    <title lang="pt">Jo</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Drama</category>
+  </programme>
+  <programme start="20260824175000 -0300" stop="20260824181500 -0300" channel="AE.br">
+    <title lang="pt">Quem dá Mais?</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+  </programme>
+  <programme start="20260824181500 -0300" stop="20260824184000 -0300" channel="AE.br">
+    <title lang="pt">Quem dá Mais?</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+  </programme>
+  <programme start="20260824184000 -0300" stop="20260824190500 -0300" channel="AE.br">
+    <title lang="pt">Quem dá Mais?</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+  </programme>
+  <programme start="20260824190500 -0300" stop="20260824193000 -0300" channel="AE.br">
+    <title lang="pt">Quem dá Mais?</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+  </programme>
+  <programme start="20260824193000 -0300" stop="20260824195500 -0300" channel="AE.br">
+    <title lang="pt">Quem dá Mais?</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+  </programme>
+  <programme start="20260824195500 -0300" stop="20260824202000 -0300" channel="AE.br">
+    <title lang="pt">Quem dá Mais?</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+  </programme>
+  <programme start="20260824202000 -0300" stop="20260824204500 -0300" channel="AE.br">
+    <title lang="pt">Quem dá Mais?</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+  </programme>
+  <programme start="20260824204500 -0300" stop="20260824211000 -0300" channel="AE.br">
+    <title lang="pt">Quem dá Mais?</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+  </programme>
+  <programme start="20260824211000 -0300" stop="20260824213500 -0300" channel="AE.br">
+    <title lang="pt">Quem dá Mais?</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+  </programme>
+  <programme start="20260824213500 -0300" stop="20260824220000 -0300" channel="AE.br">
+    <title lang="pt">Quem dá Mais?</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+  </programme>
+  <programme start="20260824220000 -0300" stop="20260824224500 -0300" channel="AE.br">
+    <title lang="pt">Bosch</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Policial</category>
+  </programme>
+  <programme start="20260824224500 -0300" stop="20260824233500 -0300" channel="AE.br">
+    <title lang="pt">Bosch</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Policial</category>
+  </programme>
+  <programme start="20260824233500 -0300" stop="20260825000000 -0300" channel="AE.br">
+    <title lang="pt">Quem dá Mais?</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
   </programme>
   <programme start="20260816220000 -0300" stop="20260817000000 -0300" channel="AMC.br">
     <title lang="pt">Encontro Explosivo</title>
@@ -35551,126 +35561,6 @@ autenticidade nacional e negra brasileira nos anos 1970.
   <programme channel="DiscoveryChannel.br" start="20260824235500 -0300" stop="20260825013200 -0300">
     <title lang="pt">Tudo Por Ouro</title>
   </programme>
-  <programme start="20260820180100 -0300" stop="20260820194100 -0300" channel="DiscoveryHomeHealth.br">
-    <title lang="pt">Quilos Mortais</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Reality Show</category>
-  </programme>
-  <programme start="20260820194100 -0300" stop="20260820203000 -0300" channel="DiscoveryHomeHealth.br">
-    <title lang="pt">Dr Pimple Popper: Breaking Out</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Reality Show</category>
-  </programme>
-  <programme start="20260820203000 -0300" stop="20260820211900 -0300" channel="DiscoveryHomeHealth.br">
-    <title lang="pt">Dra. Sandra Lee: A Rainha Dos Cravos</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Medicina</category>
-  </programme>
-  <programme start="20260820211900 -0300" stop="20260820220800 -0300" channel="DiscoveryHomeHealth.br">
-    <title lang="pt">Skin A&amp;E</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Documentário</category>
-  </programme>
-  <programme start="20260820220800 -0300" stop="20260820225800 -0300" channel="DiscoveryHomeHealth.br">
-    <title lang="pt">Pronto-Socorro - Histórias de Emergência</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Documentário</category>
-  </programme>
-  <programme start="20260820225800 -0300" stop="20260820234900 -0300" channel="DiscoveryHomeHealth.br">
-    <title lang="pt">About Face</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Medicina</category>
-  </programme>
-  <programme start="20260820234900 -0300" stop="20260821003900 -0300" channel="DiscoveryHomeHealth.br">
-    <title lang="pt">Cirurgiões: No Limite Da Vida</title>
-    <category lang="pt">Documentário</category>
-    <category lang="pt">Diversos</category>
-  </programme>
-  <programme start="20260821003900 -0300" stop="20260821012900 -0300" channel="DiscoveryHomeHealth.br">
-    <title lang="pt">Quilos Mortais</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Reality Show</category>
-  </programme>
-  <programme start="20260821012900 -0300" stop="20260821021800 -0300" channel="DiscoveryHomeHealth.br">
-    <title lang="pt">90 Dias Para Casar: Felizes Para Sempre?</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Reality Show</category>
-  </programme>
-  <programme start="20260821021800 -0300" stop="20260821035600 -0300" channel="DiscoveryHomeHealth.br">
-    <title lang="pt">Pesadelo na Cozinha</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Culinária</category>
-  </programme>
-  <programme start="20260821035600 -0300" stop="20260821053400 -0300" channel="DiscoveryHomeHealth.br">
-    <title lang="pt">Quilos Mortais</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Reality Show</category>
-  </programme>
-  <programme start="20260821053400 -0300" stop="20260821060000 -0300" channel="DiscoveryHomeHealth.br">
-    <title lang="pt">Reforma dos Sonhos</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Reality Show</category>
-  </programme>
-  <programme start="20260821060000 -0300" stop="20260821064400 -0300" channel="DiscoveryHomeHealth.br">
-    <title lang="pt">Keith &amp; Evan: Reformando Com O Coração</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Reality Show</category>
-  </programme>
-  <programme start="20260821064400 -0300" stop="20260821073500 -0300" channel="DiscoveryHomeHealth.br">
-    <title lang="pt">Irmãos à Obra: Compra e Venda</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Comportamento</category>
-  </programme>
-  <programme start="20260821073500 -0300" stop="20260821081900 -0300" channel="DiscoveryHomeHealth.br">
-    <title lang="pt">SOS Restaurante</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Culinária</category>
-  </programme>
-  <programme start="20260821081900 -0300" stop="20260821091100 -0300" channel="DiscoveryHomeHealth.br">
-    <title lang="pt">A Guerra dos Bolos</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Culinária</category>
-  </programme>
-  <programme start="20260821091100 -0300" stop="20260821105800 -0300" channel="DiscoveryHomeHealth.br">
-    <title lang="pt">90 Dias para Casar: Antes dos 90 Dias</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Reality Show</category>
-  </programme>
-  <programme start="20260821105800 -0300" stop="20260821115300 -0300" channel="DiscoveryHomeHealth.br">
-    <title lang="pt">A Pequena Grande Família</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Reality Show</category>
-  </programme>
-  <programme start="20260821115300 -0300" stop="20260821124500 -0300" channel="DiscoveryHomeHealth.br">
-    <title lang="pt">A Pequena Grande Família</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Reality Show</category>
-  </programme>
-  <programme start="20260821124500 -0300" stop="20260821133700 -0300" channel="DiscoveryHomeHealth.br">
-    <title lang="pt">Irmãos À Obra: Lar Sempre Lar</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Reality Show</category>
-  </programme>
-  <programme start="20260821133700 -0300" stop="20260821142900 -0300" channel="DiscoveryHomeHealth.br">
-    <title lang="pt">Irmãos À Obra: Lar Sempre Lar</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Reality Show</category>
-  </programme>
-  <programme start="20260821142900 -0300" stop="20260821152300 -0300" channel="DiscoveryHomeHealth.br">
-    <title lang="pt">Do Velho Ao Novo</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Comportamento</category>
-  </programme>
-  <programme start="20260821152300 -0300" stop="20260821161700 -0300" channel="DiscoveryHomeHealth.br">
-    <title lang="pt">Os Pequenos Johnstons</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Reality Show</category>
-  </programme>
-  <programme start="20260821161700 -0300" stop="20260821170900 -0300" channel="DiscoveryHomeHealth.br">
-    <title lang="pt">Amy e Tammy: Irmãs Contra o Peso</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Reality Show</category>
-  </programme>
   <programme start="20260821170900 -0300" stop="20260821185200 -0300" channel="DiscoveryHomeHealth.br">
     <title lang="pt">Quilos Mortais</title>
     <category lang="pt">Séries</category>
@@ -35945,6 +35835,136 @@ autenticidade nacional e negra brasileira nos anos 1970.
     <title lang="pt">Masterchef Brasil</title>
     <category lang="pt">Séries</category>
     <category lang="pt">Culinária</category>
+  </programme>
+  <programme start="20260824005000 -0300" stop="20260824020400 -0300" channel="DiscoveryHomeHealth.br">
+    <title lang="pt">A Batalha dos 100 Cozinheiros</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+  </programme>
+  <programme start="20260824020400 -0300" stop="20260824025200 -0300" channel="DiscoveryHomeHealth.br">
+    <title lang="pt">Pesadelo na Cozinha com Gordon Ramsay</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Culinária</category>
+  </programme>
+  <programme start="20260824025200 -0300" stop="20260824033800 -0300" channel="DiscoveryHomeHealth.br">
+    <title lang="pt">Mama June: Vida Nova</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+  </programme>
+  <programme start="20260824033800 -0300" stop="20260824040000 -0300" channel="DiscoveryHomeHealth.br">
+    <title lang="pt">De Olho nos Vizinhos</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Suspense</category>
+  </programme>
+  <programme start="20260824040000 -0300" stop="20260824044700 -0300" channel="DiscoveryHomeHealth.br">
+    <title lang="pt">Casa Em Obra: Do Pesadelo Ao Sonho</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+  </programme>
+  <programme start="20260824044700 -0300" stop="20260824053400 -0300" channel="DiscoveryHomeHealth.br">
+    <title lang="pt">Reformar Para Vender Com Tarek E Heather</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+  </programme>
+  <programme start="20260824053400 -0300" stop="20260824060000 -0300" channel="DiscoveryHomeHealth.br">
+    <title lang="pt">John E Anthony: Reformando Cozinhas</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+  </programme>
+  <programme start="20260824060000 -0300" stop="20260824064400 -0300" channel="DiscoveryHomeHealth.br">
+    <title lang="pt">Keith &amp; Evan: Reformando Com O Coração</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+  </programme>
+  <programme start="20260824064400 -0300" stop="20260824073500 -0300" channel="DiscoveryHomeHealth.br">
+    <title lang="pt">Irmãos à Obra: Compra e Venda</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comportamento</category>
+  </programme>
+  <programme start="20260824073500 -0300" stop="20260824081900 -0300" channel="DiscoveryHomeHealth.br">
+    <title lang="pt">SOS Restaurante</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Culinária</category>
+  </programme>
+  <programme start="20260824081900 -0300" stop="20260824091100 -0300" channel="DiscoveryHomeHealth.br">
+    <title lang="pt">A Guerra dos Bolos</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Culinária</category>
+  </programme>
+  <programme start="20260824091100 -0300" stop="20260824105800 -0300" channel="DiscoveryHomeHealth.br">
+    <title lang="pt">90 Dias para Casar: Antes dos 90 Dias</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+  </programme>
+  <programme start="20260824105800 -0300" stop="20260824115300 -0300" channel="DiscoveryHomeHealth.br">
+    <title lang="pt">A Pequena Grande Família</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+  </programme>
+  <programme start="20260824115300 -0300" stop="20260824124500 -0300" channel="DiscoveryHomeHealth.br">
+    <title lang="pt">A Pequena Grande Família</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+  </programme>
+  <programme start="20260824124500 -0300" stop="20260824133700 -0300" channel="DiscoveryHomeHealth.br">
+    <title lang="pt">Irmãos À Obra: Lar Sempre Lar</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+  </programme>
+  <programme start="20260824133700 -0300" stop="20260824142900 -0300" channel="DiscoveryHomeHealth.br">
+    <title lang="pt">Irmãos À Obra: Lar Sempre Lar</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+  </programme>
+  <programme start="20260824142900 -0300" stop="20260824152300 -0300" channel="DiscoveryHomeHealth.br">
+    <title lang="pt">Do Velho Ao Novo</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comportamento</category>
+  </programme>
+  <programme start="20260824152300 -0300" stop="20260824161700 -0300" channel="DiscoveryHomeHealth.br">
+    <title lang="pt">Os Pequenos Johnstons</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+  </programme>
+  <programme start="20260824161700 -0300" stop="20260824170900 -0300" channel="DiscoveryHomeHealth.br">
+    <title lang="pt">Amy e Tammy: Irmãs Contra o Peso</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+  </programme>
+  <programme start="20260824170900 -0300" stop="20260824190600 -0300" channel="DiscoveryHomeHealth.br">
+    <title lang="pt">Masterchef Brasil</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Culinária</category>
+  </programme>
+  <programme start="20260824190600 -0300" stop="20260824204300 -0300" channel="DiscoveryHomeHealth.br">
+    <title lang="pt">Pesadelo na Cozinha</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Culinária</category>
+  </programme>
+  <programme start="20260824204300 -0300" stop="20260824213200 -0300" channel="DiscoveryHomeHealth.br">
+    <title lang="pt">A Batalha dos 100 Cozinheiros</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+  </programme>
+  <programme start="20260824213200 -0300" stop="20260824224600 -0300" channel="DiscoveryHomeHealth.br">
+    <title lang="pt">24 Em 24: O Último Chef em Pé</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+  </programme>
+  <programme start="20260824224600 -0300" stop="20260824231100 -0300" channel="DiscoveryHomeHealth.br">
+    <title lang="pt">Um Dia de Chef</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Culinária</category>
+  </programme>
+  <programme start="20260824231100 -0300" stop="20260824233500 -0300" channel="DiscoveryHomeHealth.br">
+    <title lang="pt">Um Dia de Chef</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Culinária</category>
+  </programme>
+  <programme start="20260824233500 -0300" stop="20260825002400 -0300" channel="DiscoveryHomeHealth.br">
+    <title lang="pt">O Sócio</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
   </programme>
   <programme channel="DiscoveryKids.br" start="20260821000200 -0300" stop="20260821000700 -0300">
     <title lang="pt">Mini Beat Power Rockers</title>
@@ -112601,626 +112621,6 @@ autenticidade nacional e negra brasileira nos anos 1970.
     <desc lang="pt">As principais notícias do Brasil e do mundo, trânsito, previsão do tempo e prestação de serviço.</desc>
     <episode-num system="xmltv_ns">..</episode-num>
   </programme>
-  <programme start="20260820175300 -0300" stop="20260820180600 -0300" channel="Tooncast.us">
-    <title lang="pt">Irmão do Jorel</title>
-    <category lang="pt">Infantil</category>
-    <category lang="pt">Desenho</category>
-  </programme>
-  <programme start="20260820180600 -0300" stop="20260820183100 -0300" channel="Tooncast.us">
-    <title lang="pt">A Mansão Foster Para Amigos Imaginários</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Animação</category>
-  </programme>
-  <programme start="20260820183100 -0300" stop="20260820185600 -0300" channel="Tooncast.us">
-    <title lang="pt">A Mansão Foster Para Amigos Imaginários</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Animação</category>
-  </programme>
-  <programme start="20260820185600 -0300" stop="20260820190800 -0300" channel="Tooncast.us">
-    <title lang="pt">O Acampamento de Lazlo</title>
-    <category lang="pt">Infantil</category>
-    <category lang="pt">Desenho</category>
-  </programme>
-  <programme start="20260820190800 -0300" stop="20260820191800 -0300" channel="Tooncast.us">
-    <title lang="pt">O Acampamento de Lazlo</title>
-    <category lang="pt">Infantil</category>
-    <category lang="pt">Desenho</category>
-  </programme>
-  <programme start="20260820191800 -0300" stop="20260820192900 -0300" channel="Tooncast.us">
-    <title lang="pt">O Acampamento de Lazlo</title>
-    <category lang="pt">Infantil</category>
-    <category lang="pt">Desenho</category>
-  </programme>
-  <programme start="20260820192900 -0300" stop="20260820194200 -0300" channel="Tooncast.us">
-    <title lang="pt">O Acampamento de Lazlo</title>
-    <category lang="pt">Infantil</category>
-    <category lang="pt">Desenho</category>
-  </programme>
-  <programme start="20260820194200 -0300" stop="20260820195200 -0300" channel="Tooncast.us">
-    <title lang="pt">O Acampamento de Lazlo</title>
-    <category lang="pt">Infantil</category>
-    <category lang="pt">Desenho</category>
-  </programme>
-  <programme start="20260820195200 -0300" stop="20260820200600 -0300" channel="Tooncast.us">
-    <title lang="pt">O Acampamento De Lazlo</title>
-    <category lang="pt">Infantil</category>
-    <category lang="pt">Desenho</category>
-  </programme>
-  <programme start="20260820200600 -0300" stop="20260820201700 -0300" channel="Tooncast.us">
-    <title lang="pt">Meu Amigo da Escola é um Macaco</title>
-    <category lang="pt">Infantil</category>
-    <category lang="pt">Desenho</category>
-  </programme>
-  <programme start="20260820201700 -0300" stop="20260820202800 -0300" channel="Tooncast.us">
-    <title lang="pt">Meu Amigo da Escola é um Macaco</title>
-    <category lang="pt">Infantil</category>
-    <category lang="pt">Desenho</category>
-  </programme>
-  <programme start="20260820202800 -0300" stop="20260820204100 -0300" channel="Tooncast.us">
-    <title lang="pt">Meu Amigo da Escola é um Macaco</title>
-    <category lang="pt">Infantil</category>
-    <category lang="pt">Desenho</category>
-  </programme>
-  <programme start="20260820204100 -0300" stop="20260820205200 -0300" channel="Tooncast.us">
-    <title lang="pt">Meu Amigo da Escola é um Macaco</title>
-    <category lang="pt">Infantil</category>
-    <category lang="pt">Desenho</category>
-  </programme>
-  <programme start="20260820205200 -0300" stop="20260820210500 -0300" channel="Tooncast.us">
-    <title lang="pt">Meu Amigo da Escola é um Macaco</title>
-    <category lang="pt">Infantil</category>
-    <category lang="pt">Desenho</category>
-  </programme>
-  <programme start="20260820210500 -0300" stop="20260820211200 -0300" channel="Tooncast.us">
-    <title lang="pt">Hi Hi Puffy Ami Yumi</title>
-    <category lang="pt">Infantil</category>
-    <category lang="pt">Desenho</category>
-  </programme>
-  <programme start="20260820211200 -0300" stop="20260820211900 -0300" channel="Tooncast.us">
-    <title lang="pt">Hi Hi Puffy Ami Yumi</title>
-    <category lang="pt">Infantil</category>
-    <category lang="pt">Desenho</category>
-  </programme>
-  <programme start="20260820211900 -0300" stop="20260820212600 -0300" channel="Tooncast.us">
-    <title lang="pt">Hi Hi Puffy Ami Yumi</title>
-    <category lang="pt">Infantil</category>
-    <category lang="pt">Desenho</category>
-  </programme>
-  <programme start="20260820212600 -0300" stop="20260820213500 -0300" channel="Tooncast.us">
-    <title lang="pt">Hi Hi Puffy Ami Yumi</title>
-    <category lang="pt">Infantil</category>
-    <category lang="pt">Desenho</category>
-  </programme>
-  <programme start="20260820213500 -0300" stop="20260820214600 -0300" channel="Tooncast.us">
-    <title lang="pt">Mike, Lu e Og</title>
-    <category lang="pt">Infantil</category>
-    <category lang="pt">Desenho</category>
-  </programme>
-  <programme start="20260820214600 -0300" stop="20260820215900 -0300" channel="Tooncast.us">
-    <title lang="pt">Mike, Lu e Og</title>
-    <category lang="pt">Infantil</category>
-    <category lang="pt">Desenho</category>
-  </programme>
-  <programme start="20260820215900 -0300" stop="20260820220000 -0300" channel="Tooncast.us">
-    <title lang="pt">Sheep Na Cidade Grande</title>
-    <category lang="pt">Infantil</category>
-    <category lang="pt">Desenho</category>
-  </programme>
-  <programme start="20260820220000 -0300" stop="20260820220100 -0300" channel="Tooncast.us">
-    <title lang="pt">Sheep Na Cidade Grande</title>
-    <category lang="pt">Infantil</category>
-    <category lang="pt">Desenho</category>
-  </programme>
-  <programme start="20260820220100 -0300" stop="20260820220800 -0300" channel="Tooncast.us">
-    <title lang="pt">Sheep Na Cidade Grande</title>
-    <category lang="pt">Infantil</category>
-    <category lang="pt">Desenho</category>
-  </programme>
-  <programme start="20260820220800 -0300" stop="20260820221400 -0300" channel="Tooncast.us">
-    <title lang="pt">Sheep Na Cidade Grande</title>
-    <category lang="pt">Infantil</category>
-    <category lang="pt">Desenho</category>
-  </programme>
-  <programme start="20260820221400 -0300" stop="20260820221500 -0300" channel="Tooncast.us">
-    <title lang="pt">Sheep Na Cidade Grande</title>
-    <category lang="pt">Infantil</category>
-    <category lang="pt">Desenho</category>
-  </programme>
-  <programme start="20260820221500 -0300" stop="20260820221600 -0300" channel="Tooncast.us">
-    <title lang="pt">Sheep Na Cidade Grande</title>
-    <category lang="pt">Infantil</category>
-    <category lang="pt">Desenho</category>
-  </programme>
-  <programme start="20260820221600 -0300" stop="20260820222000 -0300" channel="Tooncast.us">
-    <title lang="pt">Sheep Na Cidade Grande</title>
-    <category lang="pt">Infantil</category>
-    <category lang="pt">Desenho</category>
-  </programme>
-  <programme start="20260820222000 -0300" stop="20260820222100 -0300" channel="Tooncast.us">
-    <title lang="pt">Sheep Na Cidade Grande</title>
-    <category lang="pt">Infantil</category>
-    <category lang="pt">Desenho</category>
-  </programme>
-  <programme start="20260820222100 -0300" stop="20260820222200 -0300" channel="Tooncast.us">
-    <title lang="pt">Sheep Na Cidade Grande</title>
-    <category lang="pt">Infantil</category>
-    <category lang="pt">Desenho</category>
-  </programme>
-  <programme start="20260820222200 -0300" stop="20260820222300 -0300" channel="Tooncast.us">
-    <title lang="pt">Sheep Na Cidade Grande</title>
-    <category lang="pt">Infantil</category>
-    <category lang="pt">Desenho</category>
-  </programme>
-  <programme start="20260820222300 -0300" stop="20260820222400 -0300" channel="Tooncast.us">
-    <title lang="pt">Sheep Na Cidade Grande</title>
-    <category lang="pt">Infantil</category>
-    <category lang="pt">Desenho</category>
-  </programme>
-  <programme start="20260820222400 -0300" stop="20260820222500 -0300" channel="Tooncast.us">
-    <title lang="pt">Sheep Na Cidade Grande</title>
-    <category lang="pt">Infantil</category>
-    <category lang="pt">Desenho</category>
-  </programme>
-  <programme start="20260820222500 -0300" stop="20260820222600 -0300" channel="Tooncast.us">
-    <title lang="pt">Sheep Na Cidade Grande</title>
-    <category lang="pt">Infantil</category>
-    <category lang="pt">Desenho</category>
-  </programme>
-  <programme start="20260820222600 -0300" stop="20260820222800 -0300" channel="Tooncast.us">
-    <title lang="pt">Sheep Na Cidade Grande</title>
-    <category lang="pt">Infantil</category>
-    <category lang="pt">Desenho</category>
-  </programme>
-  <programme start="20260820222800 -0300" stop="20260820223200 -0300" channel="Tooncast.us">
-    <title lang="pt">Sheep Na Cidade Grande</title>
-    <category lang="pt">Infantil</category>
-    <category lang="pt">Desenho</category>
-  </programme>
-  <programme start="20260820223200 -0300" stop="20260820223900 -0300" channel="Tooncast.us">
-    <title lang="pt">Esquadrão do Tempo</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Animação</category>
-  </programme>
-  <programme start="20260820223900 -0300" stop="20260820225000 -0300" channel="Tooncast.us">
-    <title lang="pt">Esquadrão do Tempo</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Animação</category>
-  </programme>
-  <programme start="20260820225000 -0300" stop="20260820230400 -0300" channel="Tooncast.us">
-    <title lang="pt">Esquadrão do Tempo</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Animação</category>
-  </programme>
-  <programme start="20260820230400 -0300" stop="20260820231500 -0300" channel="Tooncast.us">
-    <title lang="pt">As Trapalhadas de Flapjack</title>
-    <category lang="pt">Infantil</category>
-    <category lang="pt">Desenho</category>
-  </programme>
-  <programme start="20260820231500 -0300" stop="20260820232800 -0300" channel="Tooncast.us">
-    <title lang="pt">As Trapalhadas de Flapjack</title>
-    <category lang="pt">Infantil</category>
-    <category lang="pt">Desenho</category>
-  </programme>
-  <programme start="20260820232800 -0300" stop="20260820233800 -0300" channel="Tooncast.us">
-    <title lang="pt">Baby Looney Tunes</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Animação</category>
-  </programme>
-  <programme start="20260820233800 -0300" stop="20260820234900 -0300" channel="Tooncast.us">
-    <title lang="pt">Baby Looney Tunes</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Animação</category>
-  </programme>
-  <programme start="20260820234900 -0300" stop="20260820235900 -0300" channel="Tooncast.us">
-    <title lang="pt">Baby Looney Tunes</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Animação</category>
-  </programme>
-  <programme start="20260820235900 -0300" stop="20260821001000 -0300" channel="Tooncast.us">
-    <title lang="pt">Baby Looney Tunes</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Animação</category>
-  </programme>
-  <programme start="20260821001000 -0300" stop="20260821002000 -0300" channel="Tooncast.us">
-    <title lang="pt">Baby Looney Tunes</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Animação</category>
-  </programme>
-  <programme start="20260821002000 -0300" stop="20260821003100 -0300" channel="Tooncast.us">
-    <title lang="pt">Baby Looney Tunes</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Animação</category>
-  </programme>
-  <programme start="20260821003100 -0300" stop="20260821005400 -0300" channel="Tooncast.us">
-    <title lang="pt">Scooby-Doo! Cadê Você?</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Animação</category>
-  </programme>
-  <programme start="20260821005400 -0300" stop="20260821011700 -0300" channel="Tooncast.us">
-    <title lang="pt">Scooby-Doo! Cadê Você?</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Animação</category>
-  </programme>
-  <programme start="20260821011700 -0300" stop="20260821013900 -0300" channel="Tooncast.us">
-    <title lang="pt">Scooby-Doo! Mistério S/A</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Animação</category>
-  </programme>
-  <programme start="20260821013900 -0300" stop="20260821020200 -0300" channel="Tooncast.us">
-    <title lang="pt">Scooby-Doo! Mistério S/A</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Animação</category>
-  </programme>
-  <programme start="20260821020200 -0300" stop="20260821022800 -0300" channel="Tooncast.us">
-    <title lang="pt">Manda Chuva</title>
-    <category lang="pt">Infantil</category>
-    <category lang="pt">Desenho</category>
-  </programme>
-  <programme start="20260821022800 -0300" stop="20260821025400 -0300" channel="Tooncast.us">
-    <title lang="pt">Manda Chuva</title>
-    <category lang="pt">Infantil</category>
-    <category lang="pt">Desenho</category>
-  </programme>
-  <programme start="20260821025400 -0300" stop="20260821032100 -0300" channel="Tooncast.us">
-    <title lang="pt">Os Flintstones</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Animação</category>
-  </programme>
-  <programme start="20260821032100 -0300" stop="20260821034700 -0300" channel="Tooncast.us">
-    <title lang="pt">Os Flintstones</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Animação</category>
-  </programme>
-  <programme start="20260821034700 -0300" stop="20260821035700 -0300" channel="Tooncast.us">
-    <title lang="pt">Corrida Maluca</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Animação</category>
-  </programme>
-  <programme start="20260821035700 -0300" stop="20260821040600 -0300" channel="Tooncast.us">
-    <title lang="pt">Corrida Maluca</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Animação</category>
-  </programme>
-  <programme start="20260821040600 -0300" stop="20260821041800 -0300" channel="Tooncast.us">
-    <title lang="pt">Corrida Maluca</title>
-    <category lang="pt">Infantil</category>
-    <category lang="pt">Animação</category>
-  </programme>
-  <programme start="20260821041800 -0300" stop="20260821042800 -0300" channel="Tooncast.us">
-    <title lang="pt">Corrida Maluca</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Animação</category>
-  </programme>
-  <programme start="20260821042800 -0300" stop="20260821044000 -0300" channel="Tooncast.us">
-    <title lang="pt">Corrida Maluca</title>
-    <category lang="pt">Infantil</category>
-    <category lang="pt">Animação</category>
-  </programme>
-  <programme start="20260821044000 -0300" stop="20260821050200 -0300" channel="Tooncast.us">
-    <title lang="pt">Thundercats</title>
-    <category lang="pt">Infantil</category>
-    <category lang="pt">Desenho</category>
-  </programme>
-  <programme start="20260821050200 -0300" stop="20260821052400 -0300" channel="Tooncast.us">
-    <title lang="pt">Thundercats</title>
-    <category lang="pt">Infantil</category>
-    <category lang="pt">Desenho</category>
-  </programme>
-  <programme start="20260821052400 -0300" stop="20260821053500 -0300" channel="Tooncast.us">
-    <title lang="pt">Irmão do Jorel</title>
-    <category lang="pt">Infantil</category>
-    <category lang="pt">Desenho</category>
-  </programme>
-  <programme start="20260821053500 -0300" stop="20260821054700 -0300" channel="Tooncast.us">
-    <title lang="pt">Irmão do Jorel</title>
-    <category lang="pt">Infantil</category>
-    <category lang="pt">Desenho</category>
-  </programme>
-  <programme start="20260821054700 -0300" stop="20260821060000 -0300" channel="Tooncast.us">
-    <title lang="pt">Irmão do Jorel</title>
-    <category lang="pt">Infantil</category>
-    <category lang="pt">Desenho</category>
-  </programme>
-  <programme start="20260821060000 -0300" stop="20260821062500 -0300" channel="Tooncast.us">
-    <title lang="pt">A Mansão Foster Para Amigos Imaginários</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Animação</category>
-  </programme>
-  <programme start="20260821062500 -0300" stop="20260821065000 -0300" channel="Tooncast.us">
-    <title lang="pt">A Mansão Foster Para Amigos Imaginários</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Animação</category>
-  </programme>
-  <programme start="20260821065000 -0300" stop="20260821070100 -0300" channel="Tooncast.us">
-    <title lang="pt">O Acampamento de Lazlo</title>
-    <category lang="pt">Infantil</category>
-    <category lang="pt">Desenho</category>
-  </programme>
-  <programme start="20260821070100 -0300" stop="20260821071200 -0300" channel="Tooncast.us">
-    <title lang="pt">O Acampamento de Lazlo</title>
-    <category lang="pt">Infantil</category>
-    <category lang="pt">Desenho</category>
-  </programme>
-  <programme start="20260821071200 -0300" stop="20260821072300 -0300" channel="Tooncast.us">
-    <title lang="pt">O Acampamento de Lazlo</title>
-    <category lang="pt">Infantil</category>
-    <category lang="pt">Desenho</category>
-  </programme>
-  <programme start="20260821072300 -0300" stop="20260821073600 -0300" channel="Tooncast.us">
-    <title lang="pt">O Acampamento de Lazlo</title>
-    <category lang="pt">Infantil</category>
-    <category lang="pt">Desenho</category>
-  </programme>
-  <programme start="20260821073600 -0300" stop="20260821074700 -0300" channel="Tooncast.us">
-    <title lang="pt">O Acampamento De Lazlo</title>
-    <category lang="pt">Infantil</category>
-    <category lang="pt">Desenho</category>
-  </programme>
-  <programme start="20260821074700 -0300" stop="20260821080100 -0300" channel="Tooncast.us">
-    <title lang="pt">O Acampamento de Lazlo</title>
-    <category lang="pt">Infantil</category>
-    <category lang="pt">Desenho</category>
-  </programme>
-  <programme start="20260821080100 -0300" stop="20260821081200 -0300" channel="Tooncast.us">
-    <title lang="pt">Meu Amigo da Escola é um Macaco</title>
-    <category lang="pt">Infantil</category>
-    <category lang="pt">Desenho</category>
-  </programme>
-  <programme start="20260821081200 -0300" stop="20260821082300 -0300" channel="Tooncast.us">
-    <title lang="pt">Meu Amigo da Escola é um Macaco</title>
-    <category lang="pt">Infantil</category>
-    <category lang="pt">Desenho</category>
-  </programme>
-  <programme start="20260821082300 -0300" stop="20260821083600 -0300" channel="Tooncast.us">
-    <title lang="pt">Meu Amigo da Escola é um Macaco</title>
-    <category lang="pt">Infantil</category>
-    <category lang="pt">Desenho</category>
-  </programme>
-  <programme start="20260821083600 -0300" stop="20260821084700 -0300" channel="Tooncast.us">
-    <title lang="pt">Meu Amigo da Escola é um Macaco</title>
-    <category lang="pt">Infantil</category>
-    <category lang="pt">Desenho</category>
-  </programme>
-  <programme start="20260821084700 -0300" stop="20260821090000 -0300" channel="Tooncast.us">
-    <title lang="pt">Meu Amigo da Escola é um Macaco</title>
-    <category lang="pt">Infantil</category>
-    <category lang="pt">Desenho</category>
-  </programme>
-  <programme start="20260821090000 -0300" stop="20260821090700 -0300" channel="Tooncast.us">
-    <title lang="pt">Hi Hi Puffy Ami Yumi</title>
-    <category lang="pt">Infantil</category>
-    <category lang="pt">Desenho</category>
-  </programme>
-  <programme start="20260821090700 -0300" stop="20260821091300 -0300" channel="Tooncast.us">
-    <title lang="pt">Hi Hi Puffy Ami Yumi</title>
-    <category lang="pt">Infantil</category>
-    <category lang="pt">Desenho</category>
-  </programme>
-  <programme start="20260821091300 -0300" stop="20260821092000 -0300" channel="Tooncast.us">
-    <title lang="pt">Hi Hi Puffy Ami Yumi</title>
-    <category lang="pt">Infantil</category>
-    <category lang="pt">Desenho</category>
-  </programme>
-  <programme start="20260821092000 -0300" stop="20260821092700 -0300" channel="Tooncast.us">
-    <title lang="pt">Hi Hi Puffy Ami Yumi</title>
-    <category lang="pt">Infantil</category>
-    <category lang="pt">Desenho</category>
-  </programme>
-  <programme start="20260821092700 -0300" stop="20260821093600 -0300" channel="Tooncast.us">
-    <title lang="pt">Hi Hi Puffy Ami Yumi</title>
-    <category lang="pt">Infantil</category>
-    <category lang="pt">Desenho</category>
-  </programme>
-  <programme start="20260821093600 -0300" stop="20260821094700 -0300" channel="Tooncast.us">
-    <title lang="pt">Mike, Lu e Og</title>
-    <category lang="pt">Infantil</category>
-    <category lang="pt">Desenho</category>
-  </programme>
-  <programme start="20260821094700 -0300" stop="20260821100000 -0300" channel="Tooncast.us">
-    <title lang="pt">Mike, Lu e Og</title>
-    <category lang="pt">Infantil</category>
-    <category lang="pt">Desenho</category>
-  </programme>
-  <programme start="20260821100000 -0300" stop="20260821100200 -0300" channel="Tooncast.us">
-    <title lang="pt">Sheep Na Cidade Grande</title>
-    <category lang="pt">Infantil</category>
-    <category lang="pt">Desenho</category>
-  </programme>
-  <programme start="20260821100200 -0300" stop="20260821100300 -0300" channel="Tooncast.us">
-    <title lang="pt">Sheep Na Cidade Grande</title>
-    <category lang="pt">Infantil</category>
-    <category lang="pt">Desenho</category>
-  </programme>
-  <programme start="20260821100300 -0300" stop="20260821100700 -0300" channel="Tooncast.us">
-    <title lang="pt">Sheep Na Cidade Grande</title>
-    <category lang="pt">Infantil</category>
-    <category lang="pt">Desenho</category>
-  </programme>
-  <programme start="20260821100700 -0300" stop="20260821101200 -0300" channel="Tooncast.us">
-    <title lang="pt">Sheep Na Cidade Grande</title>
-    <category lang="pt">Infantil</category>
-    <category lang="pt">Desenho</category>
-  </programme>
-  <programme start="20260821101200 -0300" stop="20260821101300 -0300" channel="Tooncast.us">
-    <title lang="pt">Sheep Na Cidade Grande</title>
-    <category lang="pt">Infantil</category>
-    <category lang="pt">Desenho</category>
-  </programme>
-  <programme start="20260821101300 -0300" stop="20260821101600 -0300" channel="Tooncast.us">
-    <title lang="pt">Sheep Na Cidade Grande</title>
-    <category lang="pt">Infantil</category>
-    <category lang="pt">Desenho</category>
-  </programme>
-  <programme start="20260821101600 -0300" stop="20260821101700 -0300" channel="Tooncast.us">
-    <title lang="pt">Sheep Na Cidade Grande</title>
-    <category lang="pt">Infantil</category>
-    <category lang="pt">Desenho</category>
-  </programme>
-  <programme start="20260821101700 -0300" stop="20260821102100 -0300" channel="Tooncast.us">
-    <title lang="pt">Sheep Na Cidade Grande</title>
-    <category lang="pt">Infantil</category>
-    <category lang="pt">Desenho</category>
-  </programme>
-  <programme start="20260821102100 -0300" stop="20260821102200 -0300" channel="Tooncast.us">
-    <title lang="pt">Sheep Na Cidade Grande</title>
-    <category lang="pt">Infantil</category>
-    <category lang="pt">Desenho</category>
-  </programme>
-  <programme start="20260821102200 -0300" stop="20260821102300 -0300" channel="Tooncast.us">
-    <title lang="pt">Sheep Na Cidade Grande</title>
-    <category lang="pt">Infantil</category>
-    <category lang="pt">Desenho</category>
-  </programme>
-  <programme start="20260821102300 -0300" stop="20260821102900 -0300" channel="Tooncast.us">
-    <title lang="pt">Sheep Na Cidade Grande</title>
-    <category lang="pt">Infantil</category>
-    <category lang="pt">Desenho</category>
-  </programme>
-  <programme start="20260821102900 -0300" stop="20260821103600 -0300" channel="Tooncast.us">
-    <title lang="pt">Sheep Na Cidade Grande</title>
-    <category lang="pt">Infantil</category>
-    <category lang="pt">Desenho</category>
-  </programme>
-  <programme start="20260821103600 -0300" stop="20260821104800 -0300" channel="Tooncast.us">
-    <title lang="pt">Esquadrão do Tempo</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Animação</category>
-  </programme>
-  <programme start="20260821104800 -0300" stop="20260821110100 -0300" channel="Tooncast.us">
-    <title lang="pt">Esquadrão do Tempo</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Animação</category>
-  </programme>
-  <programme start="20260821110100 -0300" stop="20260821111200 -0300" channel="Tooncast.us">
-    <title lang="pt">As Trapalhadas de Flapjack</title>
-    <category lang="pt">Infantil</category>
-    <category lang="pt">Desenho</category>
-  </programme>
-  <programme start="20260821111200 -0300" stop="20260821112300 -0300" channel="Tooncast.us">
-    <title lang="pt">As Trapalhadas de Flapjack</title>
-    <category lang="pt">Infantil</category>
-    <category lang="pt">Desenho</category>
-  </programme>
-  <programme start="20260821112300 -0300" stop="20260821113500 -0300" channel="Tooncast.us">
-    <title lang="pt">As Trapalhadas de Flapjack</title>
-    <category lang="pt">Infantil</category>
-    <category lang="pt">Desenho</category>
-  </programme>
-  <programme start="20260821113500 -0300" stop="20260821114500 -0300" channel="Tooncast.us">
-    <title lang="pt">Baby Looney Tunes</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Animação</category>
-  </programme>
-  <programme start="20260821114500 -0300" stop="20260821115500 -0300" channel="Tooncast.us">
-    <title lang="pt">Baby Looney Tunes</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Animação</category>
-  </programme>
-  <programme start="20260821115500 -0300" stop="20260821120600 -0300" channel="Tooncast.us">
-    <title lang="pt">Baby Looney Tunes</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Animação</category>
-  </programme>
-  <programme start="20260821120600 -0300" stop="20260821121600 -0300" channel="Tooncast.us">
-    <title lang="pt">Baby Looney Tunes</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Animação</category>
-  </programme>
-  <programme start="20260821121600 -0300" stop="20260821122600 -0300" channel="Tooncast.us">
-    <title lang="pt">Baby Looney Tunes</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Animação</category>
-  </programme>
-  <programme start="20260821122600 -0300" stop="20260821123700 -0300" channel="Tooncast.us">
-    <title lang="pt">Baby Looney Tunes</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Animação</category>
-  </programme>
-  <programme start="20260821123700 -0300" stop="20260821125700 -0300" channel="Tooncast.us">
-    <title lang="pt">Scooby-Doo! Cadê Você?</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Animação</category>
-  </programme>
-  <programme start="20260821125700 -0300" stop="20260821132100 -0300" channel="Tooncast.us">
-    <title lang="pt">Scooby-Doo! Cadê Você?</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Animação</category>
-  </programme>
-  <programme start="20260821132100 -0300" stop="20260821134300 -0300" channel="Tooncast.us">
-    <title lang="pt">Scooby-Doo! Mistério S/A</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Animação</category>
-  </programme>
-  <programme start="20260821134300 -0300" stop="20260821140600 -0300" channel="Tooncast.us">
-    <title lang="pt">Scooby-Doo! Mistério S/A</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Animação</category>
-  </programme>
-  <programme start="20260821140600 -0300" stop="20260821143100 -0300" channel="Tooncast.us">
-    <title lang="pt">Manda Chuva</title>
-    <category lang="pt">Infantil</category>
-    <category lang="pt">Desenho</category>
-  </programme>
-  <programme start="20260821143100 -0300" stop="20260821145800 -0300" channel="Tooncast.us">
-    <title lang="pt">Manda Chuva</title>
-    <category lang="pt">Infantil</category>
-    <category lang="pt">Desenho</category>
-  </programme>
-  <programme start="20260821145800 -0300" stop="20260821152400 -0300" channel="Tooncast.us">
-    <title lang="pt">Os Flintstones</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Animação</category>
-  </programme>
-  <programme start="20260821152400 -0300" stop="20260821154900 -0300" channel="Tooncast.us">
-    <title lang="pt">Os Flintstones</title>
-    <category lang="pt">Infantil</category>
-    <category lang="pt">Animação</category>
-  </programme>
-  <programme start="20260821154900 -0300" stop="20260821155900 -0300" channel="Tooncast.us">
-    <title lang="pt">Corrida Maluca</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Animação</category>
-  </programme>
-  <programme start="20260821155900 -0300" stop="20260821160800 -0300" channel="Tooncast.us">
-    <title lang="pt">Corrida Maluca</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Animação</category>
-  </programme>
-  <programme start="20260821160800 -0300" stop="20260821161900 -0300" channel="Tooncast.us">
-    <title lang="pt">Corrida Maluca</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Animação</category>
-  </programme>
-  <programme start="20260821161900 -0300" stop="20260821162800 -0300" channel="Tooncast.us">
-    <title lang="pt">Corrida Maluca</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Animação</category>
-  </programme>
-  <programme start="20260821162800 -0300" stop="20260821163900 -0300" channel="Tooncast.us">
-    <title lang="pt">Corrida Maluca</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Animação</category>
-  </programme>
-  <programme start="20260821163900 -0300" stop="20260821170600 -0300" channel="Tooncast.us">
-    <title lang="pt">Thundercats</title>
-    <category lang="pt">Infantil</category>
-    <category lang="pt">Desenho</category>
-  </programme>
-  <programme start="20260821170600 -0300" stop="20260821173000 -0300" channel="Tooncast.us">
-    <title lang="pt">Thundercats</title>
-    <category lang="pt">Infantil</category>
-    <category lang="pt">Desenho</category>
-  </programme>
-  <programme start="20260821173000 -0300" stop="20260821174100 -0300" channel="Tooncast.us">
-    <title lang="pt">Irmão do Jorel</title>
-    <category lang="pt">Infantil</category>
-    <category lang="pt">Desenho</category>
-  </programme>
-  <programme start="20260821174100 -0300" stop="20260821175300 -0300" channel="Tooncast.us">
-    <title lang="pt">Irmão do Jorel</title>
-    <category lang="pt">Infantil</category>
-    <category lang="pt">Desenho</category>
-  </programme>
   <programme start="20260821175300 -0300" stop="20260821180600 -0300" channel="Tooncast.us">
     <title lang="pt">Irmão do Jorel</title>
     <category lang="pt">Infantil</category>
@@ -114592,6 +113992,611 @@ autenticidade nacional e negra brasileira nos anos 1970.
     <category lang="pt">Animação</category>
   </programme>
   <programme start="20260823234800 -0300" stop="20260824000000 -0300" channel="Tooncast.us">
+    <title lang="pt">Baby Looney Tunes</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+  </programme>
+  <programme start="20260824000000 -0300" stop="20260824001000 -0300" channel="Tooncast.us">
+    <title lang="pt">Baby Looney Tunes</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+  </programme>
+  <programme start="20260824001000 -0300" stop="20260824002100 -0300" channel="Tooncast.us">
+    <title lang="pt">Baby Looney Tunes</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+  </programme>
+  <programme start="20260824002100 -0300" stop="20260824003200 -0300" channel="Tooncast.us">
+    <title lang="pt">Baby Looney Tunes</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+  </programme>
+  <programme start="20260824003200 -0300" stop="20260824005200 -0300" channel="Tooncast.us">
+    <title lang="pt">Scooby-Doo! Cadê Você?</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+  </programme>
+  <programme start="20260824005200 -0300" stop="20260824011600 -0300" channel="Tooncast.us">
+    <title lang="pt">Scooby-Doo! Cadê Você?</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+  </programme>
+  <programme start="20260824011600 -0300" stop="20260824013700 -0300" channel="Tooncast.us">
+    <title lang="pt">Scooby-Doo! Mistério S/A</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+  </programme>
+  <programme start="20260824013700 -0300" stop="20260824020000 -0300" channel="Tooncast.us">
+    <title lang="pt">Scooby-Doo! Mistério S/A</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+  </programme>
+  <programme start="20260824020000 -0300" stop="20260824022600 -0300" channel="Tooncast.us">
+    <title lang="pt">Manda Chuva</title>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Desenho</category>
+  </programme>
+  <programme start="20260824022600 -0300" stop="20260824025300 -0300" channel="Tooncast.us">
+    <title lang="pt">Manda Chuva</title>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Desenho</category>
+  </programme>
+  <programme start="20260824025300 -0300" stop="20260824031900 -0300" channel="Tooncast.us">
+    <title lang="pt">Os Flintstones</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+  </programme>
+  <programme start="20260824031900 -0300" stop="20260824034600 -0300" channel="Tooncast.us">
+    <title lang="pt">Os Flintstones</title>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Animação</category>
+  </programme>
+  <programme start="20260824034600 -0300" stop="20260824035600 -0300" channel="Tooncast.us">
+    <title lang="pt">Corrida Maluca</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+  </programme>
+  <programme start="20260824035600 -0300" stop="20260824040500 -0300" channel="Tooncast.us">
+    <title lang="pt">Corrida Maluca</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+  </programme>
+  <programme start="20260824040500 -0300" stop="20260824041700 -0300" channel="Tooncast.us">
+    <title lang="pt">Corrida Maluca</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+  </programme>
+  <programme start="20260824041700 -0300" stop="20260824042700 -0300" channel="Tooncast.us">
+    <title lang="pt">Corrida Maluca</title>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Animação</category>
+  </programme>
+  <programme start="20260824042700 -0300" stop="20260824043900 -0300" channel="Tooncast.us">
+    <title lang="pt">Corrida Maluca</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+  </programme>
+  <programme start="20260824043900 -0300" stop="20260824050100 -0300" channel="Tooncast.us">
+    <title lang="pt">Thundercats</title>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Desenho</category>
+  </programme>
+  <programme start="20260824050100 -0300" stop="20260824052300 -0300" channel="Tooncast.us">
+    <title lang="pt">Thundercats</title>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Desenho</category>
+  </programme>
+  <programme start="20260824052300 -0300" stop="20260824053400 -0300" channel="Tooncast.us">
+    <title lang="pt">Irmão do Jorel</title>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Desenho</category>
+  </programme>
+  <programme start="20260824053400 -0300" stop="20260824054600 -0300" channel="Tooncast.us">
+    <title lang="pt">Irmão do Jorel</title>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Desenho</category>
+  </programme>
+  <programme start="20260824054600 -0300" stop="20260824060000 -0300" channel="Tooncast.us">
+    <title lang="pt">Irmão do Jorel</title>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Desenho</category>
+  </programme>
+  <programme start="20260824060000 -0300" stop="20260824062500 -0300" channel="Tooncast.us">
+    <title lang="pt">A Mansão Foster Para Amigos Imaginários</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+  </programme>
+  <programme start="20260824062500 -0300" stop="20260824065000 -0300" channel="Tooncast.us">
+    <title lang="pt">A Mansão Foster Para Amigos Imaginários</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+  </programme>
+  <programme start="20260824065000 -0300" stop="20260824070000 -0300" channel="Tooncast.us">
+    <title lang="pt">O Acampamento de Lazlo</title>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Desenho</category>
+  </programme>
+  <programme start="20260824070000 -0300" stop="20260824071200 -0300" channel="Tooncast.us">
+    <title lang="pt">O Acampamento de Lazlo</title>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Desenho</category>
+  </programme>
+  <programme start="20260824071200 -0300" stop="20260824072300 -0300" channel="Tooncast.us">
+    <title lang="pt">O Acampamento de Lazlo</title>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Desenho</category>
+  </programme>
+  <programme start="20260824072300 -0300" stop="20260824073600 -0300" channel="Tooncast.us">
+    <title lang="pt">O Acampamento de Lazlo</title>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Desenho</category>
+  </programme>
+  <programme start="20260824073600 -0300" stop="20260824074600 -0300" channel="Tooncast.us">
+    <title lang="pt">O Acampamento de Lazlo</title>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Desenho</category>
+  </programme>
+  <programme start="20260824074600 -0300" stop="20260824075900 -0300" channel="Tooncast.us">
+    <title lang="pt">O Acampamento de Lazlo</title>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Desenho</category>
+  </programme>
+  <programme start="20260824075900 -0300" stop="20260824081000 -0300" channel="Tooncast.us">
+    <title lang="pt">Meu Amigo da Escola é um Macaco</title>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Desenho</category>
+  </programme>
+  <programme start="20260824081000 -0300" stop="20260824082100 -0300" channel="Tooncast.us">
+    <title lang="pt">Meu Amigo da Escola é um Macaco</title>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Desenho</category>
+  </programme>
+  <programme start="20260824082100 -0300" stop="20260824083400 -0300" channel="Tooncast.us">
+    <title lang="pt">Meu Amigo da Escola é um Macaco</title>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Desenho</category>
+  </programme>
+  <programme start="20260824083400 -0300" stop="20260824084500 -0300" channel="Tooncast.us">
+    <title lang="pt">Meu Amigo da Escola é um Macaco</title>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Desenho</category>
+  </programme>
+  <programme start="20260824084500 -0300" stop="20260824085800 -0300" channel="Tooncast.us">
+    <title lang="pt">Meu Amigo da Escola é um Macaco</title>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Desenho</category>
+  </programme>
+  <programme start="20260824085800 -0300" stop="20260824090500 -0300" channel="Tooncast.us">
+    <title lang="pt">Hi Hi Puffy Ami Yumi</title>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Desenho</category>
+  </programme>
+  <programme start="20260824090500 -0300" stop="20260824091200 -0300" channel="Tooncast.us">
+    <title lang="pt">Hi Hi Puffy Ami Yumi</title>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Desenho</category>
+  </programme>
+  <programme start="20260824091200 -0300" stop="20260824091900 -0300" channel="Tooncast.us">
+    <title lang="pt">Hi Hi Puffy Ami Yumi</title>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Desenho</category>
+  </programme>
+  <programme start="20260824091900 -0300" stop="20260824092500 -0300" channel="Tooncast.us">
+    <title lang="pt">Hi Hi Puffy Ami Yumi</title>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Desenho</category>
+  </programme>
+  <programme start="20260824092500 -0300" stop="20260824093400 -0300" channel="Tooncast.us">
+    <title lang="pt">Hi Hi Puffy Ami Yumi</title>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Desenho</category>
+  </programme>
+  <programme start="20260824093400 -0300" stop="20260824094500 -0300" channel="Tooncast.us">
+    <title lang="pt">Mike, Lu e Og</title>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Desenho</category>
+  </programme>
+  <programme start="20260824094500 -0300" stop="20260824095800 -0300" channel="Tooncast.us">
+    <title lang="pt">Mike, Lu e Og</title>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Desenho</category>
+  </programme>
+  <programme start="20260824095800 -0300" stop="20260824100300 -0300" channel="Tooncast.us">
+    <title lang="pt">Sheep Na Cidade Grande</title>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Desenho</category>
+  </programme>
+  <programme start="20260824100300 -0300" stop="20260824100500 -0300" channel="Tooncast.us">
+    <title lang="pt">Sheep Na Cidade Grande</title>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Desenho</category>
+  </programme>
+  <programme start="20260824100500 -0300" stop="20260824100700 -0300" channel="Tooncast.us">
+    <title lang="pt">Sheep Na Cidade Grande</title>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Desenho</category>
+  </programme>
+  <programme start="20260824100700 -0300" stop="20260824100800 -0300" channel="Tooncast.us">
+    <title lang="pt">Sheep Na Cidade Grande</title>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Desenho</category>
+  </programme>
+  <programme start="20260824100800 -0300" stop="20260824101000 -0300" channel="Tooncast.us">
+    <title lang="pt">Sheep Na Cidade Grande</title>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Desenho</category>
+  </programme>
+  <programme start="20260824101000 -0300" stop="20260824101500 -0300" channel="Tooncast.us">
+    <title lang="pt">Sheep Na Cidade Grande</title>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Desenho</category>
+  </programme>
+  <programme start="20260824101500 -0300" stop="20260824102000 -0300" channel="Tooncast.us">
+    <title lang="pt">Sheep Na Cidade Grande</title>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Desenho</category>
+  </programme>
+  <programme start="20260824102000 -0300" stop="20260824102100 -0300" channel="Tooncast.us">
+    <title lang="pt">Sheep Na Cidade Grande</title>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Desenho</category>
+  </programme>
+  <programme start="20260824102100 -0300" stop="20260824102400 -0300" channel="Tooncast.us">
+    <title lang="pt">Sheep Na Cidade Grande</title>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Desenho</category>
+  </programme>
+  <programme start="20260824102400 -0300" stop="20260824102500 -0300" channel="Tooncast.us">
+    <title lang="pt">Sheep Na Cidade Grande</title>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Desenho</category>
+  </programme>
+  <programme start="20260824102500 -0300" stop="20260824103100 -0300" channel="Tooncast.us">
+    <title lang="pt">Sheep Na Cidade Grande</title>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Desenho</category>
+  </programme>
+  <programme start="20260824103100 -0300" stop="20260824103800 -0300" channel="Tooncast.us">
+    <title lang="pt">Esquadrão do Tempo</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+  </programme>
+  <programme start="20260824103800 -0300" stop="20260824104500 -0300" channel="Tooncast.us">
+    <title lang="pt">Esquadrão do Tempo</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+  </programme>
+  <programme start="20260824104500 -0300" stop="20260824105200 -0300" channel="Tooncast.us">
+    <title lang="pt">Esquadrão do Tempo</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+  </programme>
+  <programme start="20260824105200 -0300" stop="20260824110500 -0300" channel="Tooncast.us">
+    <title lang="pt">Esquadrão do Tempo</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+  </programme>
+  <programme start="20260824110500 -0300" stop="20260824111600 -0300" channel="Tooncast.us">
+    <title lang="pt">As Trapalhadas de Flapjack</title>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Desenho</category>
+  </programme>
+  <programme start="20260824111600 -0300" stop="20260824113000 -0300" channel="Tooncast.us">
+    <title lang="pt">As Trapalhadas de Flapjack</title>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Desenho</category>
+  </programme>
+  <programme start="20260824113000 -0300" stop="20260824114000 -0300" channel="Tooncast.us">
+    <title lang="pt">Baby Looney Tunes</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+  </programme>
+  <programme start="20260824114000 -0300" stop="20260824115100 -0300" channel="Tooncast.us">
+    <title lang="pt">Baby Looney Tunes</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+  </programme>
+  <programme start="20260824115100 -0300" stop="20260824120100 -0300" channel="Tooncast.us">
+    <title lang="pt">Baby Looney Tunes</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+  </programme>
+  <programme start="20260824120100 -0300" stop="20260824121100 -0300" channel="Tooncast.us">
+    <title lang="pt">Baby Looney Tunes</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+  </programme>
+  <programme start="20260824121100 -0300" stop="20260824122200 -0300" channel="Tooncast.us">
+    <title lang="pt">Baby Looney Tunes</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+  </programme>
+  <programme start="20260824122200 -0300" stop="20260824123200 -0300" channel="Tooncast.us">
+    <title lang="pt">Baby Looney Tunes</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+  </programme>
+  <programme start="20260824123200 -0300" stop="20260824125400 -0300" channel="Tooncast.us">
+    <title lang="pt">Scooby-Doo! Cadê Você?</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+  </programme>
+  <programme start="20260824125400 -0300" stop="20260824131600 -0300" channel="Tooncast.us">
+    <title lang="pt">Scooby-Doo! Cadê Você?</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+  </programme>
+  <programme start="20260824131600 -0300" stop="20260824133800 -0300" channel="Tooncast.us">
+    <title lang="pt">Scooby-Doo! Mistério S/A</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+  </programme>
+  <programme start="20260824133800 -0300" stop="20260824140100 -0300" channel="Tooncast.us">
+    <title lang="pt">Scooby-Doo! Mistério S/A</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+  </programme>
+  <programme start="20260824140100 -0300" stop="20260824142600 -0300" channel="Tooncast.us">
+    <title lang="pt">Manda Chuva</title>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Desenho</category>
+  </programme>
+  <programme start="20260824142600 -0300" stop="20260824145200 -0300" channel="Tooncast.us">
+    <title lang="pt">Manda Chuva</title>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Desenho</category>
+  </programme>
+  <programme start="20260824145200 -0300" stop="20260824151800 -0300" channel="Tooncast.us">
+    <title lang="pt">Os Flintstones</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+  </programme>
+  <programme start="20260824151800 -0300" stop="20260824154500 -0300" channel="Tooncast.us">
+    <title lang="pt">Os Flintstones</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+  </programme>
+  <programme start="20260824154500 -0300" stop="20260824155500 -0300" channel="Tooncast.us">
+    <title lang="pt">Corrida Maluca</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+  </programme>
+  <programme start="20260824155500 -0300" stop="20260824160500 -0300" channel="Tooncast.us">
+    <title lang="pt">Corrida Maluca</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+  </programme>
+  <programme start="20260824160500 -0300" stop="20260824161700 -0300" channel="Tooncast.us">
+    <title lang="pt">Corrida Maluca</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+  </programme>
+  <programme start="20260824161700 -0300" stop="20260824162700 -0300" channel="Tooncast.us">
+    <title lang="pt">Corrida Maluca</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+  </programme>
+  <programme start="20260824162700 -0300" stop="20260824163900 -0300" channel="Tooncast.us">
+    <title lang="pt">Corrida Maluca</title>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Animação</category>
+  </programme>
+  <programme start="20260824163900 -0300" stop="20260824170500 -0300" channel="Tooncast.us">
+    <title lang="pt">Thundercats</title>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Desenho</category>
+  </programme>
+  <programme start="20260824170500 -0300" stop="20260824173000 -0300" channel="Tooncast.us">
+    <title lang="pt">Thundercats</title>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Desenho</category>
+  </programme>
+  <programme start="20260824173000 -0300" stop="20260824174100 -0300" channel="Tooncast.us">
+    <title lang="pt">Irmão do Jorel</title>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Desenho</category>
+  </programme>
+  <programme start="20260824174100 -0300" stop="20260824175300 -0300" channel="Tooncast.us">
+    <title lang="pt">Irmão do Jorel</title>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Desenho</category>
+  </programme>
+  <programme start="20260824175300 -0300" stop="20260824180700 -0300" channel="Tooncast.us">
+    <title lang="pt">Irmão do Jorel</title>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Desenho</category>
+  </programme>
+  <programme start="20260824180700 -0300" stop="20260824183100 -0300" channel="Tooncast.us">
+    <title lang="pt">A Mansão Foster Para Amigos Imaginários</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+  </programme>
+  <programme start="20260824183100 -0300" stop="20260824185700 -0300" channel="Tooncast.us">
+    <title lang="pt">A Mansão Foster Para Amigos Imaginários</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+  </programme>
+  <programme start="20260824185700 -0300" stop="20260824190700 -0300" channel="Tooncast.us">
+    <title lang="pt">O Acampamento de Lazlo</title>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Desenho</category>
+  </programme>
+  <programme start="20260824190700 -0300" stop="20260824191900 -0300" channel="Tooncast.us">
+    <title lang="pt">O Acampamento de Lazlo</title>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Desenho</category>
+  </programme>
+  <programme start="20260824191900 -0300" stop="20260824193000 -0300" channel="Tooncast.us">
+    <title lang="pt">O Acampamento de Lazlo</title>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Desenho</category>
+  </programme>
+  <programme start="20260824193000 -0300" stop="20260824194200 -0300" channel="Tooncast.us">
+    <title lang="pt">O Acampamento de Lazlo</title>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Desenho</category>
+  </programme>
+  <programme start="20260824194200 -0300" stop="20260824195300 -0300" channel="Tooncast.us">
+    <title lang="pt">O Acampamento de Lazlo</title>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Desenho</category>
+  </programme>
+  <programme start="20260824195300 -0300" stop="20260824200500 -0300" channel="Tooncast.us">
+    <title lang="pt">O Acampamento de Lazlo</title>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Desenho</category>
+  </programme>
+  <programme start="20260824200500 -0300" stop="20260824201700 -0300" channel="Tooncast.us">
+    <title lang="pt">Meu Amigo da Escola é um Macaco</title>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Desenho</category>
+  </programme>
+  <programme start="20260824201700 -0300" stop="20260824202800 -0300" channel="Tooncast.us">
+    <title lang="pt">Meu Amigo da Escola é um Macaco</title>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Desenho</category>
+  </programme>
+  <programme start="20260824202800 -0300" stop="20260824204000 -0300" channel="Tooncast.us">
+    <title lang="pt">Meu Amigo da Escola é um Macaco</title>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Desenho</category>
+  </programme>
+  <programme start="20260824204000 -0300" stop="20260824205100 -0300" channel="Tooncast.us">
+    <title lang="pt">Meu Amigo da Escola é um Macaco</title>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Desenho</category>
+  </programme>
+  <programme start="20260824205100 -0300" stop="20260824210500 -0300" channel="Tooncast.us">
+    <title lang="pt">Meu Amigo da Escola é um Macaco</title>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Desenho</category>
+  </programme>
+  <programme start="20260824210500 -0300" stop="20260824211200 -0300" channel="Tooncast.us">
+    <title lang="pt">Hi Hi Puffy Ami Yumi</title>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Desenho</category>
+  </programme>
+  <programme start="20260824211200 -0300" stop="20260824211900 -0300" channel="Tooncast.us">
+    <title lang="pt">Hi Hi Puffy Ami Yumi</title>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Desenho</category>
+  </programme>
+  <programme start="20260824211900 -0300" stop="20260824212500 -0300" channel="Tooncast.us">
+    <title lang="pt">Hi Hi Puffy Ami Yumi</title>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Desenho</category>
+  </programme>
+  <programme start="20260824212500 -0300" stop="20260824213400 -0300" channel="Tooncast.us">
+    <title lang="pt">Hi Hi Puffy Ami Yumi</title>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Desenho</category>
+  </programme>
+  <programme start="20260824213400 -0300" stop="20260824214500 -0300" channel="Tooncast.us">
+    <title lang="pt">Mike, Lu e Og</title>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Desenho</category>
+  </programme>
+  <programme start="20260824214500 -0300" stop="20260824215800 -0300" channel="Tooncast.us">
+    <title lang="pt">Mike, Lu e Og</title>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Desenho</category>
+  </programme>
+  <programme start="20260824215800 -0300" stop="20260824220300 -0300" channel="Tooncast.us">
+    <title lang="pt">Sheep Na Cidade Grande</title>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Desenho</category>
+  </programme>
+  <programme start="20260824220300 -0300" stop="20260824220500 -0300" channel="Tooncast.us">
+    <title lang="pt">Sheep Na Cidade Grande</title>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Desenho</category>
+  </programme>
+  <programme start="20260824220500 -0300" stop="20260824220700 -0300" channel="Tooncast.us">
+    <title lang="pt">Sheep Na Cidade Grande</title>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Desenho</category>
+  </programme>
+  <programme start="20260824220700 -0300" stop="20260824220800 -0300" channel="Tooncast.us">
+    <title lang="pt">Sheep Na Cidade Grande</title>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Desenho</category>
+  </programme>
+  <programme start="20260824220800 -0300" stop="20260824221000 -0300" channel="Tooncast.us">
+    <title lang="pt">Sheep Na Cidade Grande</title>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Desenho</category>
+  </programme>
+  <programme start="20260824221000 -0300" stop="20260824221500 -0300" channel="Tooncast.us">
+    <title lang="pt">Sheep Na Cidade Grande</title>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Desenho</category>
+  </programme>
+  <programme start="20260824221500 -0300" stop="20260824222000 -0300" channel="Tooncast.us">
+    <title lang="pt">Sheep Na Cidade Grande</title>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Desenho</category>
+  </programme>
+  <programme start="20260824222000 -0300" stop="20260824222100 -0300" channel="Tooncast.us">
+    <title lang="pt">Sheep Na Cidade Grande</title>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Desenho</category>
+  </programme>
+  <programme start="20260824222100 -0300" stop="20260824222400 -0300" channel="Tooncast.us">
+    <title lang="pt">Sheep Na Cidade Grande</title>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Desenho</category>
+  </programme>
+  <programme start="20260824222400 -0300" stop="20260824222500 -0300" channel="Tooncast.us">
+    <title lang="pt">Sheep Na Cidade Grande</title>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Desenho</category>
+  </programme>
+  <programme start="20260824222500 -0300" stop="20260824223100 -0300" channel="Tooncast.us">
+    <title lang="pt">Sheep Na Cidade Grande</title>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Desenho</category>
+  </programme>
+  <programme start="20260824223100 -0300" stop="20260824223800 -0300" channel="Tooncast.us">
+    <title lang="pt">Esquadrão do Tempo</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+  </programme>
+  <programme start="20260824223800 -0300" stop="20260824224500 -0300" channel="Tooncast.us">
+    <title lang="pt">Esquadrão do Tempo</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+  </programme>
+  <programme start="20260824224500 -0300" stop="20260824225800 -0300" channel="Tooncast.us">
+    <title lang="pt">Esquadrão do Tempo</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+  </programme>
+  <programme start="20260824225800 -0300" stop="20260824231000 -0300" channel="Tooncast.us">
+    <title lang="pt">As Trapalhadas de Flapjack</title>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Desenho</category>
+  </programme>
+  <programme start="20260824231000 -0300" stop="20260824232400 -0300" channel="Tooncast.us">
+    <title lang="pt">As Trapalhadas de Flapjack</title>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Desenho</category>
+  </programme>
+  <programme start="20260824232400 -0300" stop="20260824233300 -0300" channel="Tooncast.us">
+    <title lang="pt">Baby Looney Tunes</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+  </programme>
+  <programme start="20260824233300 -0300" stop="20260824234400 -0300" channel="Tooncast.us">
+    <title lang="pt">Baby Looney Tunes</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+  </programme>
+  <programme start="20260824234400 -0300" stop="20260824235600 -0300" channel="Tooncast.us">
+    <title lang="pt">Baby Looney Tunes</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+  </programme>
+  <programme start="20260824235600 -0300" stop="20260825000600 -0300" channel="Tooncast.us">
     <title lang="pt">Baby Looney Tunes</title>
     <category lang="pt">Séries</category>
     <category lang="pt">Animação</category>
@@ -129299,71 +129304,6 @@ autenticidade nacional e negra brasileira nos anos 1970.
   <programme channel="br#futura-hd" start="20260824233000 -0300" stop="20260825000000 -0300">
     <title lang="pt">Claquete</title>
   </programme>
-  <programme start="20260820180000 -0300" stop="20260820200000 -0300" channel="br#globo-news-hd">
-    <title lang="pt">Jornal GloboNews - Edição Das 18h - Ao Vivo</title>
-    <category lang="pt">Jornalismo</category>
-    <category lang="pt">Informativo</category>
-  </programme>
-  <programme start="20260820200000 -0300" stop="20260820220000 -0300" channel="br#globo-news-hd">
-    <title lang="pt">GloboNews Em Pauta - Ao Vivo</title>
-    <category lang="pt">Jornalismo</category>
-    <category lang="pt">Informativo</category>
-  </programme>
-  <programme start="20260820220000 -0300" stop="20260821000000 -0300" channel="br#globo-news-hd">
-    <title lang="pt">Jornal Das Dez - Ao Vivo</title>
-    <category lang="pt">Jornalismo</category>
-    <category lang="pt">Informativo</category>
-  </programme>
-  <programme start="20260821000000 -0300" stop="20260821010000 -0300" channel="br#globo-news-hd">
-    <title lang="pt">Jornal GloboNews - Edição Da Meia-Noite - Ao Vivo</title>
-    <category lang="pt">Jornalismo</category>
-    <category lang="pt">Informativo</category>
-  </programme>
-  <programme start="20260821010000 -0300" stop="20260821030000 -0300" channel="br#globo-news-hd">
-    <title lang="pt">GloboNews Em Pauta</title>
-    <category lang="pt">Jornalismo</category>
-    <category lang="pt">Informativo</category>
-  </programme>
-  <programme start="20260821030000 -0300" stop="20260821050000 -0300" channel="br#globo-news-hd">
-    <title lang="pt">Jornal Das Dez</title>
-    <category lang="pt">Jornalismo</category>
-    <category lang="pt">Informativo</category>
-  </programme>
-  <programme start="20260821050000 -0300" stop="20260821060000 -0300" channel="br#globo-news-hd">
-    <title lang="pt">Jornal GloboNews (5h) - Ao Vivo</title>
-    <category lang="pt">Jornalismo</category>
-    <category lang="pt">Informativo</category>
-  </programme>
-  <programme start="20260821060000 -0300" stop="20260821063000 -0300" channel="br#globo-news-hd">
-    <title lang="pt">Jornal GloboNews (6h) - Ao Vivo</title>
-    <category lang="pt">Jornalismo</category>
-    <category lang="pt">Informativo</category>
-  </programme>
-  <programme start="20260821063000 -0300" stop="20260821082500 -0300" channel="br#globo-news-hd">
-    <title lang="pt">GloboNews Em Ponto - Ao Vivo</title>
-    <category lang="pt">Jornalismo</category>
-    <category lang="pt">Informativo</category>
-  </programme>
-  <programme start="20260821082500 -0300" stop="20260821110000 -0300" channel="br#globo-news-hd">
-    <title lang="pt">GloboNews Radar - Ao Vivo</title>
-    <category lang="pt">Jornalismo</category>
-    <category lang="pt">Informativo</category>
-  </programme>
-  <programme start="20260821110000 -0300" stop="20260821130000 -0300" channel="br#globo-news-hd">
-    <title lang="pt">Conexão GloboNews - Ao Vivo</title>
-    <category lang="pt">Jornalismo</category>
-    <category lang="pt">Informativo</category>
-  </programme>
-  <programme start="20260821130000 -0300" stop="20260821160000 -0300" channel="br#globo-news-hd">
-    <title lang="pt">Estúdio i - Ao Vivo</title>
-    <category lang="pt">Jornalismo</category>
-    <category lang="pt">Informativo</category>
-  </programme>
-  <programme start="20260821160000 -0300" stop="20260821180000 -0300" channel="br#globo-news-hd">
-    <title lang="pt">GloboNews Mais - Ao Vivo</title>
-    <category lang="pt">Jornalismo</category>
-    <category lang="pt">Informativo</category>
-  </programme>
   <programme start="20260821180000 -0300" stop="20260821190000 -0300" channel="br#globo-news-hd">
     <title lang="pt">Jornal GloboNews - Edição Das 18h - Ao Vivo</title>
     <category lang="pt">Jornalismo</category>
@@ -129601,6 +129541,81 @@ autenticidade nacional e negra brasileira nos anos 1970.
   </programme>
   <programme start="20260823233500 -0300" stop="20260824023500 -0300" channel="br#globo-news-hd">
     <title lang="pt">Fantástico</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20260824023500 -0300" stop="20260824032000 -0300" channel="br#globo-news-hd">
+    <title lang="pt">Jornal GloboNews (3h) - Ao Vivo</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20260824032000 -0300" stop="20260824040000 -0300" channel="br#globo-news-hd">
+    <title lang="pt">Pequenas Empresas Grandes Negócios</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20260824040000 -0300" stop="20260824050000 -0300" channel="br#globo-news-hd">
+    <title lang="pt">Jornal Das Dez</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20260824050000 -0300" stop="20260824060000 -0300" channel="br#globo-news-hd">
+    <title lang="pt">Jornal GloboNews (5h) - Ao Vivo</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20260824060000 -0300" stop="20260824063000 -0300" channel="br#globo-news-hd">
+    <title lang="pt">Jornal GloboNews (6h) - Ao Vivo</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20260824063000 -0300" stop="20260824082500 -0300" channel="br#globo-news-hd">
+    <title lang="pt">GloboNews Em Ponto - Ao Vivo</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20260824082500 -0300" stop="20260824110000 -0300" channel="br#globo-news-hd">
+    <title lang="pt">GloboNews Radar - Ao Vivo</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20260824110000 -0300" stop="20260824130000 -0300" channel="br#globo-news-hd">
+    <title lang="pt">Conexão GloboNews - Ao Vivo</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20260824130000 -0300" stop="20260824160000 -0300" channel="br#globo-news-hd">
+    <title lang="pt">Estúdio i - Ao Vivo</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20260824160000 -0300" stop="20260824180000 -0300" channel="br#globo-news-hd">
+    <title lang="pt">GloboNews Mais - Ao Vivo</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20260824180000 -0300" stop="20260824200000 -0300" channel="br#globo-news-hd">
+    <title lang="pt">Jornal GloboNews - Edição Das 18h - Ao Vivo</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20260824200000 -0300" stop="20260824210500 -0300" channel="br#globo-news-hd">
+    <title lang="pt">GloboNews Em Pauta - Ao Vivo</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20260824210500 -0300" stop="20260824215000 -0300" channel="br#globo-news-hd">
+    <title lang="pt">GloboNews Entrevista - Ao Vivo</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20260824215000 -0300" stop="20260824230000 -0300" channel="br#globo-news-hd">
+    <title lang="pt">Central Das Eleições - Ao Vivo</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20260824230000 -0300" stop="20260825000000 -0300" channel="br#globo-news-hd">
+    <title lang="pt">Jornal Das Dez - Ao Vivo</title>
     <category lang="pt">Jornalismo</category>
     <category lang="pt">Informativo</category>
   </programme>
@@ -148723,359 +148738,143 @@ autenticidade nacional e negra brasileira nos anos 1970.
   <programme channel="br#off-hd" start="20260824233300 -0300" stop="20260825000300 -0300">
     <title lang="pt">Califorfun</title>
   </programme>
-  <programme channel="br#premiere-2" start="20260821000000 -0300" stop="20260821020000 -0300">
-    <title lang="pt">Dia 22/08</title>
-    <sub-title lang="pt">Fluminense x Remo</sub-title>
-  </programme>
-  <programme channel="br#premiere-2" start="20260821020000 -0300" stop="20260821040000 -0300">
-    <title lang="pt">Dia 22/08</title>
-    <sub-title lang="pt">Fluminense x Remo</sub-title>
-  </programme>
-  <programme channel="br#premiere-2" start="20260821040000 -0300" stop="20260821060000 -0300">
-    <title lang="pt">Dia 22/08</title>
-    <sub-title lang="pt">Fluminense x Remo</sub-title>
-  </programme>
-  <programme channel="br#premiere-2" start="20260821060000 -0300" stop="20260821080000 -0300">
-    <title lang="pt">Dia 22/08</title>
-    <sub-title lang="pt">Fluminense x Remo</sub-title>
-  </programme>
-  <programme channel="br#premiere-2" start="20260821080000 -0300" stop="20260821100000 -0300">
-    <title lang="pt">Dia 22/08</title>
-    <sub-title lang="pt">Fluminense x Remo</sub-title>
-  </programme>
-  <programme channel="br#premiere-2" start="20260821100000 -0300" stop="20260821120000 -0300">
-    <title lang="pt">Dia 22/08</title>
-    <sub-title lang="pt">Fluminense x Remo</sub-title>
-  </programme>
-  <programme channel="br#premiere-2" start="20260821120000 -0300" stop="20260821140000 -0300">
-    <title lang="pt">Dia 22/08</title>
-    <sub-title lang="pt">Fluminense x Remo</sub-title>
-  </programme>
-  <programme channel="br#premiere-2" start="20260821140000 -0300" stop="20260821160000 -0300">
-    <title lang="pt">Dia 22/08</title>
-    <sub-title lang="pt">Fluminense x Remo</sub-title>
-  </programme>
-  <programme channel="br#premiere-2" start="20260821160000 -0300" stop="20260821180000 -0300">
-    <title lang="pt">Dia 22/08</title>
-    <sub-title lang="pt">Fluminense x Remo</sub-title>
-  </programme>
-  <programme channel="br#premiere-2" start="20260821180000 -0300" stop="20260821190000 -0300">
-    <title lang="pt">Dia 22/08</title>
-    <sub-title lang="pt">Fluminense x Remo</sub-title>
-  </programme>
-  <programme channel="br#premiere-2" start="20260821190000 -0300" stop="20260821220000 -0300">
-    <title lang="pt">Dia 22/08</title>
-    <sub-title lang="pt">Fluminense x Remo</sub-title>
-  </programme>
-  <programme channel="br#premiere-2" start="20260821220000 -0300" stop="20260822000000 -0300">
-    <title lang="pt">Dia 22/08</title>
-    <sub-title lang="pt">Fluminense x Remo</sub-title>
-  </programme>
-  <programme channel="br#premiere-2" start="20260822000000 -0300" stop="20260822020000 -0300">
-    <title lang="pt">Hoje a partir das 16: 00</title>
-    <sub-title lang="pt">Fluminense x Remo</sub-title>
-  </programme>
-  <programme channel="br#premiere-2" start="20260822020000 -0300" stop="20260822040000 -0300">
-    <title lang="pt">Hoje a partir das 16: 00</title>
-    <sub-title lang="pt">Fluminense x Remo</sub-title>
-  </programme>
-  <programme channel="br#premiere-2" start="20260822040000 -0300" stop="20260822060000 -0300">
-    <title lang="pt">Hoje a partir das 16: 00</title>
-    <sub-title lang="pt">Fluminense x Remo</sub-title>
-  </programme>
-  <programme channel="br#premiere-2" start="20260822060000 -0300" stop="20260822080000 -0300">
-    <title lang="pt">Hoje a partir das 16: 00</title>
-    <sub-title lang="pt">Fluminense x Remo</sub-title>
-  </programme>
-  <programme channel="br#premiere-2" start="20260822080000 -0300" stop="20260822100000 -0300">
-    <title lang="pt">Hoje a partir das 16: 00</title>
-    <sub-title lang="pt">Fluminense x Remo</sub-title>
-  </programme>
-  <programme channel="br#premiere-2" start="20260822100000 -0300" stop="20260822120000 -0300">
-    <title lang="pt">Hoje a partir das 16: 00</title>
-    <sub-title lang="pt">Fluminense x Remo</sub-title>
-  </programme>
-  <programme channel="br#premiere-2" start="20260822120000 -0300" stop="20260822140000 -0300">
-    <title lang="pt">Hoje a partir das 16: 00</title>
-    <sub-title lang="pt">Fluminense x Remo</sub-title>
-  </programme>
-  <programme channel="br#premiere-2" start="20260822140000 -0300" stop="20260822160000 -0300">
-    <title lang="pt">Hoje a partir das 16: 00</title>
-    <sub-title lang="pt">Fluminense x Remo</sub-title>
-  </programme>
-  <programme channel="br#premiere-2" start="20260822160000 -0300" stop="20260822190000 -0300">
-    <title lang="pt">Fluminense x Remo</title>
-    <sub-title lang="pt">Ao Vivo</sub-title>
-  </programme>
-  <programme channel="br#premiere-2" start="20260822190000 -0300" stop="20260822200000 -0300">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
-    <desc lang="pt">Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!</desc>
-    <category lang="pt">Diversos</category>
-    <rating system="BR">
-      <value>5</value>
-    </rating>
-  </programme>
-  <programme channel="br#premiere-2" start="20260822200000 -0300" stop="20260822220000 -0300">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
-    <desc lang="pt">Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!</desc>
-    <category lang="pt">Diversos</category>
-    <rating system="BR">
-      <value>5</value>
-    </rating>
-  </programme>
-  <programme channel="br#premiere-2" start="20260822220000 -0300" stop="20260823000000 -0300">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
-    <desc lang="pt">Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!</desc>
-    <category lang="pt">Diversos</category>
-    <rating system="BR">
-      <value>5</value>
-    </rating>
-  </programme>
-  <programme channel="br#premiere-2" start="20260823000000 -0300" stop="20260823020000 -0300">
-    <title lang="pt">Hoje a partir das 16: 00</title>
-    <sub-title lang="pt">Palmeiras x Vasco</sub-title>
-  </programme>
-  <programme channel="br#premiere-2" start="20260823020000 -0300" stop="20260823040000 -0300">
-    <title lang="pt">Hoje a partir das 16: 00</title>
-    <sub-title lang="pt">Palmeiras x Vasco</sub-title>
-  </programme>
-  <programme channel="br#premiere-2" start="20260823040000 -0300" stop="20260823060000 -0300">
-    <title lang="pt">Hoje a partir das 16: 00</title>
-    <sub-title lang="pt">Palmeiras x Vasco</sub-title>
-  </programme>
-  <programme channel="br#premiere-2" start="20260823060000 -0300" stop="20260823080000 -0300">
-    <title lang="pt">Hoje a partir das 16: 00</title>
-    <sub-title lang="pt">Palmeiras x Vasco</sub-title>
-  </programme>
-  <programme channel="br#premiere-2" start="20260823080000 -0300" stop="20260823100000 -0300">
-    <title lang="pt">Hoje a partir das 16: 00</title>
-    <sub-title lang="pt">Palmeiras x Vasco</sub-title>
-  </programme>
-  <programme channel="br#premiere-2" start="20260823100000 -0300" stop="20260823120000 -0300">
-    <title lang="pt">Hoje a partir das 16: 00</title>
-    <sub-title lang="pt">Palmeiras x Vasco</sub-title>
-  </programme>
-  <programme channel="br#premiere-2" start="20260823120000 -0300" stop="20260823140000 -0300">
-    <title lang="pt">Hoje a partir das 16: 00</title>
-    <sub-title lang="pt">Palmeiras x Vasco</sub-title>
-  </programme>
-  <programme channel="br#premiere-2" start="20260823140000 -0300" stop="20260823160000 -0300">
-    <title lang="pt">Hoje a partir das 16: 00</title>
-    <sub-title lang="pt">Palmeiras x Vasco</sub-title>
-  </programme>
-  <programme channel="br#premiere-2" start="20260823160000 -0300" stop="20260823190000 -0300">
-    <title lang="pt">Palmeiras x Vasco</title>
-    <sub-title lang="pt">Ao Vivo</sub-title>
-  </programme>
-  <programme channel="br#premiere-2" start="20260823190000 -0300" stop="20260823200000 -0300">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
-    <desc lang="pt">Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!</desc>
-    <category lang="pt">Diversos</category>
-    <rating system="BR">
-      <value>5</value>
-    </rating>
-  </programme>
-  <programme channel="br#premiere-2" start="20260823200000 -0300" stop="20260823220000 -0300">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
-    <desc lang="pt">Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!</desc>
-    <category lang="pt">Diversos</category>
-    <rating system="BR">
-      <value>5</value>
-    </rating>
-  </programme>
-  <programme channel="br#premiere-2" start="20260823220000 -0300" stop="20260824000000 -0300">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
-    <desc lang="pt">Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!</desc>
-    <category lang="pt">Diversos</category>
-    <rating system="BR">
-      <value>5</value>
-    </rating>
-  </programme>
-  <programme channel="br#premiere-2" start="20260824000000 -0300" stop="20260824020000 -0300">
-    <title lang="pt">Dia 25/08</title>
-    <sub-title lang="pt">Cruzeiro x Atlético-MG</sub-title>
-  </programme>
-  <programme channel="br#premiere-2" start="20260824020000 -0300" stop="20260824040000 -0300">
-    <title lang="pt">Dia 25/08</title>
-    <sub-title lang="pt">Cruzeiro x Atlético-MG</sub-title>
-  </programme>
-  <programme channel="br#premiere-2" start="20260824040000 -0300" stop="20260824060000 -0300">
-    <title lang="pt">Dia 25/08</title>
-    <sub-title lang="pt">Cruzeiro x Atlético-MG</sub-title>
-  </programme>
-  <programme channel="br#premiere-2" start="20260824060000 -0300" stop="20260824080000 -0300">
-    <title lang="pt">Dia 25/08</title>
-    <sub-title lang="pt">Cruzeiro x Atlético-MG</sub-title>
-  </programme>
-  <programme channel="br#premiere-2" start="20260824080000 -0300" stop="20260824100000 -0300">
-    <title lang="pt">Dia 25/08</title>
-    <sub-title lang="pt">Cruzeiro x Atlético-MG</sub-title>
-  </programme>
-  <programme channel="br#premiere-2" start="20260824100000 -0300" stop="20260824120000 -0300">
-    <title lang="pt">Dia 25/08</title>
-    <sub-title lang="pt">Cruzeiro x Atlético-MG</sub-title>
-  </programme>
-  <programme channel="br#premiere-2" start="20260824120000 -0300" stop="20260824140000 -0300">
-    <title lang="pt">Dia 25/08</title>
-    <sub-title lang="pt">Cruzeiro x Atlético-MG</sub-title>
-  </programme>
-  <programme channel="br#premiere-2" start="20260824140000 -0300" stop="20260824160000 -0300">
-    <title lang="pt">Dia 25/08</title>
-    <sub-title lang="pt">Cruzeiro x Atlético-MG</sub-title>
-  </programme>
-  <programme channel="br#premiere-2" start="20260824160000 -0300" stop="20260824180000 -0300">
-    <title lang="pt">Dia 25/08</title>
-    <sub-title lang="pt">Cruzeiro x Atlético-MG</sub-title>
-  </programme>
-  <programme channel="br#premiere-2" start="20260824180000 -0300" stop="20260824200000 -0300">
-    <title lang="pt">Dia 25/08</title>
-    <sub-title lang="pt">Cruzeiro x Atlético-MG</sub-title>
-  </programme>
-  <programme channel="br#premiere-2" start="20260824200000 -0300" stop="20260824220000 -0300">
-    <title lang="pt">Dia 25/08</title>
-    <sub-title lang="pt">Cruzeiro x Atlético-MG</sub-title>
-  </programme>
-  <programme channel="br#premiere-2" start="20260824220000 -0300" stop="20260825000000 -0300">
-    <title lang="pt">Dia 25/08</title>
-    <sub-title lang="pt">Cruzeiro x Atlético-MG</sub-title>
-  </programme>
-  <programme channel="br#premiere-3" start="20260821000000 -0300" stop="20260821003000 -0300">
+  <programme channel="br#premiere-2" start="20260821000000 -0300" stop="20260821003000 -0300">
     <title lang="pt">VT</title>
     <sub-title lang="pt">Remo x Vitória</sub-title>
   </programme>
-  <programme channel="br#premiere-3" start="20260821003000 -0300" stop="20260821013000 -0300">
+  <programme channel="br#premiere-2" start="20260821003000 -0300" stop="20260821013000 -0300">
     <title lang="pt">Giro Da Rodada</title>
     <sub-title lang="pt">20ª Rodada</sub-title>
   </programme>
-  <programme channel="br#premiere-3" start="20260821013000 -0300" stop="20260821020000 -0300">
+  <programme channel="br#premiere-2" start="20260821013000 -0300" stop="20260821020000 -0300">
     <title lang="pt">VT</title>
     <sub-title lang="pt">Mirassol x Remo</sub-title>
   </programme>
-  <programme channel="br#premiere-3" start="20260821020000 -0300" stop="20260821023000 -0300">
+  <programme channel="br#premiere-2" start="20260821020000 -0300" stop="20260821023000 -0300">
     <title lang="pt">VT</title>
     <sub-title lang="pt">Vitória x Palmeiras</sub-title>
   </programme>
-  <programme channel="br#premiere-3" start="20260821023000 -0300" stop="20260821030000 -0300">
+  <programme channel="br#premiere-2" start="20260821023000 -0300" stop="20260821030000 -0300">
     <title lang="pt">VT</title>
     <sub-title lang="pt">Fluminense x Bahia</sub-title>
   </programme>
-  <programme channel="br#premiere-3" start="20260821030000 -0300" stop="20260821033000 -0300">
+  <programme channel="br#premiere-2" start="20260821030000 -0300" stop="20260821033000 -0300">
     <title lang="pt">VT</title>
     <sub-title lang="pt">Corinthians x Athletico-PR</sub-title>
   </programme>
-  <programme channel="br#premiere-3" start="20260821033000 -0300" stop="20260821040000 -0300">
+  <programme channel="br#premiere-2" start="20260821033000 -0300" stop="20260821040000 -0300">
     <title lang="pt">VT</title>
     <sub-title lang="pt">Coritiba x Cruzeiro</sub-title>
   </programme>
-  <programme channel="br#premiere-3" start="20260821040000 -0300" stop="20260821050000 -0300">
+  <programme channel="br#premiere-2" start="20260821040000 -0300" stop="20260821050000 -0300">
     <title lang="pt">Giro Da Rodada</title>
     <sub-title lang="pt">21ª Rodada</sub-title>
   </programme>
-  <programme channel="br#premiere-3" start="20260821050000 -0300" stop="20260821053000 -0300">
+  <programme channel="br#premiere-2" start="20260821050000 -0300" stop="20260821053000 -0300">
     <title lang="pt">VT</title>
     <sub-title lang="pt">Palmeiras x Internacional</sub-title>
   </programme>
-  <programme channel="br#premiere-3" start="20260821053000 -0300" stop="20260821060000 -0300">
+  <programme channel="br#premiere-2" start="20260821053000 -0300" stop="20260821060000 -0300">
     <title lang="pt">VT</title>
     <sub-title lang="pt">Bahia x Vasco</sub-title>
   </programme>
-  <programme channel="br#premiere-3" start="20260821060000 -0300" stop="20260821063000 -0300">
+  <programme channel="br#premiere-2" start="20260821060000 -0300" stop="20260821063000 -0300">
     <title lang="pt">VT</title>
     <sub-title lang="pt">Bragantino x Corinthians</sub-title>
   </programme>
-  <programme channel="br#premiere-3" start="20260821063000 -0300" stop="20260821070000 -0300">
+  <programme channel="br#premiere-2" start="20260821063000 -0300" stop="20260821070000 -0300">
     <title lang="pt">VT</title>
     <sub-title lang="pt">Santos x Athletico-PR</sub-title>
   </programme>
-  <programme channel="br#premiere-3" start="20260821070000 -0300" stop="20260821073000 -0300">
+  <programme channel="br#premiere-2" start="20260821070000 -0300" stop="20260821073000 -0300">
     <title lang="pt">VT</title>
     <sub-title lang="pt">Flamengo x Vitória</sub-title>
   </programme>
-  <programme channel="br#premiere-3" start="20260821073000 -0300" stop="20260821080000 -0300">
+  <programme channel="br#premiere-2" start="20260821073000 -0300" stop="20260821080000 -0300">
     <title lang="pt">VT</title>
     <sub-title lang="pt">Grêmio x São Paulo</sub-title>
   </programme>
-  <programme channel="br#premiere-3" start="20260821080000 -0300" stop="20260821083000 -0300">
+  <programme channel="br#premiere-2" start="20260821080000 -0300" stop="20260821083000 -0300">
     <title lang="pt">VT</title>
     <sub-title lang="pt">Remo x Atlético-MG</sub-title>
   </programme>
-  <programme channel="br#premiere-3" start="20260821083000 -0300" stop="20260821090000 -0300">
+  <programme channel="br#premiere-2" start="20260821083000 -0300" stop="20260821090000 -0300">
     <title lang="pt">VT</title>
     <sub-title lang="pt">Coritiba x Chapecoense</sub-title>
   </programme>
-  <programme channel="br#premiere-3" start="20260821090000 -0300" stop="20260821093000 -0300">
+  <programme channel="br#premiere-2" start="20260821090000 -0300" stop="20260821093000 -0300">
     <title lang="pt">VT</title>
     <sub-title lang="pt">Botafogo x Fluminense</sub-title>
   </programme>
-  <programme channel="br#premiere-3" start="20260821093000 -0300" stop="20260821103000 -0300">
+  <programme channel="br#premiere-2" start="20260821093000 -0300" stop="20260821103000 -0300">
     <title lang="pt">Giro Da Rodada</title>
     <sub-title lang="pt">22ª Rodada</sub-title>
   </programme>
-  <programme channel="br#premiere-3" start="20260821103000 -0300" stop="20260821110000 -0300">
+  <programme channel="br#premiere-2" start="20260821103000 -0300" stop="20260821110000 -0300">
     <title lang="pt">VT</title>
     <sub-title lang="pt">Palmeiras x Internacional</sub-title>
   </programme>
-  <programme channel="br#premiere-3" start="20260821110000 -0300" stop="20260821113000 -0300">
+  <programme channel="br#premiere-2" start="20260821110000 -0300" stop="20260821113000 -0300">
     <title lang="pt">VT</title>
     <sub-title lang="pt">Bahia x Vasco</sub-title>
   </programme>
-  <programme channel="br#premiere-3" start="20260821113000 -0300" stop="20260821120000 -0300">
+  <programme channel="br#premiere-2" start="20260821113000 -0300" stop="20260821120000 -0300">
     <title lang="pt">VT</title>
     <sub-title lang="pt">Bragantino x Corinthians</sub-title>
   </programme>
-  <programme channel="br#premiere-3" start="20260821120000 -0300" stop="20260821123000 -0300">
+  <programme channel="br#premiere-2" start="20260821120000 -0300" stop="20260821123000 -0300">
     <title lang="pt">VT</title>
     <sub-title lang="pt">Santos x Athletico-PR</sub-title>
   </programme>
-  <programme channel="br#premiere-3" start="20260821123000 -0300" stop="20260821130000 -0300">
+  <programme channel="br#premiere-2" start="20260821123000 -0300" stop="20260821130000 -0300">
     <title lang="pt">VT</title>
     <sub-title lang="pt">Flamengo x Vitória</sub-title>
   </programme>
-  <programme channel="br#premiere-3" start="20260821130000 -0300" stop="20260821133000 -0300">
+  <programme channel="br#premiere-2" start="20260821130000 -0300" stop="20260821133000 -0300">
     <title lang="pt">VT</title>
     <sub-title lang="pt">Grêmio x São Paulo</sub-title>
   </programme>
-  <programme channel="br#premiere-3" start="20260821133000 -0300" stop="20260821140000 -0300">
+  <programme channel="br#premiere-2" start="20260821133000 -0300" stop="20260821140000 -0300">
     <title lang="pt">VT</title>
     <sub-title lang="pt">Remo x Atlético-MG</sub-title>
   </programme>
-  <programme channel="br#premiere-3" start="20260821140000 -0300" stop="20260821143000 -0300">
+  <programme channel="br#premiere-2" start="20260821140000 -0300" stop="20260821143000 -0300">
     <title lang="pt">VT</title>
     <sub-title lang="pt">Coritiba x Chapecoense</sub-title>
   </programme>
-  <programme channel="br#premiere-3" start="20260821143000 -0300" stop="20260821150000 -0300">
+  <programme channel="br#premiere-2" start="20260821143000 -0300" stop="20260821150000 -0300">
     <title lang="pt">VT</title>
     <sub-title lang="pt">Botafogo x Fluminense</sub-title>
   </programme>
-  <programme channel="br#premiere-3" start="20260821150000 -0300" stop="20260821160000 -0300">
+  <programme channel="br#premiere-2" start="20260821150000 -0300" stop="20260821160000 -0300">
     <title lang="pt">Giro Da Rodada</title>
     <sub-title lang="pt">22ª Rodada</sub-title>
   </programme>
-  <programme channel="br#premiere-3" start="20260821160000 -0300" stop="20260821163000 -0300">
+  <programme channel="br#premiere-2" start="20260821160000 -0300" stop="20260821163000 -0300">
     <title lang="pt">VT</title>
     <sub-title lang="pt">Mirassol x Remo</sub-title>
   </programme>
-  <programme channel="br#premiere-3" start="20260821163000 -0300" stop="20260821170000 -0300">
+  <programme channel="br#premiere-2" start="20260821163000 -0300" stop="20260821170000 -0300">
     <title lang="pt">VT</title>
     <sub-title lang="pt">Vitória x Palmeiras</sub-title>
   </programme>
-  <programme channel="br#premiere-3" start="20260821170000 -0300" stop="20260821173000 -0300">
+  <programme channel="br#premiere-2" start="20260821170000 -0300" stop="20260821173000 -0300">
     <title lang="pt">VT</title>
     <sub-title lang="pt">Fluminense x Bahia</sub-title>
   </programme>
-  <programme channel="br#premiere-3" start="20260821173000 -0300" stop="20260821180000 -0300">
+  <programme channel="br#premiere-2" start="20260821173000 -0300" stop="20260821180000 -0300">
     <title lang="pt">VT</title>
     <sub-title lang="pt">Corinthians x Athletico-PR</sub-title>
   </programme>
-  <programme channel="br#premiere-3" start="20260821180000 -0300" stop="20260821183000 -0300">
+  <programme channel="br#premiere-2" start="20260821180000 -0300" stop="20260821183000 -0300">
     <title lang="pt">VT</title>
     <sub-title lang="pt">Coritiba x Cruzeiro</sub-title>
   </programme>
-  <programme channel="br#premiere-3" start="20260821183000 -0300" stop="20260821190000 -0300">
+  <programme channel="br#premiere-2" start="20260821183000 -0300" stop="20260821190000 -0300">
     <title lang="pt">VT</title>
     <sub-title lang="pt">Botafogo x Vitória</sub-title>
   </programme>
-  <programme channel="br#premiere-3" start="20260821190000 -0300" stop="20260821214000 -0300">
+  <programme channel="br#premiere-2" start="20260821190000 -0300" stop="20260821214000 -0300">
     <title lang="pt">Aquecimento sportv</title>
     <sub-title lang="pt">Ao Vivo</sub-title>
     <desc lang="pt">Acompanhe o que antecede os jogos, todas as escalações, preparações para o que antecede aos principais eventos do mundo esportes, aqui no sportv!</desc>
@@ -149084,207 +148883,287 @@ autenticidade nacional e negra brasileira nos anos 1970.
       <value>5</value>
     </rating>
   </programme>
-  <programme channel="br#premiere-3" start="20260821214000 -0300" stop="20260821224000 -0300">
+  <programme channel="br#premiere-2" start="20260821214000 -0300" stop="20260821224000 -0300">
     <title lang="pt">VT</title>
     <sub-title lang="pt">Santos x Flamengo</sub-title>
   </programme>
-  <programme channel="br#premiere-3" start="20260821224000 -0300" stop="20260821231000 -0300">
+  <programme channel="br#premiere-2" start="20260821224000 -0300" stop="20260821231000 -0300">
     <title lang="pt">VT</title>
     <sub-title lang="pt">Palmeiras x Internacional</sub-title>
   </programme>
-  <programme channel="br#premiere-3" start="20260821231000 -0300" stop="20260821234000 -0300">
+  <programme channel="br#premiere-2" start="20260821231000 -0300" stop="20260821234000 -0300">
     <title lang="pt">VT</title>
     <sub-title lang="pt">Bahia x Vasco</sub-title>
   </programme>
-  <programme channel="br#premiere-3" start="20260821234000 -0300" stop="20260822001000 -0300">
+  <programme channel="br#premiere-2" start="20260821234000 -0300" stop="20260822001000 -0300">
     <title lang="pt">VT</title>
     <sub-title lang="pt">Santos x Athletico-PR</sub-title>
   </programme>
-  <programme channel="br#premiere-4" start="20260821000000 -0300" stop="20260821020000 -0300">
-    <title lang="pt">Dia 23/08</title>
-    <sub-title lang="pt">Vitória x Bahia</sub-title>
+  <programme channel="br#premiere-3" start="20260821000000 -0300" stop="20260821060000 -0300">
+    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <desc lang="pt">Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!</desc>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
   </programme>
-  <programme channel="br#premiere-4" start="20260821020000 -0300" stop="20260821040000 -0300">
-    <title lang="pt">Dia 23/08</title>
-    <sub-title lang="pt">Vitória x Bahia</sub-title>
+  <programme channel="br#premiere-3" start="20260821060000 -0300" stop="20260821120000 -0300">
+    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <desc lang="pt">Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!</desc>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
   </programme>
-  <programme channel="br#premiere-4" start="20260821040000 -0300" stop="20260821060000 -0300">
-    <title lang="pt">Dia 23/08</title>
-    <sub-title lang="pt">Vitória x Bahia</sub-title>
+  <programme channel="br#premiere-3" start="20260821120000 -0300" stop="20260821180000 -0300">
+    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <desc lang="pt">Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!</desc>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
   </programme>
-  <programme channel="br#premiere-4" start="20260821060000 -0300" stop="20260821080000 -0300">
-    <title lang="pt">Dia 23/08</title>
-    <sub-title lang="pt">Vitória x Bahia</sub-title>
+  <programme channel="br#premiere-3" start="20260821180000 -0300" stop="20260822000000 -0300">
+    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <desc lang="pt">Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!</desc>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
   </programme>
-  <programme channel="br#premiere-4" start="20260821080000 -0300" stop="20260821100000 -0300">
-    <title lang="pt">Dia 23/08</title>
-    <sub-title lang="pt">Vitória x Bahia</sub-title>
+  <programme channel="br#premiere-3" start="20260822000000 -0300" stop="20260822060000 -0300">
+    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <desc lang="pt">Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!</desc>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
   </programme>
-  <programme channel="br#premiere-4" start="20260821100000 -0300" stop="20260821120000 -0300">
-    <title lang="pt">Dia 23/08</title>
-    <sub-title lang="pt">Vitória x Bahia</sub-title>
+  <programme channel="br#premiere-3" start="20260822060000 -0300" stop="20260822120000 -0300">
+    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <desc lang="pt">Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!</desc>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
   </programme>
-  <programme channel="br#premiere-4" start="20260821120000 -0300" stop="20260821140000 -0300">
-    <title lang="pt">Dia 23/08</title>
-    <sub-title lang="pt">Vitória x Bahia</sub-title>
+  <programme channel="br#premiere-3" start="20260822120000 -0300" stop="20260822180000 -0300">
+    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <desc lang="pt">Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!</desc>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
   </programme>
-  <programme channel="br#premiere-4" start="20260821140000 -0300" stop="20260821160000 -0300">
-    <title lang="pt">Dia 23/08</title>
-    <sub-title lang="pt">Vitória x Bahia</sub-title>
+  <programme channel="br#premiere-3" start="20260822180000 -0300" stop="20260823000000 -0300">
+    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <desc lang="pt">Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!</desc>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
   </programme>
-  <programme channel="br#premiere-4" start="20260821160000 -0300" stop="20260821180000 -0300">
-    <title lang="pt">Dia 23/08</title>
-    <sub-title lang="pt">Vitória x Bahia</sub-title>
+  <programme channel="br#premiere-3" start="20260823000000 -0300" stop="20260823060000 -0300">
+    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <desc lang="pt">Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!</desc>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
   </programme>
-  <programme channel="br#premiere-4" start="20260821180000 -0300" stop="20260821200000 -0300">
-    <title lang="pt">Dia 23/08</title>
-    <sub-title lang="pt">Vitória x Bahia</sub-title>
+  <programme channel="br#premiere-3" start="20260823060000 -0300" stop="20260823120000 -0300">
+    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <desc lang="pt">Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!</desc>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
   </programme>
-  <programme channel="br#premiere-4" start="20260821200000 -0300" stop="20260821220000 -0300">
-    <title lang="pt">Dia 23/08</title>
-    <sub-title lang="pt">Vitória x Bahia</sub-title>
+  <programme channel="br#premiere-3" start="20260823120000 -0300" stop="20260823180000 -0300">
+    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <desc lang="pt">Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!</desc>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
   </programme>
-  <programme channel="br#premiere-4" start="20260821220000 -0300" stop="20260822000000 -0300">
-    <title lang="pt">Dia 23/08</title>
-    <sub-title lang="pt">Vitória x Bahia</sub-title>
+  <programme channel="br#premiere-3" start="20260823180000 -0300" stop="20260824000000 -0300">
+    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <desc lang="pt">Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!</desc>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
   </programme>
-  <programme channel="br#premiere-5-brazil" start="20260821000000 -0300" stop="20260821003000 -0300">
+  <programme channel="br#premiere-3" start="20260824000000 -0300" stop="20260824060000 -0300">
+    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <desc lang="pt">Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!</desc>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme channel="br#premiere-3" start="20260824060000 -0300" stop="20260824120000 -0300">
+    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <desc lang="pt">Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!</desc>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme channel="br#premiere-3" start="20260824120000 -0300" stop="20260824180000 -0300">
+    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <desc lang="pt">Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!</desc>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme channel="br#premiere-3" start="20260824180000 -0300" stop="20260825000000 -0300">
+    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <desc lang="pt">Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!</desc>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme channel="br#premiere-4" start="20260821000000 -0300" stop="20260821003000 -0300">
     <title lang="pt">VT</title>
     <sub-title lang="pt">Remo x Vitória</sub-title>
   </programme>
-  <programme channel="br#premiere-5-brazil" start="20260821003000 -0300" stop="20260821013000 -0300">
+  <programme channel="br#premiere-4" start="20260821003000 -0300" stop="20260821013000 -0300">
     <title lang="pt">Giro Da Rodada</title>
     <sub-title lang="pt">20ª Rodada</sub-title>
   </programme>
-  <programme channel="br#premiere-5-brazil" start="20260821013000 -0300" stop="20260821020000 -0300">
+  <programme channel="br#premiere-4" start="20260821013000 -0300" stop="20260821020000 -0300">
     <title lang="pt">VT</title>
     <sub-title lang="pt">Mirassol x Remo</sub-title>
   </programme>
-  <programme channel="br#premiere-5-brazil" start="20260821020000 -0300" stop="20260821023000 -0300">
+  <programme channel="br#premiere-4" start="20260821020000 -0300" stop="20260821023000 -0300">
     <title lang="pt">VT</title>
     <sub-title lang="pt">Vitória x Palmeiras</sub-title>
   </programme>
-  <programme channel="br#premiere-5-brazil" start="20260821023000 -0300" stop="20260821030000 -0300">
+  <programme channel="br#premiere-4" start="20260821023000 -0300" stop="20260821030000 -0300">
     <title lang="pt">VT</title>
     <sub-title lang="pt">Fluminense x Bahia</sub-title>
   </programme>
-  <programme channel="br#premiere-5-brazil" start="20260821030000 -0300" stop="20260821033000 -0300">
+  <programme channel="br#premiere-4" start="20260821030000 -0300" stop="20260821033000 -0300">
     <title lang="pt">VT</title>
     <sub-title lang="pt">Corinthians x Athletico-PR</sub-title>
   </programme>
-  <programme channel="br#premiere-5-brazil" start="20260821033000 -0300" stop="20260821040000 -0300">
+  <programme channel="br#premiere-4" start="20260821033000 -0300" stop="20260821040000 -0300">
     <title lang="pt">VT</title>
     <sub-title lang="pt">Coritiba x Cruzeiro</sub-title>
   </programme>
-  <programme channel="br#premiere-5-brazil" start="20260821040000 -0300" stop="20260821050000 -0300">
+  <programme channel="br#premiere-4" start="20260821040000 -0300" stop="20260821050000 -0300">
     <title lang="pt">Giro Da Rodada</title>
     <sub-title lang="pt">21ª Rodada</sub-title>
   </programme>
-  <programme channel="br#premiere-5-brazil" start="20260821050000 -0300" stop="20260821053000 -0300">
+  <programme channel="br#premiere-4" start="20260821050000 -0300" stop="20260821053000 -0300">
     <title lang="pt">VT</title>
     <sub-title lang="pt">Palmeiras x Internacional</sub-title>
   </programme>
-  <programme channel="br#premiere-5-brazil" start="20260821053000 -0300" stop="20260821060000 -0300">
+  <programme channel="br#premiere-4" start="20260821053000 -0300" stop="20260821060000 -0300">
     <title lang="pt">VT</title>
     <sub-title lang="pt">Bahia x Vasco</sub-title>
   </programme>
-  <programme channel="br#premiere-5-brazil" start="20260821060000 -0300" stop="20260821063000 -0300">
+  <programme channel="br#premiere-4" start="20260821060000 -0300" stop="20260821063000 -0300">
     <title lang="pt">VT</title>
     <sub-title lang="pt">Bragantino x Corinthians</sub-title>
   </programme>
-  <programme channel="br#premiere-5-brazil" start="20260821063000 -0300" stop="20260821070000 -0300">
+  <programme channel="br#premiere-4" start="20260821063000 -0300" stop="20260821070000 -0300">
     <title lang="pt">VT</title>
     <sub-title lang="pt">Santos x Athletico-PR</sub-title>
   </programme>
-  <programme channel="br#premiere-5-brazil" start="20260821070000 -0300" stop="20260821073000 -0300">
+  <programme channel="br#premiere-4" start="20260821070000 -0300" stop="20260821073000 -0300">
     <title lang="pt">VT</title>
     <sub-title lang="pt">Flamengo x Vitória</sub-title>
   </programme>
-  <programme channel="br#premiere-5-brazil" start="20260821073000 -0300" stop="20260821080000 -0300">
+  <programme channel="br#premiere-4" start="20260821073000 -0300" stop="20260821080000 -0300">
     <title lang="pt">VT</title>
     <sub-title lang="pt">Grêmio x São Paulo</sub-title>
   </programme>
-  <programme channel="br#premiere-5-brazil" start="20260821080000 -0300" stop="20260821083000 -0300">
+  <programme channel="br#premiere-4" start="20260821080000 -0300" stop="20260821083000 -0300">
     <title lang="pt">VT</title>
     <sub-title lang="pt">Remo x Atlético-MG</sub-title>
   </programme>
-  <programme channel="br#premiere-5-brazil" start="20260821083000 -0300" stop="20260821090000 -0300">
+  <programme channel="br#premiere-4" start="20260821083000 -0300" stop="20260821090000 -0300">
     <title lang="pt">VT</title>
     <sub-title lang="pt">Coritiba x Chapecoense</sub-title>
   </programme>
-  <programme channel="br#premiere-5-brazil" start="20260821090000 -0300" stop="20260821093000 -0300">
+  <programme channel="br#premiere-4" start="20260821090000 -0300" stop="20260821093000 -0300">
     <title lang="pt">VT</title>
     <sub-title lang="pt">Botafogo x Fluminense</sub-title>
   </programme>
-  <programme channel="br#premiere-5-brazil" start="20260821093000 -0300" stop="20260821103000 -0300">
+  <programme channel="br#premiere-4" start="20260821093000 -0300" stop="20260821103000 -0300">
     <title lang="pt">Giro Da Rodada</title>
     <sub-title lang="pt">22ª Rodada</sub-title>
   </programme>
-  <programme channel="br#premiere-5-brazil" start="20260821103000 -0300" stop="20260821110000 -0300">
+  <programme channel="br#premiere-4" start="20260821103000 -0300" stop="20260821110000 -0300">
     <title lang="pt">VT</title>
     <sub-title lang="pt">Palmeiras x Internacional</sub-title>
   </programme>
-  <programme channel="br#premiere-5-brazil" start="20260821110000 -0300" stop="20260821113000 -0300">
+  <programme channel="br#premiere-4" start="20260821110000 -0300" stop="20260821113000 -0300">
     <title lang="pt">VT</title>
     <sub-title lang="pt">Bahia x Vasco</sub-title>
   </programme>
-  <programme channel="br#premiere-5-brazil" start="20260821113000 -0300" stop="20260821120000 -0300">
+  <programme channel="br#premiere-4" start="20260821113000 -0300" stop="20260821120000 -0300">
     <title lang="pt">VT</title>
     <sub-title lang="pt">Bragantino x Corinthians</sub-title>
   </programme>
-  <programme channel="br#premiere-5-brazil" start="20260821120000 -0300" stop="20260821123000 -0300">
+  <programme channel="br#premiere-4" start="20260821120000 -0300" stop="20260821123000 -0300">
     <title lang="pt">VT</title>
     <sub-title lang="pt">Santos x Athletico-PR</sub-title>
   </programme>
-  <programme channel="br#premiere-5-brazil" start="20260821123000 -0300" stop="20260821130000 -0300">
+  <programme channel="br#premiere-4" start="20260821123000 -0300" stop="20260821130000 -0300">
     <title lang="pt">VT</title>
     <sub-title lang="pt">Flamengo x Vitória</sub-title>
   </programme>
-  <programme channel="br#premiere-5-brazil" start="20260821130000 -0300" stop="20260821133000 -0300">
+  <programme channel="br#premiere-4" start="20260821130000 -0300" stop="20260821133000 -0300">
     <title lang="pt">VT</title>
     <sub-title lang="pt">Grêmio x São Paulo</sub-title>
   </programme>
-  <programme channel="br#premiere-5-brazil" start="20260821133000 -0300" stop="20260821140000 -0300">
+  <programme channel="br#premiere-4" start="20260821133000 -0300" stop="20260821140000 -0300">
     <title lang="pt">VT</title>
     <sub-title lang="pt">Remo x Atlético-MG</sub-title>
   </programme>
-  <programme channel="br#premiere-5-brazil" start="20260821140000 -0300" stop="20260821143000 -0300">
+  <programme channel="br#premiere-4" start="20260821140000 -0300" stop="20260821143000 -0300">
     <title lang="pt">VT</title>
     <sub-title lang="pt">Coritiba x Chapecoense</sub-title>
   </programme>
-  <programme channel="br#premiere-5-brazil" start="20260821143000 -0300" stop="20260821150000 -0300">
+  <programme channel="br#premiere-4" start="20260821143000 -0300" stop="20260821150000 -0300">
     <title lang="pt">VT</title>
     <sub-title lang="pt">Botafogo x Fluminense</sub-title>
   </programme>
-  <programme channel="br#premiere-5-brazil" start="20260821150000 -0300" stop="20260821160000 -0300">
+  <programme channel="br#premiere-4" start="20260821150000 -0300" stop="20260821160000 -0300">
     <title lang="pt">Giro Da Rodada</title>
     <sub-title lang="pt">22ª Rodada</sub-title>
   </programme>
-  <programme channel="br#premiere-5-brazil" start="20260821160000 -0300" stop="20260821163000 -0300">
+  <programme channel="br#premiere-4" start="20260821160000 -0300" stop="20260821163000 -0300">
     <title lang="pt">VT</title>
     <sub-title lang="pt">Mirassol x Remo</sub-title>
   </programme>
-  <programme channel="br#premiere-5-brazil" start="20260821163000 -0300" stop="20260821170000 -0300">
+  <programme channel="br#premiere-4" start="20260821163000 -0300" stop="20260821170000 -0300">
     <title lang="pt">VT</title>
     <sub-title lang="pt">Vitória x Palmeiras</sub-title>
   </programme>
-  <programme channel="br#premiere-5-brazil" start="20260821170000 -0300" stop="20260821173000 -0300">
+  <programme channel="br#premiere-4" start="20260821170000 -0300" stop="20260821173000 -0300">
     <title lang="pt">VT</title>
     <sub-title lang="pt">Fluminense x Bahia</sub-title>
   </programme>
-  <programme channel="br#premiere-5-brazil" start="20260821173000 -0300" stop="20260821180000 -0300">
+  <programme channel="br#premiere-4" start="20260821173000 -0300" stop="20260821180000 -0300">
     <title lang="pt">VT</title>
     <sub-title lang="pt">Corinthians x Athletico-PR</sub-title>
   </programme>
-  <programme channel="br#premiere-5-brazil" start="20260821180000 -0300" stop="20260821183000 -0300">
+  <programme channel="br#premiere-4" start="20260821180000 -0300" stop="20260821183000 -0300">
     <title lang="pt">VT</title>
     <sub-title lang="pt">Coritiba x Cruzeiro</sub-title>
   </programme>
-  <programme channel="br#premiere-5-brazil" start="20260821183000 -0300" stop="20260821190000 -0300">
+  <programme channel="br#premiere-4" start="20260821183000 -0300" stop="20260821190000 -0300">
     <title lang="pt">VT</title>
     <sub-title lang="pt">Botafogo x Vitória</sub-title>
   </programme>
-  <programme channel="br#premiere-5-brazil" start="20260821190000 -0300" stop="20260821214000 -0300">
+  <programme channel="br#premiere-4" start="20260821190000 -0300" stop="20260821214000 -0300">
     <title lang="pt">Aquecimento sportv</title>
     <sub-title lang="pt">Ao Vivo</sub-title>
     <desc lang="pt">Acompanhe o que antecede os jogos, todas as escalações, preparações para o que antecede aos principais eventos do mundo esportes, aqui no sportv!</desc>
@@ -149293,182 +149172,642 @@ autenticidade nacional e negra brasileira nos anos 1970.
       <value>5</value>
     </rating>
   </programme>
-  <programme channel="br#premiere-5-brazil" start="20260821214000 -0300" stop="20260821224000 -0300">
+  <programme channel="br#premiere-4" start="20260821214000 -0300" stop="20260821224000 -0300">
     <title lang="pt">VT</title>
     <sub-title lang="pt">Santos x Flamengo</sub-title>
   </programme>
-  <programme channel="br#premiere-5-brazil" start="20260821224000 -0300" stop="20260821231000 -0300">
+  <programme channel="br#premiere-4" start="20260821224000 -0300" stop="20260821231000 -0300">
     <title lang="pt">VT</title>
     <sub-title lang="pt">Palmeiras x Internacional</sub-title>
   </programme>
-  <programme channel="br#premiere-5-brazil" start="20260821231000 -0300" stop="20260821234000 -0300">
+  <programme channel="br#premiere-4" start="20260821231000 -0300" stop="20260821234000 -0300">
     <title lang="pt">VT</title>
     <sub-title lang="pt">Bahia x Vasco</sub-title>
   </programme>
-  <programme channel="br#premiere-5-brazil" start="20260821234000 -0300" stop="20260822001000 -0300">
+  <programme channel="br#premiere-4" start="20260821234000 -0300" stop="20260822001000 -0300">
     <title lang="pt">VT</title>
     <sub-title lang="pt">Santos x Athletico-PR</sub-title>
   </programme>
-  <programme channel="br#premiere-6-hd" start="20260821000000 -0300" stop="20260821003000 -0300">
-    <title lang="pt">VT</title>
-    <sub-title lang="pt">Remo x Vitória</sub-title>
+  <programme channel="br#premiere-5-brazil" start="20260821000000 -0300" stop="20260821020000 -0300">
+    <title lang="pt">Dia 23/08</title>
+    <sub-title lang="pt">São Bernardo FC x Náutico</sub-title>
   </programme>
-  <programme channel="br#premiere-6-hd" start="20260821003000 -0300" stop="20260821013000 -0300">
-    <title lang="pt">Giro Da Rodada</title>
-    <sub-title lang="pt">20ª Rodada</sub-title>
+  <programme channel="br#premiere-5-brazil" start="20260821020000 -0300" stop="20260821040000 -0300">
+    <title lang="pt">Dia 23/08</title>
+    <sub-title lang="pt">São Bernardo FC x Náutico</sub-title>
   </programme>
-  <programme channel="br#premiere-6-hd" start="20260821013000 -0300" stop="20260821020000 -0300">
-    <title lang="pt">VT</title>
-    <sub-title lang="pt">Mirassol x Remo</sub-title>
+  <programme channel="br#premiere-5-brazil" start="20260821040000 -0300" stop="20260821060000 -0300">
+    <title lang="pt">Dia 23/08</title>
+    <sub-title lang="pt">São Bernardo FC x Náutico</sub-title>
   </programme>
-  <programme channel="br#premiere-6-hd" start="20260821020000 -0300" stop="20260821023000 -0300">
-    <title lang="pt">VT</title>
-    <sub-title lang="pt">Vitória x Palmeiras</sub-title>
+  <programme channel="br#premiere-5-brazil" start="20260821060000 -0300" stop="20260821080000 -0300">
+    <title lang="pt">Dia 23/08</title>
+    <sub-title lang="pt">São Bernardo FC x Náutico</sub-title>
   </programme>
-  <programme channel="br#premiere-6-hd" start="20260821023000 -0300" stop="20260821030000 -0300">
-    <title lang="pt">VT</title>
-    <sub-title lang="pt">Fluminense x Bahia</sub-title>
+  <programme channel="br#premiere-5-brazil" start="20260821080000 -0300" stop="20260821100000 -0300">
+    <title lang="pt">Dia 23/08</title>
+    <sub-title lang="pt">São Bernardo FC x Náutico</sub-title>
   </programme>
-  <programme channel="br#premiere-6-hd" start="20260821030000 -0300" stop="20260821033000 -0300">
-    <title lang="pt">VT</title>
-    <sub-title lang="pt">Corinthians x Athletico-PR</sub-title>
+  <programme channel="br#premiere-5-brazil" start="20260821100000 -0300" stop="20260821120000 -0300">
+    <title lang="pt">Dia 23/08</title>
+    <sub-title lang="pt">São Bernardo FC x Náutico</sub-title>
   </programme>
-  <programme channel="br#premiere-6-hd" start="20260821033000 -0300" stop="20260821040000 -0300">
-    <title lang="pt">VT</title>
-    <sub-title lang="pt">Coritiba x Cruzeiro</sub-title>
+  <programme channel="br#premiere-5-brazil" start="20260821120000 -0300" stop="20260821140000 -0300">
+    <title lang="pt">Dia 23/08</title>
+    <sub-title lang="pt">São Bernardo FC x Náutico</sub-title>
   </programme>
-  <programme channel="br#premiere-6-hd" start="20260821040000 -0300" stop="20260821050000 -0300">
-    <title lang="pt">Giro Da Rodada</title>
-    <sub-title lang="pt">21ª Rodada</sub-title>
+  <programme channel="br#premiere-5-brazil" start="20260821140000 -0300" stop="20260821160000 -0300">
+    <title lang="pt">Dia 23/08</title>
+    <sub-title lang="pt">São Bernardo FC x Náutico</sub-title>
   </programme>
-  <programme channel="br#premiere-6-hd" start="20260821050000 -0300" stop="20260821053000 -0300">
-    <title lang="pt">VT</title>
-    <sub-title lang="pt">Palmeiras x Internacional</sub-title>
+  <programme channel="br#premiere-5-brazil" start="20260821160000 -0300" stop="20260821180000 -0300">
+    <title lang="pt">Dia 23/08</title>
+    <sub-title lang="pt">São Bernardo FC x Náutico</sub-title>
   </programme>
-  <programme channel="br#premiere-6-hd" start="20260821053000 -0300" stop="20260821060000 -0300">
-    <title lang="pt">VT</title>
-    <sub-title lang="pt">Bahia x Vasco</sub-title>
+  <programme channel="br#premiere-5-brazil" start="20260821180000 -0300" stop="20260821200000 -0300">
+    <title lang="pt">Dia 23/08</title>
+    <sub-title lang="pt">São Bernardo FC x Náutico</sub-title>
   </programme>
-  <programme channel="br#premiere-6-hd" start="20260821060000 -0300" stop="20260821063000 -0300">
-    <title lang="pt">VT</title>
-    <sub-title lang="pt">Bragantino x Corinthians</sub-title>
+  <programme channel="br#premiere-5-brazil" start="20260821200000 -0300" stop="20260821220000 -0300">
+    <title lang="pt">Dia 23/08</title>
+    <sub-title lang="pt">São Bernardo FC x Náutico</sub-title>
   </programme>
-  <programme channel="br#premiere-6-hd" start="20260821063000 -0300" stop="20260821070000 -0300">
-    <title lang="pt">VT</title>
-    <sub-title lang="pt">Santos x Athletico-PR</sub-title>
+  <programme channel="br#premiere-5-brazil" start="20260821220000 -0300" stop="20260822000000 -0300">
+    <title lang="pt">Dia 23/08</title>
+    <sub-title lang="pt">São Bernardo FC x Náutico</sub-title>
   </programme>
-  <programme channel="br#premiere-6-hd" start="20260821070000 -0300" stop="20260821073000 -0300">
-    <title lang="pt">VT</title>
-    <sub-title lang="pt">Flamengo x Vitória</sub-title>
+  <programme channel="br#premiere-5-brazil" start="20260822000000 -0300" stop="20260822020000 -0300">
+    <title lang="pt">Dia 23/08</title>
+    <sub-title lang="pt">São Bernardo FC x Náutico</sub-title>
   </programme>
-  <programme channel="br#premiere-6-hd" start="20260821073000 -0300" stop="20260821080000 -0300">
-    <title lang="pt">VT</title>
-    <sub-title lang="pt">Grêmio x São Paulo</sub-title>
+  <programme channel="br#premiere-5-brazil" start="20260822020000 -0300" stop="20260822040000 -0300">
+    <title lang="pt">Dia 23/08</title>
+    <sub-title lang="pt">São Bernardo FC x Náutico</sub-title>
   </programme>
-  <programme channel="br#premiere-6-hd" start="20260821080000 -0300" stop="20260821083000 -0300">
-    <title lang="pt">VT</title>
-    <sub-title lang="pt">Remo x Atlético-MG</sub-title>
+  <programme channel="br#premiere-5-brazil" start="20260822040000 -0300" stop="20260822060000 -0300">
+    <title lang="pt">Dia 23/08</title>
+    <sub-title lang="pt">São Bernardo FC x Náutico</sub-title>
   </programme>
-  <programme channel="br#premiere-6-hd" start="20260821083000 -0300" stop="20260821090000 -0300">
-    <title lang="pt">VT</title>
-    <sub-title lang="pt">Coritiba x Chapecoense</sub-title>
+  <programme channel="br#premiere-5-brazil" start="20260822060000 -0300" stop="20260822080000 -0300">
+    <title lang="pt">Dia 23/08</title>
+    <sub-title lang="pt">São Bernardo FC x Náutico</sub-title>
   </programme>
-  <programme channel="br#premiere-6-hd" start="20260821090000 -0300" stop="20260821093000 -0300">
-    <title lang="pt">VT</title>
-    <sub-title lang="pt">Botafogo x Fluminense</sub-title>
+  <programme channel="br#premiere-5-brazil" start="20260822080000 -0300" stop="20260822100000 -0300">
+    <title lang="pt">Dia 23/08</title>
+    <sub-title lang="pt">São Bernardo FC x Náutico</sub-title>
   </programme>
-  <programme channel="br#premiere-6-hd" start="20260821093000 -0300" stop="20260821103000 -0300">
-    <title lang="pt">Giro Da Rodada</title>
-    <sub-title lang="pt">22ª Rodada</sub-title>
+  <programme channel="br#premiere-5-brazil" start="20260822100000 -0300" stop="20260822120000 -0300">
+    <title lang="pt">Dia 23/08</title>
+    <sub-title lang="pt">São Bernardo FC x Náutico</sub-title>
   </programme>
-  <programme channel="br#premiere-6-hd" start="20260821103000 -0300" stop="20260821110000 -0300">
-    <title lang="pt">VT</title>
-    <sub-title lang="pt">Palmeiras x Internacional</sub-title>
+  <programme channel="br#premiere-5-brazil" start="20260822120000 -0300" stop="20260822140000 -0300">
+    <title lang="pt">Dia 23/08</title>
+    <sub-title lang="pt">São Bernardo FC x Náutico</sub-title>
   </programme>
-  <programme channel="br#premiere-6-hd" start="20260821110000 -0300" stop="20260821113000 -0300">
-    <title lang="pt">VT</title>
-    <sub-title lang="pt">Bahia x Vasco</sub-title>
+  <programme channel="br#premiere-5-brazil" start="20260822140000 -0300" stop="20260822160000 -0300">
+    <title lang="pt">Dia 23/08</title>
+    <sub-title lang="pt">São Bernardo FC x Náutico</sub-title>
   </programme>
-  <programme channel="br#premiere-6-hd" start="20260821113000 -0300" stop="20260821120000 -0300">
-    <title lang="pt">VT</title>
-    <sub-title lang="pt">Bragantino x Corinthians</sub-title>
+  <programme channel="br#premiere-5-brazil" start="20260822160000 -0300" stop="20260822180000 -0300">
+    <title lang="pt">Dia 23/08</title>
+    <sub-title lang="pt">São Bernardo FC x Náutico</sub-title>
   </programme>
-  <programme channel="br#premiere-6-hd" start="20260821120000 -0300" stop="20260821123000 -0300">
-    <title lang="pt">VT</title>
-    <sub-title lang="pt">Santos x Athletico-PR</sub-title>
+  <programme channel="br#premiere-5-brazil" start="20260822180000 -0300" stop="20260822200000 -0300">
+    <title lang="pt">Dia 23/08</title>
+    <sub-title lang="pt">São Bernardo FC x Náutico</sub-title>
   </programme>
-  <programme channel="br#premiere-6-hd" start="20260821123000 -0300" stop="20260821130000 -0300">
-    <title lang="pt">VT</title>
-    <sub-title lang="pt">Flamengo x Vitória</sub-title>
+  <programme channel="br#premiere-5-brazil" start="20260822200000 -0300" stop="20260822220000 -0300">
+    <title lang="pt">Dia 23/08</title>
+    <sub-title lang="pt">São Bernardo FC x Náutico</sub-title>
   </programme>
-  <programme channel="br#premiere-6-hd" start="20260821130000 -0300" stop="20260821133000 -0300">
-    <title lang="pt">VT</title>
-    <sub-title lang="pt">Grêmio x São Paulo</sub-title>
+  <programme channel="br#premiere-5-brazil" start="20260822220000 -0300" stop="20260823000000 -0300">
+    <title lang="pt">Dia 23/08</title>
+    <sub-title lang="pt">São Bernardo FC x Náutico</sub-title>
   </programme>
-  <programme channel="br#premiere-6-hd" start="20260821133000 -0300" stop="20260821140000 -0300">
-    <title lang="pt">VT</title>
-    <sub-title lang="pt">Remo x Atlético-MG</sub-title>
+  <programme channel="br#premiere-5-brazil" start="20260823000000 -0300" stop="20260823020000 -0300">
+    <title lang="pt">Hoje a partir das 16: 00</title>
+    <sub-title lang="pt">São Bernardo FC x Náutico</sub-title>
   </programme>
-  <programme channel="br#premiere-6-hd" start="20260821140000 -0300" stop="20260821143000 -0300">
-    <title lang="pt">VT</title>
-    <sub-title lang="pt">Coritiba x Chapecoense</sub-title>
+  <programme channel="br#premiere-5-brazil" start="20260823020000 -0300" stop="20260823040000 -0300">
+    <title lang="pt">Hoje a partir das 16: 00</title>
+    <sub-title lang="pt">São Bernardo FC x Náutico</sub-title>
   </programme>
-  <programme channel="br#premiere-6-hd" start="20260821143000 -0300" stop="20260821150000 -0300">
-    <title lang="pt">VT</title>
-    <sub-title lang="pt">Botafogo x Fluminense</sub-title>
+  <programme channel="br#premiere-5-brazil" start="20260823040000 -0300" stop="20260823060000 -0300">
+    <title lang="pt">Hoje a partir das 16: 00</title>
+    <sub-title lang="pt">São Bernardo FC x Náutico</sub-title>
   </programme>
-  <programme channel="br#premiere-6-hd" start="20260821150000 -0300" stop="20260821160000 -0300">
-    <title lang="pt">Giro Da Rodada</title>
-    <sub-title lang="pt">22ª Rodada</sub-title>
+  <programme channel="br#premiere-5-brazil" start="20260823060000 -0300" stop="20260823080000 -0300">
+    <title lang="pt">Hoje a partir das 16: 00</title>
+    <sub-title lang="pt">São Bernardo FC x Náutico</sub-title>
   </programme>
-  <programme channel="br#premiere-6-hd" start="20260821160000 -0300" stop="20260821163000 -0300">
-    <title lang="pt">VT</title>
-    <sub-title lang="pt">Mirassol x Remo</sub-title>
+  <programme channel="br#premiere-5-brazil" start="20260823080000 -0300" stop="20260823100000 -0300">
+    <title lang="pt">Hoje a partir das 16: 00</title>
+    <sub-title lang="pt">São Bernardo FC x Náutico</sub-title>
   </programme>
-  <programme channel="br#premiere-6-hd" start="20260821163000 -0300" stop="20260821170000 -0300">
-    <title lang="pt">VT</title>
-    <sub-title lang="pt">Vitória x Palmeiras</sub-title>
+  <programme channel="br#premiere-5-brazil" start="20260823100000 -0300" stop="20260823120000 -0300">
+    <title lang="pt">Hoje a partir das 16: 00</title>
+    <sub-title lang="pt">São Bernardo FC x Náutico</sub-title>
   </programme>
-  <programme channel="br#premiere-6-hd" start="20260821170000 -0300" stop="20260821173000 -0300">
-    <title lang="pt">VT</title>
-    <sub-title lang="pt">Fluminense x Bahia</sub-title>
+  <programme channel="br#premiere-5-brazil" start="20260823120000 -0300" stop="20260823140000 -0300">
+    <title lang="pt">Hoje a partir das 16: 00</title>
+    <sub-title lang="pt">São Bernardo FC x Náutico</sub-title>
   </programme>
-  <programme channel="br#premiere-6-hd" start="20260821173000 -0300" stop="20260821180000 -0300">
-    <title lang="pt">VT</title>
-    <sub-title lang="pt">Corinthians x Athletico-PR</sub-title>
+  <programme channel="br#premiere-5-brazil" start="20260823140000 -0300" stop="20260823160000 -0300">
+    <title lang="pt">Hoje a partir das 16: 00</title>
+    <sub-title lang="pt">São Bernardo FC x Náutico</sub-title>
   </programme>
-  <programme channel="br#premiere-6-hd" start="20260821180000 -0300" stop="20260821183000 -0300">
-    <title lang="pt">VT</title>
-    <sub-title lang="pt">Coritiba x Cruzeiro</sub-title>
-  </programme>
-  <programme channel="br#premiere-6-hd" start="20260821183000 -0300" stop="20260821190000 -0300">
-    <title lang="pt">VT</title>
-    <sub-title lang="pt">Botafogo x Vitória</sub-title>
-  </programme>
-  <programme channel="br#premiere-6-hd" start="20260821190000 -0300" stop="20260821214000 -0300">
-    <title lang="pt">Aquecimento sportv</title>
+  <programme channel="br#premiere-5-brazil" start="20260823160000 -0300" stop="20260823190000 -0300">
+    <title lang="pt">São Bernardo FC x Náutico</title>
     <sub-title lang="pt">Ao Vivo</sub-title>
-    <desc lang="pt">Acompanhe o que antecede os jogos, todas as escalações, preparações para o que antecede aos principais eventos do mundo esportes, aqui no sportv!</desc>
-    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme channel="br#premiere-5-brazil" start="20260823190000 -0300" stop="20260823200000 -0300">
+    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <desc lang="pt">Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!</desc>
+    <category lang="pt">Diversos</category>
     <rating system="BR">
       <value>5</value>
     </rating>
   </programme>
-  <programme channel="br#premiere-6-hd" start="20260821214000 -0300" stop="20260821224000 -0300">
-    <title lang="pt">VT</title>
-    <sub-title lang="pt">Santos x Flamengo</sub-title>
+  <programme channel="br#premiere-5-brazil" start="20260823200000 -0300" stop="20260823220000 -0300">
+    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <desc lang="pt">Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!</desc>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
   </programme>
-  <programme channel="br#premiere-6-hd" start="20260821224000 -0300" stop="20260821231000 -0300">
-    <title lang="pt">VT</title>
-    <sub-title lang="pt">Palmeiras x Internacional</sub-title>
+  <programme channel="br#premiere-5-brazil" start="20260823220000 -0300" stop="20260824000000 -0300">
+    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <desc lang="pt">Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!</desc>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
   </programme>
-  <programme channel="br#premiere-6-hd" start="20260821231000 -0300" stop="20260821234000 -0300">
-    <title lang="pt">VT</title>
-    <sub-title lang="pt">Bahia x Vasco</sub-title>
+  <programme channel="br#premiere-5-brazil" start="20260824000000 -0300" stop="20260824020000 -0300">
+    <title lang="pt">Com o PREMIERE dá jogo!</title>
   </programme>
-  <programme channel="br#premiere-6-hd" start="20260821234000 -0300" stop="20260822001000 -0300">
-    <title lang="pt">VT</title>
-    <sub-title lang="pt">Santos x Athletico-PR</sub-title>
+  <programme channel="br#premiere-5-brazil" start="20260824020000 -0300" stop="20260824040000 -0300">
+    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <desc lang="pt">Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!</desc>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme channel="br#premiere-5-brazil" start="20260824040000 -0300" stop="20260824060000 -0300">
+    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <desc lang="pt">Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!</desc>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme channel="br#premiere-5-brazil" start="20260824060000 -0300" stop="20260824080000 -0300">
+    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <desc lang="pt">Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!</desc>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme channel="br#premiere-5-brazil" start="20260824080000 -0300" stop="20260824100000 -0300">
+    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <desc lang="pt">Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!</desc>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme channel="br#premiere-5-brazil" start="20260824100000 -0300" stop="20260824120000 -0300">
+    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <desc lang="pt">Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!</desc>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme channel="br#premiere-5-brazil" start="20260824120000 -0300" stop="20260824140000 -0300">
+    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <desc lang="pt">Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!</desc>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme channel="br#premiere-5-brazil" start="20260824140000 -0300" stop="20260824160000 -0300">
+    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <desc lang="pt">Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!</desc>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme channel="br#premiere-5-brazil" start="20260824160000 -0300" stop="20260824180000 -0300">
+    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <desc lang="pt">Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!</desc>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme channel="br#premiere-5-brazil" start="20260824180000 -0300" stop="20260824200000 -0300">
+    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <desc lang="pt">Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!</desc>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme channel="br#premiere-5-brazil" start="20260824200000 -0300" stop="20260824220000 -0300">
+    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <desc lang="pt">Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!</desc>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme channel="br#premiere-5-brazil" start="20260824220000 -0300" stop="20260825000000 -0300">
+    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <desc lang="pt">Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!</desc>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme channel="br#premiere-6-hd" start="20260821000000 -0300" stop="20260821020000 -0300">
+    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <desc lang="pt">Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!</desc>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme channel="br#premiere-6-hd" start="20260821020000 -0300" stop="20260821040000 -0300">
+    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <desc lang="pt">Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!</desc>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme channel="br#premiere-6-hd" start="20260821040000 -0300" stop="20260821060000 -0300">
+    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <desc lang="pt">Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!</desc>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme channel="br#premiere-6-hd" start="20260821060000 -0300" stop="20260821080000 -0300">
+    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <desc lang="pt">Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!</desc>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme channel="br#premiere-6-hd" start="20260821080000 -0300" stop="20260821100000 -0300">
+    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <desc lang="pt">Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!</desc>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme channel="br#premiere-6-hd" start="20260821100000 -0300" stop="20260821120000 -0300">
+    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <desc lang="pt">Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!</desc>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme channel="br#premiere-6-hd" start="20260821120000 -0300" stop="20260821140000 -0300">
+    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <desc lang="pt">Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!</desc>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme channel="br#premiere-6-hd" start="20260821140000 -0300" stop="20260821160000 -0300">
+    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <desc lang="pt">Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!</desc>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme channel="br#premiere-6-hd" start="20260821160000 -0300" stop="20260821180000 -0300">
+    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <desc lang="pt">Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!</desc>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme channel="br#premiere-6-hd" start="20260821180000 -0300" stop="20260821200000 -0300">
+    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <desc lang="pt">Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!</desc>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme channel="br#premiere-6-hd" start="20260821200000 -0300" stop="20260821220000 -0300">
+    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <desc lang="pt">Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!</desc>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme channel="br#premiere-6-hd" start="20260821220000 -0300" stop="20260822000000 -0300">
+    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <desc lang="pt">Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!</desc>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme channel="br#premiere-6-hd" start="20260822000000 -0300" stop="20260822020000 -0300">
+    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <desc lang="pt">Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!</desc>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme channel="br#premiere-6-hd" start="20260822020000 -0300" stop="20260822040000 -0300">
+    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <desc lang="pt">Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!</desc>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme channel="br#premiere-6-hd" start="20260822040000 -0300" stop="20260822060000 -0300">
+    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <desc lang="pt">Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!</desc>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme channel="br#premiere-6-hd" start="20260822060000 -0300" stop="20260822080000 -0300">
+    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <desc lang="pt">Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!</desc>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme channel="br#premiere-6-hd" start="20260822080000 -0300" stop="20260822100000 -0300">
+    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <desc lang="pt">Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!</desc>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme channel="br#premiere-6-hd" start="20260822100000 -0300" stop="20260822120000 -0300">
+    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <desc lang="pt">Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!</desc>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme channel="br#premiere-6-hd" start="20260822120000 -0300" stop="20260822140000 -0300">
+    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <desc lang="pt">Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!</desc>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme channel="br#premiere-6-hd" start="20260822140000 -0300" stop="20260822160000 -0300">
+    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <desc lang="pt">Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!</desc>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme channel="br#premiere-6-hd" start="20260822160000 -0300" stop="20260822180000 -0300">
+    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <desc lang="pt">Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!</desc>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme channel="br#premiere-6-hd" start="20260822180000 -0300" stop="20260822200000 -0300">
+    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <desc lang="pt">Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!</desc>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme channel="br#premiere-6-hd" start="20260822200000 -0300" stop="20260822220000 -0300">
+    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <desc lang="pt">Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!</desc>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme channel="br#premiere-6-hd" start="20260822220000 -0300" stop="20260823000000 -0300">
+    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <desc lang="pt">Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!</desc>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme channel="br#premiere-6-hd" start="20260823000000 -0300" stop="20260823020000 -0300">
+    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <desc lang="pt">Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!</desc>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme channel="br#premiere-6-hd" start="20260823020000 -0300" stop="20260823040000 -0300">
+    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <desc lang="pt">Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!</desc>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme channel="br#premiere-6-hd" start="20260823040000 -0300" stop="20260823060000 -0300">
+    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <desc lang="pt">Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!</desc>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme channel="br#premiere-6-hd" start="20260823060000 -0300" stop="20260823080000 -0300">
+    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <desc lang="pt">Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!</desc>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme channel="br#premiere-6-hd" start="20260823080000 -0300" stop="20260823100000 -0300">
+    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <desc lang="pt">Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!</desc>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme channel="br#premiere-6-hd" start="20260823100000 -0300" stop="20260823120000 -0300">
+    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <desc lang="pt">Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!</desc>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme channel="br#premiere-6-hd" start="20260823120000 -0300" stop="20260823140000 -0300">
+    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <desc lang="pt">Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!</desc>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme channel="br#premiere-6-hd" start="20260823140000 -0300" stop="20260823160000 -0300">
+    <title lang="pt">Com o PREMIERE dá jogo!</title>
+  </programme>
+  <programme channel="br#premiere-6-hd" start="20260823160000 -0300" stop="20260823180000 -0300">
+    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <desc lang="pt">Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!</desc>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme channel="br#premiere-6-hd" start="20260823180000 -0300" stop="20260823200000 -0300">
+    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <desc lang="pt">Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!</desc>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme channel="br#premiere-6-hd" start="20260823200000 -0300" stop="20260823220000 -0300">
+    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <desc lang="pt">Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!</desc>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme channel="br#premiere-6-hd" start="20260823220000 -0300" stop="20260824000000 -0300">
+    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <desc lang="pt">Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!</desc>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme channel="br#premiere-6-hd" start="20260824000000 -0300" stop="20260824020000 -0300">
+    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <desc lang="pt">Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!</desc>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme channel="br#premiere-6-hd" start="20260824020000 -0300" stop="20260824040000 -0300">
+    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <desc lang="pt">Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!</desc>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme channel="br#premiere-6-hd" start="20260824040000 -0300" stop="20260824060000 -0300">
+    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <desc lang="pt">Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!</desc>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme channel="br#premiere-6-hd" start="20260824060000 -0300" stop="20260824080000 -0300">
+    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <desc lang="pt">Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!</desc>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme channel="br#premiere-6-hd" start="20260824080000 -0300" stop="20260824100000 -0300">
+    <title lang="pt">Com o PREMIERE dá jogo!</title>
+  </programme>
+  <programme channel="br#premiere-6-hd" start="20260824100000 -0300" stop="20260824120000 -0300">
+    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <desc lang="pt">Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!</desc>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme channel="br#premiere-6-hd" start="20260824120000 -0300" stop="20260824140000 -0300">
+    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <desc lang="pt">Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!</desc>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme channel="br#premiere-6-hd" start="20260824140000 -0300" stop="20260824160000 -0300">
+    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <desc lang="pt">Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!</desc>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme channel="br#premiere-6-hd" start="20260824160000 -0300" stop="20260824180000 -0300">
+    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <desc lang="pt">Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!</desc>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme channel="br#premiere-6-hd" start="20260824180000 -0300" stop="20260824200000 -0300">
+    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <desc lang="pt">Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!</desc>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme channel="br#premiere-6-hd" start="20260824200000 -0300" stop="20260824220000 -0300">
+    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <desc lang="pt">Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!</desc>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme channel="br#premiere-6-hd" start="20260824220000 -0300" stop="20260825000000 -0300">
+    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <desc lang="pt">Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!</desc>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
   </programme>
   <programme channel="br#premiere-7" start="20260821000000 -0300" stop="20260821003000 -0300">
     <title lang="pt">VT</title>
