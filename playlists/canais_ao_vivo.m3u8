@@ -1,4 +1,960 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="Sbtpr.br" tvg-name="REDE MASSA NAIPI HD¹" tvg-logo="https://googleplusimages.com/SBT.png" group-title="SBT",REDE MASSA NAIPI HD¹
+http://plutovip.eu:8880/live/osni1111/Online999/359644.m3u8
+#EXTINF:-1 tvg-id="Bandce.br" tvg-name="BAND CEARÁ FHD¹" tvg-logo="https://googleplusimages.com/BAND.png" group-title="BAND",BAND CEARÁ FHD¹
+http://plutovip.eu:8880/live/osni1111/Online999/351970.m3u8
+#EXTINF:-1 tvg-id="Redetvdf.br" tvg-name="TV BRASILIA HD¹" tvg-logo="https://googleplusimages.com/REDETV!.png" group-title="ABERTOS",TV BRASILIA HD¹
+http://plutovip.eu:8880/live/osni1111/Online999/322947.m3u8
+#EXTINF:-1 tvg-id="Sbtsp.br" tvg-name="SBT CAMPINAS HD¹" tvg-logo="https://googleplusimages.com/SBT.png" group-title="SBT",SBT CAMPINAS HD¹
+http://plutovip.eu:8880/live/osni1111/Online999/319036.m3u8
+#EXTINF:-1 tvg-id="Tvbrasilrs.br" tvg-name="TVE RS HD+" tvg-logo="https://googleplusimages.com/TVBRASIL.png" group-title="ABERTOS",TVE RS HD+
+http://plutovip.eu:8880/live/osni1111/Online999/317853.m3u8
+#EXTINF:-1 tvg-id="Bandma.br" tvg-name="BAND AMAZONAS HD¹" tvg-logo="https://googleplusimages.com/BAND.png" group-title="BAND",BAND AMAZONAS HD¹
+http://plutovip.eu:8880/live/osni1111/Online999/311294.m3u8
+#EXTINF:-1 tvg-id="Sbtam.br" tvg-name="SBT AMAZONAS HD¹" tvg-logo="https://googleplusimages.com/SBT.png" group-title="SBT",SBT AMAZONAS HD¹
+http://plutovip.eu:8880/live/osni1111/Online999/311293.m3u8
+#EXTINF:-1 tvg-id="Jpnews.br" tvg-name="TV CIDADE VERDE MT FHD+" tvg-logo="https://portalbsd.com.br/images/tv/tvcv.png" group-title="ABERTOS",TV CIDADE VERDE MT FHD+
+http://plutovip.eu:8880/live/osni1111/Online999/302475.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NBA TV FHD¹" tvg-logo="https://i.imgur.com/Nn4ovV6.png" group-title="ESPORTES",NBA TV FHD¹
+http://plutovip.eu:8880/live/osni1111/Online999/68454.m3u8
+#EXTINF:-1 tvg-id="Amazonsat.br" tvg-name="AMAZON SAT FHD+" tvg-logo="https://googleplusimages.com/AMAZONSAT.png" group-title="ABERTOS",AMAZON SAT FHD+
+http://plutovip.eu:8880/live/osni1111/Online999/285701.m3u8
+#EXTINF:-1 tvg-id="Sbtpi.br" tvg-name="TV CIDADE VERDE PICOS HD+" tvg-logo="https://googleplusimages.com/SBT.png" group-title="SBT",TV CIDADE VERDE PICOS HD+
+http://plutovip.eu:8880/live/osni1111/Online999/282554.m3u8
+#EXTINF:-1 tvg-id="Sbtpe.br" tvg-name="TV JORNAL INTERIOR HD¹" tvg-logo="https://googleplusimages.com/SBT.png" group-title="SBT",TV JORNAL INTERIOR HD¹
+http://plutovip.eu:8880/live/osni1111/Online999/271660.m3u8
+#EXTINF:-1 tvg-id="Mbcbrtv.br" tvg-name="MBC BRASIL HD+" tvg-logo="https://googleplusimages.com/MBCBRASIL.png" group-title="ABERTOS",MBC BRASIL HD+
+http://plutovip.eu:8880/live/osni1111/Online999/271594.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FREETV DRAMA | FILMES+" tvg-logo="https://googleplusimages.com/FREETVDRAMA.png" group-title="CANAIS FAST",FREETV DRAMA | FILMES+
+http://plutovip.eu:8880/live/osni1111/Online999/271472.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FREETV CRIME | FILMES+" tvg-logo="https://googleplusimages.com/FREETVCRIME.png" group-title="CANAIS FAST",FREETV CRIME | FILMES+
+http://plutovip.eu:8880/live/osni1111/Online999/271471.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KIDS MAIS HD+" tvg-logo="https://googleplusimages.com/KIDSMAIS.png" group-title="INFANTIL",KIDS MAIS HD+
+http://plutovip.eu:8880/live/osni1111/Online999/271334.m3u8
+#EXTINF:-1 tvg-id="Getv.br" tvg-name="GE TV FHDR¹" tvg-logo="https://googleplusimages.com/GETV.png" group-title="ESPORTES",GE TV FHDR¹
+http://plutovip.eu:8880/live/osni1111/Online999/262472.m3u8
+#EXTINF:-1 tvg-id="Getv.br" tvg-name="GE TV FHD¹" tvg-logo="https://googleplusimages.com/GETV.png" group-title="ESPORTES",GE TV FHD¹
+http://plutovip.eu:8880/live/osni1111/Online999/262471.m3u8
+#EXTINF:-1 tvg-id="Getv.br" tvg-name="GE TV HD+" tvg-logo="https://googleplusimages.com/GETV.png" group-title="ESPORTES",GE TV HD+
+http://plutovip.eu:8880/live/osni1111/Online999/256281.m3u8
+#EXTINF:-1 tvg-id="Xsports.br" tvg-name="XSPORTS HD¹" tvg-logo="https://googleplusimages.com/XSPORTS.png" group-title="ESPORTES",XSPORTS HD¹
+http://plutovip.eu:8880/live/osni1111/Online999/249644.m3u8
+#EXTINF:-1 tvg-id="Xsports.br" tvg-name="XSPORTS FHD¹" tvg-logo="https://googleplusimages.com/XSPORTS.png" group-title="ESPORTES",XSPORTS FHD¹
+http://plutovip.eu:8880/live/osni1111/Online999/249643.m3u8
+#EXTINF:-1 tvg-id="Redetvsp.br" tvg-name="REDETV! TOCANTINS FHD¹" tvg-logo="https://i.imgur.com/BA42JzV.png" group-title="ABERTOS",REDETV! TOCANTINS FHD¹
+http://plutovip.eu:8880/live/osni1111/Online999/243864.m3u8
+#EXTINF:-1 tvg-id="Redetvsp.br" tvg-name="IMPERIAL TV MARANHAO FHD¹" tvg-logo="https://i.imgur.com/BA42JzV.png" group-title="ABERTOS",IMPERIAL TV MARANHAO FHD¹
+http://plutovip.eu:8880/live/osni1111/Online999/243863.m3u8
+#EXTINF:-1 tvg-id="Redetvsp.br" tvg-name="TV GUARA CAXIAS FHD¹" tvg-logo="https://i.imgur.com/BA42JzV.png" group-title="ABERTOS",TV GUARA CAXIAS FHD¹
+http://plutovip.eu:8880/live/osni1111/Online999/243860.m3u8
+#EXTINF:-1 tvg-id="Sbtes.br" tvg-name="TV SIM SD¹" tvg-logo="https://i.imgur.com/i4lyaIU.png" group-title="SBT",TV SIM SD¹
+http://plutovip.eu:8880/live/osni1111/Online999/236110.m3u8
+#EXTINF:-1 tvg-id="Dreamworks.br" tvg-name="DREAMWORKS HD¹" tvg-logo="https://i.imgur.com/HKU2TTr.png" group-title="INFANTIL",DREAMWORKS HD¹
+http://plutovip.eu:8880/live/osni1111/Online999/230891.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV PETROPOLIS HD+" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/4a63097bcfe4786a82f447d9cadae57f.webp" group-title="ABERTOS",TV PETROPOLIS HD+
+http://plutovip.eu:8880/live/osni1111/Online999/226343.m3u8
+#EXTINF:-1 tvg-id="Redeminas.br" tvg-name="REDE MINAS HD¹" tvg-logo="http://googleplusimages.com/REDEMINAS.png" group-title="ABERTOS",REDE MINAS HD¹
+http://plutovip.eu:8880/live/osni1111/Online999/226312.m3u8
+#EXTINF:-1 tvg-id="Redeminas.br" tvg-name="REDE MINAS HD²" tvg-logo="http://googleplusimages.com/REDEMINAS.png" group-title="ABERTOS",REDE MINAS HD²
+http://plutovip.eu:8880/live/osni1111/Online999/339084.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BAND MINAS FHD¹" tvg-logo="https://googleplusimages.com/BAND.png" group-title="BAND",BAND MINAS FHD¹
+http://plutovip.eu:8880/live/osni1111/Online999/216404.m3u8
+#EXTINF:-1 tvg-id="Bandmais.br" tvg-name="BAND MAIS HD¹" tvg-logo="https://googleplusimages.com/BAND.png" group-title="BAND",BAND MAIS HD¹
+http://plutovip.eu:8880/live/osni1111/Online999/280573.m3u8
+#EXTINF:-1 tvg-id="Globorj.br" tvg-name="GLOBO RIO SD¹" tvg-logo="https://googleplusimages.com/GLOBO.png" group-title="CANAIS LIGHT",GLOBO RIO SD¹
+http://plutovip.eu:8880/live/osni1111/Online999/2059.m3u8
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP SD¹" tvg-logo="https://googleplusimages.com/GLOBO.png" group-title="CANAIS LIGHT",GLOBO SP SD¹
+http://plutovip.eu:8880/live/osni1111/Online999/1978.m3u8
+#EXTINF:-1 tvg-id="Globodf.br" tvg-name="GLOBO BRASÍLIA SD¹" tvg-logo="https://googleplusimages.com/GLOBO.png" group-title="CANAIS LIGHT",GLOBO BRASÍLIA SD¹
+http://plutovip.eu:8880/live/osni1111/Online999/7777.m3u8
+#EXTINF:-1 tvg-id="Globomg.br" tvg-name="GLOBO MINAS SD¹" tvg-logo="https://googleplusimages.com/GLOBO.png" group-title="CANAIS LIGHT",GLOBO MINAS SD¹
+http://plutovip.eu:8880/live/osni1111/Online999/3491.m3u8
+#EXTINF:-1 tvg-id="Globope.br" tvg-name="GLOBO NORDESTE SD¹" tvg-logo="https://googleplusimages.com/GLOBO.png" group-title="CANAIS LIGHT",GLOBO NORDESTE SD¹
+http://plutovip.eu:8880/live/osni1111/Online999/7776.m3u8
+#EXTINF:-1 tvg-id="Tvdiarioce.br" tvg-name="TV DIÁRIO CE HD¹" tvg-logo="https://googleplusimages.com/TVDIARIO.png" group-title="ABERTOS",TV DIÁRIO CE HD¹
+http://plutovip.eu:8880/live/osni1111/Online999/112530.m3u8
+#EXTINF:-1 tvg-id="Tvdiarioce.br" tvg-name="TV DIÁRIO CE HD²" tvg-logo="https://googleplusimages.com/TVDIARIO.png" group-title="ABERTOS",TV DIÁRIO CE HD²
+http://plutovip.eu:8880/live/osni1111/Online999/161052.m3u8
+#EXTINF:-1 tvg-id="Eptvsp.br" tvg-name="EPTV CAMPINAS SD¹" tvg-logo="https://googleplusimages.com/GLOBO.png" group-title="CANAIS LIGHT",EPTV CAMPINAS SD¹
+http://plutovip.eu:8880/live/osni1111/Online999/181641.m3u8
+#EXTINF:-1 tvg-id="Eptvsp.br" tvg-name="EPTV CENTRAL SD¹" tvg-logo="https://googleplusimages.com/GLOBO.png" group-title="CANAIS LIGHT",EPTV CENTRAL SD¹
+http://plutovip.eu:8880/live/osni1111/Online999/181683.m3u8
+#EXTINF:-1 tvg-id="Eptvsp.br" tvg-name="EPTV RIBEIRÃO SD¹" tvg-logo="https://googleplusimages.com/GLOBO.png" group-title="CANAIS LIGHT",EPTV RIBEIRÃO SD¹
+http://plutovip.eu:8880/live/osni1111/Online999/25374.m3u8
+#EXTINF:-1 tvg-id="Tvtem.br" tvg-name="TV TEM SOROCABA SD¹" tvg-logo="https://googleplusimages.com/GLOBO.png" group-title="CANAIS LIGHT",TV TEM SOROCABA SD¹
+http://plutovip.eu:8880/live/osni1111/Online999/182343.m3u8
+#EXTINF:-1 tvg-id="Tvtem.br" tvg-name="TV TEM BAURU SD¹" tvg-logo="https://googleplusimages.com/GLOBO.png" group-title="CANAIS LIGHT",TV TEM BAURU SD¹
+http://plutovip.eu:8880/live/osni1111/Online999/182355.m3u8
+#EXTINF:-1 tvg-id="Tvtem.br" tvg-name="TV TEM ITAPETININGA SD¹" tvg-logo="https://googleplusimages.com/GLOBO.png" group-title="CANAIS LIGHT",TV TEM ITAPETININGA SD¹
+http://plutovip.eu:8880/live/osni1111/Online999/182357.m3u8
+#EXTINF:-1 tvg-id="Tvtem.br" tvg-name="TV TEM S. J. DO RIO PRETO SD¹" tvg-logo="https://googleplusimages.com/GLOBO.png" group-title="CANAIS LIGHT",TV TEM S. J. DO RIO PRETO SD¹
+http://plutovip.eu:8880/live/osni1111/Online999/182361.m3u8
+#EXTINF:-1 tvg-id="Tvtribunasp.br" tvg-name="TV TRIBUNA SD¹" tvg-logo="https://googleplusimages.com/GLOBO.png" group-title="CANAIS LIGHT",TV TRIBUNA SD¹
+http://plutovip.eu:8880/live/osni1111/Online999/182363.m3u8
+#EXTINF:-1 tvg-id="Tvvanguarda.br" tvg-name="TV VANGUARDA S. J. DOS CAMPOS SD¹" tvg-logo="https://googleplusimages.com/GLOBO.png" group-title="CANAIS LIGHT",TV VANGUARDA S. J. DOS CAMPOS SD¹
+http://plutovip.eu:8880/live/osni1111/Online999/182367.m3u8
+#EXTINF:-1 tvg-id="Tvintegracao.br" tvg-name="TV INTEGRAÇÃO JUIZ DE FORA SD¹" tvg-logo="https://googleplusimages.com/GLOBO.png" group-title="CANAIS LIGHT",TV INTEGRAÇÃO JUIZ DE FORA SD¹
+http://plutovip.eu:8880/live/osni1111/Online999/182392.m3u8
+#EXTINF:-1 tvg-id="Intertvmg.br" tvg-name="INTERTV GRANDE MINAS SD¹" tvg-logo="https://googleplusimages.com/GLOBO.png" group-title="CANAIS LIGHT",INTERTV GRANDE MINAS SD¹
+http://plutovip.eu:8880/live/osni1111/Online999/182605.m3u8
+#EXTINF:-1 tvg-id="Globors.br" tvg-name="RBS TV PORTO ALEGRE SD¹" tvg-logo="https://googleplusimages.com/GLOBO.png" group-title="CANAIS LIGHT",RBS TV PORTO ALEGRE SD¹
+http://plutovip.eu:8880/live/osni1111/Online999/2033.m3u8
+#EXTINF:-1 tvg-id="Globosc.br" tvg-name="NSC TV BLUMENAU SD¹" tvg-logo="https://googleplusimages.com/GLOBO.png" group-title="CANAIS LIGHT",NSC TV BLUMENAU SD¹
+http://plutovip.eu:8880/live/osni1111/Online999/182716.m3u8
+#EXTINF:-1 tvg-id="Globopr.br" tvg-name="RPC CURITIBA SD¹" tvg-logo="https://googleplusimages.com/GLOBO.png" group-title="CANAIS LIGHT",RPC CURITIBA SD¹
+http://plutovip.eu:8880/live/osni1111/Online999/181262.m3u8
+#EXTINF:-1 tvg-id="Globopr.br" tvg-name="RPC CASCAVEL SD¹" tvg-logo="https://googleplusimages.com/GLOBO.png" group-title="CANAIS LIGHT",RPC CASCAVEL SD¹
+http://plutovip.eu:8880/live/osni1111/Online999/182923.m3u8
+#EXTINF:-1 tvg-id="Globomt.br" tvg-name="TV CENTRO AMÉRICA SD¹" tvg-logo="https://googleplusimages.com/GLOBO.png" group-title="CANAIS LIGHT",TV CENTRO AMÉRICA SD¹
+http://plutovip.eu:8880/live/osni1111/Online999/181265.m3u8
+#EXTINF:-1 tvg-id="Globoba.br" tvg-name="TV BAHIA SD¹" tvg-logo="https://googleplusimages.com/GLOBO.png" group-title="CANAIS LIGHT",TV BAHIA SD¹
+http://plutovip.eu:8880/live/osni1111/Online999/181272.m3u8
+#EXTINF:-1 tvg-id="Globoal.br" tvg-name="TV ASA BRANCA AL SD¹" tvg-logo="https://googleplusimages.com/GLOBO.png" group-title="CANAIS LIGHT",TV ASA BRANCA AL SD¹
+http://plutovip.eu:8880/live/osni1111/Online999/95270.m3u8
+#EXTINF:-1 tvg-id="Intertvrn.br" tvg-name="INTERTV CABUGI SD¹" tvg-logo="https://googleplusimages.com/GLOBO.png" group-title="CANAIS LIGHT",INTERTV CABUGI SD¹
+http://plutovip.eu:8880/live/osni1111/Online999/181271.m3u8
+#EXTINF:-1 tvg-id="Globoce.br" tvg-name="TV VERDES MARES SD¹" tvg-logo="https://googleplusimages.com/GLOBO.png" group-title="CANAIS LIGHT",TV VERDES MARES SD¹
+http://plutovip.eu:8880/live/osni1111/Online999/181275.m3u8
+#EXTINF:-1 tvg-id="Globoma.br" tvg-name="TV MIRANTE SÃO LUÍS SD¹" tvg-logo="https://googleplusimages.com/GLOBO.png" group-title="CANAIS LIGHT",TV MIRANTE SÃO LUÍS SD¹
+http://plutovip.eu:8880/live/osni1111/Online999/181277.m3u8
+#EXTINF:-1 tvg-id="Globopa.br" tvg-name="TV LIBERAL BELÉM SD¹" tvg-logo="https://googleplusimages.com/GLOBO.png" group-title="CANAIS LIGHT",TV LIBERAL BELÉM SD¹
+http://plutovip.eu:8880/live/osni1111/Online999/181279.m3u8
+#EXTINF:-1 tvg-id="Globoam.br" tvg-name="REDE AMAZÔNICA MANAUS SD¹" tvg-logo="https://googleplusimages.com/GLOBO.png" group-title="CANAIS LIGHT",REDE AMAZÔNICA MANAUS SD¹
+http://plutovip.eu:8880/live/osni1111/Online999/181282.m3u8
+#EXTINF:-1 tvg-id="Tvparanaturismo.br" tvg-name="TV PARANA TURISMO HD³" tvg-logo="https://i.imgur.com/uYG5Qql.png" group-title="ABERTOS",TV PARANA TURISMO HD³
+http://plutovip.eu:8880/live/osni1111/Online999/114000.m3u8
+#EXTINF:-1 tvg-id="Recordsp.br" tvg-name="RECORD SP SD¹" tvg-logo="https://googleplusimages.com/RECORD.png" group-title="CANAIS LIGHT",RECORD SP SD¹
+http://plutovip.eu:8880/live/osni1111/Online999/2030.m3u8
+#EXTINF:-1 tvg-id="Recordrj.br" tvg-name="RECORD RIO SD¹" tvg-logo="https://googleplusimages.com/RECORD.png" group-title="CANAIS LIGHT",RECORD RIO SD¹
+http://plutovip.eu:8880/live/osni1111/Online999/12036.m3u8
+#EXTINF:-1 tvg-id="Recordgo.br" tvg-name="RECORD GOIÁS SD¹" tvg-logo="https://googleplusimages.com/RECORD.png" group-title="CANAIS LIGHT",RECORD GOIÁS SD¹
+http://plutovip.eu:8880/live/osni1111/Online999/183967.m3u8
+#EXTINF:-1 tvg-id="Recordrs.br" tvg-name="RECORD GUAÍBA RS SD¹" tvg-logo="https://googleplusimages.com/RECORD.png" group-title="CANAIS LIGHT",RECORD GUAÍBA RS SD¹
+http://plutovip.eu:8880/live/osni1111/Online999/181873.m3u8
+#EXTINF:-1 tvg-id="Recordba.br" tvg-name="RECORD BAHIA SD¹" tvg-logo="https://googleplusimages.com/RECORD.png" group-title="CANAIS LIGHT",RECORD BAHIA SD¹
+http://plutovip.eu:8880/live/osni1111/Online999/94484.m3u8
+#EXTINF:-1 tvg-id="Recordsp.br" tvg-name="RECORD MANAUS SD¹" tvg-logo="https://googleplusimages.com/RECORD.png" group-title="CANAIS LIGHT",RECORD MANAUS SD¹
+http://plutovip.eu:8880/live/osni1111/Online999/183970.m3u8
+#EXTINF:-1 tvg-id="Sbtsp.br" tvg-name="SBT NACIONAL HD¹" tvg-logo="https://googleplusimages.com/SBT.png" group-title="SBT",SBT NACIONAL HD¹
+http://plutovip.eu:8880/live/osni1111/Online999/112290.m3u8
+#EXTINF:-1 tvg-id="Sbtrj.br" tvg-name="SBT RIO FHD¹" tvg-logo="https://googleplusimages.com/SBT.png" group-title="SBT",SBT RIO FHD¹
+http://plutovip.eu:8880/live/osni1111/Online999/40187.m3u8
+#EXTINF:-1 tvg-id="Sbtrj.br" tvg-name="SBT RIO FHD²" tvg-logo="https://i.imgur.com/i4lyaIU.png" group-title="SBT",SBT RIO FHD²
+http://plutovip.eu:8880/live/osni1111/Online999/181472.m3u8
+#EXTINF:-1 tvg-id="Sbtrj.br" tvg-name="SBT RIO HD²" tvg-logo="https://i.imgur.com/i4lyaIU.png" group-title="SBT",SBT RIO HD²
+http://plutovip.eu:8880/live/osni1111/Online999/110857.m3u8
+#EXTINF:-1 tvg-id="Sbtsp.br" tvg-name="SBT SP FHD+" tvg-logo="https://googleplusimages.com/SBT.png" group-title="SBT",SBT SP FHD+
+http://plutovip.eu:8880/live/osni1111/Online999/6267.m3u8
+#EXTINF:-1 tvg-id="Sbtsp.br" tvg-name="SBT SP FHD²" tvg-logo="https://i.imgur.com/i4lyaIU.png" group-title="SBT",SBT SP FHD²
+http://plutovip.eu:8880/live/osni1111/Online999/181328.m3u8
+#EXTINF:-1 tvg-id="Sbtsp.br" tvg-name="SBT SP H265¹" tvg-logo="https://googleplusimages.com/SBT.png" group-title="SBT",SBT SP H265¹
+http://plutovip.eu:8880/live/osni1111/Online999/94708.m3u8
+#EXTINF:-1 tvg-id="Sbtsp.br" tvg-name="SBT SP HD²" tvg-logo="https://googleplusimages.com/SBT.png" group-title="SBT",SBT SP HD²
+http://plutovip.eu:8880/live/osni1111/Online999/147.m3u8
+#EXTINF:-1 tvg-id="Sbtsp.br" tvg-name="SBT SP SD¹" tvg-logo="https://i.imgur.com/i4lyaIU.png" group-title="CANAIS LIGHT",SBT SP SD¹
+http://plutovip.eu:8880/live/osni1111/Online999/2027.m3u8
+#EXTINF:-1 tvg-id="Sbtsp.br" tvg-name="SBT SOROCABA HD¹" tvg-logo="https://googleplusimages.com/SBT.png" group-title="SBT",SBT SOROCABA HD¹
+http://plutovip.eu:8880/live/osni1111/Online999/337668.m3u8
+#EXTINF:-1 tvg-id="Thsbtintsp.br" tvg-name="TH+ SBT INTERIOR HD¹" tvg-logo="https://googleplusimages.com/SBT.png" group-title="SBT",TH+ SBT INTERIOR HD¹
+http://plutovip.eu:8880/live/osni1111/Online999/95646.m3u8
+#EXTINF:-1 tvg-id="Sbtrp.br" tvg-name="SBT RP HD¹" tvg-logo="https://i.imgur.com/i4lyaIU.png" group-title="SBT",SBT RP HD¹
+http://plutovip.eu:8880/live/osni1111/Online999/181473.m3u8
+#EXTINF:-1 tvg-id="Sbtcentral.br" tvg-name="SBT CENTRAL HD²" tvg-logo="https://googleplusimages.com/SBT.png" group-title="SBT",SBT CENTRAL HD²
+http://plutovip.eu:8880/live/osni1111/Online999/181626.m3u8
+#EXTINF:-1 tvg-id="Sbtdf.br" tvg-name="SBT BRASILIA FHD²" tvg-logo="https://googleplusimages.com/SBT.png" group-title="SBT",SBT BRASILIA FHD²
+http://plutovip.eu:8880/live/osni1111/Online999/181329.m3u8
+#EXTINF:-1 tvg-id="Sbtdf.br" tvg-name="SBT BRASILIA HD¹" tvg-logo="https://googleplusimages.com/SBT.png" group-title="SBT",SBT BRASILIA HD¹
+http://plutovip.eu:8880/live/osni1111/Online999/110859.m3u8
+#EXTINF:-1 tvg-id="Sbtdf.br" tvg-name="SBT BRASILIA HD²" tvg-logo="https://googleplusimages.com/SBT.png" group-title="SBT",SBT BRASILIA HD²
+http://plutovip.eu:8880/live/osni1111/Online999/24663.m3u8
+#EXTINF:-1 tvg-id="Sbtrs.br" tvg-name="SBT RS FHD¹" tvg-logo="https://i.imgur.com/i4lyaIU.png" group-title="SBT",SBT RS FHD¹
+http://plutovip.eu:8880/live/osni1111/Online999/243859.m3u8
+#EXTINF:-1 tvg-id="Sbtrs.br" tvg-name="SBT RS HD¹" tvg-logo="https://googleplusimages.com/SBT.png" group-title="SBT",SBT RS HD¹
+http://plutovip.eu:8880/live/osni1111/Online999/25383.m3u8
+#EXTINF:-1 tvg-id="Sbtrs.br" tvg-name="SBT RS HD²" tvg-logo="https://i.imgur.com/i4lyaIU.png" group-title="SBT",SBT RS HD²
+http://plutovip.eu:8880/live/osni1111/Online999/110860.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SBT SINOP HD²" tvg-logo="https://i.imgur.com/i4lyaIU.png" group-title="SBT",SBT SINOP HD²
+http://plutovip.eu:8880/live/osni1111/Online999/112299.m3u8
+#EXTINF:-1 tvg-id="Sbtmt.br" tvg-name="SBT CUIABÁ HD¹" tvg-logo="https://googleplusimages.com/SBT.png" group-title="SBT",SBT CUIABÁ HD¹
+http://plutovip.eu:8880/live/osni1111/Online999/112293.m3u8
+#EXTINF:-1 tvg-id="Sbtgo.br" tvg-name="TV SERRA DOURADA HD¹" tvg-logo="https://googleplusimages.com/SBT.png" group-title="SBT",TV SERRA DOURADA HD¹
+http://plutovip.eu:8880/live/osni1111/Online999/265639.m3u8
+#EXTINF:-1 tvg-id="Sbtmg.br" tvg-name="TV ALTEROSA HD¹" tvg-logo="https://googleplusimages.com/SBT.png" group-title="SBT",TV ALTEROSA HD¹
+http://plutovip.eu:8880/live/osni1111/Online999/25343.m3u8
+#EXTINF:-1 tvg-id="Sbtmg.br" tvg-name="TV ALTEROSA HD²" tvg-logo="https://i.imgur.com/i4lyaIU.png" group-title="SBT",TV ALTEROSA HD²
+http://plutovip.eu:8880/live/osni1111/Online999/215490.m3u8
+#EXTINF:-1 tvg-id="Sbtsc.br" tvg-name="SCC SBT HD¹" tvg-logo="https://googleplusimages.com/SBT.png" group-title="SBT",SCC SBT HD¹
+http://plutovip.eu:8880/live/osni1111/Online999/95644.m3u8
+#EXTINF:-1 tvg-id="Sbtsc.br" tvg-name="SCC SBT  HD²" tvg-logo="https://i.imgur.com/i4lyaIU.png" group-title="SBT",SCC SBT  HD²
+http://plutovip.eu:8880/live/osni1111/Online999/181627.m3u8
+#EXTINF:-1 tvg-id="Sbtpr.br" tvg-name="REDE MASSA HD¹" tvg-logo="https://googleplusimages.com/SBT.png" group-title="SBT",REDE MASSA HD¹
+http://plutovip.eu:8880/live/osni1111/Online999/112295.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="REDE MASSA HD²" tvg-logo="https://googleplusimages.com/SBT.png" group-title="SBT",REDE MASSA HD²
+http://plutovip.eu:8880/live/osni1111/Online999/24660.m3u8
+#EXTINF:-1 tvg-id="Sbtmt.br" tvg-name="BEMTV HD" tvg-logo="https://i.imgur.com/i4lyaIU.png" group-title="SBT",BEMTV HD
+http://plutovip.eu:8880/live/osni1111/Online999/95649.m3u8
+#EXTINF:-1 tvg-id="Sbtba.br" tvg-name="TV ARATU HD¹" tvg-logo="https://googleplusimages.com/SBT.png" group-title="SBT",TV ARATU HD¹
+http://plutovip.eu:8880/live/osni1111/Online999/24735.m3u8
+#EXTINF:-1 tvg-id="Sbtba.br" tvg-name="TV ARATU HD²" tvg-logo="https://i.imgur.com/i4lyaIU.png" group-title="SBT",TV ARATU HD²
+http://plutovip.eu:8880/live/osni1111/Online999/110861.m3u8
+#EXTINF:-1 tvg-id="Sbtpb.br" tvg-name="TV TAMBAU HD¹" tvg-logo="https://googleplusimages.com/SBT.png" group-title="SBT",TV TAMBAU HD¹
+http://plutovip.eu:8880/live/osni1111/Online999/25384.m3u8
+#EXTINF:-1 tvg-id="Sbtrn.br" tvg-name="TV PONTA NEGRA HD¹" tvg-logo="https://i.imgur.com/i4lyaIU.png" group-title="SBT",TV PONTA NEGRA HD¹
+http://plutovip.eu:8880/live/osni1111/Online999/112298.m3u8
+#EXTINF:-1 tvg-id="Sbtal.br" tvg-name="TV PONTA VERDE HD¹" tvg-logo="https://googleplusimages.com/SBT.png" group-title="SBT",TV PONTA VERDE HD¹
+http://plutovip.eu:8880/live/osni1111/Online999/215675.m3u8
+#EXTINF:-1 tvg-id="Sbtce.br" tvg-name="TV JANGADEIRO HD¹" tvg-logo="https://googleplusimages.com/SBT.png" group-title="SBT",TV JANGADEIRO HD¹
+http://plutovip.eu:8880/live/osni1111/Online999/25347.m3u8
+#EXTINF:-1 tvg-id="Sbtce.br" tvg-name="TV JANGADEIRO HD²" tvg-logo="https://i.imgur.com/i4lyaIU.png" group-title="SBT",TV JANGADEIRO HD²
+http://plutovip.eu:8880/live/osni1111/Online999/181471.m3u8
+#EXTINF:-1 tvg-id="Sbtpi.br" tvg-name="TV CIDADE VERDE HD¹" tvg-logo="https://googleplusimages.com/SBT.png" group-title="SBT",TV CIDADE VERDE HD¹
+http://plutovip.eu:8880/live/osni1111/Online999/73204.m3u8
+#EXTINF:-1 tvg-id="Sbtpi.br" tvg-name="TV CIDADE VERDE HD²" tvg-logo="https://i.imgur.com/i4lyaIU.png" group-title="SBT",TV CIDADE VERDE HD²
+http://plutovip.eu:8880/live/osni1111/Online999/112297.m3u8
+#EXTINF:-1 tvg-id="Sbtsp.br" tvg-name="TV DIFUSORA HD¹" tvg-logo="https://googleplusimages.com/SBT.png" group-title="SBT",TV DIFUSORA HD¹
+http://plutovip.eu:8880/live/osni1111/Online999/73205.m3u8
+#EXTINF:-1 tvg-id="Sbtpa.br" tvg-name="TV NORTE PARÁ HD¹" tvg-logo="https://googleplusimages.com/SBT.png" group-title="SBT",TV NORTE PARÁ HD¹
+http://plutovip.eu:8880/live/osni1111/Online999/95648.m3u8
+#EXTINF:-1 tvg-id="Sbtsp.br" tvg-name="TH+ SBT VALE FHD¹" tvg-logo="https://googleplusimages.com/SBT.png" group-title="SBT",TH+ SBT VALE FHD¹
+http://plutovip.eu:8880/live/osni1111/Online999/37909.m3u8
+#EXTINF:-1 tvg-id="Bandrj.br" tvg-name="BAND RIO HD²" tvg-logo="https://googleplusimages.com/BAND.png" group-title="BAND",BAND RIO HD²
+http://plutovip.eu:8880/live/osni1111/Online999/112759.m3u8
+#EXTINF:-1 tvg-id="Bandrj.br" tvg-name="BAND RIO HD¹" tvg-logo="https://googleplusimages.com/BAND.png" group-title="BAND",BAND RIO HD¹
+http://plutovip.eu:8880/live/osni1111/Online999/25381.m3u8
+#EXTINF:-1 tvg-id="Bandsp.br" tvg-name="BAND SP FHD¹" tvg-logo="https://googleplusimages.com/BAND.png" group-title="BAND",BAND SP FHD¹
+http://plutovip.eu:8880/live/osni1111/Online999/6269.m3u8
+#EXTINF:-1 tvg-id="Bandsp.br" tvg-name="BAND SP HD+" tvg-logo="https://googleplusimages.com/BAND.png" group-title="BAND",BAND SP HD+
+http://plutovip.eu:8880/live/osni1111/Online999/219941.m3u8
+#EXTINF:-1 tvg-id="Bandsp.br" tvg-name="BAND SP HD¹" tvg-logo="https://googleplusimages.com/BAND.png" group-title="BAND",BAND SP HD¹
+http://plutovip.eu:8880/live/osni1111/Online999/1816.m3u8
+#EXTINF:-1 tvg-id="Bandsp.br" tvg-name="BAND SP HD²" tvg-logo="https://googleplusimages.com/BAND.png" group-title="BAND",BAND SP HD²
+http://plutovip.eu:8880/live/osni1111/Online999/193.m3u8
+#EXTINF:-1 tvg-id="Bandsp.br" tvg-name="BAND SP SD¹" tvg-logo="https://googleplusimages.com/BAND.png" group-title="CANAIS LIGHT",BAND SP SD¹
+http://plutovip.eu:8880/live/osni1111/Online999/2083.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BAND CAMPINAS HD¹" tvg-logo="https://googleplusimages.com/BAND.png" group-title="BAND",BAND CAMPINAS HD¹
+http://plutovip.eu:8880/live/osni1111/Online999/342127.m3u8
+#EXTINF:-1 tvg-id="Bandrs.br" tvg-name="BAND RS HD¹" tvg-logo="https://googleplusimages.com/BAND.png" group-title="BAND",BAND RS HD¹
+http://plutovip.eu:8880/live/osni1111/Online999/25382.m3u8
+#EXTINF:-1 tvg-id="Bandrs.br" tvg-name="BAND RS HD²" tvg-logo="https://googleplusimages.com/BAND.png" group-title="BAND",BAND RS HD²
+http://plutovip.eu:8880/live/osni1111/Online999/112760.m3u8
+#EXTINF:-1 tvg-id="Bandba.br" tvg-name="BAND BAHIA HD¹" tvg-logo="https://googleplusimages.com/BAND.png" group-title="BAND",BAND BAHIA HD¹
+http://plutovip.eu:8880/live/osni1111/Online999/254654.m3u8
+#EXTINF:-1 tvg-id="Bandba.br" tvg-name="BAND BAHIA HD²" tvg-logo="https://googleplusimages.com/BAND.png" group-title="BAND",BAND BAHIA HD²
+http://plutovip.eu:8880/live/osni1111/Online999/25378.m3u8
+#EXTINF:-1 tvg-id="Bandsc.br" tvg-name="TV BARRIGA VERDE HD¹" tvg-logo="https://googleplusimages.com/BAND.png" group-title="BAND",TV BARRIGA VERDE HD¹
+http://plutovip.eu:8880/live/osni1111/Online999/241861.m3u8
+#EXTINF:-1 tvg-id="Bandba.br" tvg-name="BAND BAHIA SD¹" tvg-logo="https://googleplusimages.com/BAND.png" group-title="CANAIS LIGHT",BAND BAHIA SD¹
+http://plutovip.eu:8880/live/osni1111/Online999/110839.m3u8
+#EXTINF:-1 tvg-id="Bandgo.br" tvg-name="TV SUCESSO HD¹" tvg-logo="https://googleplusimages.com/BAND.png" group-title="BAND",TV SUCESSO HD¹
+http://plutovip.eu:8880/live/osni1111/Online999/265641.m3u8
+#EXTINF:-1 tvg-id="Tvtaroba.br" tvg-name="TV TAROBÁ CASCAVEL HD²" tvg-logo="http://googleplusimages.com/BAND.png" group-title="BAND",TV TAROBÁ CASCAVEL HD²
+http://plutovip.eu:8880/live/osni1111/Online999/207098.m3u8
+#EXTINF:-1 tvg-id="Bandpb.br" tvg-name="TV ARAPUAN HD¹" tvg-logo="http://googleplusimages.com/BAND.png" group-title="BAND",TV ARAPUAN HD¹
+http://plutovip.eu:8880/live/osni1111/Online999/217151.m3u8
+#EXTINF:-1 tvg-id="Redetvsp.br" tvg-name="REDETV! SP FHD¹" tvg-logo="https://googleplusimages.com/BA42JzV.png" group-title="ABERTOS",REDETV! SP FHD¹
+http://plutovip.eu:8880/live/osni1111/Online999/17488.m3u8
+#EXTINF:-1 tvg-id="Redetvsp.br" tvg-name="REDETV! SP H265²" tvg-logo="https://i.imgur.com/BA42JzV.png" group-title="ABERTOS",REDETV! SP H265²
+http://plutovip.eu:8880/live/osni1111/Online999/24693.m3u8
+#EXTINF:-1 tvg-id="Redetvsp.br" tvg-name="REDETV! SP HD¹" tvg-logo="https://i.imgur.com/BA42JzV.png" group-title="ABERTOS",REDETV! SP HD¹
+http://plutovip.eu:8880/live/osni1111/Online999/5069.m3u8
+#EXTINF:-1 tvg-id="Redetv.br" tvg-name="REDETV! SP HD²" tvg-logo="https://i.imgur.com/BA42JzV.png" group-title="ABERTOS",REDETV! SP HD²
+http://plutovip.eu:8880/live/osni1111/Online999/148.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="REDETV! SP SD¹" tvg-logo="https://i.imgur.com/BA42JzV.png" group-title="CANAIS LIGHT",REDETV! SP SD¹
+http://plutovip.eu:8880/live/osni1111/Online999/1954.m3u8
+#EXTINF:-1 tvg-id="Redetvsp.br" tvg-name="REDETV! RS HD" tvg-logo="https://googleplusimages.com/REDETV.png" group-title="ABERTOS",REDETV! RS HD
+http://plutovip.eu:8880/live/osni1111/Online999/110844.m3u8
+#EXTINF:-1 tvg-id="Tvacritica.br" tvg-name="TV A CRITICA HD¹" tvg-logo="https://googleplusimages.com/TVACRITICA.png" group-title="ABERTOS",TV A CRITICA HD¹
+http://plutovip.eu:8880/live/osni1111/Online999/177860.m3u8
+#EXTINF:-1 tvg-id="Tvcultura.br" tvg-name="TV CULTURA FHD¹" tvg-logo="https://googleplusimages.com/CULTURA.png" group-title="ABERTOS",TV CULTURA FHD¹
+http://plutovip.eu:8880/live/osni1111/Online999/17486.m3u8
+#EXTINF:-1 tvg-id="Tvcultura.br" tvg-name="TV CULTURA HD¹" tvg-logo="https://i.imgur.com/zbIF1bs.png" group-title="ABERTOS",TV CULTURA HD¹
+http://plutovip.eu:8880/live/osni1111/Online999/50504.m3u8
+#EXTINF:-1 tvg-id="Tvcultura.br" tvg-name="TV CULTURA HD²" tvg-logo="https://i.imgur.com/zbIF1bs.png" group-title="ABERTOS",TV CULTURA HD²
+http://plutovip.eu:8880/live/osni1111/Online999/96215.m3u8
+#EXTINF:-1 tvg-id="Tvcultura.br" tvg-name="REDE CULTURA DO PARÁ HD¹" tvg-logo="https://i.imgur.com/dQNPTTv.png" group-title="ABERTOS",REDE CULTURA DO PARÁ HD¹
+http://plutovip.eu:8880/live/osni1111/Online999/71525.m3u8
+#EXTINF:-1 tvg-id="Thtv.br" tvg-name="TH+ TV HD+" tvg-logo="https://googleplusimages.com/THPLUS.png" group-title="ABERTOS",TH+ TV HD+
+http://plutovip.eu:8880/live/osni1111/Online999/110290.m3u8
+#EXTINF:-1 tvg-id="Tvbrasil.br" tvg-name="TV BRASIL HD²" tvg-logo="https://i.ibb.co/c8PhcZ1/d334NZ3.png" group-title="ABERTOS",TV BRASIL HD²
+http://plutovip.eu:8880/live/osni1111/Online999/63.m3u8
+#EXTINF:-1 tvg-id="Tvbrasilba.br" tvg-name="TVE BAHIA HD¹" tvg-logo="https://googleplusimages.com/TVEBAHIA.png" group-title="ABERTOS",TVE BAHIA HD¹
+http://plutovip.eu:8880/live/osni1111/Online999/67469.m3u8
+#EXTINF:-1 tvg-id="Tvgazetasp.br" tvg-name="TV GAZETA HD¹" tvg-logo="https://googleplusimages.com/TVGAZETA.png" group-title="ABERTOS",TV GAZETA HD¹
+http://plutovip.eu:8880/live/osni1111/Online999/13773.m3u8
+#EXTINF:-1 tvg-id="Redefamilia.br" tvg-name="RFTV HD+" tvg-logo="https://i.imgur.com/g7NP85Z.png" group-title="ABERTOS",RFTV HD+
+http://plutovip.eu:8880/live/osni1111/Online999/569.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="REDE MAIS FAMILIA HD¹" tvg-logo="https://googleplusimages.com/REDEMAISFAMILIA.png" group-title="ABERTOS",REDE MAIS FAMILIA HD¹
+http://plutovip.eu:8880/live/osni1111/Online999/192068.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CANAL DO BOI HD¹" tvg-logo="https://googleplusimages.com/canaldoboi.png" group-title="ABERTOS",CANAL DO BOI HD¹
+http://plutovip.eu:8880/live/osni1111/Online999/112289.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CANAL DO BOI HD²" tvg-logo="https://googleplusimages.com/canaldoboi.png" group-title="ABERTOS",CANAL DO BOI HD²
+http://plutovip.eu:8880/live/osni1111/Online999/25206.m3u8
+#EXTINF:-1 tvg-id="Canalrural.br" tvg-name="CANAL RURAL HD²" tvg-logo="https://i.imgur.com/rWpvcdP.png" group-title="ABERTOS",CANAL RURAL HD²
+http://plutovip.eu:8880/live/osni1111/Online999/25207.m3u8
+#EXTINF:-1 tvg-id="Terraviva.br" tvg-name="TERRA VIVA HD¹" tvg-logo="https://googleplusimages.com/TERRAVIVA.png" group-title="ABERTOS",TERRA VIVA HD¹
+http://plutovip.eu:8880/live/osni1111/Online999/219675.m3u8
+#EXTINF:-1 tvg-id="Terraviva.br" tvg-name="TERRA VIVA HD²" tvg-logo="https://googleplusimages.com/TERRAVIVA.png" group-title="ABERTOS",TERRA VIVA HD²
+http://plutovip.eu:8880/live/osni1111/Online999/110287.m3u8
+#EXTINF:-1 tvg-id="Agromais.br" tvg-name="AGROMAIS FHD¹" tvg-logo="https://googleplusimages.com/AGROMAIS.png" group-title="ABERTOS",AGROMAIS FHD¹
+http://plutovip.eu:8880/live/osni1111/Online999/61558.m3u8
+#EXTINF:-1 tvg-id="Ausente.br" tvg-name="AGROBRASIL HD+" tvg-logo="https://googleplusimages.com/AGROBRASIL.png" group-title="ABERTOS",AGROBRASIL HD+
+http://plutovip.eu:8880/live/osni1111/Online999/40233.m3u8
+#EXTINF:-1 tvg-id="Sesctv.br" tvg-name="SESCTV FHD+" tvg-logo="https://googleplusimages.com/SESCTV.png" group-title="ABERTOS",SESCTV FHD+
+http://plutovip.eu:8880/live/osni1111/Online999/73844.m3u8
+#EXTINF:-1 tvg-id="Tvcamara.br" tvg-name="TV CAMARA FHD¹" tvg-logo="https://i.ibb.co/wRmCCDg/TVCAMARA.png" group-title="ABERTOS",TV CAMARA FHD¹
+http://plutovip.eu:8880/live/osni1111/Online999/24687.m3u8
+#EXTINF:-1 tvg-id="Tvcamara.br" tvg-name="TV CAMARA HD¹" tvg-logo="https://googleplusimages.com/TVCAMARA.png" group-title="ABERTOS",TV CAMARA HD¹
+http://plutovip.eu:8880/live/osni1111/Online999/323545.m3u8
+#EXTINF:-1 tvg-id="Tvjustica.br" tvg-name="TV JUSTIÇA HD¹" tvg-logo="https://googleplusimages.com/TVJUSTICA.png" group-title="ABERTOS",TV JUSTIÇA HD¹
+http://plutovip.eu:8880/live/osni1111/Online999/180623.m3u8
+#EXTINF:-1 tvg-id="Tvsenado.br" tvg-name="TV SENADO HD¹" tvg-logo="https://googleplusimages.com/TVSENADO.png" group-title="ABERTOS",TV SENADO HD¹
+http://plutovip.eu:8880/live/osni1111/Online999/179990.m3u8
+#EXTINF:-1 tvg-id="Canalgov.br" tvg-name="CANAL GOV HD+" tvg-logo="https://googleplusimages.com/CANALGOV.png" group-title="ABERTOS",CANAL GOV HD+
+http://plutovip.eu:8880/live/osni1111/Online999/323542.m3u8
+#EXTINF:-1 tvg-id="Bandpa.br" tvg-name="RBA TV HD" tvg-logo="https://googleplusimages.com/BAND.png" group-title="BAND",RBA TV HD
+http://plutovip.eu:8880/live/osni1111/Online999/96476.m3u8
+#EXTINF:-1 tvg-id="Bandpe.br" tvg-name="TV TRIBUNA PE HD¹" tvg-logo="https://googleplusimages.com/BAND.png" group-title="BAND",TV TRIBUNA PE HD¹
+http://plutovip.eu:8880/live/osni1111/Online999/323541.m3u8
+#EXTINF:-1 tvg-id="Bandpe.br" tvg-name="TV TRIBUNA PE HD²" tvg-logo="https://googleplusimages.com/BAND.png" group-title="BAND",TV TRIBUNA PE HD²
+http://plutovip.eu:8880/live/osni1111/Online999/96474.m3u8
+#EXTINF:-1 tvg-id="Bandrn.br" tvg-name="BAND RN HD¹" tvg-logo="https://googleplusimages.com/BAND.png" group-title="BAND",BAND RN HD¹
+http://plutovip.eu:8880/live/osni1111/Online999/42940.m3u8
+#EXTINF:-1 tvg-id="Bandce.br" tvg-name="BAND CEARÁ HD¹" tvg-logo="https://googleplusimages.com/BAND.png" group-title="BAND",BAND CEARÁ HD¹
+http://plutovip.eu:8880/live/osni1111/Online999/175641.m3u8
+#EXTINF:-1 tvg-id="Bandce.br" tvg-name="BAND CEARÁ HD²" tvg-logo="https://googleplusimages.com/BAND.png" group-title="BAND",BAND CEARÁ HD²
+http://plutovip.eu:8880/live/osni1111/Online999/96475.m3u8
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV FHD+" tvg-logo="https://googleplusimages.com/SPORTV.png" group-title="SPORTV",SPORTV FHD+
+http://plutovip.eu:8880/live/osni1111/Online999/217942.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPORTV FHD¹" tvg-logo="https://googleplusimages.com/SPORTV.png" group-title="SPORTV",SPORTV FHD¹
+http://plutovip.eu:8880/live/osni1111/Online999/6208.m3u8
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV FHD²" tvg-logo="https://googleplusimages.com/SPORTV.png" group-title="SPORTV",SPORTV FHD²
+http://plutovip.eu:8880/live/osni1111/Online999/180654.m3u8
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV H265¹" tvg-logo="https://googleplusimages.com/SPORTV.png" group-title="SPORTV",SPORTV H265¹
+http://plutovip.eu:8880/live/osni1111/Online999/7495.m3u8
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV HD¹" tvg-logo="https://googleplusimages.com/SPORTV.png" group-title="SPORTV",SPORTV HD¹
+http://plutovip.eu:8880/live/osni1111/Online999/1777.m3u8
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV HD²" tvg-logo="https://googleplusimages.com/SPORTV.png" group-title="SPORTV",SPORTV HD²
+http://plutovip.eu:8880/live/osni1111/Online999/143.m3u8
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV SD¹" tvg-logo="https://googleplusimages.com/SPORTV.png" group-title="CANAIS LIGHT",SPORTV SD¹
+http://plutovip.eu:8880/live/osni1111/Online999/2022.m3u8
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SPORTV 2 FHD+" tvg-logo="https://googleplusimages.com/SPORTV.png" group-title="SPORTV",SPORTV 2 FHD+
+http://plutovip.eu:8880/live/osni1111/Online999/217943.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPORTV 2 FHD¹" tvg-logo="https://googleplusimages.com/SPORTV.png" group-title="SPORTV",SPORTV 2 FHD¹
+http://plutovip.eu:8880/live/osni1111/Online999/7600.m3u8
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SPORTV 2 FHD²" tvg-logo="https://googleplusimages.com/SPORTV.png" group-title="SPORTV",SPORTV 2 FHD²
+http://plutovip.eu:8880/live/osni1111/Online999/180653.m3u8
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SPORTV 2 H265¹" tvg-logo="https://googleplusimages.com/SPORTV.png" group-title="SPORTV",SPORTV 2 H265¹
+http://plutovip.eu:8880/live/osni1111/Online999/7496.m3u8
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SPORTV 2 HD¹" tvg-logo="https://googleplusimages.com/SPORTV.png" group-title="SPORTV",SPORTV 2 HD¹
+http://plutovip.eu:8880/live/osni1111/Online999/1779.m3u8
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SPORTV 2 HD²" tvg-logo="https://googleplusimages.com/SPORTV.png" group-title="SPORTV",SPORTV 2 HD²
+http://plutovip.eu:8880/live/osni1111/Online999/145.m3u8
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SPORTV 2 SD¹" tvg-logo="https://googleplusimages.com/SPORTV.png" group-title="CANAIS LIGHT",SPORTV 2 SD¹
+http://plutovip.eu:8880/live/osni1111/Online999/2024.m3u8
+#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SPORTV 3 FHD+" tvg-logo="https://googleplusimages.com/SPORTV.png" group-title="SPORTV",SPORTV 3 FHD+
+http://plutovip.eu:8880/live/osni1111/Online999/217944.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPORTV 3 FHD¹" tvg-logo="https://googleplusimages.com/SPORTV.png" group-title="SPORTV",SPORTV 3 FHD¹
+http://plutovip.eu:8880/live/osni1111/Online999/7599.m3u8
+#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SPORTV 3 FHD²" tvg-logo="https://googleplusimages.com/SPORTV.png" group-title="SPORTV",SPORTV 3 FHD²
+http://plutovip.eu:8880/live/osni1111/Online999/180652.m3u8
+#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SPORTV 3 H265¹" tvg-logo="https://googleplusimages.com/SPORTV.png" group-title="SPORTV",SPORTV 3 H265¹
+http://plutovip.eu:8880/live/osni1111/Online999/7733.m3u8
+#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SPORTV 3 HD¹" tvg-logo="https://googleplusimages.com/SPORTV.png" group-title="SPORTV",SPORTV 3 HD¹
+http://plutovip.eu:8880/live/osni1111/Online999/1778.m3u8
+#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SPORTV 3 HD²" tvg-logo="https://googleplusimages.com/SPORTV.png" group-title="SPORTV",SPORTV 3 HD²
+http://plutovip.eu:8880/live/osni1111/Online999/144.m3u8
+#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SPORTV 3 SD¹" tvg-logo="https://googleplusimages.com/SPORTV.png" group-title="CANAIS LIGHT",SPORTV 3 SD¹
+http://plutovip.eu:8880/live/osni1111/Online999/2023.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPORTV 4 FHD¹" tvg-logo="https://googleplusimages.com/SPORTV.png" group-title="SPORTV",SPORTV 4 FHD¹
+http://plutovip.eu:8880/live/osni1111/Online999/182227.m3u8
+#EXTINF:-1 tvg-id="Sportv4.br" tvg-name="SPORTV 4 FHD²" tvg-logo="https://googleplusimages.com/SPORTV.png" group-title="SPORTV",SPORTV 4 FHD²
+http://plutovip.eu:8880/live/osni1111/Online999/182088.m3u8
+#EXTINF:-1 tvg-id="Sportv4.br" tvg-name="SPORTV 4 HD¹" tvg-logo="https://googleplusimages.com/SPORTV.png" group-title="SPORTV",SPORTV 4 HD¹
+http://plutovip.eu:8880/live/osni1111/Online999/182226.m3u8
+#EXTINF:-1 tvg-id="Sportv4.br" tvg-name="SPORTV 4 HD²" tvg-logo="https://googleplusimages.com/SPORTV.png" group-title="SPORTV",SPORTV 4 HD²
+http://plutovip.eu:8880/live/osni1111/Online999/182089.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPORTV 5 (PPV)²" tvg-logo="https://googleplusimages.com/SPORTV.png" group-title="SPORTV",SPORTV 5 (PPV)²
+http://plutovip.eu:8880/live/osni1111/Online999/256320.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPORTV 6 (PPV)²" tvg-logo="https://googleplusimages.com/SPORTV.png" group-title="SPORTV",SPORTV 6 (PPV)²
+http://plutovip.eu:8880/live/osni1111/Online999/256321.m3u8
+#EXTINF:-1 tvg-id="Sportvextra.br" tvg-name="MOSAICO SPORTV HD¹" tvg-logo="https://googleplusimages.com/SPORTV.png" group-title="SPORTV",MOSAICO SPORTV HD¹
+http://plutovip.eu:8880/live/osni1111/Online999/182228.m3u8
+#EXTINF:-1 tvg-id="Sportvextra.br" tvg-name="MOSAICO SPORTV HD²" tvg-logo="https://googleplusimages.com/SPORTV.png" group-title="SPORTV",MOSAICO SPORTV HD²
+http://plutovip.eu:8880/live/osni1111/Online999/182250.m3u8
+#EXTINF:-1 tvg-id="Espn.br" tvg-name="ESPN HD+" tvg-logo="https://googleplusimages.com/ESPN.png" group-title="ESPN",ESPN HD+
+http://plutovip.eu:8880/live/osni1111/Online999/219728.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN FHD¹" tvg-logo="https://googleplusimages.com/ESPN.png" group-title="ESPN",ESPN FHD¹
+http://plutovip.eu:8880/live/osni1111/Online999/13732.m3u8
+#EXTINF:-1 tvg-id="Espn.br" tvg-name="ESPN FHD²" tvg-logo="https://googleplusimages.com/ESPN.png" group-title="ESPN",ESPN FHD²
+http://plutovip.eu:8880/live/osni1111/Online999/180661.m3u8
+#EXTINF:-1 tvg-id="Espn.br" tvg-name="ESPN H265¹" tvg-logo="https://i.ibb.co/GtvSTgW/ESPN.png" group-title="ESPN",ESPN H265¹
+http://plutovip.eu:8880/live/osni1111/Online999/1923.m3u8
+#EXTINF:-1 tvg-id="Espn.br" tvg-name="ESPN HD¹" tvg-logo="https://googleplusimages.com/ESPN.png" group-title="ESPN",ESPN HD¹
+http://plutovip.eu:8880/live/osni1111/Online999/1801.m3u8
+#EXTINF:-1 tvg-id="Espn.br" tvg-name="ESPN HD²" tvg-logo="https://googleplusimages.com/ESPN.png" group-title="ESPN",ESPN HD²
+http://plutovip.eu:8880/live/osni1111/Online999/180.m3u8
+#EXTINF:-1 tvg-id="Espn.br" tvg-name="ESPN SD¹" tvg-logo="https://googleplusimages.com/ESPN.png" group-title="CANAIS LIGHT",ESPN SD¹
+http://plutovip.eu:8880/live/osni1111/Online999/2067.m3u8
+#EXTINF:-1 tvg-id="Espn2.br" tvg-name="ESPN2 HD⁺" tvg-logo="https://googleplusimages.com/ESPN.png" group-title="ESPN",ESPN2 HD⁺
+http://plutovip.eu:8880/live/osni1111/Online999/219729.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN2 FHD¹" tvg-logo="https://googleplusimages.com/ESPN.png" group-title="ESPN",ESPN2 FHD¹
+http://plutovip.eu:8880/live/osni1111/Online999/7605.m3u8
+#EXTINF:-1 tvg-id="Espn2.br" tvg-name="ESPN2 FHD²" tvg-logo="https://googleplusimages.com/ESPN.png" group-title="ESPN",ESPN2 FHD²
+http://plutovip.eu:8880/live/osni1111/Online999/180660.m3u8
+#EXTINF:-1 tvg-id="Espn2.br" tvg-name="ESPN2 H265¹" tvg-logo="https://googleplusimages.com/ESPN.png" group-title="ESPN",ESPN2 H265¹
+http://plutovip.eu:8880/live/osni1111/Online999/25203.m3u8
+#EXTINF:-1 tvg-id="Espn2.br" tvg-name="ESPN2 HD¹" tvg-logo="https://googleplusimages.com/ESPN.png" group-title="ESPN",ESPN2 HD¹
+http://plutovip.eu:8880/live/osni1111/Online999/1800.m3u8
+#EXTINF:-1 tvg-id="Espn2.br" tvg-name="ESPN2 HD²" tvg-logo="https://googleplusimages.com/ESPN.png" group-title="ESPN",ESPN2 HD²
+http://plutovip.eu:8880/live/osni1111/Online999/179.m3u8
+#EXTINF:-1 tvg-id="Espn2.br" tvg-name="ESPN2 SD¹" tvg-logo="https://googleplusimages.com/ESPN.png" group-title="CANAIS LIGHT",ESPN2 SD¹
+http://plutovip.eu:8880/live/osni1111/Online999/1986.m3u8
+#EXTINF:-1 tvg-id="Espn3.br" tvg-name="ESPN3 HD⁺" tvg-logo="https://googleplusimages.com/ESPN.png" group-title="ESPN",ESPN3 HD⁺
+http://plutovip.eu:8880/live/osni1111/Online999/219730.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN3 FHD¹" tvg-logo="https://googleplusimages.com/ESPN.png" group-title="ESPN",ESPN3 FHD¹
+http://plutovip.eu:8880/live/osni1111/Online999/11118.m3u8
+#EXTINF:-1 tvg-id="Espn3.br" tvg-name="ESPN3 FHD²" tvg-logo="https://googleplusimages.com/ESPN.png" group-title="ESPN",ESPN3 FHD²
+http://plutovip.eu:8880/live/osni1111/Online999/180659.m3u8
+#EXTINF:-1 tvg-id="Espn3.br" tvg-name="ESPN3 H265¹" tvg-logo="https://googleplusimages.com/ESPN.png" group-title="ESPN",ESPN3 H265¹
+http://plutovip.eu:8880/live/osni1111/Online999/1922.m3u8
+#EXTINF:-1 tvg-id="Espn3.br" tvg-name="ESPN3 HD¹" tvg-logo="https://googleplusimages.com/ESPN.png" group-title="ESPN",ESPN3 HD¹
+http://plutovip.eu:8880/live/osni1111/Online999/1802.m3u8
+#EXTINF:-1 tvg-id="Espn3.br" tvg-name="ESPN3 HD²" tvg-logo="https://googleplusimages.com/ESPN.png" group-title="ESPN",ESPN3 HD²
+http://plutovip.eu:8880/live/osni1111/Online999/1450.m3u8
+#EXTINF:-1 tvg-id="Espn3.br" tvg-name="ESPN3 SD¹" tvg-logo="https://googleplusimages.com/ESPN.png" group-title="CANAIS LIGHT",ESPN3 SD¹
+http://plutovip.eu:8880/live/osni1111/Online999/181.m3u8
+#EXTINF:-1 tvg-id="Espn4.br" tvg-name="ESPN4 HD+" tvg-logo="https://googleplusimages.com/ESPN.png" group-title="ESPN",ESPN4 HD+
+http://plutovip.eu:8880/live/osni1111/Online999/219731.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN4 FHD¹" tvg-logo="https://googleplusimages.com/ESPN.png" group-title="ESPN",ESPN4 FHD¹
+http://plutovip.eu:8880/live/osni1111/Online999/6207.m3u8
+#EXTINF:-1 tvg-id="Espn4.br" tvg-name="ESPN4 FHD²" tvg-logo="https://googleplusimages.com/ESPN.png" group-title="ESPN",ESPN4 FHD²
+http://plutovip.eu:8880/live/osni1111/Online999/180658.m3u8
+#EXTINF:-1 tvg-id="Espn4.br" tvg-name="ESPN4 HD¹" tvg-logo="https://googleplusimages.com/ESPN.png" group-title="ESPN",ESPN4 HD¹
+http://plutovip.eu:8880/live/osni1111/Online999/1795.m3u8
+#EXTINF:-1 tvg-id="Espn4.br" tvg-name="ESPN4 HD²" tvg-logo="https://googleplusimages.com/ESPN.png" group-title="ESPN",ESPN4 HD²
+http://plutovip.eu:8880/live/osni1111/Online999/173.m3u8
+#EXTINF:-1 tvg-id="Espn4.br" tvg-name="ESPN4 SD¹" tvg-logo="https://googleplusimages.com/ESPN.png" group-title="CANAIS LIGHT",ESPN4 SD¹
+http://plutovip.eu:8880/live/osni1111/Online999/2066.m3u8
+#EXTINF:-1 tvg-id="Espn5.br" tvg-name="ESPN5 HD⁺" tvg-logo="https://googleplusimages.com/ESPN.png" group-title="ESPN",ESPN5 HD⁺
+http://plutovip.eu:8880/live/osni1111/Online999/219732.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN5 FHD¹" tvg-logo="https://googleplusimages.com/ESPN.png" group-title="ESPN",ESPN5 FHD¹
+http://plutovip.eu:8880/live/osni1111/Online999/7602.m3u8
+#EXTINF:-1 tvg-id="Espn5.br" tvg-name="ESPN5 FHD²" tvg-logo="https://googleplusimages.com/ESPN.png" group-title="ESPN",ESPN5 FHD²
+http://plutovip.eu:8880/live/osni1111/Online999/180657.m3u8
+#EXTINF:-1 tvg-id="Espn5.br" tvg-name="ESPN5 H265¹" tvg-logo="https://googleplusimages.com/ESPN.png" group-title="ESPN",ESPN5 H265¹
+http://plutovip.eu:8880/live/osni1111/Online999/1919.m3u8
+#EXTINF:-1 tvg-id="Espn5.br" tvg-name="ESPN5 HD¹" tvg-logo="https://googleplusimages.com/ESPN.png" group-title="ESPN",ESPN5 HD¹
+http://plutovip.eu:8880/live/osni1111/Online999/1796.m3u8
+#EXTINF:-1 tvg-id="Espn5.br" tvg-name="ESPN5 HD²" tvg-logo="https://googleplusimages.com/ESPN.png" group-title="ESPN",ESPN5 HD²
+http://plutovip.eu:8880/live/osni1111/Online999/172.m3u8
+#EXTINF:-1 tvg-id="Espn5.br" tvg-name="ESPN5 SD¹" tvg-logo="https://googleplusimages.com/ESPN.png" group-title="CANAIS LIGHT",ESPN5 SD¹
+http://plutovip.eu:8880/live/osni1111/Online999/2065.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN6 FHD¹" tvg-logo="https://googleplusimages.com/ESPN.png" group-title="ESPN",ESPN6 FHD¹
+http://plutovip.eu:8880/live/osni1111/Online999/8549.m3u8
+#EXTINF:-1 tvg-id="Espn6.br" tvg-name="ESPN6 FHD²" tvg-logo="https://googleplusimages.com/ESPN.png" group-title="ESPN",ESPN6 FHD²
+http://plutovip.eu:8880/live/osni1111/Online999/180656.m3u8
+#EXTINF:-1 tvg-id="Espn6.br" tvg-name="ESPN6 H265¹" tvg-logo="https://googleplusimages.com/ESPN.png" group-title="ESPN",ESPN6 H265¹
+http://plutovip.eu:8880/live/osni1111/Online999/5092.m3u8
+#EXTINF:-1 tvg-id="Espn6.br" tvg-name="ESPN6 HD¹" tvg-logo="https://googleplusimages.com/ESPN.png" group-title="ESPN",ESPN6 HD¹
+http://plutovip.eu:8880/live/osni1111/Online999/13855.m3u8
+#EXTINF:-1 tvg-id="Espn6.br" tvg-name="ESPN6 HD²" tvg-logo="https://googleplusimages.com/ESPN.png" group-title="ESPN",ESPN6 HD²
+http://plutovip.eu:8880/live/osni1111/Online999/12030.m3u8
+#EXTINF:-1 tvg-id="Espn6.br" tvg-name="ESPN6 SD¹" tvg-logo="https://googleplusimages.com/ESPN.png" group-title="CANAIS LIGHT",ESPN6 SD¹
+http://plutovip.eu:8880/live/osni1111/Online999/5085.m3u8
+#EXTINF:-1 tvg-id="Bandsports.br" tvg-name="BANDSPORTS FHD¹" tvg-logo="https://googleplusimages.com/BANDSPORTS.png" group-title="ESPORTES",BANDSPORTS FHD¹
+http://plutovip.eu:8880/live/osni1111/Online999/11130.m3u8
+#EXTINF:-1 tvg-id="Bandsports.br" tvg-name="BANDSPORTS FHD²" tvg-logo="https://googleplusimages.com/BANDSPORTS.png" group-title="ESPORTES",BANDSPORTS FHD²
+http://plutovip.eu:8880/live/osni1111/Online999/181205.m3u8
+#EXTINF:-1 tvg-id="Bandsports.br" tvg-name="BANDSPORTS H265¹" tvg-logo="https://googleplusimages.com/BANDSPORTS.png" group-title="ESPORTES",BANDSPORTS H265¹
+http://plutovip.eu:8880/live/osni1111/Online999/1931.m3u8
+#EXTINF:-1 tvg-id="Bandsports.br" tvg-name="BANDSPORTS HD¹" tvg-logo="https://googleplusimages.com/BANDSPORTS.png" group-title="ESPORTES",BANDSPORTS HD¹
+http://plutovip.eu:8880/live/osni1111/Online999/1815.m3u8
+#EXTINF:-1 tvg-id="Bandsports.br" tvg-name="BANDSPORTS HD²" tvg-logo="https://googleplusimages.com/BANDSPORTS.png" group-title="ESPORTES",BANDSPORTS HD²
+http://plutovip.eu:8880/live/osni1111/Online999/192.m3u8
+#EXTINF:-1 tvg-id="Bandsports.br" tvg-name="BANDSPORTS SD¹" tvg-logo="https://googleplusimages.com/BANDSPORTS.png" group-title="CANAIS LIGHT",BANDSPORTS SD¹
+http://plutovip.eu:8880/live/osni1111/Online999/2081.m3u8
+#EXTINF:-1 tvg-id="Paramountplus1.br" tvg-name="PARAMOUNT+ 1 HD+" tvg-logo="https://googleplusimages.com/PARAMOUNTPLUS.png" group-title="ESPORTES",PARAMOUNT+ 1 HD+
+http://plutovip.eu:8880/live/osni1111/Online999/219760.m3u8
+#EXTINF:-1 tvg-id="Paramountplus2.br" tvg-name="PARAMOUNT+ 2 HD+" tvg-logo="https://googleplusimages.com/PARAMOUNTPLUS.png" group-title="ESPORTES",PARAMOUNT+ 2 HD+
+http://plutovip.eu:8880/live/osni1111/Online999/219761.m3u8
+#EXTINF:-1 tvg-id="Paramountplus3.br" tvg-name="PARAMOUNT+ 3 HD+" tvg-logo="https://googleplusimages.com/PARAMOUNTPLUS.png" group-title="ESPORTES",PARAMOUNT+ 3 HD+
+http://plutovip.eu:8880/live/osni1111/Online999/219762.m3u8
+#EXTINF:-1 tvg-id="Paramountplus4.br" tvg-name="PARAMOUNT+ 4 HD+" tvg-logo="https://googleplusimages.com/PARAMOUNTPLUS.png" group-title="ESPORTES",PARAMOUNT+ 4 HD+
+http://plutovip.eu:8880/live/osni1111/Online999/219763.m3u8
+#EXTINF:-1 tvg-id="Nsports.br" tvg-name="NSPORTS FHD¹" tvg-logo="https://googleplusimages.com/NSPORTS.png" group-title="ESPORTES",NSPORTS FHD¹
+http://plutovip.eu:8880/live/osni1111/Online999/161055.m3u8
+#EXTINF:-1 tvg-id="Nsports.br" tvg-name="NSPORTS HD¹" tvg-logo="https://googleplusimages.com/NSPORTS.png" group-title="ESPORTES",NSPORTS HD¹
+http://plutovip.eu:8880/live/osni1111/Online999/161056.m3u8
+#EXTINF:-1 tvg-id="Off.br" tvg-name="CANAL OFF FHD¹" tvg-logo="https://googleplusimages.com/CANALOFF.png" group-title="ESPORTES",CANAL OFF FHD¹
+http://plutovip.eu:8880/live/osni1111/Online999/11129.m3u8
+#EXTINF:-1 tvg-id="Off.br" tvg-name="CANAL OFF FHD²" tvg-logo="https://googleplusimages.com/CANALOFF.png" group-title="ESPORTES",CANAL OFF FHD²
+http://plutovip.eu:8880/live/osni1111/Online999/181206.m3u8
+#EXTINF:-1 tvg-id="Off.br" tvg-name="CANAL OFF HD¹" tvg-logo="https://googleplusimages.com/CANALOFF.png" group-title="ESPORTES",CANAL OFF HD¹
+http://plutovip.eu:8880/live/osni1111/Online999/1783.m3u8
+#EXTINF:-1 tvg-id="Off.br" tvg-name="CANAL OFF HD²" tvg-logo="https://googleplusimages.com/CANALOFF.png" group-title="ESPORTES",CANAL OFF HD²
+http://plutovip.eu:8880/live/osni1111/Online999/156.m3u8
+#EXTINF:-1 tvg-id="Off.br" tvg-name="CANAL OFF SD¹" tvg-logo="https://googleplusimages.com/CANALOFF.png" group-title="CANAIS LIGHT",CANAL OFF SD¹
+http://plutovip.eu:8880/live/osni1111/Online999/1965.m3u8
+#EXTINF:-1 tvg-id="Woohoo.br" tvg-name="WOOHOO FHD²" tvg-logo="https://googleplusimages.com/WOOHOO.png" group-title="ESPORTES",WOOHOO FHD²
+http://plutovip.eu:8880/live/osni1111/Online999/181207.m3u8
+#EXTINF:-1 tvg-id="Woohoo.br" tvg-name="WOOHOO H265²" tvg-logo="https://googleplusimages.com/WOOHOO.png" group-title="ESPORTES",WOOHOO H265²
+http://plutovip.eu:8880/live/osni1111/Online999/7534.m3u8
+#EXTINF:-1 tvg-id="Woohoo.br" tvg-name="WOOHOO HD¹" tvg-logo="https://googleplusimages.com/WOOHOO.png" group-title="ESPORTES",WOOHOO HD¹
+http://plutovip.eu:8880/live/osni1111/Online999/7454.m3u8
+#EXTINF:-1 tvg-id="Woohoo.br" tvg-name="WOOHOO HD²" tvg-logo="https://googleplusimages.com/WOOHOO.png" group-title="ESPORTES",WOOHOO HD²
+http://plutovip.eu:8880/live/osni1111/Online999/40336.m3u8
+#EXTINF:-1 tvg-id="Woohoo.br" tvg-name="WOOHOO SD¹" tvg-logo="https://googleplusimages.com/WOOHOO.png" group-title="CANAIS LIGHT",WOOHOO SD¹
+http://plutovip.eu:8880/live/osni1111/Online999/5046.m3u8
+#EXTINF:-1 tvg-id="Fishtv.br" tvg-name="FISHTV FHD²" tvg-logo="https://googleplusimages.com/FISHTV.png" group-title="ESPORTES",FISHTV FHD²
+http://plutovip.eu:8880/live/osni1111/Online999/50544.m3u8
+#EXTINF:-1 tvg-id="Fishtv.br" tvg-name="FISHTV H265²" tvg-logo="https://googleplusimages.com/FISHTV.png" group-title="ESPORTES",FISHTV H265²
+http://plutovip.eu:8880/live/osni1111/Online999/110778.m3u8
+#EXTINF:-1 tvg-id="Fishtv.br" tvg-name="FISHTV HD¹" tvg-logo="https://googleplusimages.com/FISHTV.png" group-title="ESPORTES",FISHTV HD¹
+http://plutovip.eu:8880/live/osni1111/Online999/7825.m3u8
+#EXTINF:-1 tvg-id="Fishtv.br" tvg-name="FISHTV HD²" tvg-logo="https://googleplusimages.com/FISHTV.png" group-title="ESPORTES",FISHTV HD²
+http://plutovip.eu:8880/live/osni1111/Online999/110779.m3u8
+#EXTINF:-1 tvg-id="Fishtv.br" tvg-name="FISHTV SD¹" tvg-logo="https://googleplusimages.com/FISHTV.png" group-title="CANAIS LIGHT",FISHTV SD¹
+http://plutovip.eu:8880/live/osni1111/Online999/1980.m3u8
+#EXTINF:-1 tvg-id="479911" tvg-name="RED BULL TV FHD+" tvg-logo="https://googleplusimages.com/REDBULLTV.png" group-title="ESPORTES",RED BULL TV FHD+
+http://plutovip.eu:8880/live/osni1111/Online999/73980.m3u8
+#EXTINF:-1 tvg-id="Golf.br" tvg-name="GOLF CHANNEL HD²" tvg-logo="https://i.imgur.com/SmwGekQ.png" group-title="ESPORTES",GOLF CHANNEL HD²
+http://plutovip.eu:8880/live/osni1111/Online999/181208.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TENNIS CHANNEL FHD³" tvg-logo="https://i.ibb.co/2Mf7dxb/TENNISCHANNEL.png" group-title="ESPORTES",TENNIS CHANNEL FHD³
+http://plutovip.eu:8880/live/osni1111/Online999/40249.m3u8
+#EXTINF:-1 tvg-id="Premiereclubes.br" tvg-name="PREMIERE CLUBES SD¹" tvg-logo="https://googleplusimages.com/PREMIERE.png" group-title="CANAIS LIGHT",PREMIERE CLUBES SD¹
+http://plutovip.eu:8880/live/osni1111/Online999/2044.m3u8
+#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="PREMIERE 2 SD¹" tvg-logo="https://i.ibb.co/X3GXCSD/PREMIERE.png" group-title="CANAIS LIGHT",PREMIERE 2 SD¹
+http://plutovip.eu:8880/live/osni1111/Online999/2043.m3u8
+#EXTINF:-1 tvg-id="Premiere3.br" tvg-name="PREMIERE 3 SD¹" tvg-logo="https://googleplusimages.com/PREMIERE.png" group-title="CANAIS LIGHT",PREMIERE 3 SD¹
+http://plutovip.eu:8880/live/osni1111/Online999/2042.m3u8
+#EXTINF:-1 tvg-id="Premiere4.br" tvg-name="PREMIERE 4 SD¹" tvg-logo="https://googleplusimages.com/PREMIERE.png" group-title="CANAIS LIGHT",PREMIERE 4 SD¹
+http://plutovip.eu:8880/live/osni1111/Online999/2041.m3u8
+#EXTINF:-1 tvg-id="Premiere5.br" tvg-name="PREMIERE 5 SD¹" tvg-logo="https://googleplusimages.com/PREMIERE.png" group-title="CANAIS LIGHT",PREMIERE 5 SD¹
+http://plutovip.eu:8880/live/osni1111/Online999/2040.m3u8
+#EXTINF:-1 tvg-id="Premiere6.br" tvg-name="PREMIERE 6 SD¹" tvg-logo="https://googleplusimages.com/PREMIERE.png" group-title="CANAIS LIGHT",PREMIERE 6 SD¹
+http://plutovip.eu:8880/live/osni1111/Online999/2039.m3u8
+#EXTINF:-1 tvg-id="Premiere7.br" tvg-name="PREMIERE 7 SD¹" tvg-logo="https://googleplusimages.com/PREMIERE.png" group-title="CANAIS LIGHT",PREMIERE 7 SD¹
+http://plutovip.eu:8880/live/osni1111/Online999/2038.m3u8
+#EXTINF:-1 tvg-id="Combate.br" tvg-name="COMBATE SD¹" tvg-logo="https://googleplusimages.com/COMBATE.png" group-title="CANAIS LIGHT",COMBATE SD¹
+http://plutovip.eu:8880/live/osni1111/Online999/2076.m3u8
+#EXTINF:-1 tvg-id="Sbtkids.br" tvg-name="SBT KIDS HD¹" tvg-logo="https://googleplusimages.com/MAISSBT.png" group-title="INFANTIL",SBT KIDS HD¹
+http://plutovip.eu:8880/live/osni1111/Online999/186785.m3u8
+#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="CARTOON NETWORK FHD¹" tvg-logo="https://googleplusimages.com/CARTOONNETWORK.png" group-title="INFANTIL",CARTOON NETWORK FHD¹
+http://plutovip.eu:8880/live/osni1111/Online999/11127.m3u8
+#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="CARTOON NETWORK FHD²" tvg-logo="https://googleplusimages.com/CARTOONNETWORK.png" group-title="INFANTIL",CARTOON NETWORK FHD²
+http://plutovip.eu:8880/live/osni1111/Online999/181192.m3u8
+#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="CARTOON NETWORK HD¹" tvg-logo="https://googleplusimages.com/CARTOONNETWORK.png" group-title="INFANTIL",CARTOON NETWORK HD¹
+http://plutovip.eu:8880/live/osni1111/Online999/1812.m3u8
+#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="CARTOON NETWORK HD²" tvg-logo="https://googleplusimages.com/CARTOONNETWORK.png" group-title="INFANTIL",CARTOON NETWORK HD²
+http://plutovip.eu:8880/live/osni1111/Online999/127.m3u8
+#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="CARTOON NETWORK SD¹" tvg-logo="https://googleplusimages.com/CARTOONNETWORK.png" group-title="CANAIS LIGHT",CARTOON NETWORK SD¹
+http://plutovip.eu:8880/live/osni1111/Online999/1995.m3u8
+#EXTINF:-1 tvg-id="Discoverykids.br" tvg-name="DISCOVERY KIDS FHD¹" tvg-logo="https://googleplusimages.com/DISCOVERYKIDS.png" group-title="INFANTIL",DISCOVERY KIDS FHD¹
+http://plutovip.eu:8880/live/osni1111/Online999/7763.m3u8
+#EXTINF:-1 tvg-id="Discoverykids.br" tvg-name="DISCOVERY KIDS HD¹" tvg-logo="https://googleplusimages.com/DISCOVERYKIDS.png" group-title="INFANTIL",DISCOVERY KIDS HD¹
+http://plutovip.eu:8880/live/osni1111/Online999/325471.m3u8
+#EXTINF:-1 tvg-id="Discoverykids.br" tvg-name="DISCOVERY KIDS HD²" tvg-logo="https://googleplusimages.com/DISCOVERYKIDS.png" group-title="INFANTIL",DISCOVERY KIDS HD²
+http://plutovip.eu:8880/live/osni1111/Online999/1681.m3u8
+#EXTINF:-1 tvg-id="Discoverykids.br" tvg-name="DISCOVERY KIDS FHD²" tvg-logo="https://googleplusimages.com/DISCOVERYKIDS.png" group-title="INFANTIL",DISCOVERY KIDS FHD²
+http://plutovip.eu:8880/live/osni1111/Online999/40324.m3u8
+#EXTINF:-1 tvg-id="Discoverykids.br" tvg-name="DISCOVERY KIDS SD¹" tvg-logo="https://googleplusimages.com/DISCOVERYKIDS.png" group-title="CANAIS LIGHT",DISCOVERY KIDS SD¹
+http://plutovip.eu:8880/live/osni1111/Online999/1991.m3u8
+#EXTINF:-1 tvg-id="Gloob.br" tvg-name="GLOOB FHD¹" tvg-logo="https://googleplusimages.com/GLOOB.png" group-title="INFANTIL",GLOOB FHD¹
+http://plutovip.eu:8880/live/osni1111/Online999/40325.m3u8
+#EXTINF:-1 tvg-id="Gloob.br" tvg-name="GLOOB FHD²" tvg-logo="https://googleplusimages.com/GLOOB.png" group-title="INFANTIL",GLOOB FHD²
+http://plutovip.eu:8880/live/osni1111/Online999/181193.m3u8
+#EXTINF:-1 tvg-id="Gloob.br" tvg-name="GLOOB H265¹" tvg-logo="https://googleplusimages.com/GLOOB.png" group-title="INFANTIL",GLOOB H265¹
+http://plutovip.eu:8880/live/osni1111/Online999/24709.m3u8
+#EXTINF:-1 tvg-id="Gloob.br" tvg-name="GLOOB HD¹" tvg-logo="https://googleplusimages.com/GLOOB.png" group-title="INFANTIL",GLOOB HD¹
+http://plutovip.eu:8880/live/osni1111/Online999/1882.m3u8
+#EXTINF:-1 tvg-id="Gloob.br" tvg-name="GLOOB HD²" tvg-logo="https://googleplusimages.com/GLOOB.png" group-title="INFANTIL",GLOOB HD²
+http://plutovip.eu:8880/live/osni1111/Online999/1674.m3u8
+#EXTINF:-1 tvg-id="Gloob.br" tvg-name="GLOOB SD¹" tvg-logo="https://googleplusimages.com/GLOOB.png" group-title="CANAIS LIGHT",GLOOB SD¹
+http://plutovip.eu:8880/live/osni1111/Online999/1977.m3u8
+#EXTINF:-1 tvg-id="Cartoonito.br" tvg-name="CARTOONITO FHD¹" tvg-logo="https://googleplusimages.com/CARTOONITO.png" group-title="INFANTIL",CARTOONITO FHD¹
+http://plutovip.eu:8880/live/osni1111/Online999/7765.m3u8
+#EXTINF:-1 tvg-id="Cartoonito.br" tvg-name="CARTOONITO FHD²" tvg-logo="https://googleplusimages.com/CARTOONITO.png" group-title="INFANTIL",CARTOONITO FHD²
+http://plutovip.eu:8880/live/osni1111/Online999/181190.m3u8
+#EXTINF:-1 tvg-id="Cartoonito.br" tvg-name="CARTOONITO HD¹" tvg-logo="https://googleplusimages.com/CARTOONITO.png" group-title="INFANTIL",CARTOONITO HD¹
+http://plutovip.eu:8880/live/osni1111/Online999/7636.m3u8
+#EXTINF:-1 tvg-id="Cartoonito.br" tvg-name="CARTOONITO HD²" tvg-logo="https://googleplusimages.com/CARTOONITO.png" group-title="INFANTIL",CARTOONITO HD²
+http://plutovip.eu:8880/live/osni1111/Online999/40265.m3u8
+#EXTINF:-1 tvg-id="Cartoonito.br" tvg-name="CARTOONITO SD¹" tvg-logo="https://googleplusimages.com/CARTOONITO.png" group-title="CANAIS LIGHT",CARTOONITO SD¹
+http://plutovip.eu:8880/live/osni1111/Online999/2079.m3u8
+#EXTINF:-1 tvg-id="Tooncast.br" tvg-name="TOONCAST FHD²" tvg-logo="https://i.imgur.com/yJF7wSp.png" group-title="INFANTIL",TOONCAST FHD²
+http://plutovip.eu:8880/live/osni1111/Online999/180664.m3u8
+#EXTINF:-1 tvg-id="Tooncast.br" tvg-name="TOONCAST HD¹" tvg-logo="https://i.imgur.com/yJF7wSp.png" group-title="INFANTIL",TOONCAST HD¹
+http://plutovip.eu:8880/live/osni1111/Online999/180663.m3u8
+#EXTINF:-1 tvg-id="Tooncast.br" tvg-name="TOONCAST HD²" tvg-logo="https://i.imgur.com/yJF7wSp.png" group-title="INFANTIL",TOONCAST HD²
+http://plutovip.eu:8880/live/osni1111/Online999/180662.m3u8
+#EXTINF:-1 tvg-id="Gloobinho.br" tvg-name="GLOOBINHO FHD¹" tvg-logo="https://googleplusimages.com/GLOOBINHO.png" group-title="INFANTIL",GLOOBINHO FHD¹
+http://plutovip.eu:8880/live/osni1111/Online999/11111.m3u8
+#EXTINF:-1 tvg-id="Gloobinho.br" tvg-name="GLOOBINHO H265¹" tvg-logo="https://googleplusimages.com/GLOOBINHO.png" group-title="INFANTIL",GLOOBINHO H265¹
+http://plutovip.eu:8880/live/osni1111/Online999/94473.m3u8
+#EXTINF:-1 tvg-id="Gloobinho.br" tvg-name="GLOOBINHO HD¹" tvg-logo="https://googleplusimages.com/GLOOBINHO.png" group-title="INFANTIL",GLOOBINHO HD¹
+http://plutovip.eu:8880/live/osni1111/Online999/5073.m3u8
+#EXTINF:-1 tvg-id="Gloobinho.br" tvg-name="GLOOBINHO SD¹" tvg-logo="https://googleplusimages.com/GLOOBINHO.png" group-title="CANAIS LIGHT",GLOOBINHO SD¹
+http://plutovip.eu:8880/live/osni1111/Online999/5076.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CLUBINHO FUN HD+" tvg-logo="https://googleplusimages.com/CLUBINHO.png" group-title="INFANTIL",CLUBINHO FUN HD+
+http://plutovip.eu:8880/live/osni1111/Online999/186267.m3u8
+#EXTINF:-1 tvg-id="Tvratimbum.br" tvg-name="TV RÁ TIM BUM FHD¹" tvg-logo="https://googleplusimages.com/TVRaTIMBUM.png" group-title="INFANTIL",TV RÁ TIM BUM FHD¹
+http://plutovip.eu:8880/live/osni1111/Online999/11081.m3u8
+#EXTINF:-1 tvg-id="Tvratimbum.br" tvg-name="TV RÁ TIM BUM FHD²" tvg-logo="https://googleplusimages.com/TVRaTIMBUM.png" group-title="INFANTIL",TV RÁ TIM BUM FHD²
+http://plutovip.eu:8880/live/osni1111/Online999/181191.m3u8
+#EXTINF:-1 tvg-id="Tvratimbum.br" tvg-name="TV RÁ TIM BUM HD¹" tvg-logo="https://googleplusimages.com/TVRaTIMBUM.png" group-title="INFANTIL",TV RÁ TIM BUM HD¹
+http://plutovip.eu:8880/live/osni1111/Online999/7629.m3u8
+#EXTINF:-1 tvg-id="Tvratimbum.br" tvg-name="TV RÁ TIM BUM HD²" tvg-logo="https://googleplusimages.com/TVRaTIMBUM.png" group-title="INFANTIL",TV RÁ TIM BUM HD²
+http://plutovip.eu:8880/live/osni1111/Online999/24686.m3u8
+#EXTINF:-1 tvg-id="Tvratimbum.br" tvg-name="TV RÁ TIM BUM SD¹" tvg-logo="https://googleplusimages.com/TVRaTIMBUM.png" group-title="CANAIS LIGHT",TV RÁ TIM BUM SD¹
+http://plutovip.eu:8880/live/osni1111/Online999/5060.m3u8
+#EXTINF:-1 tvg-id="Dumdum.br" tvg-name="DUMDUM FHD¹" tvg-logo="https://googleplusimages.com/DUMDUM.png" group-title="INFANTIL",DUMDUM FHD¹
+http://plutovip.eu:8880/live/osni1111/Online999/40241.m3u8
+#EXTINF:-1 tvg-id="Dumdum.br" tvg-name="DUMDUM FHD²" tvg-logo="https://googleplusimages.com/DUMDUM.png" group-title="INFANTIL",DUMDUM FHD²
+http://plutovip.eu:8880/live/osni1111/Online999/181194.m3u8
+#EXTINF:-1 tvg-id="Dumdum.br" tvg-name="DUMDUM HD¹" tvg-logo="https://googleplusimages.com/DUMDUM.png" group-title="INFANTIL",DUMDUM HD¹
+http://plutovip.eu:8880/live/osni1111/Online999/40240.m3u8
+#EXTINF:-1 tvg-id="Dumdum.br" tvg-name="DUMDUM HD²" tvg-logo="https://googleplusimages.com/DUMDUM.png" group-title="INFANTIL",DUMDUM HD²
+http://plutovip.eu:8880/live/osni1111/Online999/93717.m3u8
+#EXTINF:-1 tvg-id="Boxkids.br" tvg-name="BOX KIDS TV HD+" tvg-logo="https://googleplusimages.com/BOXKIDS.png" group-title="INFANTIL",BOX KIDS TV HD+
+http://plutovip.eu:8880/live/osni1111/Online999/95641.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="URBAN KIDS HD+" tvg-logo="https://googleplusimages.com/URBANKIDS.png" group-title="INFANTIL",URBAN KIDS HD+
+http://plutovip.eu:8880/live/osni1111/Online999/73846.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RETRO CARTOON+" tvg-logo="https://googleplusimages.com/RETROCARTOON.png" group-title="INFANTIL",RETRO CARTOON+
+http://plutovip.eu:8880/live/osni1111/Online999/174979.m3u8
+#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO HD+" tvg-logo="https://googleplusimages.com/HBO.png" group-title="HBO",HBO HD+
+http://plutovip.eu:8880/live/osni1111/Online999/221239.m3u8
+#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO FHD¹" tvg-logo="https://googleplusimages.com/HBO.png" group-title="HBO",HBO FHD¹
+http://plutovip.eu:8880/live/osni1111/Online999/6271.m3u8
+#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO FHD²" tvg-logo="https://googleplusimages.com/HBO.png" group-title="HBO",HBO FHD²
+http://plutovip.eu:8880/live/osni1111/Online999/181166.m3u8
+#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO H265¹" tvg-logo="https://googleplusimages.com/HBO.png" group-title="HBO",HBO H265¹
+http://plutovip.eu:8880/live/osni1111/Online999/1914.m3u8
+#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO HD¹" tvg-logo="https://googleplusimages.com/HBO.png" group-title="HBO",HBO HD¹
+http://plutovip.eu:8880/live/osni1111/Online999/1789.m3u8
+#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO HD²" tvg-logo="https://googleplusimages.com/HBO.png" group-title="HBO",HBO HD²
+http://plutovip.eu:8880/live/osni1111/Online999/165.m3u8
+#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO SD¹" tvg-logo="https://googleplusimages.com/HBO.png" group-title="CANAIS LIGHT",HBO SD¹
+http://plutovip.eu:8880/live/osni1111/Online999/2057.m3u8
+#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 FHD¹" tvg-logo="https://googleplusimages.com/HBO.png" group-title="HBO",HBO 2 FHD¹
+http://plutovip.eu:8880/live/osni1111/Online999/6270.m3u8
+#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 FHD²" tvg-logo="https://googleplusimages.com/HBO.png" group-title="HBO",HBO 2 FHD²
+http://plutovip.eu:8880/live/osni1111/Online999/181167.m3u8
+#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 H265¹" tvg-logo="https://googleplusimages.com/HBO.png" group-title="HBO",HBO 2 H265¹
+http://plutovip.eu:8880/live/osni1111/Online999/1911.m3u8
+#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 HD¹" tvg-logo="https://googleplusimages.com/HBO.png" group-title="HBO",HBO 2 HD¹
+http://plutovip.eu:8880/live/osni1111/Online999/1791.m3u8
+#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 HD²" tvg-logo="https://googleplusimages.com/HBO.png" group-title="HBO",HBO 2 HD²
+http://plutovip.eu:8880/live/osni1111/Online999/167.m3u8
+#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 SD¹" tvg-logo="https://googleplusimages.com/HBO.png" group-title="CANAIS LIGHT",HBO 2 SD¹
+http://plutovip.eu:8880/live/osni1111/Online999/2058.m3u8
+#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO + FHD¹" tvg-logo="https://googleplusimages.com/HBO.png" group-title="HBO",HBO + FHD¹
+http://plutovip.eu:8880/live/osni1111/Online999/11107.m3u8
+#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO + FHD²" tvg-logo="https://googleplusimages.com/HBO.png" group-title="HBO",HBO + FHD²
+http://plutovip.eu:8880/live/osni1111/Online999/181175.m3u8
+#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO + H265¹" tvg-logo="https://googleplusimages.com/HBO.png" group-title="HBO",HBO + H265¹
+http://plutovip.eu:8880/live/osni1111/Online999/1913.m3u8
+#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO + HD¹" tvg-logo="https://googleplusimages.com/HBO.png" group-title="HBO",HBO + HD¹
+http://plutovip.eu:8880/live/osni1111/Online999/1788.m3u8
+#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO + HD²" tvg-logo="https://googleplusimages.com/HBO.png" group-title="HBO",HBO + HD²
+http://plutovip.eu:8880/live/osni1111/Online999/164.m3u8
+#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO + SD¹" tvg-logo="https://googleplusimages.com/HBO.png" group-title="CANAIS LIGHT",HBO + SD¹
+http://plutovip.eu:8880/live/osni1111/Online999/2055.m3u8
+#EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO FAMILY FHD¹" tvg-logo="https://googleplusimages.com/HBO.png" group-title="HBO",HBO FAMILY FHD¹
+http://plutovip.eu:8880/live/osni1111/Online999/11108.m3u8
+#EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO FAMILY FHD²" tvg-logo="https://googleplusimages.com/HBO.png" group-title="HBO",HBO FAMILY FHD²
+http://plutovip.eu:8880/live/osni1111/Online999/181168.m3u8
+#EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO FAMILY H265¹" tvg-logo="https://googleplusimages.com/HBO.png" group-title="HBO",HBO FAMILY H265¹
+http://plutovip.eu:8880/live/osni1111/Online999/1915.m3u8
+#EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO FAMILY HD¹" tvg-logo="https://googleplusimages.com/HBO.png" group-title="HBO",HBO FAMILY HD¹
+http://plutovip.eu:8880/live/osni1111/Online999/1790.m3u8
+#EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO FAMILY HD²" tvg-logo="https://googleplusimages.com/HBO.png" group-title="HBO",HBO FAMILY HD²
+http://plutovip.eu:8880/live/osni1111/Online999/166.m3u8
+#EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO FAMILY SD¹" tvg-logo="https://googleplusimages.com/HBO.png" group-title="CANAIS LIGHT",HBO FAMILY SD¹
+http://plutovip.eu:8880/live/osni1111/Online999/2053.m3u8
+#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO SIGNATURE FHD¹" tvg-logo="https://googleplusimages.com/HBO.png" group-title="HBO",HBO SIGNATURE FHD¹
+http://plutovip.eu:8880/live/osni1111/Online999/11106.m3u8
+#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO SIGNATURE FHD²" tvg-logo="https://googleplusimages.com/HBO.png" group-title="HBO",HBO SIGNATURE FHD²
+http://plutovip.eu:8880/live/osni1111/Online999/181169.m3u8
+#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO SIGNATURE H265¹" tvg-logo="https://googleplusimages.com/HBO.png" group-title="HBO",HBO SIGNATURE H265¹
+http://plutovip.eu:8880/live/osni1111/Online999/1912.m3u8
+#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO SIGNATURE HD¹" tvg-logo="https://googleplusimages.com/HBO.png" group-title="HBO",HBO SIGNATURE HD¹
+http://plutovip.eu:8880/live/osni1111/Online999/1787.m3u8
+#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO SIGNATURE HD²" tvg-logo="https://googleplusimages.com/HBO.png" group-title="HBO",HBO SIGNATURE HD²
+http://plutovip.eu:8880/live/osni1111/Online999/163.m3u8
+#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO SIGNATURE SD¹" tvg-logo="https://googleplusimages.com/HBO.png" group-title="CANAIS LIGHT",HBO SIGNATURE SD¹
+http://plutovip.eu:8880/live/osni1111/Online999/2054.m3u8
+#EXTINF:-1 tvg-id="Hbomundi.br" tvg-name="HBO MUNDI FHD¹" tvg-logo="https://googleplusimages.com/HBO.png" group-title="HBO",HBO MUNDI FHD¹
+http://plutovip.eu:8880/live/osni1111/Online999/11103.m3u8
+#EXTINF:-1 tvg-id="Hbomundi.br" tvg-name="HBO MUNDI FHD²" tvg-logo="https://googleplusimages.com/HBO.png" group-title="HBO",HBO MUNDI FHD²
+http://plutovip.eu:8880/live/osni1111/Online999/181170.m3u8
+#EXTINF:-1 tvg-id="Hbomundi.br" tvg-name="HBO MUNDI H265¹" tvg-logo="https://googleplusimages.com/HBO.png" group-title="HBO",HBO MUNDI H265¹
+http://plutovip.eu:8880/live/osni1111/Online999/24705.m3u8
+#EXTINF:-1 tvg-id="Hbomundi.br" tvg-name="HBO MUNDI HD¹" tvg-logo="https://googleplusimages.com/HBO.png" group-title="HBO",HBO MUNDI HD¹
+http://plutovip.eu:8880/live/osni1111/Online999/1879.m3u8
+#EXTINF:-1 tvg-id="Hbomundi.br" tvg-name="HBO MUNDI HD²" tvg-logo="https://googleplusimages.com/HBO.png" group-title="HBO",HBO MUNDI HD²
+http://plutovip.eu:8880/live/osni1111/Online999/1672.m3u8
+#EXTINF:-1 tvg-id="Hbomundi.br" tvg-name="HBO MUNDI SD¹" tvg-logo="https://googleplusimages.com/HBO.png" group-title="CANAIS LIGHT",HBO MUNDI SD¹
+http://plutovip.eu:8880/live/osni1111/Online999/3481.m3u8
+#EXTINF:-1 tvg-id="Hbopop.br" tvg-name="HBO POP FHD¹" tvg-logo="https://googleplusimages.com/HBO.png" group-title="HBO",HBO POP FHD¹
+http://plutovip.eu:8880/live/osni1111/Online999/11101.m3u8
+#EXTINF:-1 tvg-id="Hbopop.br" tvg-name="HBO POP FHD²" tvg-logo="https://googleplusimages.com/HBO.png" group-title="HBO",HBO POP FHD²
+http://plutovip.eu:8880/live/osni1111/Online999/181174.m3u8
+#EXTINF:-1 tvg-id="Hbopop.br" tvg-name="HBO POP H265¹" tvg-logo="https://googleplusimages.com/HBO.png" group-title="HBO",HBO POP H265¹
+http://plutovip.eu:8880/live/osni1111/Online999/24703.m3u8
+#EXTINF:-1 tvg-id="Hbopop.br" tvg-name="HBO POP HD¹" tvg-logo="https://googleplusimages.com/HBO.png" group-title="HBO",HBO POP HD¹
+http://plutovip.eu:8880/live/osni1111/Online999/1877.m3u8
+#EXTINF:-1 tvg-id="Hbopop.br" tvg-name="HBO POP HD²" tvg-logo="https://googleplusimages.com/HBO.png" group-title="HBO",HBO POP HD²
+http://plutovip.eu:8880/live/osni1111/Online999/1670.m3u8
+#EXTINF:-1 tvg-id="Hbopop.br" tvg-name="HBO POP SD¹" tvg-logo="https://googleplusimages.com/HBO.png" group-title="CANAIS LIGHT",HBO POP SD¹
+http://plutovip.eu:8880/live/osni1111/Online999/3480.m3u8
+#EXTINF:-1 tvg-id="Hboxtreme.br" tvg-name="HBO XTREME FHD¹" tvg-logo="https://googleplusimages.com/HBO.png" group-title="HBO",HBO XTREME FHD¹
+http://plutovip.eu:8880/live/osni1111/Online999/11102.m3u8
+#EXTINF:-1 tvg-id="Hboxtreme.br" tvg-name="HBO XTREME FHD²" tvg-logo="https://googleplusimages.com/HBO.png" group-title="HBO",HBO XTREME FHD²
+http://plutovip.eu:8880/live/osni1111/Online999/181171.m3u8
+#EXTINF:-1 tvg-id="Hboxtreme.br" tvg-name="HBO XTREME H265¹" tvg-logo="https://googleplusimages.com/HBO.png" group-title="HBO",HBO XTREME H265¹
+http://plutovip.eu:8880/live/osni1111/Online999/24704.m3u8
+#EXTINF:-1 tvg-id="Hboxtreme.br" tvg-name="HBO XTREME HD¹" tvg-logo="https://googleplusimages.com/HBO.png" group-title="HBO",HBO XTREME HD¹
+http://plutovip.eu:8880/live/osni1111/Online999/1878.m3u8
+#EXTINF:-1 tvg-id="Hboxtreme.br" tvg-name="HBO XTREME HD²" tvg-logo="https://googleplusimages.com/HBO.png" group-title="HBO",HBO XTREME HD²
+http://plutovip.eu:8880/live/osni1111/Online999/1671.m3u8
+#EXTINF:-1 tvg-id="Hboxtreme.br" tvg-name="HBO XTREME SD¹" tvg-logo="https://googleplusimages.com/HBO.png" group-title="CANAIS LIGHT",HBO XTREME SD¹
+http://plutovip.eu:8880/live/osni1111/Online999/3482.m3u8
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TELECINE PREMIUM FHD¹" tvg-logo="https://googleplusimages.com/TCPREMIUM.png" group-title="TELECINE",TELECINE PREMIUM FHD¹
+http://plutovip.eu:8880/live/osni1111/Online999/5050.m3u8
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TELECINE PREMIUM FHD²" tvg-logo="https://googleplusimages.com/TCPREMIUM.png" group-title="TELECINE",TELECINE PREMIUM FHD²
+http://plutovip.eu:8880/live/osni1111/Online999/181151.m3u8
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TELECINE PREMIUM H265¹" tvg-logo="https://googleplusimages.com/TCPREMIUM.png" group-title="TELECINE",TELECINE PREMIUM H265¹
+http://plutovip.eu:8880/live/osni1111/Online999/1895.m3u8
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TELECINE PREMIUM HD¹" tvg-logo="https://googleplusimages.com/TCPREMIUM.png" group-title="TELECINE",TELECINE PREMIUM HD¹
+http://plutovip.eu:8880/live/osni1111/Online999/1773.m3u8
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TELECINE PREMIUM HD²" tvg-logo="https://googleplusimages.com/TCPREMIUM.png" group-title="TELECINE",TELECINE PREMIUM HD²
+http://plutovip.eu:8880/live/osni1111/Online999/138.m3u8
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TELECINE PREMIUM SD¹" tvg-logo="https://googleplusimages.com/TCPREMIUM.png" group-title="CANAIS LIGHT",TELECINE PREMIUM SD¹
+http://plutovip.eu:8880/live/osni1111/Online999/2016.m3u8
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TELECINE ACTION FHD¹" tvg-logo="https://googleplusimages.com/TCACTION.png" group-title="TELECINE",TELECINE ACTION FHD¹
+http://plutovip.eu:8880/live/osni1111/Online999/6169.m3u8
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TELECINE ACTION FHD²" tvg-logo="https://googleplusimages.com/TCACTION.png" group-title="TELECINE",TELECINE ACTION FHD²
+http://plutovip.eu:8880/live/osni1111/Online999/181154.m3u8
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TELECINE ACTION HD¹" tvg-logo="https://googleplusimages.com/TCACTION.png" group-title="TELECINE",TELECINE ACTION HD¹
+http://plutovip.eu:8880/live/osni1111/Online999/141.m3u8
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TELECINE ACTION HD²" tvg-logo="https://googleplusimages.com/TCACTION.png" group-title="TELECINE",TELECINE ACTION HD²
+http://plutovip.eu:8880/live/osni1111/Online999/1776.m3u8
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TELECINE ACTION SD¹" tvg-logo="https://googleplusimages.com/TCACTION.png" group-title="CANAIS LIGHT",TELECINE ACTION SD¹
+http://plutovip.eu:8880/live/osni1111/Online999/22.m3u8
+#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TELECINE FUN FHD¹" tvg-logo="https://googleplusimages.com/TCFUN.png" group-title="TELECINE",TELECINE FUN FHD¹
+http://plutovip.eu:8880/live/osni1111/Online999/6243.m3u8
+#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TELECINE FUN FHD²" tvg-logo="https://googleplusimages.com/TCFUN.png" group-title="TELECINE",TELECINE FUN FHD²
+http://plutovip.eu:8880/live/osni1111/Online999/181155.m3u8
+#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TELECINE FUN HD¹" tvg-logo="https://googleplusimages.com/TCFUN.png" group-title="TELECINE",TELECINE FUN HD¹
+http://plutovip.eu:8880/live/osni1111/Online999/1775.m3u8
+#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TELECINE FUN HD²" tvg-logo="https://googleplusimages.com/TCFUN.png" group-title="TELECINE",TELECINE FUN HD²
+http://plutovip.eu:8880/live/osni1111/Online999/140.m3u8
+#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TELECINE FUN SD¹" tvg-logo="https://googleplusimages.com/TCFUN.png" group-title="CANAIS LIGHT",TELECINE FUN SD¹
+http://plutovip.eu:8880/live/osni1111/Online999/2018.m3u8
+#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TELECINE TOUCH FHD¹" tvg-logo="https://googleplusimages.com/TCTOUCH.png" group-title="TELECINE",TELECINE TOUCH FHD¹
+http://plutovip.eu:8880/live/osni1111/Online999/6171.m3u8
+#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TELECINE TOUCH FHD²" tvg-logo="https://googleplusimages.com/TCTOUCH.png" group-title="TELECINE",TELECINE TOUCH FHD²
+http://plutovip.eu:8880/live/osni1111/Online999/181150.m3u8
+#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TELECINE TOUCH H265¹" tvg-logo="https://googleplusimages.com/TCTOUCH.png" group-title="TELECINE",TELECINE TOUCH H265¹
+http://plutovip.eu:8880/live/osni1111/Online999/1894.m3u8
+#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TELECINE TOUCH HD¹" tvg-logo="https://googleplusimages.com/TCTOUCH.png" group-title="TELECINE",TELECINE TOUCH HD¹
+http://plutovip.eu:8880/live/osni1111/Online999/1772.m3u8
+#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TELECINE TOUCH HD²" tvg-logo="https://googleplusimages.com/TCTOUCH.png" group-title="TELECINE",TELECINE TOUCH HD²
+http://plutovip.eu:8880/live/osni1111/Online999/137.m3u8
+#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TELECINE TOUCH SD¹" tvg-logo="https://googleplusimages.com/TCTOUCH.png" group-title="CANAIS LIGHT",TELECINE TOUCH SD¹
+http://plutovip.eu:8880/live/osni1111/Online999/2015.m3u8
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TELECINE PIPOCA FHD¹" tvg-logo="https://googleplusimages.com/TCPIPOCA.png" group-title="TELECINE",TELECINE PIPOCA FHD¹
+http://plutovip.eu:8880/live/osni1111/Online999/6170.m3u8
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TELECINE PIPOCA FHD²" tvg-logo="https://googleplusimages.com/TCPIPOCA.png" group-title="TELECINE",TELECINE PIPOCA FHD²
+http://plutovip.eu:8880/live/osni1111/Online999/181153.m3u8
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TELECINE PIPOCA HD¹" tvg-logo="https://googleplusimages.com/TCPIPOCA.png" group-title="TELECINE",TELECINE PIPOCA HD¹
+http://plutovip.eu:8880/live/osni1111/Online999/1774.m3u8
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TELECINE PIPOCA HD²" tvg-logo="https://googleplusimages.com/TCPIPOCA.png" group-title="TELECINE",TELECINE PIPOCA HD²
+http://plutovip.eu:8880/live/osni1111/Online999/139.m3u8
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TELECINE PIPOCA SD¹" tvg-logo="https://googleplusimages.com/TCPIPOCA.png" group-title="CANAIS LIGHT",TELECINE PIPOCA SD¹
+http://plutovip.eu:8880/live/osni1111/Online999/2017.m3u8
+#EXTINF:-1 tvg-id="Tccult.br" tvg-name="TELECINE CULT FHD¹" tvg-logo="https://googleplusimages.com/TCCULT.png" group-title="TELECINE",TELECINE CULT FHD¹
+http://plutovip.eu:8880/live/osni1111/Online999/11086.m3u8
+#EXTINF:-1 tvg-id="Tccult.br" tvg-name="TELECINE CULT FHD²" tvg-logo="https://googleplusimages.com/TCCULT.png" group-title="TELECINE",TELECINE CULT FHD²
+http://plutovip.eu:8880/live/osni1111/Online999/181156.m3u8
+#EXTINF:-1 tvg-id="Tccult.br" tvg-name="TELECINE CULT HD¹" tvg-logo="https://googleplusimages.com/TCCULT.png" group-title="TELECINE",TELECINE CULT HD¹
+http://plutovip.eu:8880/live/osni1111/Online999/1873.m3u8
+#EXTINF:-1 tvg-id="Tccult.br" tvg-name="TELECINE CULT HD²" tvg-logo="https://googleplusimages.com/TCCULT.png" group-title="TELECINE",TELECINE CULT HD²
+http://plutovip.eu:8880/live/osni1111/Online999/1666.m3u8
+#EXTINF:-1 tvg-id="Tccult.br" tvg-name="TELECINE CULT SD¹" tvg-logo="https://googleplusimages.com/TCCULT.png" group-title="CANAIS LIGHT",TELECINE CULT SD¹
+http://plutovip.eu:8880/live/osni1111/Online999/2019.m3u8
+#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT SD¹" tvg-logo="https://i.imgur.com/mHfzG0c.png" group-title="CANAIS LIGHT",TNT SD¹
+http://plutovip.eu:8880/live/osni1111/Online999/2014.m3u8
+#EXTINF:-1 tvg-id="Tntseries.br" tvg-name="TNT SÉRIES SD¹" tvg-logo="https://googleplusimages.com/TNTSERIES.png" group-title="CANAIS LIGHT",TNT SÉRIES SD¹
+http://plutovip.eu:8880/live/osni1111/Online999/2013.m3u8
+#EXTINF:-1 tvg-id="Tntnovelas.br" tvg-name="TNT NOVELAS SD¹" tvg-logo="https://googleplusimages.com/TNTNOVELAS.png" group-title="CANAIS LIGHT",TNT NOVELAS SD¹
+http://plutovip.eu:8880/live/osni1111/Online999/2021.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS FHD¹" tvg-logo="https://pbs.twimg.com/media/HHJ2VmSW8AEesE2.png" group-title="ESPORTES",TNT SPORTS FHD¹
+http://plutovip.eu:8880/live/osni1111/Online999/355098.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS HD¹" tvg-logo="https://pbs.twimg.com/media/HHJ2VmSW8AEesE2.png" group-title="ESPORTES",TNT SPORTS HD¹
+http://plutovip.eu:8880/live/osni1111/Online999/355099.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS SD¹" tvg-logo="https://pbs.twimg.com/media/HHJ2VmSW8AEesE2.png" group-title="ESPORTES",TNT SPORTS SD¹
+http://plutovip.eu:8880/live/osni1111/Online999/355100.m3u8
+#EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE SD¹" tvg-logo="https://googleplusimages.com/SPACE.png" group-title="CANAIS LIGHT",SPACE SD¹
+http://plutovip.eu:8880/live/osni1111/Online999/3486.m3u8
+#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="CINEMAX SD¹" tvg-logo="https://googleplusimages.com/CINEMAX.png" group-title="CANAIS LIGHT",CINEMAX SD¹
+http://plutovip.eu:8880/live/osni1111/Online999/2078.m3u8
+#EXTINF:-1 tvg-id="Warner.br" tvg-name="WARNER CHANNEL SD¹" tvg-logo="https://googleplusimages.com/WARNERCHANNEL.png" group-title="CANAIS LIGHT",WARNER CHANNEL SD¹
+http://plutovip.eu:8880/live/osni1111/Online999/1938.m3u8
+#EXTINF:-1 tvg-id="Universaltv.br" tvg-name="UNIVERSAL TV SD¹" tvg-logo="https://googleplusimages.com/UNIVERSALTV.png" group-title="CANAIS LIGHT",UNIVERSAL TV SD¹
+http://plutovip.eu:8880/live/osni1111/Online999/3483.m3u8
+#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN SD¹" tvg-logo="https://googleplusimages.com/AXN.png" group-title="CANAIS LIGHT",AXN SD¹
+http://plutovip.eu:8880/live/osni1111/Online999/2004.m3u8
+#EXTINF:-1 tvg-id="Sony.br" tvg-name="SONY CHANNEL SD¹" tvg-logo="https://googleplusimages.com/SONYCHANNEL.png" group-title="CANAIS LIGHT",SONY CHANNEL SD¹
+http://plutovip.eu:8880/live/osni1111/Online999/3487.m3u8
+#EXTINF:-1 tvg-id="Megapix.br" tvg-name="MEGAPIX SD¹" tvg-logo="https://googleplusimages.com/MEGAPIX.png" group-title="CANAIS LIGHT",MEGAPIX SD¹
+http://plutovip.eu:8880/live/osni1111/Online999/3485.m3u8
+#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC SD¹" tvg-logo="https://googleplusimages.com/AMC.png" group-title="CANAIS LIGHT",AMC SD¹
+http://plutovip.eu:8880/live/osni1111/Online999/6209.m3u8
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E SD¹" tvg-logo="https://googleplusimages.com/A&E.png" group-title="CANAIS LIGHT",A&E SD¹
+http://plutovip.eu:8880/live/osni1111/Online999/3489.m3u8
+#EXTINF:-1 tvg-id="Lifetime.br" tvg-name="LIFETIME SD¹" tvg-logo="https://googleplusimages.com/LIFETIME.png" group-title="CANAIS LIGHT",LIFETIME SD¹
+http://plutovip.eu:8880/live/osni1111/Online999/2051.m3u8
+#EXTINF:-1 tvg-id="Usa.br" tvg-name="USA NETWORK SD¹" tvg-logo="https://googleplusimages.com/USANETWORK.png" group-title="CANAIS LIGHT",USA NETWORK SD¹
+http://plutovip.eu:8880/live/osni1111/Online999/6241.m3u8
+#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="STUDIO UNIVERSAL SD¹" tvg-logo="https://googleplusimages.com/STUDIOUNIVERSAL.png" group-title="CANAIS LIGHT",STUDIO UNIVERSAL SD¹
+http://plutovip.eu:8880/live/osni1111/Online999/3484.m3u8
+#EXTINF:-1 tvg-id="Canalbrasil.br" tvg-name="CANAL BRASIL SD¹" tvg-logo="https://googleplusimages.com/CANALBRASIL.png" group-title="CANAIS LIGHT",CANAL BRASIL SD¹
+http://plutovip.eu:8880/live/osni1111/Online999/3488.m3u8
+#EXTINF:-1 tvg-id="Filmarts.br" tvg-name="FILM&ARTS SD¹" tvg-logo="https://googleplusimages.com/FILM&ARTS.png" group-title="CANAIS LIGHT",FILM&ARTS SD¹
+http://plutovip.eu:8880/live/osni1111/Online999/40217.m3u8
+#EXTINF:-1 tvg-id="ISTV.br" tvg-name="ISTV HD+" tvg-logo="https://googleplusimages.com/ISTV.png" group-title="ABERTOS",ISTV HD+
+http://plutovip.eu:8880/live/osni1111/Online999/161053.m3u8
+#EXTINF:-1 tvg-id="Discoveryhomehealth.br" tvg-name="DISCOVERY HOME & HEALTH SD¹" tvg-logo="https://googleplusimages.com/DISCOVERYHOME&HEALTH.png" group-title="CANAIS LIGHT",DISCOVERY HOME & HEALTH SD¹
+http://plutovip.eu:8880/live/osni1111/Online999/3499.m3u8
+#EXTINF:-1 tvg-id="Hgtv.br" tvg-name="HGTV SD¹" tvg-logo="https://googleplusimages.com/HGTV.png" group-title="CANAIS LIGHT",HGTV SD¹
+http://plutovip.eu:8880/live/osni1111/Online999/2074.m3u8
+#EXTINF:-1 tvg-id="Tlc.br" tvg-name="TLC SD¹" tvg-logo="https://googleplusimages.com/TLC.png" group-title="CANAIS LIGHT",TLC SD¹
+http://plutovip.eu:8880/live/osni1111/Online999/6231.m3u8
+#EXTINF:-1 tvg-id="Gnt.br" tvg-name="GNT SD¹" tvg-logo="https://googleplusimages.com/GNT.png" group-title="CANAIS LIGHT",GNT SD¹
+http://plutovip.eu:8880/live/osni1111/Online999/6228.m3u8
+#EXTINF:-1 tvg-id="Multishow.br" tvg-name="MULTISHOW SD¹" tvg-logo="https://googleplusimages.com/MULTISHOW.png" group-title="CANAIS LIGHT",MULTISHOW SD¹
+http://plutovip.eu:8880/live/osni1111/Online999/1967.m3u8
+#EXTINF:-1 tvg-id="Globoplaynovelas.br" tvg-name="GLOBOPLAY NOVELAS SD¹" tvg-logo="https://googleplusimages.com/GPLAYNOVELAS.png" group-title="CANAIS LIGHT",GLOBOPLAY NOVELAS SD¹
+http://plutovip.eu:8880/live/osni1111/Online999/6229.m3u8
+#EXTINF:-1 tvg-id="E.br" tvg-name="E! SD¹" tvg-logo="https://googleplusimages.com/E!.png" group-title="CANAIS LIGHT",E! SD¹
+http://plutovip.eu:8880/live/osni1111/Online999/2070.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FATOS DESCONHECIDOS FHD¹" tvg-logo="https://imgur.com/a/bYHrGWs" group-title="CANAIS FAST",FATOS DESCONHECIDOS FHD¹
+http://plutovip.eu:8880/live/osni1111/Online999/331447.m3u8
+#EXTINF:-1 tvg-id="Adultswim.br" tvg-name="ADULT SWIM SD¹" tvg-logo="https://googleplusimages.com/ADULTSWIM.png" group-title="CANAIS LIGHT",ADULT SWIM SD¹
+http://plutovip.eu:8880/live/osni1111/Online999/3497.m3u8
+#EXTINF:-1 tvg-id="Foodnetwork.br" tvg-name="FOOD NETWORK SD¹" tvg-logo="https://googleplusimages.com/FOODNETWORK.png" group-title="CANAIS LIGHT",FOOD NETWORK SD¹
+http://plutovip.eu:8880/live/osni1111/Online999/1981.m3u8
+#EXTINF:-1 tvg-id="Bis.br" tvg-name="BIS SD¹" tvg-logo="https://googleplusimages.com/BIS.png" group-title="CANAIS LIGHT",BIS SD¹
+http://plutovip.eu:8880/live/osni1111/Online999/3500.m3u8
+#EXTINF:-1 tvg-id="Musicboxbr.br" tvg-name="MUSIC BOX BRAZIL SD¹" tvg-logo="https://googleplusimages.com/MUSICBOXBRAZIL.png" group-title="CANAIS LIGHT",MUSIC BOX BRAZIL SD¹
+http://plutovip.eu:8880/live/osni1111/Online999/50552.m3u8
+#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET SD¹" tvg-logo="https://googleplusimages.com/ANIMALPLANET.png" group-title="CANAIS LIGHT",ANIMAL PLANET SD¹
+http://plutovip.eu:8880/live/osni1111/Online999/4773.m3u8
+#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY CHANNEL SD¹" tvg-logo="https://googleplusimages.com/DISCOVERYCHANNEL.png" group-title="CANAIS LIGHT",DISCOVERY CHANNEL SD¹
+http://plutovip.eu:8880/live/osni1111/Online999/111.m3u8
+#EXTINF:-1 tvg-id="Discscience.br" tvg-name="DISCOVERY SCIENCE SD¹" tvg-logo="https://googleplusimages.com/DISCOVERYSCIENCE.png" group-title="CANAIS LIGHT",DISCOVERY SCIENCE SD¹
+http://plutovip.eu:8880/live/osni1111/Online999/2073.m3u8
+#EXTINF:-1 tvg-id="Hdtheater.br" tvg-name="DISCOVERY THEATER SD¹" tvg-logo="https://i.imgur.com/jCq7OQj.png" group-title="CANAIS LIGHT",DISCOVERY THEATER SD¹
+http://plutovip.eu:8880/live/osni1111/Online999/3498.m3u8
+#EXTINF:-1 tvg-id="Discturbo.br" tvg-name="DISCOVERY TURBO SD¹" tvg-logo="https://googleplusimages.com/DISCOVERYTURBO.png" group-title="CANAIS LIGHT",DISCOVERY TURBO SD¹
+http://plutovip.eu:8880/live/osni1111/Online999/1993.m3u8
+#EXTINF:-1 tvg-id="Discworld.br" tvg-name="DISCOVERY WORLD SD¹" tvg-logo="https://googleplusimages.com/DISCOVERYWORLD.png" group-title="CANAIS LIGHT",DISCOVERY WORLD SD¹
+http://plutovip.eu:8880/live/osni1111/Online999/7783.m3u8
+#EXTINF:-1 tvg-id="Id.br" tvg-name="INVESTIGAÇÃO DISCOVERY SD¹" tvg-logo="https://googleplusimages.com/ID.png" group-title="CANAIS LIGHT",INVESTIGAÇÃO DISCOVERY SD¹
+http://plutovip.eu:8880/live/osni1111/Online999/25266.m3u8
+#EXTINF:-1 tvg-id="History.br" tvg-name="HISTORY SD¹" tvg-logo="https://googleplusimages.com/HISTORY.png" group-title="CANAIS LIGHT",HISTORY SD¹
+http://plutovip.eu:8880/live/osni1111/Online999/1969.m3u8
+#EXTINF:-1 tvg-id="History2.br" tvg-name="HISTORY 2 SD¹" tvg-logo="https://i.imgur.com/JOmLdYI.png" group-title="CANAIS LIGHT",HISTORY 2 SD¹
+http://plutovip.eu:8880/live/osni1111/Online999/1970.m3u8
+#EXTINF:-1 tvg-id="Modoviagem.br" tvg-name="MODO VIAGEM SD¹" tvg-logo="https://googleplusimages.com/MODOVIAGEM.png" group-title="CANAIS LIGHT",MODO VIAGEM SD¹
+http://plutovip.eu:8880/live/osni1111/Online999/5091.m3u8
+#EXTINF:-1 tvg-id="Arte1.br" tvg-name="ARTE 1 SD¹" tvg-logo="https://googleplusimages.com/ARTE1.png" group-title="CANAIS LIGHT",ARTE 1 SD¹
+http://plutovip.eu:8880/live/osni1111/Online999/7782.m3u8
+#EXTINF:-1 tvg-id="Curta.br" tvg-name="CURTA! SD¹" tvg-logo="https://i.imgur.com/w10VeH2.png" group-title="CANAIS LIGHT",CURTA! SD¹
+http://plutovip.eu:8880/live/osni1111/Online999/7781.m3u8
+#EXTINF:-1 tvg-id="Futura.br" tvg-name="FUTURA SD¹" tvg-logo="https://googleplusimages.com/FUTURA.png" group-title="CANAIS LIGHT",FUTURA SD¹
+http://plutovip.eu:8880/live/osni1111/Online999/2064.m3u8
+#EXTINF:-1 tvg-id="Primeboxbr.br" tvg-name="PRIME BOX BRAZIL SD¹" tvg-logo="https://googleplusimages.com/PRIMEBOXBRAZIL.png" group-title="CANAIS LIGHT",PRIME BOX BRAZIL SD¹
+http://plutovip.eu:8880/live/osni1111/Online999/2034.m3u8
+#EXTINF:-1 tvg-id="Globonews.br" tvg-name="GLOBONEWS SD¹" tvg-logo="https://googleplusimages.com/GLOBONEWS.png" group-title="CANAIS LIGHT",GLOBONEWS SD¹
+http://plutovip.eu:8880/live/osni1111/Online999/6234.m3u8
+#EXTINF:-1 tvg-id="Cnn.br" tvg-name="CNN BRASIL SD¹" tvg-logo="https://googleplusimages.com/CNNBRASIL.png" group-title="CANAIS LIGHT",CNN BRASIL SD¹
+http://plutovip.eu:8880/live/osni1111/Online999/24566.m3u8
+#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="BANDNEWS TV SD¹" tvg-logo="https://googleplusimages.com/BANDNEWSTV.png" group-title="CANAIS LIGHT",BANDNEWS TV SD¹
+http://plutovip.eu:8880/live/osni1111/Online999/2082.m3u8
+#EXTINF:-1 tvg-id="Jpnews.br" tvg-name="JP NEWS SD¹" tvg-logo="http://googleplusimages.com/JPNEWS.png" group-title="CANAIS LIGHT",JP NEWS SD¹
+http://plutovip.eu:8880/live/osni1111/Online999/206771.m3u8
+#EXTINF:-1 tvg-id="Recordnews.br" tvg-name="RECORD NEWS SD¹" tvg-logo="https://googleplusimages.com/RECORDNEWS.png" group-title="CANAIS LIGHT",RECORD NEWS SD¹
+http://plutovip.eu:8880/live/osni1111/Online999/7784.m3u8
+#EXTINF:-1 tvg-id="Redevida.br" tvg-name="REDE VIDA SD¹" tvg-logo="https://i.imgur.com/PFjpu5s.png" group-title="CANAIS LIGHT",REDE VIDA SD¹
+http://plutovip.eu:8880/live/osni1111/Online999/25186.m3u8
+#EXTINF:-1 tvg-id="Tvnovotempo.br" tvg-name="TV NOVO TEMPO SD¹" tvg-logo="https://googleplusimages.com/TVNOVOTEMPO.png" group-title="CANAIS LIGHT",TV NOVO TEMPO SD¹
+http://plutovip.eu:8880/live/osni1111/Online999/26123.m3u8
+#EXTINF:-1 tvg-id="Cazetv.br" tvg-name="CAZETV | ESPORTES+" tvg-logo="https://googleplusimages.com/CAZETV.png" group-title="CANAIS FAST",CAZETV | ESPORTES+
+http://plutovip.eu:8880/live/osni1111/Online999/263616.m3u8
+#EXTINF:-1 tvg-id="Fifaplus.br" tvg-name="FIFA+ | ESPORTES+" tvg-logo="https://googleplusimages.com/FIFAPLUS.png" group-title="CANAIS FAST",FIFA+ | ESPORTES+
+http://plutovip.eu:8880/live/osni1111/Online999/271617.m3u8
+#EXTINF:-1 tvg-id="Ausente.br" tvg-name="FUEL TV | ESPORTES+" tvg-logo="https://googleplusimages.com/FUELTV.png" group-title="CANAIS FAST",FUEL TV | ESPORTES+
+http://plutovip.eu:8880/live/osni1111/Online999/271595.m3u8
+#EXTINF:-1 tvg-id="Ausente.br" tvg-name="PLAYTV" tvg-logo="" group-title="CANAIS FAST",PLAYTV
+http://plutovip.eu:8880/live/osni1111/Online999/272060.m3u8
+#EXTINF:-1 tvg-id="Motorvision.br" tvg-name="MOTORVISION TV | ESPORTES+" tvg-logo="https://googleplusimages.com/MOTORVISION.png" group-title="CANAIS FAST",MOTORVISION TV | ESPORTES+
+http://plutovip.eu:8880/live/osni1111/Online999/200114.m3u8
+#EXTINF:-1 tvg-id="Ausente.br" tvg-name="NSPORTS | ESPORTES+" tvg-logo="https://googleplusimages.com/NSPORTS.png" group-title="CANAIS FAST",NSPORTS | ESPORTES+
+http://plutovip.eu:8880/live/osni1111/Online999/271597.m3u8
+#EXTINF:-1 tvg-id="65a6818c7bdc8d0008457b21" tvg-name="RACER BRASIL | ESPORTES+" tvg-logo="https://googleplusimages.com/RACERBRASIL.png" group-title="CANAIS FAST",RACER BRASIL | ESPORTES+
+http://plutovip.eu:8880/live/osni1111/Online999/271596.m3u8
+#EXTINF:-1 tvg-id="dpa-fast" tvg-name="DPA FAST | INFANTIL+" tvg-logo="https://googleplusimages.com/DPAFAST.png" group-title="CANAIS FAST",DPA FAST | INFANTIL+
+http://plutovip.eu:8880/live/osni1111/Online999/181624.m3u8
+#EXTINF:-1 tvg-id="Toongoggles.br" tvg-name="TOON GOGGLES | INFANTIL+" tvg-logo="https://googleplusimages.com/TOONGOGGLES.png" group-title="CANAIS FAST",TOON GOGGLES | INFANTIL+
+http://plutovip.eu:8880/live/osni1111/Online999/220268.m3u8
+#EXTINF:-1 tvg-id="Cindietv.br" tvg-name="CINDIE LITE | FILMES+" tvg-logo="https://googleplusimages.com/CINDIE.png" group-title="CANAIS FAST",CINDIE LITE | FILMES+
+http://plutovip.eu:8880/live/osni1111/Online999/220269.m3u8
+#EXTINF:-1 tvg-id="Crimeinvest.br" tvg-name="CRIME E INVESTIGACAO | FILMES+" tvg-logo="https://googleplusimages.com/CRIMEINVESTIGACAO.png" group-title="CANAIS FAST",CRIME E INVESTIGACAO | FILMES+
+http://plutovip.eu:8880/live/osni1111/Online999/220276.m3u8
+#EXTINF:-1 tvg-id="Filmrise.br" tvg-name="FILMRISE SERIES | FILMES+" tvg-logo="https://googleplusimages.com/FILMRISE.png" group-title="CANAIS FAST",FILMRISE SERIES | FILMES+
+http://plutovip.eu:8880/live/osni1111/Online999/220197.m3u8
+#EXTINF:-1 tvg-id="Grjngo.br" tvg-name="GRJNGO | FILMES+" tvg-logo="https://googleplusimages.com/GRJNGO.png" group-title="CANAIS FAST",GRJNGO | FILMES+
+http://plutovip.eu:8880/live/osni1111/Online999/220195.m3u8
+#EXTINF:-1 tvg-id="Moviesphere.br" tvg-name="MOVIESPHERE | FILMES+" tvg-logo="https://googleplusimages.com/MOVIESPHERE.png" group-title="CANAIS FAST",MOVIESPHERE | FILMES+
+http://plutovip.eu:8880/live/osni1111/Online999/200113.m3u8
+#EXTINF:-1 tvg-id="Mytimemoviesnet.br" tvg-name="MYTIME MOVIE NETWORK | FILMES+" tvg-logo="https://googleplusimages.com/MYTIMEMOVIENETWORK.png" group-title="CANAIS FAST",MYTIME MOVIE NETWORK | FILMES+
+http://plutovip.eu:8880/live/osni1111/Online999/220270.m3u8
+#EXTINF:-1 tvg-id="Runtimeacao.br" tvg-name="RUNTIME ACAO | FILMES+" tvg-logo="https://googleplusimages.com/RUNTIME.png" group-title="CANAIS FAST",RUNTIME ACAO | FILMES+
+http://plutovip.eu:8880/live/osni1111/Online999/200106.m3u8
+#EXTINF:-1 tvg-id="Runtimefamilia.br" tvg-name="RUNTIME FAMILIA | FILMES+" tvg-logo="https://googleplusimages.com/RUNTIME.png" group-title="CANAIS FAST",RUNTIME FAMILIA | FILMES+
+http://plutovip.eu:8880/live/osni1111/Online999/200107.m3u8
+#EXTINF:-1 tvg-id="Runtimecinespanto.br" tvg-name="RUNTIME CINESPANTO | FILMES+" tvg-logo="https://googleplusimages.com/RUNTIME.png" group-title="CANAIS FAST",RUNTIME CINESPANTO | FILMES+
+http://plutovip.eu:8880/live/osni1111/Online999/200108.m3u8
+#EXTINF:-1 tvg-id="Runtime.br" tvg-name="RUNTIME | FILMES+" tvg-logo="https://googleplusimages.com/RUNTIME.png" group-title="CANAIS FAST",RUNTIME | FILMES+
+http://plutovip.eu:8880/live/osni1111/Online999/200109.m3u8
+#EXTINF:-1 tvg-id="Runtimecrime.br" tvg-name="RUNTIME CRIME | FILMES+" tvg-logo="https://googleplusimages.com/RUNTIME.png" group-title="CANAIS FAST",RUNTIME CRIME | FILMES+
+http://plutovip.eu:8880/live/osni1111/Online999/200110.m3u8
+#EXTINF:-1 tvg-id="Runtimecomedia.br" tvg-name="RUNTIME COMEDIA | FILMES+" tvg-logo="https://googleplusimages.com/RUNTIME.png" group-title="CANAIS FAST",RUNTIME COMEDIA | FILMES+
+http://plutovip.eu:8880/live/osni1111/Online999/200111.m3u8
+#EXTINF:-1 tvg-id="Runtimeromance.br" tvg-name="RUNTIME ROMANCE | FILMES+" tvg-logo="https://googleplusimages.com/RUNTIME.png" group-title="CANAIS FAST",RUNTIME ROMANCE | FILMES+
+http://plutovip.eu:8880/live/osni1111/Online999/200112.m3u8
+#EXTINF:-1 tvg-id="Sessaotrash.br" tvg-name="SESSAO TRASH | FILMES+" tvg-logo="https://googleplusimages.com/SESSAOTRASH.png" group-title="CANAIS FAST",SESSAO TRASH | FILMES+
+http://plutovip.eu:8880/live/osni1111/Online999/271618.m3u8
+#EXTINF:-1 tvg-id="Ausente.br" tvg-name="SÓ PLAY MOVIES | FILMES+" tvg-logo="https://googleplusimages.com/SOPLAY.png" group-title="CANAIS FAST",SÓ PLAY MOVIES | FILMES+
+http://plutovip.eu:8880/live/osni1111/Online999/220305.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SONY ONE CINEMA | FILMES+" tvg-logo="https://googleplusimages.com/SONYONE.png" group-title="CANAIS FAST",SONY ONE CINEMA | FILMES+
+http://plutovip.eu:8880/live/osni1111/Online999/271469.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SONY ONE EMOCOES | FILMES+" tvg-logo="https://googleplusimages.com/SONYONE.png" group-title="CANAIS FAST",SONY ONE EMOCOES | FILMES+
+http://plutovip.eu:8880/live/osni1111/Online999/271470.m3u8
+#EXTINF:-1 tvg-id="Sparktv.br" tvg-name="SPARKTV| FILMES+" tvg-logo="https://googleplusimages.com/SPARKTV.png" group-title="CANAIS FAST",SPARKTV| FILMES+
+http://plutovip.eu:8880/live/osni1111/Online999/220202.m3u8
+#EXTINF:-1 tvg-id="malhacao-fast" tvg-name="MALHACAO FAST | NOVELAS+" tvg-logo="https://googleplusimages.com/MALHACAOFAST.png" group-title="CANAIS FAST",MALHACAO FAST | NOVELAS+
+http://plutovip.eu:8880/live/osni1111/Online999/181625.m3u8
+#EXTINF:-1 tvg-id="681ba2ad93d3d19bcab47433" tvg-name="NATURETIME | CURIOSIDADES+" tvg-logo="https://googleplusimages.com/NATURETIME.png" group-title="CANAIS FAST",NATURETIME | CURIOSIDADES+
+http://plutovip.eu:8880/live/osni1111/Online999/277070.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VEJA+ |  NOTÍCIAS+" tvg-logo="https://googleplusimages.com/VEJAPLUS.png" group-title="CANAIS FAST",VEJA+ |  NOTÍCIAS+
+http://plutovip.eu:8880/live/osni1111/Online999/272059.m3u8
+#EXTINF:-1 tvg-id="Tvbrasilcentral.br" tvg-name="TV BRASIL CENTRAL HD+" tvg-logo="https://googleplusimages.com/TVCULTURA.png" group-title="ABERTOS",TV BRASIL CENTRAL HD+
+http://plutovip.eu:8880/live/osni1111/Online999/71542.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MLB NETWORK HD" tvg-logo="https://i.imgur.com/zTAEJng.png" group-title="ESPORTES",MLB NETWORK HD
+http://plutovip.eu:8880/live/osni1111/Online999/73829.m3u8
 #EXTINF:-1 tvg-id="EsportesPPV" tvg-name="Agenda Esportiva!" tvg-logo="https://www.picclickimg.com/hU0AAOSwjnhmrzRH/Nike-Flight-Premier-League-2024-2025-Official-Match-Soccer.webp" group-title="Agenda-Esportiva",Agenda Esportiva!
 http://batata.lat:80/crisuhd/aassddff/4529474.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="14:00 PORTUGAL X CONGO DR 1" tvg-logo="" group-title="Eventos do dia",14:00 PORTUGAL X CONGO DR 1
