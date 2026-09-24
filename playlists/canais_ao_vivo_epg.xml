@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="epg-br-auto-generator" generator-info-url="https://github.com/" date="20260924115206 +0000">
+<tv generator-info-name="epg-br-auto-generator" generator-info-url="https://github.com/" date="20260924171731 +0000">
   <channel id="24HAnimes">
     <display-name>Record News HD</display-name>
     <icon src="http://top-logos.xyz/pt/recordnews.png" />
@@ -130196,586 +130196,327 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme channel="br#premiere-4" start="20260924000000 -0300" stop="20260924020000 -0300">
-    <title lang="pt">Premiere 4</title>
-  </programme>
-  <programme channel="br#premiere-4" start="20260924020000 -0300" stop="20260924040000 -0300">
-    <title lang="pt">Premiere 4</title>
-  </programme>
-  <programme channel="br#premiere-4" start="20260924040000 -0300" stop="20260924060000 -0300">
-    <title lang="pt">Premiere 4</title>
-  </programme>
-  <programme channel="br#premiere-4" start="20260924060000 -0300" stop="20260924080000 -0300">
-    <title lang="pt">Premiere 4</title>
-  </programme>
-  <programme channel="br#premiere-4" start="20260924080000 -0300" stop="20260924100000 -0300">
-    <title lang="pt">Premiere 4</title>
-  </programme>
-  <programme channel="br#premiere-4" start="20260924100000 -0300" stop="20260924120000 -0300">
-    <title lang="pt">Premiere 4</title>
-  </programme>
-  <programme channel="br#premiere-4" start="20260924120000 -0300" stop="20260924140000 -0300">
-    <title lang="pt">Premiere 4</title>
-  </programme>
-  <programme channel="br#premiere-4" start="20260924140000 -0300" stop="20260924160000 -0300">
-    <title lang="pt">Premiere 4</title>
-  </programme>
-  <programme channel="br#premiere-4" start="20260924160000 -0300" stop="20260924180000 -0300">
-    <title lang="pt">Premiere 4</title>
-  </programme>
-  <programme channel="br#premiere-4" start="20260924180000 -0300" stop="20260924200000 -0300">
-    <title lang="pt">Premiere 4</title>
-  </programme>
-  <programme channel="br#premiere-4" start="20260924200000 -0300" stop="20260924220000 -0300">
-    <title lang="pt">Premiere 4</title>
-  </programme>
-  <programme channel="br#premiere-4" start="20260924220000 -0300" stop="20260925000000 -0300">
-    <title lang="pt">Premiere 4</title>
-  </programme>
-  <programme channel="br#premiere-4" start="20260925000000 -0300" stop="20260925020000 -0300">
-    <title lang="pt">Premiere 4</title>
-  </programme>
-  <programme channel="br#premiere-4" start="20260925020000 -0300" stop="20260925040000 -0300">
-    <title lang="pt">Premiere 4</title>
-  </programme>
-  <programme channel="br#premiere-4" start="20260925040000 -0300" stop="20260925060000 -0300">
-    <title lang="pt">Premiere 4</title>
-  </programme>
-  <programme channel="br#premiere-4" start="20260925060000 -0300" stop="20260925080000 -0300">
-    <title lang="pt">Premiere 4</title>
-  </programme>
-  <programme channel="br#premiere-4" start="20260925080000 -0300" stop="20260925100000 -0300">
-    <title lang="pt">Premiere 4</title>
-  </programme>
-  <programme channel="br#premiere-4" start="20260925100000 -0300" stop="20260925120000 -0300">
-    <title lang="pt">Premiere 4</title>
-  </programme>
-  <programme channel="br#premiere-4" start="20260925120000 -0300" stop="20260925140000 -0300">
-    <title lang="pt">Premiere 4</title>
-  </programme>
-  <programme channel="br#premiere-4" start="20260925140000 -0300" stop="20260925160000 -0300">
-    <title lang="pt">Premiere 4</title>
-  </programme>
-  <programme channel="br#premiere-4" start="20260925160000 -0300" stop="20260925180000 -0300">
-    <title lang="pt">Premiere 4</title>
-  </programme>
-  <programme channel="br#premiere-4" start="20260925180000 -0300" stop="20260925200000 -0300">
-    <title lang="pt">Premiere 4</title>
-  </programme>
-  <programme channel="br#premiere-4" start="20260925200000 -0300" stop="20260925220000 -0300">
-    <title lang="pt">Premiere 4</title>
-  </programme>
-  <programme channel="br#premiere-4" start="20260925220000 -0300" stop="20260926000000 -0300">
-    <title lang="pt">Premiere 4</title>
-  </programme>
-  <programme channel="br#premiere-5-brazil" start="20260924000000 -0300" stop="20260924020000 -0300">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
-    <desc lang="pt">Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!</desc>
-    <category lang="pt">Diversos</category>
-    <rating system="BR">
-      <value>5</value>
-    </rating>
-  </programme>
-  <programme channel="br#premiere-5-brazil" start="20260924020000 -0300" stop="20260924040000 -0300">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
-    <desc lang="pt">Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!</desc>
-    <category lang="pt">Diversos</category>
-    <rating system="BR">
-      <value>5</value>
-    </rating>
-  </programme>
-  <programme channel="br#premiere-5-brazil" start="20260924040000 -0300" stop="20260924060000 -0300">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
-    <desc lang="pt">Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!</desc>
-    <category lang="pt">Diversos</category>
-    <rating system="BR">
-      <value>5</value>
-    </rating>
-  </programme>
-  <programme channel="br#premiere-5-brazil" start="20260924060000 -0300" stop="20260924080000 -0300">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
-    <desc lang="pt">Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!</desc>
-    <category lang="pt">Diversos</category>
-    <rating system="BR">
-      <value>5</value>
-    </rating>
-  </programme>
-  <programme channel="br#premiere-5-brazil" start="20260924080000 -0300" stop="20260924100000 -0300">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
-    <desc lang="pt">Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!</desc>
-    <category lang="pt">Diversos</category>
-    <rating system="BR">
-      <value>5</value>
-    </rating>
-  </programme>
-  <programme channel="br#premiere-5-brazil" start="20260924100000 -0300" stop="20260924120000 -0300">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
-    <desc lang="pt">Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!</desc>
-    <category lang="pt">Diversos</category>
-    <rating system="BR">
-      <value>5</value>
-    </rating>
-  </programme>
-  <programme channel="br#premiere-5-brazil" start="20260924120000 -0300" stop="20260924140000 -0300">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
-    <desc lang="pt">Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!</desc>
-    <category lang="pt">Diversos</category>
-    <rating system="BR">
-      <value>5</value>
-    </rating>
-  </programme>
-  <programme channel="br#premiere-5-brazil" start="20260924140000 -0300" stop="20260924160000 -0300">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
-    <desc lang="pt">Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!</desc>
-    <category lang="pt">Diversos</category>
-    <rating system="BR">
-      <value>5</value>
-    </rating>
-  </programme>
-  <programme channel="br#premiere-5-brazil" start="20260924160000 -0300" stop="20260924180000 -0300">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
-    <desc lang="pt">Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!</desc>
-    <category lang="pt">Diversos</category>
-    <rating system="BR">
-      <value>5</value>
-    </rating>
-  </programme>
-  <programme channel="br#premiere-5-brazil" start="20260924180000 -0300" stop="20260924200000 -0300">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
-    <desc lang="pt">Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!</desc>
-    <category lang="pt">Diversos</category>
-    <rating system="BR">
-      <value>5</value>
-    </rating>
-  </programme>
-  <programme channel="br#premiere-5-brazil" start="20260924200000 -0300" stop="20260924220000 -0300">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
-    <desc lang="pt">Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!</desc>
-    <category lang="pt">Diversos</category>
-    <rating system="BR">
-      <value>5</value>
-    </rating>
-  </programme>
-  <programme channel="br#premiere-5-brazil" start="20260924220000 -0300" stop="20260925000000 -0300">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
-    <desc lang="pt">Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!</desc>
-    <category lang="pt">Diversos</category>
-    <rating system="BR">
-      <value>5</value>
-    </rating>
-  </programme>
-  <programme channel="br#premiere-5-brazil" start="20260925000000 -0300" stop="20260925020000 -0300">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
-    <desc lang="pt">Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!</desc>
-    <category lang="pt">Diversos</category>
-    <rating system="BR">
-      <value>5</value>
-    </rating>
-  </programme>
-  <programme channel="br#premiere-5-brazil" start="20260925020000 -0300" stop="20260925040000 -0300">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
-    <desc lang="pt">Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!</desc>
-    <category lang="pt">Diversos</category>
-    <rating system="BR">
-      <value>5</value>
-    </rating>
-  </programme>
-  <programme channel="br#premiere-5-brazil" start="20260925040000 -0300" stop="20260925060000 -0300">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
-    <desc lang="pt">Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!</desc>
-    <category lang="pt">Diversos</category>
-    <rating system="BR">
-      <value>5</value>
-    </rating>
-  </programme>
-  <programme channel="br#premiere-5-brazil" start="20260925060000 -0300" stop="20260925080000 -0300">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
-    <desc lang="pt">Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!</desc>
-    <category lang="pt">Diversos</category>
-    <rating system="BR">
-      <value>5</value>
-    </rating>
-  </programme>
-  <programme channel="br#premiere-5-brazil" start="20260925080000 -0300" stop="20260925100000 -0300">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
-    <desc lang="pt">Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!</desc>
-    <category lang="pt">Diversos</category>
-    <rating system="BR">
-      <value>5</value>
-    </rating>
-  </programme>
-  <programme channel="br#premiere-5-brazil" start="20260925100000 -0300" stop="20260925120000 -0300">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
-    <desc lang="pt">Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!</desc>
-    <category lang="pt">Diversos</category>
-    <rating system="BR">
-      <value>5</value>
-    </rating>
-  </programme>
-  <programme channel="br#premiere-5-brazil" start="20260925120000 -0300" stop="20260925140000 -0300">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
-    <desc lang="pt">Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!</desc>
-    <category lang="pt">Diversos</category>
-    <rating system="BR">
-      <value>5</value>
-    </rating>
-  </programme>
-  <programme channel="br#premiere-5-brazil" start="20260925140000 -0300" stop="20260925160000 -0300">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
-    <desc lang="pt">Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!</desc>
-    <category lang="pt">Diversos</category>
-    <rating system="BR">
-      <value>5</value>
-    </rating>
-  </programme>
-  <programme channel="br#premiere-5-brazil" start="20260925160000 -0300" stop="20260925180000 -0300">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
-    <desc lang="pt">Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!</desc>
-    <category lang="pt">Diversos</category>
-    <rating system="BR">
-      <value>5</value>
-    </rating>
-  </programme>
-  <programme channel="br#premiere-5-brazil" start="20260925180000 -0300" stop="20260925200000 -0300">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
-    <desc lang="pt">Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!</desc>
-    <category lang="pt">Diversos</category>
-    <rating system="BR">
-      <value>5</value>
-    </rating>
-  </programme>
-  <programme channel="br#premiere-5-brazil" start="20260925200000 -0300" stop="20260925220000 -0300">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
-  </programme>
-  <programme channel="br#premiere-5-brazil" start="20260925220000 -0300" stop="20260926000000 -0300">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
-    <desc lang="pt">Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!</desc>
-    <category lang="pt">Diversos</category>
-    <rating system="BR">
-      <value>5</value>
-    </rating>
-  </programme>
-  <programme channel="br#premiere-6-hd" start="20260924001000 -0300" stop="20260924010000 -0300">
+  <programme channel="br#premiere-4" start="20260924001000 -0300" stop="20260924010000 -0300">
     <title lang="pt">Giro Da Rodada</title>
     <sub-title lang="pt">27ª Rodada</sub-title>
   </programme>
-  <programme channel="br#premiere-6-hd" start="20260924010000 -0300" stop="20260924013000 -0300">
+  <programme channel="br#premiere-4" start="20260924010000 -0300" stop="20260924013000 -0300">
     <title lang="pt">VT</title>
     <sub-title lang="pt">Palmeiras x Vasco</sub-title>
   </programme>
-  <programme channel="br#premiere-6-hd" start="20260924013000 -0300" stop="20260924020000 -0300">
+  <programme channel="br#premiere-4" start="20260924013000 -0300" stop="20260924020000 -0300">
     <title lang="pt">VT</title>
     <sub-title lang="pt">Bragantino x Grêmio</sub-title>
   </programme>
-  <programme channel="br#premiere-6-hd" start="20260924020000 -0300" stop="20260924023000 -0300">
+  <programme channel="br#premiere-4" start="20260924020000 -0300" stop="20260924023000 -0300">
     <title lang="pt">VT</title>
     <sub-title lang="pt">Vitória x Bahia</sub-title>
   </programme>
-  <programme channel="br#premiere-6-hd" start="20260924023000 -0300" stop="20260924030000 -0300">
+  <programme channel="br#premiere-4" start="20260924023000 -0300" stop="20260924030000 -0300">
     <title lang="pt">VT</title>
     <sub-title lang="pt">Internacional x Atlético-MG</sub-title>
   </programme>
-  <programme channel="br#premiere-6-hd" start="20260924030000 -0300" stop="20260924033000 -0300">
+  <programme channel="br#premiere-4" start="20260924030000 -0300" stop="20260924033000 -0300">
     <title lang="pt">VT</title>
     <sub-title lang="pt">Fluminense x Remo</sub-title>
   </programme>
-  <programme channel="br#premiere-6-hd" start="20260924033000 -0300" stop="20260924040000 -0300">
+  <programme channel="br#premiere-4" start="20260924033000 -0300" stop="20260924040000 -0300">
     <title lang="pt">VT</title>
     <sub-title lang="pt">Santos x Mirassol</sub-title>
   </programme>
-  <programme channel="br#premiere-6-hd" start="20260924040000 -0300" stop="20260924043000 -0300">
+  <programme channel="br#premiere-4" start="20260924040000 -0300" stop="20260924043000 -0300">
     <title lang="pt">VT</title>
     <sub-title lang="pt">Coritiba x Corinthians</sub-title>
   </programme>
-  <programme channel="br#premiere-6-hd" start="20260924043000 -0300" stop="20260924050000 -0300">
+  <programme channel="br#premiere-4" start="20260924043000 -0300" stop="20260924050000 -0300">
     <title lang="pt">VT</title>
     <sub-title lang="pt">Chapecoense x São Paulo</sub-title>
   </programme>
-  <programme channel="br#premiere-6-hd" start="20260924050000 -0300" stop="20260924060000 -0300">
+  <programme channel="br#premiere-4" start="20260924050000 -0300" stop="20260924060000 -0300">
     <title lang="pt">Giro Da Rodada</title>
     <sub-title lang="pt">27ª Rodada</sub-title>
   </programme>
-  <programme channel="br#premiere-6-hd" start="20260924060000 -0300" stop="20260924063000 -0300">
+  <programme channel="br#premiere-4" start="20260924060000 -0300" stop="20260924063000 -0300">
     <title lang="pt">VT</title>
     <sub-title lang="pt">Vasco x Santos</sub-title>
   </programme>
-  <programme channel="br#premiere-6-hd" start="20260924063000 -0300" stop="20260924070000 -0300">
+  <programme channel="br#premiere-4" start="20260924063000 -0300" stop="20260924070000 -0300">
     <title lang="pt">VT</title>
     <sub-title lang="pt">Atlético-MG x Grêmio</sub-title>
   </programme>
-  <programme channel="br#premiere-6-hd" start="20260924070000 -0300" stop="20260924073000 -0300">
+  <programme channel="br#premiere-4" start="20260924070000 -0300" stop="20260924073000 -0300">
     <title lang="pt">VT</title>
     <sub-title lang="pt">Chapecoense x Bahia</sub-title>
   </programme>
-  <programme channel="br#premiere-6-hd" start="20260924073000 -0300" stop="20260924080000 -0300">
+  <programme channel="br#premiere-4" start="20260924073000 -0300" stop="20260924080000 -0300">
     <title lang="pt">VT</title>
     <sub-title lang="pt">São Paulo x Coritiba</sub-title>
   </programme>
-  <programme channel="br#premiere-6-hd" start="20260924080000 -0300" stop="20260924083000 -0300">
+  <programme channel="br#premiere-4" start="20260924080000 -0300" stop="20260924083000 -0300">
     <title lang="pt">VT</title>
     <sub-title lang="pt">Internacional x Remo</sub-title>
   </programme>
-  <programme channel="br#premiere-6-hd" start="20260924083000 -0300" stop="20260924090000 -0300">
+  <programme channel="br#premiere-4" start="20260924083000 -0300" stop="20260924090000 -0300">
     <title lang="pt">VT</title>
     <sub-title lang="pt">Fluminense x Palmeiras</sub-title>
   </programme>
-  <programme channel="br#premiere-6-hd" start="20260924090000 -0300" stop="20260924093000 -0300">
+  <programme channel="br#premiere-4" start="20260924090000 -0300" stop="20260924093000 -0300">
     <title lang="pt">VT</title>
     <sub-title lang="pt">Athletico-PR x Bragantino</sub-title>
   </programme>
-  <programme channel="br#premiere-6-hd" start="20260924093000 -0300" stop="20260924100000 -0300">
+  <programme channel="br#premiere-4" start="20260924093000 -0300" stop="20260924100000 -0300">
     <title lang="pt">VT</title>
     <sub-title lang="pt">Mirassol x Flamengo</sub-title>
   </programme>
-  <programme channel="br#premiere-6-hd" start="20260924100000 -0300" stop="20260924103000 -0300">
+  <programme channel="br#premiere-4" start="20260924100000 -0300" stop="20260924103000 -0300">
     <title lang="pt">VT</title>
     <sub-title lang="pt">Vitória x Botafogo</sub-title>
   </programme>
-  <programme channel="br#premiere-6-hd" start="20260924103000 -0300" stop="20260924113000 -0300">
+  <programme channel="br#premiere-4" start="20260924103000 -0300" stop="20260924113000 -0300">
     <title lang="pt">Giro Da Rodada</title>
     <sub-title lang="pt">23ª Rodada</sub-title>
   </programme>
-  <programme channel="br#premiere-6-hd" start="20260924113000 -0300" stop="20260924120000 -0300">
+  <programme channel="br#premiere-4" start="20260924113000 -0300" stop="20260924120000 -0300">
     <title lang="pt">VT</title>
     <sub-title lang="pt">Grêmio x Vasco</sub-title>
   </programme>
-  <programme channel="br#premiere-6-hd" start="20260924120000 -0300" stop="20260924123000 -0300">
+  <programme channel="br#premiere-4" start="20260924120000 -0300" stop="20260924123000 -0300">
     <title lang="pt">VT</title>
     <sub-title lang="pt">Atlético-MG x Fluminense</sub-title>
   </programme>
-  <programme channel="br#premiere-6-hd" start="20260924123000 -0300" stop="20260924130000 -0300">
+  <programme channel="br#premiere-4" start="20260924123000 -0300" stop="20260924130000 -0300">
     <title lang="pt">VT</title>
     <sub-title lang="pt">Chapecoense x Internacional</sub-title>
   </programme>
-  <programme channel="br#premiere-6-hd" start="20260924130000 -0300" stop="20260924133000 -0300">
+  <programme channel="br#premiere-4" start="20260924130000 -0300" stop="20260924133000 -0300">
     <title lang="pt">VT</title>
     <sub-title lang="pt">Coritiba x Athletico-PR</sub-title>
   </programme>
-  <programme channel="br#premiere-6-hd" start="20260924133000 -0300" stop="20260924140000 -0300">
+  <programme channel="br#premiere-4" start="20260924133000 -0300" stop="20260924140000 -0300">
     <title lang="pt">VT</title>
     <sub-title lang="pt">Palmeiras x São Paulo</sub-title>
   </programme>
-  <programme channel="br#premiere-6-hd" start="20260924140000 -0300" stop="20260924143000 -0300">
+  <programme channel="br#premiere-4" start="20260924140000 -0300" stop="20260924143000 -0300">
     <title lang="pt">VT</title>
     <sub-title lang="pt">Santos x Cruzeiro</sub-title>
   </programme>
-  <programme channel="br#premiere-6-hd" start="20260924143000 -0300" stop="20260924150000 -0300">
+  <programme channel="br#premiere-4" start="20260924143000 -0300" stop="20260924150000 -0300">
     <title lang="pt">VT</title>
     <sub-title lang="pt">Flamengo x Corinthians</sub-title>
   </programme>
-  <programme channel="br#premiere-6-hd" start="20260924150000 -0300" stop="20260924153000 -0300">
+  <programme channel="br#premiere-4" start="20260924150000 -0300" stop="20260924153000 -0300">
     <title lang="pt">VT</title>
     <sub-title lang="pt">Mirassol x Vitória</sub-title>
   </programme>
-  <programme channel="br#premiere-6-hd" start="20260924153000 -0300" stop="20260924160000 -0300">
+  <programme channel="br#premiere-4" start="20260924153000 -0300" stop="20260924160000 -0300">
     <title lang="pt">VT</title>
     <sub-title lang="pt">Bahia x Remo</sub-title>
   </programme>
-  <programme channel="br#premiere-6-hd" start="20260924160000 -0300" stop="20260924170000 -0300">
+  <programme channel="br#premiere-4" start="20260924160000 -0300" stop="20260924170000 -0300">
     <title lang="pt">Giro Da Rodada</title>
     <sub-title lang="pt">27ª Rodada</sub-title>
   </programme>
-  <programme channel="br#premiere-6-hd" start="20260924170000 -0300" stop="20260924173000 -0300">
+  <programme channel="br#premiere-4" start="20260924170000 -0300" stop="20260924173000 -0300">
     <title lang="pt">VT</title>
     <sub-title lang="pt">Remo x Flamengo</sub-title>
   </programme>
-  <programme channel="br#premiere-6-hd" start="20260924173000 -0300" stop="20260924180000 -0300">
+  <programme channel="br#premiere-4" start="20260924173000 -0300" stop="20260924180000 -0300">
     <title lang="pt">VT</title>
     <sub-title lang="pt">Internacional x Santos</sub-title>
   </programme>
-  <programme channel="br#premiere-6-hd" start="20260924180000 -0300" stop="20260924183000 -0300">
+  <programme channel="br#premiere-4" start="20260924180000 -0300" stop="20260924183000 -0300">
     <title lang="pt">VT</title>
     <sub-title lang="pt">Botafogo x Palmeiras</sub-title>
   </programme>
-  <programme channel="br#premiere-6-hd" start="20260924183000 -0300" stop="20260924190000 -0300">
+  <programme channel="br#premiere-4" start="20260924183000 -0300" stop="20260924190000 -0300">
     <title lang="pt">VT</title>
     <sub-title lang="pt">Cruzeiro x Athletico-PR</sub-title>
   </programme>
-  <programme channel="br#premiere-6-hd" start="20260924190000 -0300" stop="20260924193000 -0300">
+  <programme channel="br#premiere-4" start="20260924190000 -0300" stop="20260924193000 -0300">
     <title lang="pt">VT</title>
     <sub-title lang="pt">Vitória x Grêmio</sub-title>
   </programme>
-  <programme channel="br#premiere-6-hd" start="20260924193000 -0300" stop="20260924200000 -0300">
+  <programme channel="br#premiere-4" start="20260924193000 -0300" stop="20260924200000 -0300">
     <title lang="pt">VT</title>
     <sub-title lang="pt">Coritiba x Mirassol</sub-title>
   </programme>
-  <programme channel="br#premiere-6-hd" start="20260924200000 -0300" stop="20260924203000 -0300">
+  <programme channel="br#premiere-4" start="20260924200000 -0300" stop="20260924203000 -0300">
     <title lang="pt">VT</title>
     <sub-title lang="pt">Bragantino x Bahia</sub-title>
   </programme>
-  <programme channel="br#premiere-6-hd" start="20260924203000 -0300" stop="20260924210000 -0300">
+  <programme channel="br#premiere-4" start="20260924203000 -0300" stop="20260924210000 -0300">
     <title lang="pt">VT</title>
     <sub-title lang="pt">São Paulo x Atlético-MG</sub-title>
   </programme>
-  <programme channel="br#premiere-6-hd" start="20260924210000 -0300" stop="20260924213000 -0300">
+  <programme channel="br#premiere-4" start="20260924210000 -0300" stop="20260924213000 -0300">
     <title lang="pt">VT</title>
     <sub-title lang="pt">Fluminense x Vasco</sub-title>
   </programme>
-  <programme channel="br#premiere-6-hd" start="20260924213000 -0300" stop="20260924223000 -0300">
+  <programme channel="br#premiere-4" start="20260924213000 -0300" stop="20260924223000 -0300">
     <title lang="pt">Giro Da Rodada</title>
     <sub-title lang="pt">26ª Rodada</sub-title>
   </programme>
-  <programme channel="br#premiere-6-hd" start="20260924223000 -0300" stop="20260924230000 -0300">
+  <programme channel="br#premiere-4" start="20260924223000 -0300" stop="20260924230000 -0300">
     <title lang="pt">VT</title>
     <sub-title lang="pt">Corinthians x Santos</sub-title>
   </programme>
-  <programme channel="br#premiere-6-hd" start="20260924230000 -0300" stop="20260924233000 -0300">
+  <programme channel="br#premiere-4" start="20260924230000 -0300" stop="20260924233000 -0300">
     <title lang="pt">VT</title>
     <sub-title lang="pt">Flamengo x Botafogo</sub-title>
   </programme>
-  <programme channel="br#premiere-6-hd" start="20260924233000 -0300" stop="20260925000000 -0300">
+  <programme channel="br#premiere-4" start="20260924233000 -0300" stop="20260925000000 -0300">
     <title lang="pt">VT</title>
     <sub-title lang="pt">Athletico-PR x Fluminense</sub-title>
   </programme>
-  <programme channel="br#premiere-6-hd" start="20260925000000 -0300" stop="20260925003000 -0300">
+  <programme channel="br#premiere-4" start="20260925000000 -0300" stop="20260925003000 -0300">
     <title lang="pt">VT</title>
     <sub-title lang="pt">Vasco x Cruzeiro</sub-title>
   </programme>
-  <programme channel="br#premiere-6-hd" start="20260925003000 -0300" stop="20260925010000 -0300">
+  <programme channel="br#premiere-4" start="20260925003000 -0300" stop="20260925010000 -0300">
     <title lang="pt">VT</title>
     <sub-title lang="pt">Athletico-PR x Fluminense</sub-title>
   </programme>
-  <programme channel="br#premiere-6-hd" start="20260925010000 -0300" stop="20260925013000 -0300">
+  <programme channel="br#premiere-4" start="20260925010000 -0300" stop="20260925013000 -0300">
     <title lang="pt">VT</title>
     <sub-title lang="pt">Atlético-MG x Vitória</sub-title>
   </programme>
-  <programme channel="br#premiere-6-hd" start="20260925013000 -0300" stop="20260925020000 -0300">
+  <programme channel="br#premiere-4" start="20260925013000 -0300" stop="20260925020000 -0300">
     <title lang="pt">VT</title>
     <sub-title lang="pt">São Paulo x Bragantino</sub-title>
   </programme>
-  <programme channel="br#premiere-6-hd" start="20260925020000 -0300" stop="20260925023000 -0300">
+  <programme channel="br#premiere-4" start="20260925020000 -0300" stop="20260925023000 -0300">
     <title lang="pt">VT</title>
     <sub-title lang="pt">Bahia x Internacional</sub-title>
   </programme>
-  <programme channel="br#premiere-6-hd" start="20260925023000 -0300" stop="20260925030000 -0300">
+  <programme channel="br#premiere-4" start="20260925023000 -0300" stop="20260925030000 -0300">
     <title lang="pt">VT</title>
     <sub-title lang="pt">Remo x Coritiba</sub-title>
   </programme>
-  <programme channel="br#premiere-6-hd" start="20260925030000 -0300" stop="20260925040000 -0300">
+  <programme channel="br#premiere-4" start="20260925030000 -0300" stop="20260925040000 -0300">
     <title lang="pt">Giro Da Rodada</title>
     <sub-title lang="pt">25ª Rodada</sub-title>
   </programme>
-  <programme channel="br#premiere-6-hd" start="20260925040000 -0300" stop="20260925043000 -0300">
+  <programme channel="br#premiere-4" start="20260925040000 -0300" stop="20260925043000 -0300">
     <title lang="pt">VT</title>
     <sub-title lang="pt">Palmeiras x Vasco</sub-title>
   </programme>
-  <programme channel="br#premiere-6-hd" start="20260925043000 -0300" stop="20260925050000 -0300">
+  <programme channel="br#premiere-4" start="20260925043000 -0300" stop="20260925050000 -0300">
     <title lang="pt">VT</title>
     <sub-title lang="pt">Bragantino x Grêmio</sub-title>
   </programme>
-  <programme channel="br#premiere-6-hd" start="20260925050000 -0300" stop="20260925053000 -0300">
+  <programme channel="br#premiere-4" start="20260925050000 -0300" stop="20260925053000 -0300">
     <title lang="pt">VT</title>
     <sub-title lang="pt">Vitória x Bahia</sub-title>
   </programme>
-  <programme channel="br#premiere-6-hd" start="20260925053000 -0300" stop="20260925060000 -0300">
+  <programme channel="br#premiere-4" start="20260925053000 -0300" stop="20260925060000 -0300">
     <title lang="pt">VT</title>
     <sub-title lang="pt">Internacional x Atlético-MG</sub-title>
   </programme>
-  <programme channel="br#premiere-6-hd" start="20260925060000 -0300" stop="20260925063000 -0300">
+  <programme channel="br#premiere-4" start="20260925060000 -0300" stop="20260925063000 -0300">
     <title lang="pt">VT</title>
     <sub-title lang="pt">Fluminense x Remo</sub-title>
   </programme>
-  <programme channel="br#premiere-6-hd" start="20260925063000 -0300" stop="20260925070000 -0300">
+  <programme channel="br#premiere-4" start="20260925063000 -0300" stop="20260925070000 -0300">
     <title lang="pt">VT</title>
     <sub-title lang="pt">Santos x Mirassol</sub-title>
   </programme>
-  <programme channel="br#premiere-6-hd" start="20260925070000 -0300" stop="20260925073000 -0300">
+  <programme channel="br#premiere-4" start="20260925070000 -0300" stop="20260925073000 -0300">
     <title lang="pt">VT</title>
     <sub-title lang="pt">Coritiba x Corinthians</sub-title>
   </programme>
-  <programme channel="br#premiere-6-hd" start="20260925073000 -0300" stop="20260925080000 -0300">
+  <programme channel="br#premiere-4" start="20260925073000 -0300" stop="20260925080000 -0300">
     <title lang="pt">VT</title>
     <sub-title lang="pt">Chapecoense x São Paulo</sub-title>
   </programme>
-  <programme channel="br#premiere-6-hd" start="20260925080000 -0300" stop="20260925090000 -0300">
+  <programme channel="br#premiere-4" start="20260925080000 -0300" stop="20260925090000 -0300">
     <title lang="pt">Giro Da Rodada</title>
     <sub-title lang="pt">25ª Rodada</sub-title>
   </programme>
-  <programme channel="br#premiere-6-hd" start="20260925090000 -0300" stop="20260925093000 -0300">
+  <programme channel="br#premiere-4" start="20260925090000 -0300" stop="20260925093000 -0300">
     <title lang="pt">VT</title>
     <sub-title lang="pt">Grêmio x Vasco</sub-title>
   </programme>
-  <programme channel="br#premiere-6-hd" start="20260925093000 -0300" stop="20260925100000 -0300">
+  <programme channel="br#premiere-4" start="20260925093000 -0300" stop="20260925100000 -0300">
     <title lang="pt">VT</title>
     <sub-title lang="pt">Atlético-MG x Fluminense</sub-title>
   </programme>
-  <programme channel="br#premiere-6-hd" start="20260925100000 -0300" stop="20260925103000 -0300">
+  <programme channel="br#premiere-4" start="20260925100000 -0300" stop="20260925103000 -0300">
     <title lang="pt">VT</title>
     <sub-title lang="pt">Chapecoense x Internacional</sub-title>
   </programme>
-  <programme channel="br#premiere-6-hd" start="20260925103000 -0300" stop="20260925110000 -0300">
+  <programme channel="br#premiere-4" start="20260925103000 -0300" stop="20260925110000 -0300">
     <title lang="pt">VT</title>
     <sub-title lang="pt">Coritiba x Athletico-PR</sub-title>
   </programme>
-  <programme channel="br#premiere-6-hd" start="20260925110000 -0300" stop="20260925113000 -0300">
+  <programme channel="br#premiere-4" start="20260925110000 -0300" stop="20260925113000 -0300">
     <title lang="pt">VT</title>
     <sub-title lang="pt">Palmeiras x São Paulo</sub-title>
   </programme>
-  <programme channel="br#premiere-6-hd" start="20260925113000 -0300" stop="20260925120000 -0300">
+  <programme channel="br#premiere-4" start="20260925113000 -0300" stop="20260925120000 -0300">
     <title lang="pt">VT</title>
     <sub-title lang="pt">Santos x Cruzeiro</sub-title>
   </programme>
-  <programme channel="br#premiere-6-hd" start="20260925120000 -0300" stop="20260925123000 -0300">
+  <programme channel="br#premiere-4" start="20260925120000 -0300" stop="20260925123000 -0300">
     <title lang="pt">VT</title>
     <sub-title lang="pt">Flamengo x Corinthians</sub-title>
   </programme>
-  <programme channel="br#premiere-6-hd" start="20260925123000 -0300" stop="20260925130000 -0300">
+  <programme channel="br#premiere-4" start="20260925123000 -0300" stop="20260925130000 -0300">
     <title lang="pt">VT</title>
     <sub-title lang="pt">Mirassol x Vitória</sub-title>
   </programme>
-  <programme channel="br#premiere-6-hd" start="20260925130000 -0300" stop="20260925140000 -0300">
+  <programme channel="br#premiere-4" start="20260925130000 -0300" stop="20260925140000 -0300">
     <title lang="pt">Giro Da Rodada</title>
     <sub-title lang="pt">27ª Rodada</sub-title>
   </programme>
-  <programme channel="br#premiere-6-hd" start="20260925140000 -0300" stop="20260925143000 -0300">
+  <programme channel="br#premiere-4" start="20260925140000 -0300" stop="20260925143000 -0300">
     <title lang="pt">VT</title>
     <sub-title lang="pt">Bahia x Remo</sub-title>
   </programme>
-  <programme channel="br#premiere-6-hd" start="20260925143000 -0300" stop="20260925150000 -0300">
+  <programme channel="br#premiere-4" start="20260925143000 -0300" stop="20260925150000 -0300">
     <title lang="pt">VT</title>
     <sub-title lang="pt">Grêmio x Vasco</sub-title>
   </programme>
-  <programme channel="br#premiere-6-hd" start="20260925150000 -0300" stop="20260925153000 -0300">
+  <programme channel="br#premiere-4" start="20260925150000 -0300" stop="20260925153000 -0300">
     <title lang="pt">VT</title>
     <sub-title lang="pt">Atlético-MG x Fluminense</sub-title>
   </programme>
-  <programme channel="br#premiere-6-hd" start="20260925153000 -0300" stop="20260925160000 -0300">
+  <programme channel="br#premiere-4" start="20260925153000 -0300" stop="20260925160000 -0300">
     <title lang="pt">VT</title>
     <sub-title lang="pt">Chapecoense x Internacional</sub-title>
   </programme>
-  <programme channel="br#premiere-6-hd" start="20260925160000 -0300" stop="20260925163000 -0300">
+  <programme channel="br#premiere-4" start="20260925160000 -0300" stop="20260925163000 -0300">
     <title lang="pt">VT</title>
     <sub-title lang="pt">Coritiba x Athletico-PR</sub-title>
   </programme>
-  <programme channel="br#premiere-6-hd" start="20260925163000 -0300" stop="20260925170000 -0300">
+  <programme channel="br#premiere-4" start="20260925163000 -0300" stop="20260925170000 -0300">
     <title lang="pt">VT</title>
     <sub-title lang="pt">Palmeiras x São Paulo</sub-title>
   </programme>
-  <programme channel="br#premiere-6-hd" start="20260925170000 -0300" stop="20260925173000 -0300">
+  <programme channel="br#premiere-4" start="20260925170000 -0300" stop="20260925173000 -0300">
     <title lang="pt">VT</title>
     <sub-title lang="pt">Santos x Cruzeiro</sub-title>
   </programme>
-  <programme channel="br#premiere-6-hd" start="20260925173000 -0300" stop="20260925180000 -0300">
+  <programme channel="br#premiere-4" start="20260925173000 -0300" stop="20260925180000 -0300">
     <title lang="pt">VT</title>
     <sub-title lang="pt">Flamengo x Corinthians</sub-title>
   </programme>
-  <programme channel="br#premiere-6-hd" start="20260925180000 -0300" stop="20260925183000 -0300">
+  <programme channel="br#premiere-4" start="20260925180000 -0300" stop="20260925183000 -0300">
     <title lang="pt">VT</title>
     <sub-title lang="pt">Mirassol x Vitória</sub-title>
   </programme>
-  <programme channel="br#premiere-6-hd" start="20260925183000 -0300" stop="20260925190000 -0300">
+  <programme channel="br#premiere-4" start="20260925183000 -0300" stop="20260925190000 -0300">
     <title lang="pt">VT</title>
     <sub-title lang="pt">Bahia x Remo</sub-title>
   </programme>
-  <programme channel="br#premiere-6-hd" start="20260925190000 -0300" stop="20260925193000 -0300">
+  <programme channel="br#premiere-4" start="20260925190000 -0300" stop="20260925193000 -0300">
     <title lang="pt">Giro Da Rodada</title>
     <sub-title lang="pt">27ª Rodada</sub-title>
   </programme>
-  <programme channel="br#premiere-6-hd" start="20260925193000 -0300" stop="20260925203000 -0300">
+  <programme channel="br#premiere-4" start="20260925193000 -0300" stop="20260925203000 -0300">
     <title lang="pt">VT</title>
     <sub-title lang="pt">Grêmio x Vasco</sub-title>
   </programme>
-  <programme channel="br#premiere-6-hd" start="20260925203000 -0300" stop="20260925231000 -0300">
+  <programme channel="br#premiere-4" start="20260925203000 -0300" stop="20260925231000 -0300">
     <title lang="pt">Aquecimento sportv</title>
     <sub-title lang="pt">Ao Vivo</sub-title>
     <desc lang="pt">Acompanhe o que antecede os jogos, todas as escalações, preparações para o que antecede aos principais eventos do mundo esportes, aqui no sportv!</desc>
@@ -130784,13 +130525,542 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme channel="br#premiere-6-hd" start="20260925231000 -0300" stop="20260925234000 -0300">
+  <programme channel="br#premiere-4" start="20260925231000 -0300" stop="20260925234000 -0300">
     <title lang="pt">VT</title>
     <sub-title lang="pt">Grêmio x Vasco</sub-title>
   </programme>
-  <programme channel="br#premiere-6-hd" start="20260925234000 -0300" stop="20260926001000 -0300">
+  <programme channel="br#premiere-4" start="20260925234000 -0300" stop="20260926001000 -0300">
     <title lang="pt">VT</title>
     <sub-title lang="pt">Atlético-MG x Fluminense</sub-title>
+  </programme>
+  <programme channel="br#premiere-5-brazil" start="20260924001000 -0300" stop="20260924010000 -0300">
+    <title lang="pt">Giro Da Rodada</title>
+    <sub-title lang="pt">27ª Rodada</sub-title>
+  </programme>
+  <programme channel="br#premiere-5-brazil" start="20260924010000 -0300" stop="20260924013000 -0300">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Palmeiras x Vasco</sub-title>
+  </programme>
+  <programme channel="br#premiere-5-brazil" start="20260924013000 -0300" stop="20260924020000 -0300">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Bragantino x Grêmio</sub-title>
+  </programme>
+  <programme channel="br#premiere-5-brazil" start="20260924020000 -0300" stop="20260924023000 -0300">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Vitória x Bahia</sub-title>
+  </programme>
+  <programme channel="br#premiere-5-brazil" start="20260924023000 -0300" stop="20260924030000 -0300">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Internacional x Atlético-MG</sub-title>
+  </programme>
+  <programme channel="br#premiere-5-brazil" start="20260924030000 -0300" stop="20260924033000 -0300">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Fluminense x Remo</sub-title>
+  </programme>
+  <programme channel="br#premiere-5-brazil" start="20260924033000 -0300" stop="20260924040000 -0300">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Santos x Mirassol</sub-title>
+  </programme>
+  <programme channel="br#premiere-5-brazil" start="20260924040000 -0300" stop="20260924043000 -0300">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Coritiba x Corinthians</sub-title>
+  </programme>
+  <programme channel="br#premiere-5-brazil" start="20260924043000 -0300" stop="20260924050000 -0300">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Chapecoense x São Paulo</sub-title>
+  </programme>
+  <programme channel="br#premiere-5-brazil" start="20260924050000 -0300" stop="20260924060000 -0300">
+    <title lang="pt">Giro Da Rodada</title>
+    <sub-title lang="pt">27ª Rodada</sub-title>
+  </programme>
+  <programme channel="br#premiere-5-brazil" start="20260924060000 -0300" stop="20260924063000 -0300">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Vasco x Santos</sub-title>
+  </programme>
+  <programme channel="br#premiere-5-brazil" start="20260924063000 -0300" stop="20260924070000 -0300">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Atlético-MG x Grêmio</sub-title>
+  </programme>
+  <programme channel="br#premiere-5-brazil" start="20260924070000 -0300" stop="20260924073000 -0300">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Chapecoense x Bahia</sub-title>
+  </programme>
+  <programme channel="br#premiere-5-brazil" start="20260924073000 -0300" stop="20260924080000 -0300">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">São Paulo x Coritiba</sub-title>
+  </programme>
+  <programme channel="br#premiere-5-brazil" start="20260924080000 -0300" stop="20260924083000 -0300">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Internacional x Remo</sub-title>
+  </programme>
+  <programme channel="br#premiere-5-brazil" start="20260924083000 -0300" stop="20260924090000 -0300">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Fluminense x Palmeiras</sub-title>
+  </programme>
+  <programme channel="br#premiere-5-brazil" start="20260924090000 -0300" stop="20260924093000 -0300">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Athletico-PR x Bragantino</sub-title>
+  </programme>
+  <programme channel="br#premiere-5-brazil" start="20260924093000 -0300" stop="20260924100000 -0300">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Mirassol x Flamengo</sub-title>
+  </programme>
+  <programme channel="br#premiere-5-brazil" start="20260924100000 -0300" stop="20260924103000 -0300">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Vitória x Botafogo</sub-title>
+  </programme>
+  <programme channel="br#premiere-5-brazil" start="20260924103000 -0300" stop="20260924113000 -0300">
+    <title lang="pt">Giro Da Rodada</title>
+    <sub-title lang="pt">23ª Rodada</sub-title>
+  </programme>
+  <programme channel="br#premiere-5-brazil" start="20260924113000 -0300" stop="20260924120000 -0300">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Grêmio x Vasco</sub-title>
+  </programme>
+  <programme channel="br#premiere-5-brazil" start="20260924120000 -0300" stop="20260924123000 -0300">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Atlético-MG x Fluminense</sub-title>
+  </programme>
+  <programme channel="br#premiere-5-brazil" start="20260924123000 -0300" stop="20260924130000 -0300">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Chapecoense x Internacional</sub-title>
+  </programme>
+  <programme channel="br#premiere-5-brazil" start="20260924130000 -0300" stop="20260924133000 -0300">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Coritiba x Athletico-PR</sub-title>
+  </programme>
+  <programme channel="br#premiere-5-brazil" start="20260924133000 -0300" stop="20260924140000 -0300">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Palmeiras x São Paulo</sub-title>
+  </programme>
+  <programme channel="br#premiere-5-brazil" start="20260924140000 -0300" stop="20260924143000 -0300">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Santos x Cruzeiro</sub-title>
+  </programme>
+  <programme channel="br#premiere-5-brazil" start="20260924143000 -0300" stop="20260924150000 -0300">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Flamengo x Corinthians</sub-title>
+  </programme>
+  <programme channel="br#premiere-5-brazil" start="20260924150000 -0300" stop="20260924153000 -0300">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Mirassol x Vitória</sub-title>
+  </programme>
+  <programme channel="br#premiere-5-brazil" start="20260924153000 -0300" stop="20260924160000 -0300">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Bahia x Remo</sub-title>
+  </programme>
+  <programme channel="br#premiere-5-brazil" start="20260924160000 -0300" stop="20260924170000 -0300">
+    <title lang="pt">Giro Da Rodada</title>
+    <sub-title lang="pt">27ª Rodada</sub-title>
+  </programme>
+  <programme channel="br#premiere-5-brazil" start="20260924170000 -0300" stop="20260924173000 -0300">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Remo x Flamengo</sub-title>
+  </programme>
+  <programme channel="br#premiere-5-brazil" start="20260924173000 -0300" stop="20260924180000 -0300">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Internacional x Santos</sub-title>
+  </programme>
+  <programme channel="br#premiere-5-brazil" start="20260924180000 -0300" stop="20260924183000 -0300">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Botafogo x Palmeiras</sub-title>
+  </programme>
+  <programme channel="br#premiere-5-brazil" start="20260924183000 -0300" stop="20260924190000 -0300">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Cruzeiro x Athletico-PR</sub-title>
+  </programme>
+  <programme channel="br#premiere-5-brazil" start="20260924190000 -0300" stop="20260924193000 -0300">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Vitória x Grêmio</sub-title>
+  </programme>
+  <programme channel="br#premiere-5-brazil" start="20260924193000 -0300" stop="20260924200000 -0300">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Coritiba x Mirassol</sub-title>
+  </programme>
+  <programme channel="br#premiere-5-brazil" start="20260924200000 -0300" stop="20260924203000 -0300">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Bragantino x Bahia</sub-title>
+  </programme>
+  <programme channel="br#premiere-5-brazil" start="20260924203000 -0300" stop="20260924210000 -0300">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">São Paulo x Atlético-MG</sub-title>
+  </programme>
+  <programme channel="br#premiere-5-brazil" start="20260924210000 -0300" stop="20260924213000 -0300">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Fluminense x Vasco</sub-title>
+  </programme>
+  <programme channel="br#premiere-5-brazil" start="20260924213000 -0300" stop="20260924223000 -0300">
+    <title lang="pt">Giro Da Rodada</title>
+    <sub-title lang="pt">26ª Rodada</sub-title>
+  </programme>
+  <programme channel="br#premiere-5-brazil" start="20260924223000 -0300" stop="20260924230000 -0300">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Corinthians x Santos</sub-title>
+  </programme>
+  <programme channel="br#premiere-5-brazil" start="20260924230000 -0300" stop="20260924233000 -0300">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Flamengo x Botafogo</sub-title>
+  </programme>
+  <programme channel="br#premiere-5-brazil" start="20260924233000 -0300" stop="20260925000000 -0300">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Athletico-PR x Fluminense</sub-title>
+  </programme>
+  <programme channel="br#premiere-5-brazil" start="20260925000000 -0300" stop="20260925003000 -0300">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Vasco x Cruzeiro</sub-title>
+  </programme>
+  <programme channel="br#premiere-5-brazil" start="20260925003000 -0300" stop="20260925010000 -0300">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Athletico-PR x Fluminense</sub-title>
+  </programme>
+  <programme channel="br#premiere-5-brazil" start="20260925010000 -0300" stop="20260925013000 -0300">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Atlético-MG x Vitória</sub-title>
+  </programme>
+  <programme channel="br#premiere-5-brazil" start="20260925013000 -0300" stop="20260925020000 -0300">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">São Paulo x Bragantino</sub-title>
+  </programme>
+  <programme channel="br#premiere-5-brazil" start="20260925020000 -0300" stop="20260925023000 -0300">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Bahia x Internacional</sub-title>
+  </programme>
+  <programme channel="br#premiere-5-brazil" start="20260925023000 -0300" stop="20260925030000 -0300">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Remo x Coritiba</sub-title>
+  </programme>
+  <programme channel="br#premiere-5-brazil" start="20260925030000 -0300" stop="20260925040000 -0300">
+    <title lang="pt">Giro Da Rodada</title>
+    <sub-title lang="pt">25ª Rodada</sub-title>
+  </programme>
+  <programme channel="br#premiere-5-brazil" start="20260925040000 -0300" stop="20260925043000 -0300">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Palmeiras x Vasco</sub-title>
+  </programme>
+  <programme channel="br#premiere-5-brazil" start="20260925043000 -0300" stop="20260925050000 -0300">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Bragantino x Grêmio</sub-title>
+  </programme>
+  <programme channel="br#premiere-5-brazil" start="20260925050000 -0300" stop="20260925053000 -0300">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Vitória x Bahia</sub-title>
+  </programme>
+  <programme channel="br#premiere-5-brazil" start="20260925053000 -0300" stop="20260925060000 -0300">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Internacional x Atlético-MG</sub-title>
+  </programme>
+  <programme channel="br#premiere-5-brazil" start="20260925060000 -0300" stop="20260925063000 -0300">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Fluminense x Remo</sub-title>
+  </programme>
+  <programme channel="br#premiere-5-brazil" start="20260925063000 -0300" stop="20260925070000 -0300">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Santos x Mirassol</sub-title>
+  </programme>
+  <programme channel="br#premiere-5-brazil" start="20260925070000 -0300" stop="20260925073000 -0300">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Coritiba x Corinthians</sub-title>
+  </programme>
+  <programme channel="br#premiere-5-brazil" start="20260925073000 -0300" stop="20260925080000 -0300">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Chapecoense x São Paulo</sub-title>
+  </programme>
+  <programme channel="br#premiere-5-brazil" start="20260925080000 -0300" stop="20260925090000 -0300">
+    <title lang="pt">Giro Da Rodada</title>
+    <sub-title lang="pt">25ª Rodada</sub-title>
+  </programme>
+  <programme channel="br#premiere-5-brazil" start="20260925090000 -0300" stop="20260925093000 -0300">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Grêmio x Vasco</sub-title>
+  </programme>
+  <programme channel="br#premiere-5-brazil" start="20260925093000 -0300" stop="20260925100000 -0300">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Atlético-MG x Fluminense</sub-title>
+  </programme>
+  <programme channel="br#premiere-5-brazil" start="20260925100000 -0300" stop="20260925103000 -0300">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Chapecoense x Internacional</sub-title>
+  </programme>
+  <programme channel="br#premiere-5-brazil" start="20260925103000 -0300" stop="20260925110000 -0300">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Coritiba x Athletico-PR</sub-title>
+  </programme>
+  <programme channel="br#premiere-5-brazil" start="20260925110000 -0300" stop="20260925113000 -0300">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Palmeiras x São Paulo</sub-title>
+  </programme>
+  <programme channel="br#premiere-5-brazil" start="20260925113000 -0300" stop="20260925120000 -0300">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Santos x Cruzeiro</sub-title>
+  </programme>
+  <programme channel="br#premiere-5-brazil" start="20260925120000 -0300" stop="20260925123000 -0300">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Flamengo x Corinthians</sub-title>
+  </programme>
+  <programme channel="br#premiere-5-brazil" start="20260925123000 -0300" stop="20260925130000 -0300">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Mirassol x Vitória</sub-title>
+  </programme>
+  <programme channel="br#premiere-5-brazil" start="20260925130000 -0300" stop="20260925140000 -0300">
+    <title lang="pt">Giro Da Rodada</title>
+    <sub-title lang="pt">27ª Rodada</sub-title>
+  </programme>
+  <programme channel="br#premiere-5-brazil" start="20260925140000 -0300" stop="20260925143000 -0300">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Bahia x Remo</sub-title>
+  </programme>
+  <programme channel="br#premiere-5-brazil" start="20260925143000 -0300" stop="20260925150000 -0300">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Grêmio x Vasco</sub-title>
+  </programme>
+  <programme channel="br#premiere-5-brazil" start="20260925150000 -0300" stop="20260925153000 -0300">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Atlético-MG x Fluminense</sub-title>
+  </programme>
+  <programme channel="br#premiere-5-brazil" start="20260925153000 -0300" stop="20260925160000 -0300">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Chapecoense x Internacional</sub-title>
+  </programme>
+  <programme channel="br#premiere-5-brazil" start="20260925160000 -0300" stop="20260925163000 -0300">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Coritiba x Athletico-PR</sub-title>
+  </programme>
+  <programme channel="br#premiere-5-brazil" start="20260925163000 -0300" stop="20260925170000 -0300">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Palmeiras x São Paulo</sub-title>
+  </programme>
+  <programme channel="br#premiere-5-brazil" start="20260925170000 -0300" stop="20260925173000 -0300">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Santos x Cruzeiro</sub-title>
+  </programme>
+  <programme channel="br#premiere-5-brazil" start="20260925173000 -0300" stop="20260925180000 -0300">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Flamengo x Corinthians</sub-title>
+  </programme>
+  <programme channel="br#premiere-5-brazil" start="20260925180000 -0300" stop="20260925183000 -0300">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Mirassol x Vitória</sub-title>
+  </programme>
+  <programme channel="br#premiere-5-brazil" start="20260925183000 -0300" stop="20260925190000 -0300">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Bahia x Remo</sub-title>
+  </programme>
+  <programme channel="br#premiere-5-brazil" start="20260925190000 -0300" stop="20260925193000 -0300">
+    <title lang="pt">Giro Da Rodada</title>
+    <sub-title lang="pt">27ª Rodada</sub-title>
+  </programme>
+  <programme channel="br#premiere-5-brazil" start="20260925193000 -0300" stop="20260925203000 -0300">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Grêmio x Vasco</sub-title>
+  </programme>
+  <programme channel="br#premiere-5-brazil" start="20260925203000 -0300" stop="20260925231000 -0300">
+    <title lang="pt">Aquecimento sportv</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <desc lang="pt">Acompanhe o que antecede os jogos, todas as escalações, preparações para o que antecede aos principais eventos do mundo esportes, aqui no sportv!</desc>
+    <category lang="pt">Esportivo</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme channel="br#premiere-5-brazil" start="20260925231000 -0300" stop="20260925234000 -0300">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Grêmio x Vasco</sub-title>
+  </programme>
+  <programme channel="br#premiere-5-brazil" start="20260925234000 -0300" stop="20260926001000 -0300">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Atlético-MG x Fluminense</sub-title>
+  </programme>
+  <programme channel="br#premiere-6-hd" start="20260924000000 -0300" stop="20260924020000 -0300">
+    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <desc lang="pt">Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!</desc>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme channel="br#premiere-6-hd" start="20260924020000 -0300" stop="20260924040000 -0300">
+    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <desc lang="pt">Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!</desc>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme channel="br#premiere-6-hd" start="20260924040000 -0300" stop="20260924060000 -0300">
+    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <desc lang="pt">Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!</desc>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme channel="br#premiere-6-hd" start="20260924060000 -0300" stop="20260924080000 -0300">
+    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <desc lang="pt">Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!</desc>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme channel="br#premiere-6-hd" start="20260924080000 -0300" stop="20260924100000 -0300">
+    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <desc lang="pt">Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!</desc>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme channel="br#premiere-6-hd" start="20260924100000 -0300" stop="20260924120000 -0300">
+    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <desc lang="pt">Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!</desc>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme channel="br#premiere-6-hd" start="20260924120000 -0300" stop="20260924140000 -0300">
+    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <desc lang="pt">Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!</desc>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme channel="br#premiere-6-hd" start="20260924140000 -0300" stop="20260924160000 -0300">
+    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <desc lang="pt">Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!</desc>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme channel="br#premiere-6-hd" start="20260924160000 -0300" stop="20260924180000 -0300">
+    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <desc lang="pt">Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!</desc>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme channel="br#premiere-6-hd" start="20260924180000 -0300" stop="20260924200000 -0300">
+    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <desc lang="pt">Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!</desc>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme channel="br#premiere-6-hd" start="20260924200000 -0300" stop="20260924220000 -0300">
+    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <desc lang="pt">Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!</desc>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme channel="br#premiere-6-hd" start="20260924220000 -0300" stop="20260925000000 -0300">
+    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <desc lang="pt">Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!</desc>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme channel="br#premiere-6-hd" start="20260925000000 -0300" stop="20260925020000 -0300">
+    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <desc lang="pt">Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!</desc>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme channel="br#premiere-6-hd" start="20260925020000 -0300" stop="20260925040000 -0300">
+    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <desc lang="pt">Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!</desc>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme channel="br#premiere-6-hd" start="20260925040000 -0300" stop="20260925060000 -0300">
+    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <desc lang="pt">Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!</desc>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme channel="br#premiere-6-hd" start="20260925060000 -0300" stop="20260925080000 -0300">
+    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <desc lang="pt">Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!</desc>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme channel="br#premiere-6-hd" start="20260925080000 -0300" stop="20260925100000 -0300">
+    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <desc lang="pt">Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!</desc>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme channel="br#premiere-6-hd" start="20260925100000 -0300" stop="20260925120000 -0300">
+    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <desc lang="pt">Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!</desc>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme channel="br#premiere-6-hd" start="20260925120000 -0300" stop="20260925140000 -0300">
+    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <desc lang="pt">Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!</desc>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme channel="br#premiere-6-hd" start="20260925140000 -0300" stop="20260925160000 -0300">
+    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <desc lang="pt">Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!</desc>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme channel="br#premiere-6-hd" start="20260925160000 -0300" stop="20260925180000 -0300">
+    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <desc lang="pt">Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!</desc>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme channel="br#premiere-6-hd" start="20260925180000 -0300" stop="20260925200000 -0300">
+    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <desc lang="pt">Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!</desc>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme channel="br#premiere-6-hd" start="20260925200000 -0300" stop="20260925220000 -0300">
+    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <desc lang="pt">Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!</desc>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme channel="br#premiere-6-hd" start="20260925220000 -0300" stop="20260926000000 -0300">
+    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <desc lang="pt">Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!</desc>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
   </programme>
   <programme channel="br#premiere-7" start="20260924000000 -0300" stop="20260924020000 -0300">
     <title lang="pt">Com o PREMIERE dá jogo!</title>
