@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="epg-br-auto-generator" generator-info-url="https://github.com/" date="20260927120908 +0000">
+<tv generator-info-name="epg-br-auto-generator" generator-info-url="https://github.com/" date="20260927170346 +0000">
   <channel id="24HAnimes">
     <display-name>Record News HD</display-name>
     <icon src="http://top-logos.xyz/pt/recordnews.png" />
@@ -7533,107 +7533,22 @@
   <programme channel="Bis.br" start="20260930230200 -0300" stop="20261001000200 -0300">
     <title lang="pt">Melhores Momentos Rock In Rio</title>
   </programme>
-  <programme start="20260925231500 +0000" stop="20260926011500 +0000" channel="CNNMoney.br">
-    <title>CNN Fechamento de Mercado</title>
-    <desc>O que foi notícia e importa para a economia estarão no Fechamento de Mercado. Análise e contexto no momento em que investidores e gestores fazem o balanço do dia.</desc>
-    <episode-num system="xmltv_ns">79.267.</episode-num>
-  </programme>
-  <programme start="20260926011500 +0000" stop="20260926020000 +0000" channel="CNNMoney.br">
-    <title>Resenha do Dinheiro</title>
-    <desc>Inspirado no formato descontraído dos debates esportivos, o Resenha do Dinheiro vai fugir do "economês</desc>
-    <episode-num system="xmltv_ns">81.267.</episode-num>
-  </programme>
-  <programme start="20260926020000 +0000" stop="20260926023000 +0000" channel="CNNMoney.br">
-    <title>Café com Investidor</title>
-    <desc>Exibido quinzenalmente, o programa receberá importantes gestores do mercado financeiro que compartilham visões estratégicas e dicas de investimentos.</desc>
-  </programme>
-  <programme start="20260926023000 +0000" stop="20260926033000 +0000" channel="CNNMoney.br">
-    <title>WW</title>
-    <desc>O time de analistas CNN debatem os temas mais relevantes e complexos que ocupam as manchetes do Brasil e do mundo de maneira objetiva e aprofundada, de compreender a realidade, a partir de múltiplos pontos de vista.</desc>
-    <episode-num system="xmltv_ns">82.267.</episode-num>
-  </programme>
-  <programme start="20260926033000 +0000" stop="20260926052500 +0000" channel="CNNMoney.br">
-    <title>CNN Fechamento de Mercado</title>
-    <desc>O que foi notícia e importa para a economia estarão no Fechamento de Mercado. Análise e contexto no momento em que investidores e gestores fazem o balanço do dia.</desc>
-    <episode-num system="xmltv_ns">79.268.</episode-num>
-  </programme>
-  <programme start="20260926052500 +0000" stop="20260926061000 +0000" channel="CNNMoney.br">
-    <title>Resenha do Dinheiro</title>
-    <desc>Inspirado no formato descontraído dos debates esportivos, o Resenha do Dinheiro vai fugir do "economês</desc>
-    <episode-num system="xmltv_ns">81.268.</episode-num>
-  </programme>
-  <programme start="20260926061000 +0000" stop="20260926080500 +0000" channel="CNNMoney.br">
-    <title>CNN Fechamento de Mercado</title>
-    <desc>O que foi notícia e importa para a economia estarão no Fechamento de Mercado. Análise e contexto no momento em que investidores e gestores fazem o balanço do dia.</desc>
-    <episode-num system="xmltv_ns">82.268.</episode-num>
-  </programme>
-  <programme start="20260926080500 +0000" stop="20260926100000 +0000" channel="CNNMoney.br">
-    <title>CNN Fechamento de Mercado</title>
-    <desc>O que foi notícia e importa para a economia estarão no Fechamento de Mercado. Análise e contexto no momento em que investidores e gestores fazem o balanço do dia.</desc>
-    <episode-num system="xmltv_ns">84.268.</episode-num>
-  </programme>
-  <programme start="20260926100000 +0000" stop="20260926143000 +0000" channel="CNNMoney.br">
-    <title>CNN Money News - Edição Fim de Semana</title>
-    <desc>Resumo das principais notícias, entrevistas e análises da semana.</desc>
-    <episode-num system="xmltv_ns">86.268.</episode-num>
-  </programme>
-  <programme start="20260926143000 +0000" stop="20260926151500 +0000" channel="CNNMoney.br">
-    <title>Resenha do Dinheiro</title>
-    <desc>Inspirado no formato descontraído dos debates esportivos, o Resenha do Dinheiro vai fugir do "economês</desc>
-    <episode-num system="xmltv_ns">80.268.</episode-num>
-  </programme>
-  <programme start="20260926151500 +0000" stop="20260926154500 +0000" channel="CNNMoney.br">
-    <title>Alta Voltagem</title>
-    <desc>O Alta Voltagem chega para conectar o público aos principais nomes do setor de energia, mercado que movimenta mais de R$ 112 bilhões ao ano.</desc>
-    <episode-num system="xmltv_ns">81.268.</episode-num>
-  </programme>
-  <programme start="20260926154500 +0000" stop="20260926161500 +0000" channel="CNNMoney.br">
-    <title>Café com Investidor</title>
-    <desc>Exibido quinzenalmente, o programa receberá importantes gestores do mercado financeiro que compartilham visões estratégicas e dicas de investimentos.</desc>
-  </programme>
-  <programme start="20260926161500 +0000" stop="20260926204500 +0000" channel="CNNMoney.br">
-    <title>CNN Money News - Edição Fim de Semana</title>
-    <desc>Resumo das principais notícias, entrevistas e análises da semana.</desc>
-    <episode-num system="xmltv_ns">82.268.</episode-num>
-  </programme>
-  <programme start="20260926204500 +0000" stop="20260926214500 +0000" channel="CNNMoney.br">
-    <title>Cripto na Real</title>
-    <desc>Programa dedicado ao universo das criptomoedas e da tecnologia blockchain. Com uma linguagem acessível e foco em conteúdo de qualidade, o programa tem como objetivo explorar as oportunidades de negócios no mundo das criptomoedas.</desc>
-    <episode-num system="xmltv_ns">86.268.</episode-num>
-  </programme>
-  <programme start="20260926214500 +0000" stop="20260926222700 +0000" channel="CNNMoney.br">
-    <title>Resenha do Dinheiro</title>
-    <desc>Inspirado no formato descontraído dos debates esportivos, o Resenha do Dinheiro vai fugir do "economês</desc>
-    <episode-num system="xmltv_ns">87.268.</episode-num>
-  </programme>
-  <programme start="20260926222700 +0000" stop="20260926223000 +0000" channel="CNNMoney.br">
-    <title>CNN Cast</title>
-    <desc>Tira a creator economy do ambiente publicitário e a trata sob a perspectiva de negócios: como líderes, executivos, marcas e criadores constroem relevância, impactam a percepção pública e geram valor ou risco para...</desc>
-  </programme>
-  <programme start="20260926223000 +0000" stop="20260926231500 +0000" channel="CNNMoney.br">
-    <title>Capital Insights</title>
-    <desc>A cada episódio, os convidados vão compartilhar suas visões sobre o cenário econômico, tendências de mercado e desafios setoriais, oferecendo uma visão direta e atual do mundo dos negócios e das finanças.</desc>
-    <episode-num system="xmltv_ns">18.268.</episode-num>
-  </programme>
   <programme start="20260926231500 +0000" stop="20260927034500 +0000" channel="CNNMoney.br">
     <title>CNN Money News - Edição Fim de Semana</title>
     <desc>Resumo das principais notícias, entrevistas e análises da semana.</desc>
     <episode-num system="xmltv_ns">79.268.</episode-num>
   </programme>
-  <programme start="20260927034500 +0000" stop="20260927034800 +0000" channel="CNNMoney.br">
-    <title>Programação indisponível</title>
-  </programme>
-  <programme start="20260927034800 +0000" stop="20260927044800 +0000" channel="CNNMoney.br">
+  <programme start="20260927034500 +0000" stop="20260927044500 +0000" channel="CNNMoney.br">
     <title>WW</title>
     <desc>O time de analistas CNN debatem os temas mais relevantes e complexos que ocupam as manchetes do Brasil e do mundo de maneira objetiva e aprofundada, de compreender a realidade, a partir de múltiplos pontos de vista.</desc>
     <episode-num system="xmltv_ns">79.269.</episode-num>
   </programme>
-  <programme start="20260927044800 +0000" stop="20260927053300 +0000" channel="CNNMoney.br">
+  <programme start="20260927044500 +0000" stop="20260927053000 +0000" channel="CNNMoney.br">
     <title>Resenha do Dinheiro</title>
     <desc>Inspirado no formato descontraído dos debates esportivos, o Resenha do Dinheiro vai fugir do "economês</desc>
     <episode-num system="xmltv_ns">80.269.</episode-num>
   </programme>
-  <programme start="20260927053300 +0000" stop="20260927100000 +0000" channel="CNNMoney.br">
+  <programme start="20260927053000 +0000" stop="20260927100000 +0000" channel="CNNMoney.br">
     <title>CNN Money News - Edição Fim de Semana</title>
     <desc>Resumo das principais notícias, entrevistas e análises da semana.</desc>
     <episode-num system="xmltv_ns">81.269.</episode-num>
@@ -7688,9 +7603,8 @@
     <episode-num system="xmltv_ns">85.269.</episode-num>
   </programme>
   <programme start="20260928000000 +0000" stop="20260928003000 +0000" channel="CNNMoney.br">
-    <title>Números Que Falam</title>
-    <desc>O programa destrincha os principais indicadores do balanço das companhias e, também, os dados macroeconômicos que são determinantes para cada operação.</desc>
-    <episode-num system="xmltv_ns">20.269.</episode-num>
+    <title>Café com Investidor</title>
+    <desc>Exibido quinzenalmente, o programa receberá importantes gestores do mercado financeiro que compartilham visões estratégicas e dicas de investimentos.</desc>
   </programme>
   <programme start="20260928003000 +0000" stop="20260928010000 +0000" channel="CNNMoney.br">
     <title>Alta Voltagem</title>
@@ -7701,6 +7615,146 @@
     <title>CNN Money News - Edição Fim de Semana</title>
     <desc>Resumo das principais notícias, entrevistas e análises da semana.</desc>
     <episode-num system="xmltv_ns">81.269.</episode-num>
+  </programme>
+  <programme start="20260928052700 +0000" stop="20260928095500 +0000" channel="CNNMoney.br">
+    <title>CNN Money News - Edição Fim de Semana</title>
+    <desc>Resumo das principais notícias, entrevistas e análises da semana.</desc>
+    <episode-num system="xmltv_ns">81.270.</episode-num>
+  </programme>
+  <programme start="20260928095500 +0000" stop="20260928100000 +0000" channel="CNNMoney.br">
+    <title>CNN Agro Money - Ao Vivo</title>
+    <desc>O CNN Agro nasce com a missão de conectar o campo à cidade. O objetivo é falar sobre o agronegócio com um público urbano, desmistificando o setor e levando à sociedade brasileira informações essenciais sobre...</desc>
+    <episode-num system="xmltv_ns">5.270.</episode-num>
+  </programme>
+  <programme start="20260928100000 +0000" stop="20260928120000 +0000" channel="CNNMoney.br">
+    <title>CNN Morning Call - Ao Vivo</title>
+    <desc>Tudo o que você precisa saber para começar o dia bem-informado antes da abertura da Bolsa de Valores. Programa essencial para os tomadores de decisão e investidores com as notícias mais importantes que podem impactar os neg...</desc>
+    <episode-num system="xmltv_ns">86.270.</episode-num>
+  </programme>
+  <programme start="20260928120000 +0000" stop="20260928135500 +0000" channel="CNNMoney.br">
+    <title>CNN Abertura de Mercado - Ao Vivo</title>
+    <desc>O Abertura de Mercado acompanha todos os passos dos investidores e tudo o que interessa para o mundo da economia. Nossos jornalistas especializados detalham indicadores econômicos em tempo real.</desc>
+    <episode-num system="xmltv_ns">88.270.</episode-num>
+  </programme>
+  <programme start="20260928135500 +0000" stop="20260928140000 +0000" channel="CNNMoney.br">
+    <title>CNN Agro Money - Ao Vivo</title>
+    <desc>O CNN Agro nasce com a missão de conectar o campo à cidade. O objetivo é falar sobre o agronegócio com um público urbano, desmistificando o setor e levando à sociedade brasileira informações essenciais sobre...</desc>
+    <episode-num system="xmltv_ns">9.270.</episode-num>
+  </programme>
+  <programme start="20260928140000 +0000" stop="20260928152500 +0000" channel="CNNMoney.br">
+    <title>CNN Money News - Ao Vivo</title>
+    <desc>Acompanha os principais assuntos econômicos do dia e a reação do mercado financeiro. No centro do poder, repórteres em Brasília acompanham o dia e os bastidores no Banco Central, Ministério da Fazenda, Congresso e Exe...</desc>
+    <episode-num system="xmltv_ns">80.270.</episode-num>
+  </programme>
+  <programme start="20260928152500 +0000" stop="20260928153000 +0000" channel="CNNMoney.br">
+    <title>CNN Infra News - Ao Vivo</title>
+    <desc>A CNN Infra vai levar informação sobre os segmentos de infraestrutura, como energia, transportes e mineração. Com entrevistas exclusivas, boletins diários e um time de especialistas para trazer análises e reportagens ...</desc>
+    <episode-num system="xmltv_ns">81.270.</episode-num>
+  </programme>
+  <programme start="20260928153000 +0000" stop="20260928160000 +0000" channel="CNNMoney.br">
+    <title>CNN Agro News - Ao Vivo</title>
+    <desc>Trará as principais notícias do agronegócio com foco aprimorado em mercado. Contará com entrevistas especiais com executivos do setor, além de uma abordagem analítica e atualizada dos fatos que impactam a cadeia produ...</desc>
+    <episode-num system="xmltv_ns">81.270.</episode-num>
+  </programme>
+  <programme start="20260928160000 +0000" stop="20260928180000 +0000" channel="CNNMoney.br">
+    <title>CNN Money News - Ao Vivo</title>
+    <desc>Acompanha os principais assuntos econômicos do dia e a reação do mercado financeiro. No centro do poder, repórteres em Brasília acompanham o dia e os bastidores no Banco Central, Ministério da Fazenda, Congresso e Exe...</desc>
+    <episode-num system="xmltv_ns">82.270.</episode-num>
+  </programme>
+  <programme start="20260928180000 +0000" stop="20260928195500 +0000" channel="CNNMoney.br">
+    <title>CNN Money News - Ao Vivo</title>
+    <desc>Acompanha os principais assuntos econômicos do dia e a reação do mercado financeiro. No centro do poder, repórteres em Brasília acompanham o dia e os bastidores no Banco Central, Ministério da Fazenda, Congresso e Exe...</desc>
+    <episode-num system="xmltv_ns">84.270.</episode-num>
+  </programme>
+  <programme start="20260928195500 +0000" stop="20260928200000 +0000" channel="CNNMoney.br">
+    <title>CNN Infra News - Ao Vivo</title>
+    <desc>A CNN Infra vai levar informação sobre os segmentos de infraestrutura, como energia, transportes e mineração. Com entrevistas exclusivas, boletins diários e um time de especialistas para trazer análises e reportagens ...</desc>
+    <episode-num system="xmltv_ns">85.270.</episode-num>
+  </programme>
+  <programme start="20260928200000 +0000" stop="20260928215500 +0000" channel="CNNMoney.br">
+    <title>CNN Fechamento de Mercado - Ao Vivo</title>
+    <desc>O que foi notícia e importa para a economia estarão no Fechamento de Mercado. Análise e contexto no momento em que investidores e gestores fazem o balanço do dia.</desc>
+    <episode-num system="xmltv_ns">86.270.</episode-num>
+  </programme>
+  <programme start="20260928215500 +0000" stop="20260928220000 +0000" channel="CNNMoney.br">
+    <title>CNN Agro Money - Ao Vivo</title>
+    <desc>O CNN Agro nasce com a missão de conectar o campo à cidade. O objetivo é falar sobre o agronegócio com um público urbano, desmistificando o setor e levando à sociedade brasileira informações essenciais sobre...</desc>
+    <episode-num system="xmltv_ns">17.270.</episode-num>
+  </programme>
+  <programme start="20260928220000 +0000" stop="20260928223000 +0000" channel="CNNMoney.br">
+    <title>Valor de Marca</title>
+    <desc>Novo programa semanal que reúne líderes do mercado para discutir as estratégias que transformam marcas em negócios de sucesso.</desc>
+    <episode-num system="xmltv_ns">18.270.</episode-num>
+  </programme>
+  <programme start="20260928223000 +0000" stop="20260928230000 +0000" channel="CNNMoney.br">
+    <title>É Negócio</title>
+    <desc>O jornalista Carlos Sambrana recebe semanalmente grandes líderes do mundo empresarial. O universo dos negócios e das finanças, os desafios da economia e inovação são os principais temas abordados.</desc>
+    <episode-num system="xmltv_ns">18.270.</episode-num>
+  </programme>
+  <programme start="20260928230000 +0000" stop="20260929010000 +0000" channel="CNNMoney.br">
+    <title>CNN Fechamento de Mercado</title>
+    <desc>O que foi notícia e importa para a economia estarão no Fechamento de Mercado. Análise e contexto no momento em que investidores e gestores fazem o balanço do dia.</desc>
+    <episode-num system="xmltv_ns">79.270.</episode-num>
+  </programme>
+  <programme start="20260929010000 +0000" stop="20260929013000 +0000" channel="CNNMoney.br">
+    <title>Valor de Marca</title>
+    <desc>Novo programa semanal que reúne líderes do mercado para discutir as estratégias que transformam marcas em negócios de sucesso.</desc>
+    <episode-num system="xmltv_ns">21.270.</episode-num>
+  </programme>
+  <programme start="20260929013000 +0000" stop="20260929020000 +0000" channel="CNNMoney.br">
+    <title>É Negócio</title>
+    <desc>O jornalista Carlos Sambrana recebe semanalmente grandes líderes do mundo empresarial. O universo dos negócios e das finanças, os desafios da economia e inovação são os principais temas abordados.</desc>
+    <episode-num system="xmltv_ns">21.270.</episode-num>
+  </programme>
+  <programme start="20260929020000 +0000" stop="20260929030000 +0000" channel="CNNMoney.br">
+    <title>WW</title>
+    <desc>O time de analistas CNN debatem os temas mais relevantes e complexos que ocupam as manchetes do Brasil e do mundo de maneira objetiva e aprofundada, de compreender a realidade, a partir de múltiplos pontos de vista.</desc>
+    <episode-num system="xmltv_ns">82.270.</episode-num>
+  </programme>
+  <programme start="20260929030000 +0000" stop="20260929050000 +0000" channel="CNNMoney.br">
+    <title>CNN Fechamento de Mercado</title>
+    <desc>O que foi notícia e importa para a economia estarão no Fechamento de Mercado. Análise e contexto no momento em que investidores e gestores fazem o balanço do dia.</desc>
+    <episode-num system="xmltv_ns">79.271.</episode-num>
+  </programme>
+  <programme start="20260929050000 +0000" stop="20260929060000 +0000" channel="CNNMoney.br">
+    <title>WW</title>
+    <desc>O time de analistas CNN debatem os temas mais relevantes e complexos que ocupam as manchetes do Brasil e do mundo de maneira objetiva e aprofundada, de compreender a realidade, a partir de múltiplos pontos de vista.</desc>
+    <episode-num system="xmltv_ns">81.271.</episode-num>
+  </programme>
+  <programme start="20260929060000 +0000" stop="20260929080000 +0000" channel="CNNMoney.br">
+    <title>CNN Fechamento de Mercado</title>
+    <desc>O que foi notícia e importa para a economia estarão no Fechamento de Mercado. Análise e contexto no momento em que investidores e gestores fazem o balanço do dia.</desc>
+    <episode-num system="xmltv_ns">82.271.</episode-num>
+  </programme>
+  <programme start="20260929080000 +0000" stop="20260929095500 +0000" channel="CNNMoney.br">
+    <title>CNN Fechamento de Mercado</title>
+    <desc>O que foi notícia e importa para a economia estarão no Fechamento de Mercado. Análise e contexto no momento em que investidores e gestores fazem o balanço do dia.</desc>
+    <episode-num system="xmltv_ns">84.271.</episode-num>
+  </programme>
+  <programme start="20260929095500 +0000" stop="20260929100000 +0000" channel="CNNMoney.br">
+    <title>CNN Agro Money - Ao Vivo</title>
+    <desc>O CNN Agro nasce com a missão de conectar o campo à cidade. O objetivo é falar sobre o agronegócio com um público urbano, desmistificando o setor e levando à sociedade brasileira informações essenciais sobre...</desc>
+    <episode-num system="xmltv_ns">5.271.</episode-num>
+  </programme>
+  <programme start="20260929100000 +0000" stop="20260929120000 +0000" channel="CNNMoney.br">
+    <title>CNN Morning Call - Ao Vivo</title>
+    <desc>Tudo o que você precisa saber para começar o dia bem-informado antes da abertura da Bolsa de Valores. Programa essencial para os tomadores de decisão e investidores com as notícias mais importantes que podem impactar os neg...</desc>
+    <episode-num system="xmltv_ns">86.271.</episode-num>
+  </programme>
+  <programme start="20260929120000 +0000" stop="20260929135500 +0000" channel="CNNMoney.br">
+    <title>CNN Abertura de Mercado - Ao Vivo</title>
+    <desc>O Abertura de Mercado acompanha todos os passos dos investidores e tudo o que interessa para o mundo da economia. Nossos jornalistas especializados detalham indicadores econômicos em tempo real.</desc>
+    <episode-num system="xmltv_ns">88.271.</episode-num>
+  </programme>
+  <programme start="20260929135500 +0000" stop="20260929140000 +0000" channel="CNNMoney.br">
+    <title>CNN Agro Money - Ao Vivo</title>
+    <desc>O CNN Agro nasce com a missão de conectar o campo à cidade. O objetivo é falar sobre o agronegócio com um público urbano, desmistificando o setor e levando à sociedade brasileira informações essenciais sobre...</desc>
+    <episode-num system="xmltv_ns">9.271.</episode-num>
+  </programme>
+  <programme start="20260929140000 +0000" stop="20260929152500 +0000" channel="CNNMoney.br">
+    <title>CNN Money News - Ao Vivo</title>
+    <desc>Acompanha os principais assuntos econômicos do dia e a reação do mercado financeiro. No centro do poder, repórteres em Brasília acompanham o dia e os bastidores no Banco Central, Ministério da Fazenda, Congresso e Exe...</desc>
+    <episode-num system="xmltv_ns">80.271.</episode-num>
   </programme>
   <programme channel="CartoonNetwork.br" start="20260927000000 -0300" stop="20260927001100 -0300">
     <title lang="pt">Ursos Sem Curso</title>
@@ -21867,22 +21921,6 @@
     <category lang="pt">Séries</category>
     <category lang="pt">Reality Show</category>
   </programme>
-  <programme start="20260925210000 +0000" stop="20260926030000 +0000" channel="DogTV.us">
-    <title>Programação Dog TV</title>
-    <desc>Com 24h de programação desenvolvida cientificamente para atender a visão e audição dos cãezinhos, o DOGTV é a companhia perfeita para entreter seu melhor amigo. Assine já por R$19,90</desc>
-  </programme>
-  <programme start="20260926030000 +0000" stop="20260926090000 +0000" channel="DogTV.us">
-    <title>Programação Dog TV</title>
-    <desc>Com 24h de programação desenvolvida cientificamente para atender a visão e audição dos cãezinhos, o DOGTV é a companhia perfeita para entreter seu melhor amigo. Assine já por R$19,90</desc>
-  </programme>
-  <programme start="20260926090000 +0000" stop="20260926150000 +0000" channel="DogTV.us">
-    <title>Programação Dog TV</title>
-    <desc>Com 24h de programação desenvolvida cientificamente para atender a visão e audição dos cãezinhos, o DOGTV é a companhia perfeita para entreter seu melhor amigo. Assine já por R$19,90</desc>
-  </programme>
-  <programme start="20260926150000 +0000" stop="20260926210000 +0000" channel="DogTV.us">
-    <title>Programação Dog TV</title>
-    <desc>Com 24h de programação desenvolvida cientificamente para atender a visão e audição dos cãezinhos, o DOGTV é a companhia perfeita para entreter seu melhor amigo. Assine já por R$19,90</desc>
-  </programme>
   <programme start="20260926210000 +0000" stop="20260927030000 +0000" channel="DogTV.us">
     <title>Programação Dog TV</title>
     <desc>Com 24h de programação desenvolvida cientificamente para atender a visão e audição dos cãezinhos, o DOGTV é a companhia perfeita para entreter seu melhor amigo. Assine já por R$19,90</desc>
@@ -21900,6 +21938,34 @@
     <desc>Com 24h de programação desenvolvida cientificamente para atender a visão e audição dos cãezinhos, o DOGTV é a companhia perfeita para entreter seu melhor amigo. Assine já por R$19,90</desc>
   </programme>
   <programme start="20260927210000 +0000" stop="20260928030000 +0000" channel="DogTV.us">
+    <title>Programação Dog TV</title>
+    <desc>Com 24h de programação desenvolvida cientificamente para atender a visão e audição dos cãezinhos, o DOGTV é a companhia perfeita para entreter seu melhor amigo. Assine já por R$19,90</desc>
+  </programme>
+  <programme start="20260928030000 +0000" stop="20260928090000 +0000" channel="DogTV.us">
+    <title>Programação Dog TV</title>
+    <desc>Com 24h de programação desenvolvida cientificamente para atender a visão e audição dos cãezinhos, o DOGTV é a companhia perfeita para entreter seu melhor amigo. Assine já por R$19,90</desc>
+  </programme>
+  <programme start="20260928090000 +0000" stop="20260928150000 +0000" channel="DogTV.us">
+    <title>Programação Dog TV</title>
+    <desc>Com 24h de programação desenvolvida cientificamente para atender a visão e audição dos cãezinhos, o DOGTV é a companhia perfeita para entreter seu melhor amigo. Assine já por R$19,90</desc>
+  </programme>
+  <programme start="20260928150000 +0000" stop="20260928210000 +0000" channel="DogTV.us">
+    <title>Programação Dog TV</title>
+    <desc>Com 24h de programação desenvolvida cientificamente para atender a visão e audição dos cãezinhos, o DOGTV é a companhia perfeita para entreter seu melhor amigo. Assine já por R$19,90</desc>
+  </programme>
+  <programme start="20260928210000 +0000" stop="20260929030000 +0000" channel="DogTV.us">
+    <title>Programação Dog TV</title>
+    <desc>Com 24h de programação desenvolvida cientificamente para atender a visão e audição dos cãezinhos, o DOGTV é a companhia perfeita para entreter seu melhor amigo. Assine já por R$19,90</desc>
+  </programme>
+  <programme start="20260929030000 +0000" stop="20260929090000 +0000" channel="DogTV.us">
+    <title>Programação Dog TV</title>
+    <desc>Com 24h de programação desenvolvida cientificamente para atender a visão e audição dos cãezinhos, o DOGTV é a companhia perfeita para entreter seu melhor amigo. Assine já por R$19,90</desc>
+  </programme>
+  <programme start="20260929090000 +0000" stop="20260929150000 +0000" channel="DogTV.us">
+    <title>Programação Dog TV</title>
+    <desc>Com 24h de programação desenvolvida cientificamente para atender a visão e audição dos cãezinhos, o DOGTV é a companhia perfeita para entreter seu melhor amigo. Assine já por R$19,90</desc>
+  </programme>
+  <programme start="20260929150000 +0000" stop="20260929210000 +0000" channel="DogTV.us">
     <title>Programação Dog TV</title>
     <desc>Com 24h de programação desenvolvida cientificamente para atender a visão e audição dos cãezinhos, o DOGTV é a companhia perfeita para entreter seu melhor amigo. Assine já por R$19,90</desc>
   </programme>
@@ -28047,164 +28113,6 @@
     <title>NFL</title>
     <desc>Melhores momentos do duelo entre Cowboys e Commanders pela semana 7 da temporada regular 2025-2026.</desc>
   </programme>
-  <programme start="20260925233000 +0000" stop="20260926001500 +0000" channel="NSports.br">
-    <title>DEC</title>
-    <sub-title>Sabe Muito! / Leo Bertozzi X Influenciadores!</sub-title>
-    <desc>Sinopse não disponível.</desc>
-  </programme>
-  <programme start="20260926001500 +0000" stop="20260926020000 +0000" channel="NSports.br">
-    <title>VT - Corinthians x Bahia</title>
-    <desc>O melhor do Brasileirão Feminino você vê aqui na N Sports!</desc>
-  </programme>
-  <programme start="20260926020000 +0000" stop="20260926030000 +0000" channel="NSports.br">
-    <title>Deu Jogo</title>
-    <desc>Deu Jogo é o programa diário e ao vivo da N Sports que transforma as principais notícias do esporte em informação, debate e muita resenha.</desc>
-    <episode-num system="xmltv_ns">82.267.</episode-num>
-  </programme>
-  <programme start="20260926030000 +0000" stop="20260926031500 +0000" channel="NSports.br">
-    <title>Futebol Pelo Mundo</title>
-    <sub-title>Uma Torcida Que Faz Seu Estádio Literalmente Balançar / Coritiba 2 x 1 Corinthians</sub-title>
-    <desc>Fui no jogo Coritiba 2 x 1 Corinthians pelo Brasileirão 2026 no estádio Couto Pereira em Curitiba no Paraná, com muita festa da torcida do Coxa, vitória coxa branca e cantoria da torcida do Corinthians de visitante!</desc>
-    <episode-num system="xmltv_ns">0.27.</episode-num>
-  </programme>
-  <programme start="20260926031500 +0000" stop="20260926034500 +0000" channel="NSports.br">
-    <title>Campeão do Mundo com Galvão</title>
-    <sub-title>Rivelino - Parte 2</sub-title>
-    <desc>Segunda parte da entrevista com Rivelino no Campeão do Mundo com Galvão. Tricampeão do mundo em 1970 conta histórias e curiosidades que passou com Pelé e até Maradona.</desc>
-    <episode-num system="xmltv_ns">79.5.</episode-num>
-  </programme>
-  <programme start="20260926034500 +0000" stop="20260926040000 +0000" channel="NSports.br">
-    <title>BJJ Cria</title>
-    <sub-title>Tainan Dalpra, Cole Abate e Guilherme Mendes Falam Sobre o Steven Ortiz / 5x Campeão Pan Kids Ibjjf</sub-title>
-    <desc>Steven Ortiz é atleta da AOJ, academia liderada pelos irmãos Guilherme Mendes e Rafael Mendes.</desc>
-    <episode-num system="xmltv_ns">0.11.</episode-num>
-  </programme>
-  <programme start="20260926040000 +0000" stop="20260926050000 +0000" channel="NSports.br">
-    <title>Podcast Sport Insider - Lucas Barillari</title>
-    <desc>Sport Insider é o programa de entrevistas sobre negócios do esporte do Sport Insider, produzido em parceria com a N Sports.</desc>
-    <episode-num system="xmltv_ns">0.38.</episode-num>
-  </programme>
-  <programme start="20260926050000 +0000" stop="20260926064500 +0000" channel="NSports.br">
-    <title>VT - Birmingham City x Wolverhampton</title>
-    <desc>O melhor da EFL Championship você acompanha aqui na N Sports!</desc>
-  </programme>
-  <programme start="20260926064500 +0000" stop="20260926070000 +0000" channel="NSports.br">
-    <title>Futebol Pelo Mundo</title>
-    <sub-title>A Melhor Atmosfera que eu já vi da Torcida do Brasil</sub-title>
-    <desc>Compartilhando a emoção de assistir jogos de futebol ao redor do mundo!</desc>
-    <episode-num system="xmltv_ns">82.15.</episode-num>
-  </programme>
-  <programme start="20260926070000 +0000" stop="20260926073000 +0000" channel="NSports.br">
-    <title>Desimpedidos</title>
-    <sub-title>Puro Suco / Baile do Palmeiras, Cruzeiro e Galo, Vasco fez o trabalho de casa? E muito mais...</sub-title>
-    <desc>Mais um "Puro Suco" no ar com os grandes absurdos da semana marcada pela Copa do Brasil! Tem empate disputado entre Cruzeiro e Atlético, goleada do Palmeiras contra o Santos, Vascão vencendo, Grenal, Neymar vs Sormani...</desc>
-  </programme>
-  <programme start="20260926073000 +0000" stop="20260926080000 +0000" channel="NSports.br">
-    <title>Desimpedidos</title>
-    <sub-title>Puro Suco / A bola entrou ou não? Bolívia e Chico comentam polêmica de Flamengo x Cruzeiro</sub-title>
-    <desc>Novo episódio do "Puro Suco" no ar em edição de colecionador! Tem Flamengo eliminando Cruzeiro na Liberta (com polêmica?), Palmeiras e Flu também avançando, ligação surpresa pra NÚBIA ÓLI...</desc>
-  </programme>
-  <programme start="20260926080000 +0000" stop="20260926093000 +0000" channel="NSports.br">
-    <title>Um Assado Para... Hélio De La Peña</title>
-    <desc>"Um Assado Para…" com Duda Garbi, é um bate-papo descontraído com personalidades do futebol. O clima é de resenha entre amigos, com conversas sinceras, curiosidades e histórias dos bastidores do esporte.</desc>
-    <episode-num system="xmltv_ns">0.56.</episode-num>
-  </programme>
-  <programme start="20260926093000 +0000" stop="20260926101500 +0000" channel="NSports.br">
-    <title>Desimpedidos</title>
-    <sub-title>Puro Suco / Desimpedidos virou o Vasco e tudo sobre Copa Do Brasil</sub-title>
-    <desc>A COPA DO BRASIL SEGUE VOANDO QUE NEM SAPO! "Puro Suco" da semana no ar com a pura borracharia numa rodada braba de Copa do Brasil: tem Vasco sendo pai do Fluminense, Santos entregando mais RESENHA.</desc>
-  </programme>
-  <programme start="20260926101500 +0000" stop="20260926103000 +0000" channel="NSports.br">
-    <title>Futebol Pelo Mundo</title>
-    <sub-title>A Torcida Do Brasil Fez História Na Filadélfia</sub-title>
-    <desc>Fui no jogo Brasil 3 x 0 Haiti pela Copa do Mundo na Filadélfia com festa da torcida do Brasil, presença do MVA, gols de Matheus Cunha e Vini Jr e vitória em cima do Haiti!</desc>
-    <episode-num system="xmltv_ns">86.12.</episode-num>
-  </programme>
-  <programme start="20260926103000 +0000" stop="20260926110000 +0000" channel="NSports.br">
-    <title>Desimpedidos</title>
-    <sub-title>Puro Suco / A bola entrou ou não? Bolívia e Chico comentam polêmica de Flamengo x Cruzeiro</sub-title>
-    <desc>Novo episódio do "Puro Suco" no ar em edição de colecionador! Tem Flamengo eliminando Cruzeiro na Liberta (com polêmica?), Palmeiras e Flu também avançando, ligação surpresa pra NÚBIA ÓLI...</desc>
-  </programme>
-  <programme start="20260926110000 +0000" stop="20260926113000 +0000" channel="NSports.br">
-    <title>Campeão do Mundo com Galvão</title>
-    <sub-title>Ricardo Rocha</sub-title>
-    <desc>O entrevistado de hoje do Campeão do Mundo com Galvão é o ex-zagueiro Ricardo Rocha. O Xerife relembra resenhas com Zagallo, Parreira e Romário na trajetória para o tetracampeonato em 1994.</desc>
-    <episode-num system="xmltv_ns">87.2.</episode-num>
-  </programme>
-  <programme start="20260926113000 +0000" stop="20260926120000 +0000" channel="NSports.br">
-    <title>Desimpedidos</title>
-    <sub-title>Puro Suco / Não Superamos! Pedro Faz Falta na Seleção?</sub-title>
-    <desc>Tamo na borracharia! O "Puro Suco" da semana chega com os maiores absurdos da semana, incluindo o novo rosto do Vini Jr, São Paulo já perdendo no Brasileiro, Espanha campeã do mundo, Flamengo e Palmeiras voltando com vit...</desc>
-  </programme>
-  <programme start="20260926120000 +0000" stop="20260926121500 +0000" channel="NSports.br">
-    <title>Acelerados</title>
-    <sub-title>Volks Golf</sub-title>
-    <desc>Salve, Acelerados! Hoje a nossa Volta Rápida com Rubens Barrichello é com uma dupla de peso entre os hot hatches: Volkswagen Golf GTI e BMW 135!</desc>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20260926121500 +0000" stop="20260926123000 +0000" channel="NSports.br">
-    <title>Acelerados</title>
-    <sub-title>BMW M3</sub-title>
-    <desc>Salve, Acelerados! Para quem é entusiasta e tem mais de 30 anos, certamente lembra da icônica BMW M3 GTR E46 prata e azul do saudoso jogo de corrida Need For Speed Most Wanted do Playstation 2</desc>
-    <episode-num system="xmltv_ns">0.1.</episode-num>
-  </programme>
-  <programme start="20260926123000 +0000" stop="20260926124500 +0000" channel="NSports.br">
-    <title>Acelerados</title>
-    <sub-title>Uno Mille x Kwid</sub-title>
-    <desc>Salve, Acelerados! Hoje é mais um dia de ciência aqui no canal! No duelo do Arrancadão de hoje colocamos lado a lado duas gerações diferentes dos modelos 1.0 aspirado popular.</desc>
-    <episode-num system="xmltv_ns">0.2.</episode-num>
-  </programme>
-  <programme start="20260926124500 +0000" stop="20260926130000 +0000" channel="NSports.br">
-    <title>Acelerados</title>
-    <sub-title>Caoa Changan x Fastback</sub-title>
-    <desc>Salve, Acelerados! No Arrancadão de hoje, colocamos lado a lado dois SUVs de propostas diferentes, mas que brigam na mesma faixa de preço.</desc>
-    <episode-num system="xmltv_ns">0.3.</episode-num>
-  </programme>
-  <programme start="20260926130000 +0000" stop="20260926131500 +0000" channel="NSports.br">
-    <title>Acelerados</title>
-    <sub-title>Desafio no Kart</sub-title>
-    <desc>Hoje temos como convidado Léo Reis, piloto da Stock Car e Pentacampeão Brasileiro de kart.</desc>
-    <episode-num system="xmltv_ns">0.4.</episode-num>
-  </programme>
-  <programme start="20260926131500 +0000" stop="20260926133000 +0000" channel="NSports.br">
-    <title>Acelerados</title>
-    <sub-title>Volks Xl1</sub-title>
-    <desc>Rodrigo Bola foi até a Alemanha para conhecer uma das maiores criações da indústria automotiva: o Volkswagen XL1.</desc>
-    <episode-num system="xmltv_ns">0.5.</episode-num>
-  </programme>
-  <programme start="20260926133000 +0000" stop="20260926140000 +0000" channel="NSports.br">
-    <title>Acelerados</title>
-    <sub-title>Land Rover</sub-title>
-    <desc>Quem é fã de veículos 4x4, sabe que o Land Rover Defender se coloca como um dos ícones no mundo off-road e também na indústria automotiva ao longo da história.</desc>
-    <episode-num system="xmltv_ns">0.6.</episode-num>
-  </programme>
-  <programme start="20260926140000 +0000" stop="20260926141500 +0000" channel="NSports.br">
-    <title>Vai, Gabi!</title>
-    <desc>Gabi Martins te leva pra conhecer tudo que gira em torno do esporte, desde mostrar bastidores de jogos, até contar histórias pouco conhecidas pelos fãs do mundo esportivo.</desc>
-    <episode-num system="xmltv_ns">10.268.</episode-num>
-  </programme>
-  <programme start="20260926141500 +0000" stop="20260926161500 +0000" channel="NSports.br">
-    <title>Ajax x Den Haag - Ao Vivo</title>
-    <desc>O melhor da Liga Holandesa Feminina é aqui na N Sports!</desc>
-  </programme>
-  <programme start="20260926161500 +0000" stop="20260926170000 +0000" channel="NSports.br">
-    <title>DEC</title>
-    <sub-title>Sabe Muito! / Encontramos o Influenciador Que Mais Entende de Futebol?!</sub-title>
-    <desc>Ele voltou, mais uma edição do Sabe Muito! Chamamos 10 influenciadores de futebol que querem provar que sabem de futebol! Será que eles passaram vergonha?</desc>
-  </programme>
-  <programme start="20260926170000 +0000" stop="20260926183000 +0000" channel="NSports.br">
-    <title>Um Assado Para... Branco</title>
-    <desc>"Um Assado Para…" com Duda Garbi, é um bate-papo descontraído com personalidades do futebol. O clima é de resenha entre amigos, com conversas sinceras, curiosidades e histórias dos bastidores do esporte.</desc>
-    <episode-num system="xmltv_ns">0.53.</episode-num>
-  </programme>
-  <programme start="20260926183000 +0000" stop="20260926220000 +0000" channel="NSports.br">
-    <title>Corinthians x São Paulo - Ao Vivo</title>
-    <desc>O melhor do Brasileirão Feminino você vê aqui na N Sports!</desc>
-  </programme>
-  <programme start="20260926220000 +0000" stop="20260926231500 +0000" channel="NSports.br">
-    <title>Open De Futevôlei - Etapa Alphaville - Ao Vivo</title>
-    <desc>O open de futevôlei em Alphaville, que acontece nos dias 26 e 27 de setembro, você acompanha aqui na N Sports!!</desc>
-  </programme>
   <programme start="20260926231500 +0000" stop="20260927010000 +0000" channel="NSports.br">
     <title>VT - Wrexham x Southampton</title>
     <desc>O melhor da EFL Championship você acompanha aqui na N Sports!</desc>
@@ -28216,175 +28124,384 @@
   </programme>
   <programme start="20260927024500 +0000" stop="20260927030000 +0000" channel="NSports.br">
     <title>Joga com Elas Entrevista</title>
-    <sub-title>Conheci o Maior CT da América Latina</sub-title>
-    <desc>Entrevistas com os principais nomes do futebol feminino com exclusividade N Sports</desc>
-    <episode-num system="xmltv_ns">0.4.</episode-num>
+    <desc>Entrevistas com os principais nomes do futebol feminino com exclusividade N Sports.</desc>
+    <episode-num system="xmltv_ns">82.268.</episode-num>
   </programme>
-  <programme start="20260927030000 +0000" stop="20260927043000 +0000" channel="NSports.br">
-    <title>Desimpedidos</title>
-    <sub-title>Fala Que eu Discuto / Neymar Salvou o Santos? Flamengo Ameaça o Palmeiras?</sub-title>
-    <desc>VITÓRIAS DO FLAMENGO E DO SANTOS EM RODADA DE CLÁSSICOS! Vem com nois! Mais um "Fala Que eu Discuto" com Bolívia, Chico, Madson e Egídio trazendo o melhor da rodada do Brasileirão.</desc>
-  </programme>
-  <programme start="20260927043000 +0000" stop="20260927044500 +0000" channel="NSports.br">
-    <title>Vai, Gabi!</title>
-    <sub-title>A torcida do Once Caldas invadiu o Equador na Sul-Americana</sub-title>
-    <desc>Nesse episódio Gabi vai até o jogo entre Independiente Del Valle x Once Caldas pela sulamericana e também conhece o parque da Mitad del Mundo.</desc>
-    <episode-num system="xmltv_ns">0.54.</episode-num>
-  </programme>
-  <programme start="20260927044500 +0000" stop="20260927054500 +0000" channel="NSports.br">
-    <title>Podcast Sport Insider - Valério Mateus</title>
-    <desc>Sport Insider é o programa de entrevistas sobre negócios do esporte do Sport Insider, produzido em parceria com a N Sports.</desc>
-    <episode-num system="xmltv_ns">0.32.</episode-num>
-  </programme>
-  <programme start="20260927054500 +0000" stop="20260927073000 +0000" channel="NSports.br">
-    <title>VT - Stoke City x Norwich City</title>
-    <desc>A segunda divisão inglesa é disputada por 24 clubes que querem conquistar uma das vagas para competir na tão sonhada Premier League.</desc>
-  </programme>
-  <programme start="20260927073000 +0000" stop="20260927080000 +0000" channel="NSports.br">
-    <title>Campeão do Mundo</title>
-    <sub-title>Vampeta</sub-title>
-    <desc>Vampeta foi o convidado do Campeões do Mundo com Galvão. O ex-jogador foi um grande craque da seleção brasileira e pentacampeão mundial.</desc>
-    <episode-num system="xmltv_ns">83.6.</episode-num>
-  </programme>
-  <programme start="20260927080000 +0000" stop="20260927094500 +0000" channel="NSports.br">
-    <title>Um Assado Para... Danny Morais</title>
-    <desc>"Um Assado Para…" com Duda Garbi, é um bate-papo descontraído com personalidades do futebol. O clima é de resenha entre amigos, com conversas sinceras, curiosidades e histórias dos bastidores do esporte.</desc>
-    <episode-num system="xmltv_ns">0.50.</episode-num>
-  </programme>
-  <programme start="20260927094500 +0000" stop="20260927100000 +0000" channel="NSports.br">
-    <title>Desimpedidos</title>
-    <sub-title>1:1 / O Dia em que Egídio, Ronaldinho Gaúcho e o Prefeito Fecharam um Camarote no Carnaval!</sub-title>
-    <desc>Egídio e Madson trouxeram mais histórias e resenhas dos bastidores de suas carreiras. Gidão contou sua experiência de viver o Carnaval carioca ao lado do Ronaldinho.</desc>
-  </programme>
-  <programme start="20260927100000 +0000" stop="20260927103000 +0000" channel="NSports.br">
-    <title>Desimpedidos</title>
-    <sub-title>BTS - Franco Baresi</sub-title>
-    <desc>Em homenagem a Franco Baresi, relembramos um papo brabo de quando, em 2021, Bolívia Zica entrevistou a lenda ao canal "Camisa 21"</desc>
-  </programme>
-  <programme start="20260927103000 +0000" stop="20260927104500 +0000" channel="NSports.br">
-    <title>Vai, Gabi!</title>
-    <sub-title>Conheci o Maior CT da América Latina</sub-title>
-    <desc>Gabi Martins te leva pra conhecer tudo que gira em torno do esporte, desde mostrar bastidores de jogos, até contar histórias pouco conhecidas pelos fãs do mundo esportivo.</desc>
-    <episode-num system="xmltv_ns">0.55.</episode-num>
-  </programme>
-  <programme start="20260927104500 +0000" stop="20260927111500 +0000" channel="NSports.br">
-    <title>Campeão do Mundo com Galvão</title>
-    <sub-title>Ricardo Rocha</sub-title>
-    <desc>O entrevistado de hoje do Campeão do Mundo com Galvão é o ex-zagueiro Ricardo Rocha. O Xerife relembra resenhas com Zagallo, Parreira e Romário na trajetória para o tetracampeonato em 1994.</desc>
-    <episode-num system="xmltv_ns">86.2.</episode-num>
-  </programme>
-  <programme start="20260927111500 +0000" stop="20260927113000 +0000" channel="NSports.br">
-    <title>Acelerados</title>
-    <sub-title>UV Pra Quê? Raio-X: Mercedes-AMG E53 Perua!</sub-title>
-    <desc>Nos dias de hoje é cada vez mais raro ver alguma marca lançando uma perua no Brasil. A verdade é que esse tipo de carroceria, que deixa o corações dos entusiastas acelerados, perdeu espaço para os SUVS.</desc>
-    <episode-num system="xmltv_ns">0.29.</episode-num>
-  </programme>
-  <programme start="20260927113000 +0000" stop="20260927114500 +0000" channel="NSports.br">
-    <title>Acelerados</title>
-    <sub-title>EX2 de Drift e em Versão Esportiva! As Criações da Geely e de Ricardinho ACF no Festival Internacional</sub-title>
-    <desc>Hoje fomos conhecer dois projetos um tanto diferentes da Geely que certamente vão agradar os entusiastas: EX2 Street e EX2 Track, hatches elétricos que marcam presença no estande da Geely no Festival Interlagos 2026!</desc>
-    <episode-num system="xmltv_ns">0.30.</episode-num>
-  </programme>
-  <programme start="20260927114500 +0000" stop="20260927120000 +0000" channel="NSports.br">
-    <title>Acelerados</title>
-    <sub-title>O SUV Mais Potente Que um Fórmula 1! Novo Porsche Cayenne Elétrico é Melhor Que o Irmão Híbrido?</sub-title>
-    <desc>No vídeo de hoje você acompanha com Marcelo Mococa um dos grandes lançamentos da indústria automotiva em 2026. Estamos falando de nada mais, nada menos, que o @porsche de produção mais POTENTE de todos os tempos!</desc>
-    <episode-num system="xmltv_ns">0.31.</episode-num>
-  </programme>
-  <programme start="20260927120000 +0000" stop="20260927130000 +0000" channel="NSports.br">
-    <title>Programação do Canal</title>
-    <desc>Sinopse não Disponível.</desc>
-  </programme>
-  <programme start="20260927130000 +0000" stop="20260927131500 +0000" channel="NSports.br">
-    <title>Vai, Gabi!</title>
-    <sub-title>Conheci o Maior CT da América Latina</sub-title>
-    <desc>Gabi Martins te leva pra conhecer tudo que gira em torno do esporte, desde mostrar bastidores de jogos, até contar histórias pouco conhecidas pelos fãs do mundo esportivo.</desc>
-    <episode-num system="xmltv_ns">0.55.</episode-num>
-  </programme>
-  <programme start="20260927131500 +0000" stop="20260927133000 +0000" channel="NSports.br">
+  <programme start="20260927030000 +0000" stop="20260927031500 +0000" channel="NSports.br">
     <title>Futebol Pelo Mundo</title>
     <sub-title>As Torcidas Estavam Simplesmente Insanas no Mineirão / Cruzeiro 1 x 1 Atlético-MG</sub-title>
     <desc>Fui no clássico mineiro Cruzeiro 1 x 1 Atlético-MG pelas quartas de final da Copa do Brasil 2026 no Mineirão em Belo Horizonte com festa da torcida do Cruzeiro e festa da torcida do Galo de visitante!</desc>
     <episode-num system="xmltv_ns">0.28.</episode-num>
   </programme>
-  <programme start="20260927133000 +0000" stop="20260927134500 +0000" channel="NSports.br">
+  <programme start="20260927031500 +0000" stop="20260927034500 +0000" channel="NSports.br">
+    <title>Campeão do Mundo</title>
+    <sub-title>Vampeta</sub-title>
+    <desc>Vampeta foi o convidado do Campeões do Mundo com Galvão. O ex-jogador foi um grande craque da seleção brasileira e pentacampeão mundial.</desc>
+    <episode-num system="xmltv_ns">79.6.</episode-num>
+  </programme>
+  <programme start="20260927034500 +0000" stop="20260927040000 +0000" channel="NSports.br">
+    <title>BJJ Cria</title>
+    <sub-title>Quais são os Benefícios do Jiu Jitsu Para Pessoas com Autismo?</sub-title>
+    <desc>Terceiro episódio da nossa série especial, visitamos a MV BJJ Academy, em Winter Garden, na Flórida, para conhecer de perto a história do professor Marcos Vinicius, manauara, faixa preta e fundador da academia.</desc>
+    <episode-num system="xmltv_ns">0.12.</episode-num>
+  </programme>
+  <programme start="20260927040000 +0000" stop="20260927050000 +0000" channel="NSports.br">
+    <title>Desimpedidos</title>
+    <sub-title>Fala Que eu Discuto / Quem Vai Ser Eliminado da Copa do Brasil?</sub-title>
+    <desc>O CORINTHIANS VAI SER ELIMINADO DA COPA DO BRASIL? Cola com nois que o "FALA QUE EU DISCUTO" dessa semana chega com Bolívia Zica, Chico e Madson comentando e cornetando tudo da borracharia semanal.</desc>
+  </programme>
+  <programme start="20260927050000 +0000" stop="20260927064500 +0000" channel="NSports.br">
+    <title>VT - Bolton x West Ham</title>
+    <desc>O melhor da EFL Championship você acompanha aqui na N Sports!</desc>
+  </programme>
+  <programme start="20260927064500 +0000" stop="20260927070000 +0000" channel="NSports.br">
     <title>Futebol Pelo Mundo</title>
-    <sub-title>A Torcida do Palmeiras Estava Insana no Nubank Parque/ Palmeiras 3 x 0 Santos</sub-title>
-    <desc>Fui no jogo Palmeiras 3 x 0 Santos pelas quartas de final da Copa do Brasil no estádio Nubank Parque em São Paulo com festa da torcida do Palmeiras, festa da Mancha Verde e vitória palmeirense!</desc>
-    <episode-num system="xmltv_ns">0.29.</episode-num>
+    <sub-title>A Maior Emoção da Minha Vida</sub-title>
+    <desc>Fui no jogo Brasil 2 x 1 Japão pelos 16 avos de final da Copa do Mundo 2026 em Houston nos Estados Unidos com classificação do Brasil, festa do MVA e da torcida do Brasil e virada histórica no final do jogo!</desc>
+    <episode-num system="xmltv_ns">0.16.</episode-num>
   </programme>
-  <programme start="20260927134500 +0000" stop="20260927140000 +0000" channel="NSports.br">
-    <title>Futebol Pelo Mundo</title>
-    <sub-title>Atmosfera de Arrepiar das Torcidas no Grenal / Internacional x Grêmio</sub-title>
-    <desc>Fui no clássico GRENAL Inter x Grêmio no estádio Beira Rio em Porto Alegre no Rio Grande do Sul pelas quartas de final da Copa do Brasil com rua de fogo da torcida do Inter, festa colorada e festa da torcida do Grêmio.</desc>
-    <episode-num system="xmltv_ns">0.30.</episode-num>
+  <programme start="20260927070000 +0000" stop="20260927073000 +0000" channel="NSports.br">
+    <title>Desimpedidos</title>
+    <sub-title>Fala Que Eu Discuto / Brasil Pode ser Campeão do Mundo com Neymar?</sub-title>
+    <desc>O "Fala Que eu Discuto" volta com Bolívia, Chico e Chorume do Grêmio respondendo: "COM NEYMAR, O BRASIL TEM CHANCES DE GANHAR A COPA DO MUNDO?"</desc>
   </programme>
-  <programme start="20260927140000 +0000" stop="20260927141500 +0000" channel="NSports.br">
-    <title>Futebol Pelo Mundo</title>
-    <sub-title>Fui Infiltrado No Meio Da Torcida Do Boca Contra O São Paulo</sub-title>
-    <desc>Fui no jogo Boca Juniors 1 x 0 São Paulo pelas quartas de final da Sul-Americana 2026 na La Bombonera em Buenos Aires na Argentina com festa da torcida do São Paulo de visitante e festa da torcida do Boca.</desc>
-    <episode-num system="xmltv_ns">80.33.</episode-num>
+  <programme start="20260927073000 +0000" stop="20260927080000 +0000" channel="NSports.br">
+    <title>Desimpedidos</title>
+    <sub-title>Fala Que Eu Discuto / Time do Brasil Reserva ou Titular, Qual é a Melhor Opção Para a Copa Do Mundo?</sub-title>
+    <desc>Novo "Fala Que eu Discuto" na área! Em clima de Copa do Mundo e em sábado de último amistoso da Seleção Brasileira, Bolívia e Chico perguntam: o time reserva do Brasil é melhor que a equipe titular?</desc>
   </programme>
-  <programme start="20260927141500 +0000" stop="20260927164500 +0000" channel="NSports.br">
-    <title>Programação do Canal</title>
-    <desc>Sinopse não Disponível.</desc>
-  </programme>
-  <programme start="20260927164500 +0000" stop="20260927191500 +0000" channel="NSports.br">
-    <title>Programação do Canal</title>
-    <desc>Sinopse não Disponível.</desc>
-  </programme>
-  <programme start="20260927191500 +0000" stop="20260927193000 +0000" channel="NSports.br">
-    <title>MTB</title>
-    <sub-title>Nossa Viagem Até a Espanha Começou! Do Brasil Até Madrid</sub-title>
-    <desc>Saímos do Brasil rumo à Europa para viver dias inesquecíveis na Espanha e em Portugal. A jornada começou no Aeroporto Internacional de Confins, com conexões em Lisboa até chegarmos à capital espanhola: Madrid.</desc>
-    <episode-num system="xmltv_ns">0.52.</episode-num>
-  </programme>
-  <programme start="20260927193000 +0000" stop="20260927194500 +0000" channel="NSports.br">
-    <title>MTB</title>
-    <sub-title>Óbidos, Portugal / Conheça a Cidade Medieval Mais Charmosa de Portugal</sub-title>
-    <desc>Neste vídeo, continuamos nossa viagem por Portugal conhecendo Óbidos, uma das cidades medievais mais charmosas e preservadas do país.</desc>
-    <episode-num system="xmltv_ns">0.55.</episode-num>
-  </programme>
-  <programme start="20260927194500 +0000" stop="20260927200000 +0000" channel="NSports.br">
-    <title>MTB</title>
-    <sub-title>Nazaré, Portugal / Conheça a Cidade das Maiores Ondas do Mundo!</sub-title>
-    <desc>Nazaré, Portugal! Uma das cidades mais famosas do litoral português e conhecida no mundo inteiro pelas suas ondas gigantes.</desc>
-    <episode-num system="xmltv_ns">0.56.</episode-num>
-  </programme>
-  <programme start="20260927200000 +0000" stop="20260927201500 +0000" channel="NSports.br">
-    <title>MTB</title>
-    <sub-title>Fátima, Portugal / Conheça o Santuário e o Local das Aparições de Nossa Senhora!</sub-title>
-    <desc>Seguimos nossa viagem por Portugal para conhecer um dos lugares de fé mais importantes e visitados do mundo: Fátima.</desc>
+  <programme start="20260927080000 +0000" stop="20260927100000 +0000" channel="NSports.br">
+    <title>Um Assado Para... Roger Machado</title>
+    <desc>"Um Assado Para…" com Duda Garbi, é um bate-papo descontraído com personalidades do futebol. O clima é de resenha entre amigos, com conversas sinceras, curiosidades e histórias dos bastidores do esporte.</desc>
     <episode-num system="xmltv_ns">0.57.</episode-num>
   </programme>
-  <programme start="20260927201500 +0000" stop="20260927214500 +0000" channel="NSports.br">
-    <title>Campeonato Brasileiro de Ginástica Artística</title>
-    <desc>Rebeca Andrade, Flávia Saraiva, Lorrane Oliveira e Arthur Nory: medalhistas olímpicos competem no Campeonato Brasileiro de ginástica artística em Brasília</desc>
+  <programme start="20260927100000 +0000" stop="20260927110000 +0000" channel="NSports.br">
+    <title>Podcast Sport Insider - Felipe Lobo e Bruno Bonsanti</title>
+    <desc>Sport Insider é o programa de entrevistas sobre negócios do esporte do Sport Insider, produzido em parceria com a N Sports.</desc>
+    <episode-num system="xmltv_ns">0.36.</episode-num>
   </programme>
-  <programme start="20260927214500 +0000" stop="20260927221500 +0000" channel="NSports.br">
+  <programme start="20260927110000 +0000" stop="20260927113000 +0000" channel="NSports.br">
+    <title>Campeão do Mundo com Galvão</title>
+    <sub-title>Luizão</sub-title>
+    <desc>Pentacampeão do mundo em 2002, Luizão é o convidado do Campeão do Mundo com Galvão e crava: Neymar não quer ir para a Copa do Mundo de 2026! Concordam com ele!?</desc>
+    <episode-num system="xmltv_ns">87.3.</episode-num>
+  </programme>
+  <programme start="20260927113000 +0000" stop="20260927121500 +0000" channel="NSports.br">
+    <title>DEC</title>
+    <sub-title>Sabe Muito! / Encontramos o Influenciador Que Mais Entende de Futebol?!</sub-title>
+    <desc>Ele voltou, mais uma edição do Sabe Muito! Chamamos 10 influenciadores de futebol que querem provar que sabem de futebol! Será que eles passaram vergonha?</desc>
+  </programme>
+  <programme start="20260927121500 +0000" stop="20260927123000 +0000" channel="NSports.br">
+    <title>Acelerados</title>
+    <sub-title>Volks Golf</sub-title>
+    <desc>Salve, Acelerados! Hoje a nossa Volta Rápida com Rubens Barrichello é com uma dupla de peso entre os hot hatches: Volkswagen Golf GTI e BMW 135!</desc>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20260927123000 +0000" stop="20260927124500 +0000" channel="NSports.br">
+    <title>Acelerados</title>
+    <sub-title>Motor de Bentley e Suspensão de Lamborghini: Andamos no Golf GTI Mais Insano da História!</sub-title>
+    <desc>Ele está entre nós: dirigimos um dos carros conceito mais insanos já criados na indústria automotiva: o Volkswagen Golf GTI W12!</desc>
+    <episode-num system="xmltv_ns">0.8.</episode-num>
+  </programme>
+  <programme start="20260927124500 +0000" stop="20260927130000 +0000" channel="NSports.br">
+    <title>Acelerados</title>
+    <sub-title>Comparativo: Geely Ex5 x Gwm Haval H6 x Renault Koleos! Qual SUV Médio Híbrido é Melhor?</sub-title>
+    <desc>É um SUV que você está pensando em comprar? Então fica aqui nesse vídeo que nós podemos te ajudar!</desc>
+    <episode-num system="xmltv_ns">0.9.</episode-num>
+  </programme>
+  <programme start="20260927130000 +0000" stop="20260927131500 +0000" channel="NSports.br">
+    <title>Acelerados</title>
+    <sub-title>Do Gran Turismo Para a Vida Real: Conhecemos os Golfs GTI Vision e Roadster!</sub-title>
+    <desc>O programa de hoje vai tocar todos os fãs de carro, mas principalmente aqueles que jogam videogame.</desc>
+    <episode-num system="xmltv_ns">0.10.</episode-num>
+  </programme>
+  <programme start="20260927131500 +0000" stop="20260927133000 +0000" channel="NSports.br">
+    <title>Acelerados</title>
+    <sub-title>VW Saveiro Surf 0km, Brasília e Chevrolet Astra GSI: As Raridades do Reginaldo de Campinas</sub-title>
+    <desc>O universo dos carros clássicos passa por Reginaldo de Campinas, um verdadeiro caçador das maiores raridades espalhadas pelo Brasil.</desc>
+    <episode-num system="xmltv_ns">0.11.</episode-num>
+  </programme>
+  <programme start="20260927133000 +0000" stop="20260927140000 +0000" channel="NSports.br">
     <title>Acelerados</title>
     <sub-title>Volta Rápida / Mais Lenta e Divertida da História! Towner x Vivio x Cuore: Três Kei Cars na Pista</sub-title>
     <desc>Senhoras e senhores, afivelem bem os cintos e segurem-se nas poltronas, porque hoje o chão do Velocitta vai tremer!</desc>
     <episode-num system="xmltv_ns">0.33.</episode-num>
   </programme>
-  <programme start="20260927221500 +0000" stop="20260927230000 +0000" channel="NSports.br">
+  <programme start="20260927140000 +0000" stop="20260927141500 +0000" channel="NSports.br">
+    <title>Acelerados</title>
+    <sub-title>EX2 de Drift e em Versão Esportiva! As Criações da Geely e de Ricardinho ACF no Festival Internacional</sub-title>
+    <desc>Hoje fomos conhecer dois projetos um tanto diferentes da Geely que certamente vão agradar os entusiastas: EX2 Street e EX2 Track, hatches elétricos que marcam presença no estande da Geely no Festival Interlagos 2026!</desc>
+    <episode-num system="xmltv_ns">0.30.</episode-num>
+  </programme>
+  <programme start="20260927141500 +0000" stop="20260927143000 +0000" channel="NSports.br">
+    <title>Acelerados</title>
+    <sub-title>O SUV Mais Potente Que um Fórmula 1! Novo Porsche Cayenne Elétrico é Melhor Que o Irmão Híbrido?</sub-title>
+    <desc>No vídeo de hoje você acompanha com Marcelo Mococa um dos grandes lançamentos da indústria automotiva em 2026. Estamos falando de nada mais, nada menos, que o @porsche de produção mais POTENTE de todos os tempos!</desc>
+    <episode-num system="xmltv_ns">0.31.</episode-num>
+  </programme>
+  <programme start="20260927143000 +0000" stop="20260927150000 +0000" channel="NSports.br">
+    <title>Acelerados</title>
+    <sub-title>Por Que o GC Comprou Outro BMW M3 E92? Veja o Cupê Alemão V8 Aspirado na Pista</sub-title>
+    <desc>Hoje é o dia de ver o mais novo carro da garagem de Gerson Campos: BMW M3 E92. Não é a primeira vez que GC tem o cupê alemão V-oitão aspirado na garagem, já que num passado não tão distante ele teve um ...</desc>
+    <episode-num system="xmltv_ns">0.32.</episode-num>
+  </programme>
+  <programme start="20260927150000 +0000" stop="20260927164500 +0000" channel="NSports.br">
+    <title>Automobilismo: Fórmula E</title>
+    <desc>A Formula E é o maior campeonato mundial de carros 100% elétricos e você confere tudo aqui na N Sports!</desc>
+  </programme>
+  <programme start="20260927164500 +0000" stop="20260927170000 +0000" channel="NSports.br">
+    <title>Acelerados</title>
+    <sub-title>Carro elétrico dá dor de cabeça? A autonomia é um problema? GC te conta após 1 ano com o BYD Seal!</sub-title>
+    <desc>Em outubro de 2024, o Gerson colocou pela primeira vez um carro elétrico em sua garagem. Hoje, ele te conta em detalhes como foi essa experiência com o seu BYD Seal ao longo de mais de um ano.</desc>
+    <episode-num system="xmltv_ns">0.28.</episode-num>
+  </programme>
+  <programme start="20260927170000 +0000" stop="20260927232000 +0000" channel="NSports.br">
+    <title>Open De Futevôlei - Etapa Alphaville - Ao Vivo</title>
+    <desc>O open de futevôlei em Alphaville, que acontece nos dias 26 e 27 de setembro, você acompanha aqui na N Sports!!</desc>
+  </programme>
+  <programme start="20260927232000 +0000" stop="20260928020000 +0000" channel="NSports.br">
+    <title>VT - Corinthians x São Paulo</title>
+    <desc>O melhor do Brasileirão Feminino você vê aqui na N Sports!</desc>
+  </programme>
+  <programme start="20260928020000 +0000" stop="20260928024500 +0000" channel="NSports.br">
+    <title>Acelerados</title>
+    <sub-title>Por Que Ele é O Melhor Supercarro da História?</sub-title>
+    <desc>Hoje é o dia de um sonho de criança ser realizado! Diretamente de Sttugart na sede da @porsche, @marcelomococa e @bolacelerados trazem para nós um vídeo pra lá de especial!</desc>
+    <episode-num system="xmltv_ns">22.34.</episode-num>
+  </programme>
+  <programme start="20260928024500 +0000" stop="20260928030000 +0000" channel="NSports.br">
+    <title>Acelerados</title>
+    <sub-title>Alemanha Vs China na Pista! Tiguan R-line e Jetour T2 4x4</sub-title>
+    <desc>Na Volta Rápida de hoje, o Rubinho teve a missão de acelerar dois dos SUVs recém-chegados ao mercado nacional e que trazem MUITA POTÊNCIA!</desc>
+    <episode-num system="xmltv_ns">22.35.</episode-num>
+  </programme>
+  <programme start="20260928030000 +0000" stop="20260928031500 +0000" channel="NSports.br">
+    <title>Programação indisponível</title>
+  </programme>
+  <programme start="20260928031500 +0000" stop="20260928034500 +0000" channel="NSports.br">
+    <title>Campeão do Mundo com Galvão</title>
+    <sub-title>Rivelino - Parte 2</sub-title>
+    <desc>Segunda parte da entrevista com Rivelino no Campeão do Mundo com Galvão. Tricampeão do mundo em 1970 conta histórias e curiosidades que passou com Pelé e até Maradona.</desc>
+    <episode-num system="xmltv_ns">79.5.</episode-num>
+  </programme>
+  <programme start="20260928034500 +0000" stop="20260928040000 +0000" channel="NSports.br">
+    <title>BJJ Cria</title>
+    <sub-title>Tainan Dalpra, Cole Abate e Guilherme Mendes Falam Sobre o Steven Ortiz / 5x Campeão Pan Kids Ibjjf</sub-title>
+    <desc>Steven Ortiz é atleta da AOJ, academia liderada pelos irmãos Guilherme Mendes e Rafael Mendes.</desc>
+    <episode-num system="xmltv_ns">0.11.</episode-num>
+  </programme>
+  <programme start="20260928040000 +0000" stop="20260928050000 +0000" channel="NSports.br">
+    <title>Podcast Sport Insider - Lucas Barillari</title>
+    <desc>Sport Insider é o programa de entrevistas sobre negócios do esporte do Sport Insider, produzido em parceria com a N Sports.</desc>
+    <episode-num system="xmltv_ns">0.38.</episode-num>
+  </programme>
+  <programme start="20260928050000 +0000" stop="20260928064500 +0000" channel="NSports.br">
+    <title>VT - Birmingham City x Wolverhampton</title>
+    <desc>O melhor da EFL Championship você acompanha aqui na N Sports!</desc>
+  </programme>
+  <programme start="20260928064500 +0000" stop="20260928070000 +0000" channel="NSports.br">
+    <title>Futebol Pelo Mundo</title>
+    <sub-title>A Melhor Atmosfera que eu já vi da Torcida do Brasil</sub-title>
+    <desc>Compartilhando a emoção de assistir jogos de futebol ao redor do mundo!</desc>
+    <episode-num system="xmltv_ns">82.15.</episode-num>
+  </programme>
+  <programme start="20260928070000 +0000" stop="20260928073000 +0000" channel="NSports.br">
+    <title>Desimpedidos</title>
+    <sub-title>Puro Suco / Baile do Palmeiras, Cruzeiro e Galo, Vasco fez o trabalho de casa? E muito mais...</sub-title>
+    <desc>Mais um "Puro Suco" no ar com os grandes absurdos da semana marcada pela Copa do Brasil! Tem empate disputado entre Cruzeiro e Atlético, goleada do Palmeiras contra o Santos, Vascão vencendo, Grenal, Neymar vs Sormani...</desc>
+  </programme>
+  <programme start="20260928073000 +0000" stop="20260928080000 +0000" channel="NSports.br">
+    <title>Desimpedidos</title>
+    <sub-title>Puro Suco / A bola entrou ou não? Bolívia e Chico comentam polêmica de Flamengo x Cruzeiro</sub-title>
+    <desc>Novo episódio do "Puro Suco" no ar em edição de colecionador! Tem Flamengo eliminando Cruzeiro na Liberta (com polêmica?), Palmeiras e Flu também avançando, ligação surpresa pra NÚBIA ÓLI...</desc>
+  </programme>
+  <programme start="20260928080000 +0000" stop="20260928093000 +0000" channel="NSports.br">
+    <title>Um Assado Para... Hélio De La Peña</title>
+    <desc>"Um Assado Para…" com Duda Garbi, é um bate-papo descontraído com personalidades do futebol. O clima é de resenha entre amigos, com conversas sinceras, curiosidades e histórias dos bastidores do esporte.</desc>
+    <episode-num system="xmltv_ns">0.56.</episode-num>
+  </programme>
+  <programme start="20260928093000 +0000" stop="20260928101500 +0000" channel="NSports.br">
+    <title>Desimpedidos</title>
+    <sub-title>Puro Suco / Desimpedidos virou o Vasco e tudo sobre Copa Do Brasil</sub-title>
+    <desc>A COPA DO BRASIL SEGUE VOANDO QUE NEM SAPO! "Puro Suco" da semana no ar com a pura borracharia numa rodada braba de Copa do Brasil: tem Vasco sendo pai do Fluminense, Santos entregando mais RESENHA.</desc>
+  </programme>
+  <programme start="20260928101500 +0000" stop="20260928103000 +0000" channel="NSports.br">
+    <title>Futebol Pelo Mundo</title>
+    <sub-title>A Torcida Do Brasil Fez História Na Filadélfia</sub-title>
+    <desc>Fui no jogo Brasil 3 x 0 Haiti pela Copa do Mundo na Filadélfia com festa da torcida do Brasil, presença do MVA, gols de Matheus Cunha e Vini Jr e vitória em cima do Haiti!</desc>
+    <episode-num system="xmltv_ns">86.12.</episode-num>
+  </programme>
+  <programme start="20260928103000 +0000" stop="20260928110000 +0000" channel="NSports.br">
+    <title>Desimpedidos</title>
+    <sub-title>Puro Suco / A bola entrou ou não? Bolívia e Chico comentam polêmica de Flamengo x Cruzeiro</sub-title>
+    <desc>Novo episódio do "Puro Suco" no ar em edição de colecionador! Tem Flamengo eliminando Cruzeiro na Liberta (com polêmica?), Palmeiras e Flu também avançando, ligação surpresa pra NÚBIA ÓLI...</desc>
+  </programme>
+  <programme start="20260928110000 +0000" stop="20260928113000 +0000" channel="NSports.br">
+    <title>Campeão do Mundo com Galvão</title>
+    <sub-title>Ricardo Rocha</sub-title>
+    <desc>O entrevistado de hoje do Campeão do Mundo com Galvão é o ex-zagueiro Ricardo Rocha. O Xerife relembra resenhas com Zagallo, Parreira e Romário na trajetória para o tetracampeonato em 1994.</desc>
+    <episode-num system="xmltv_ns">87.2.</episode-num>
+  </programme>
+  <programme start="20260928113000 +0000" stop="20260928120000 +0000" channel="NSports.br">
+    <title>Desimpedidos</title>
+    <sub-title>Puro Suco / Não Superamos! Pedro Faz Falta na Seleção?</sub-title>
+    <desc>Tamo na borracharia! O "Puro Suco" da semana chega com os maiores absurdos da semana, incluindo o novo rosto do Vini Jr, São Paulo já perdendo no Brasileiro, Espanha campeã do mundo, Flamengo e Palmeiras voltando com vit...</desc>
+  </programme>
+  <programme start="20260928120000 +0000" stop="20260928121500 +0000" channel="NSports.br">
+    <title>Acelerados</title>
+    <sub-title>Volks Golf</sub-title>
+    <desc>Salve, Acelerados! Hoje a nossa Volta Rápida com Rubens Barrichello é com uma dupla de peso entre os hot hatches: Volkswagen Golf GTI e BMW 135!</desc>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20260928121500 +0000" stop="20260928123000 +0000" channel="NSports.br">
+    <title>Acelerados</title>
+    <sub-title>BMW M3</sub-title>
+    <desc>Salve, Acelerados! Para quem é entusiasta e tem mais de 30 anos, certamente lembra da icônica BMW M3 GTR E46 prata e azul do saudoso jogo de corrida Need For Speed Most Wanted do Playstation 2</desc>
+    <episode-num system="xmltv_ns">0.1.</episode-num>
+  </programme>
+  <programme start="20260928123000 +0000" stop="20260928124500 +0000" channel="NSports.br">
+    <title>Acelerados</title>
+    <sub-title>Uno Mille x Kwid</sub-title>
+    <desc>Salve, Acelerados! Hoje é mais um dia de ciência aqui no canal! No duelo do Arrancadão de hoje colocamos lado a lado duas gerações diferentes dos modelos 1.0 aspirado popular.</desc>
+    <episode-num system="xmltv_ns">0.2.</episode-num>
+  </programme>
+  <programme start="20260928124500 +0000" stop="20260928130000 +0000" channel="NSports.br">
+    <title>Acelerados</title>
+    <sub-title>Caoa Changan x Fastback</sub-title>
+    <desc>Salve, Acelerados! No Arrancadão de hoje, colocamos lado a lado dois SUVs de propostas diferentes, mas que brigam na mesma faixa de preço.</desc>
+    <episode-num system="xmltv_ns">0.3.</episode-num>
+  </programme>
+  <programme start="20260928130000 +0000" stop="20260928131500 +0000" channel="NSports.br">
+    <title>Acelerados</title>
+    <sub-title>Desafio no Kart</sub-title>
+    <desc>Hoje temos como convidado Léo Reis, piloto da Stock Car e Pentacampeão Brasileiro de kart.</desc>
+    <episode-num system="xmltv_ns">0.4.</episode-num>
+  </programme>
+  <programme start="20260928131500 +0000" stop="20260928133000 +0000" channel="NSports.br">
+    <title>Acelerados</title>
+    <sub-title>Volks Xl1</sub-title>
+    <desc>Rodrigo Bola foi até a Alemanha para conhecer uma das maiores criações da indústria automotiva: o Volkswagen XL1.</desc>
+    <episode-num system="xmltv_ns">0.5.</episode-num>
+  </programme>
+  <programme start="20260928133000 +0000" stop="20260928140000 +0000" channel="NSports.br">
+    <title>Acelerados</title>
+    <sub-title>Land Rover</sub-title>
+    <desc>Quem é fã de veículos 4x4, sabe que o Land Rover Defender se coloca como um dos ícones no mundo off-road e também na indústria automotiva ao longo da história.</desc>
+    <episode-num system="xmltv_ns">0.6.</episode-num>
+  </programme>
+  <programme start="20260928140000 +0000" stop="20260928141500 +0000" channel="NSports.br">
+    <title>Vai, Gabi!</title>
+    <desc>Gabi Martins te leva pra conhecer tudo que gira em torno do esporte, desde mostrar bastidores de jogos, até contar histórias pouco conhecidas pelos fãs do mundo esportivo.</desc>
+    <episode-num system="xmltv_ns">10.270.</episode-num>
+  </programme>
+  <programme start="20260928141500 +0000" stop="20260928161500 +0000" channel="NSports.br">
+    <title>Ajax x Den Haag - Ao Vivo</title>
+    <desc>O melhor da Liga Holandesa Feminina é aqui na N Sports!</desc>
+  </programme>
+  <programme start="20260928161500 +0000" stop="20260928170000 +0000" channel="NSports.br">
     <title>DEC</title>
     <sub-title>Sabe Muito! / Encontramos o Influenciador Que Mais Entende de Futebol?!</sub-title>
     <desc>Ele voltou, mais uma edição do Sabe Muito! Chamamos 10 influenciadores de futebol que querem provar que sabem de futebol! Será que eles passaram vergonha?</desc>
   </programme>
-  <programme start="20260927230000 +0000" stop="20260928004500 +0000" channel="NSports.br">
-    <title>VT - Bolton x West Ham</title>
+  <programme start="20260928170000 +0000" stop="20260928183000 +0000" channel="NSports.br">
+    <title>Um Assado Para... Branco</title>
+    <desc>"Um Assado Para…" com Duda Garbi, é um bate-papo descontraído com personalidades do futebol. O clima é de resenha entre amigos, com conversas sinceras, curiosidades e histórias dos bastidores do esporte.</desc>
+    <episode-num system="xmltv_ns">0.53.</episode-num>
+  </programme>
+  <programme start="20260928183000 +0000" stop="20260928220000 +0000" channel="NSports.br">
+    <title>Corinthians x São Paulo - Ao Vivo</title>
+    <desc>O melhor do Brasileirão Feminino você vê aqui na N Sports!</desc>
+  </programme>
+  <programme start="20260928220000 +0000" stop="20260928231500 +0000" channel="NSports.br">
+    <title>Open De Futevôlei - Etapa Alphaville - Ao Vivo</title>
+    <desc>O open de futevôlei em Alphaville, que acontece nos dias 26 e 27 de setembro, você acompanha aqui na N Sports!!</desc>
+  </programme>
+  <programme start="20260928231500 +0000" stop="20260929010000 +0000" channel="NSports.br">
+    <title>VT - Wrexham x Southampton</title>
     <desc>O melhor da EFL Championship você acompanha aqui na N Sports!</desc>
   </programme>
-  <programme start="20260928004500 +0000" stop="20260928010000 +0000" channel="NSports.br">
-    <title>Desimpedidos</title>
-    <sub-title>1:1 / As Piores (Ou Melhores?) Tatuagens do Futebol Brasileiro!</sub-title>
-    <desc>QUAIS SÍO AS PIORES TATUAGENS DO FUTEBOL? EGÍDIO CAUSOU LESÍO DO RONALDINHO GAÚCHO? Mais um "1:1" no ar com as histórias mais ABSURDAS da carreira do Egídio e do Madson.</desc>
-  </programme>
-  <programme start="20260928010000 +0000" stop="20260928031500 +0000" channel="NSports.br">
-    <title>Um Assado Para... Marcelo Adnet</title>
+  <programme start="20260929010000 +0000" stop="20260929024500 +0000" channel="NSports.br">
+    <title>Um Assado Para... Leo Macaé e Dica Do Gordinho</title>
     <desc>"Um Assado Para…" com Duda Garbi, é um bate-papo descontraído com personalidades do futebol. O clima é de resenha entre amigos, com conversas sinceras, curiosidades e histórias dos bastidores do esporte.</desc>
-    <episode-num system="xmltv_ns">0.58.</episode-num>
+    <episode-num system="xmltv_ns">81.270.</episode-num>
+  </programme>
+  <programme start="20260929024500 +0000" stop="20260929030000 +0000" channel="NSports.br">
+    <title>Joga com Elas Entrevista</title>
+    <sub-title>Conheci o Maior CT da América Latina</sub-title>
+    <desc>Entrevistas com os principais nomes do futebol feminino com exclusividade N Sports</desc>
+    <episode-num system="xmltv_ns">0.4.</episode-num>
+  </programme>
+  <programme start="20260929030000 +0000" stop="20260929031500 +0000" channel="NSports.br">
+    <title>Vai, Gabi!</title>
+    <sub-title>A torcida do Once Caldas invadiu o Equador na Sul-Americana</sub-title>
+    <desc>Nesse episódio Gabi vai até o jogo entre Independiente Del Valle x Once Caldas pela sulamericana e também conhece o parque da Mitad del Mundo.</desc>
+    <episode-num system="xmltv_ns">0.54.</episode-num>
+  </programme>
+  <programme start="20260929031500 +0000" stop="20260929034500 +0000" channel="NSports.br">
+    <title>Campeão do Mundo</title>
+    <sub-title>Branco</sub-title>
+    <desc>O segundo entrevistado do Campeão do Mundo com Galvão é o ex-lateral Branco, que relembrou histórias do tetra, como o gol de falta que mudou sua vida e a de Romário!</desc>
+    <episode-num system="xmltv_ns">79.1.</episode-num>
+  </programme>
+  <programme start="20260929034500 +0000" stop="20260929040000 +0000" channel="NSports.br">
+    <title>Desimpedidos</title>
+    <sub-title>1:1 / O Dia em que Egídio, Ronaldinho Gaúcho e o Prefeito Fecharam um Camarote no Carnaval!</sub-title>
+    <desc>Egídio e Madson trouxeram mais histórias e resenhas dos bastidores de suas carreiras. Gidão contou sua experiência de viver o Carnaval carioca ao lado do Ronaldinho.</desc>
+  </programme>
+  <programme start="20260929040000 +0000" stop="20260929050000 +0000" channel="NSports.br">
+    <title>Podcast Sport Insider - Gustavo Poli</title>
+    <desc>Sport Insider é o programa de entrevistas sobre negócios do esporte do Sport Insider, produzido em parceria com a N Sports.</desc>
+    <episode-num system="xmltv_ns">0.34.</episode-num>
+  </programme>
+  <programme start="20260929050000 +0000" stop="20260929064500 +0000" channel="NSports.br">
+    <title>VT - Cardiff City x Sheffield United</title>
+    <desc>O melhor da EFL Championship você acompanha aqui na N Sports!</desc>
+  </programme>
+  <programme start="20260929064500 +0000" stop="20260929070000 +0000" channel="NSports.br">
+    <title>Futebol Pelo Mundo</title>
+    <desc>Compartilhando a emoção de assistir jogos de futebol ao redor do mundo!</desc>
+    <episode-num system="xmltv_ns">82.271.</episode-num>
+  </programme>
+  <programme start="20260929070000 +0000" stop="20260929073000 +0000" channel="NSports.br">
+    <title>Desimpedidos</title>
+    <sub-title>Puro Suco / A bola entrou ou não? Bolívia e Chico comentam polêmica de Flamengo x Cruzeiro</sub-title>
+    <desc>Novo episódio do "Puro Suco" no ar em edição de colecionador! Tem Flamengo eliminando Cruzeiro na Liberta (com polêmica?), Palmeiras e Flu também avançando, ligação surpresa pra NÚBIA ÓLI...</desc>
+  </programme>
+  <programme start="20260929073000 +0000" stop="20260929080000 +0000" channel="NSports.br">
+    <title>Desimpedidos</title>
+    <sub-title>Puro Suco / Baile do Palmeiras, Cruzeiro e Galo, Vasco fez o trabalho de casa? E muito mais...</sub-title>
+    <desc>Mais um "Puro Suco" no ar com os grandes absurdos da semana marcada pela Copa do Brasil! Tem empate disputado entre Cruzeiro e Atlético, goleada do Palmeiras contra o Santos, Vascão vencendo, Grenal, Neymar vs Sormani...</desc>
+  </programme>
+  <programme start="20260929080000 +0000" stop="20260929093000 +0000" channel="NSports.br">
+    <title>Um Assado Para... Celso Rigo</title>
+    <desc>"Um Assado Para…" com Duda Garbi, é um bate-papo descontraído com personalidades do futebol. O clima é de resenha entre amigos, com conversas sinceras, curiosidades e histórias dos bastidores do esporte.</desc>
+    <episode-num system="xmltv_ns">0.52.</episode-num>
+  </programme>
+  <programme start="20260929093000 +0000" stop="20260929100000 +0000" channel="NSports.br">
+    <title>Desimpedidos</title>
+    <sub-title>Puro Suco / Baile do Palmeiras, Cruzeiro e Galo, Vasco fez o trabalho de casa? E muito mais...</sub-title>
+    <desc>Mais um "Puro Suco" no ar com os grandes absurdos da semana marcada pela Copa do Brasil! Tem empate disputado entre Cruzeiro e Atlético, goleada do Palmeiras contra o Santos, Vascão vencendo, Grenal, Neymar vs Sormani...</desc>
+  </programme>
+  <programme start="20260929100000 +0000" stop="20260929113000 +0000" channel="NSports.br">
+    <title>Desimpedidos</title>
+    <sub-title>Fala Que eu Discuto / Neymar Salvou o Santos? Flamengo Ameaça o Palmeiras?</sub-title>
+    <desc>VITÓRIAS DO FLAMENGO E DO SANTOS EM RODADA DE CLÁSSICOS! Vem com nois! Mais um "Fala Que eu Discuto" com Bolívia, Chico, Madson e Egídio trazendo o melhor da rodada do Brasileirão.</desc>
+  </programme>
+  <programme start="20260929113000 +0000" stop="20260929140000 +0000" channel="NSports.br">
+    <title>Estádio 97</title>
+    <desc>O estádio 97 é mais que um programa de futebol. É uma resenha que te faz sentir em uma mesa de bar.</desc>
+    <episode-num system="xmltv_ns">87.271.</episode-num>
+  </programme>
+  <programme start="20260929140000 +0000" stop="20260929150000 +0000" channel="NSports.br">
+    <title>Deu Jogo - Ao Vivo</title>
+    <desc>Deu Jogo é o programa diário e ao vivo da N Sports que transforma as principais notícias do esporte em informação, debate e muita resenha.</desc>
+    <episode-num system="xmltv_ns">80.271.</episode-num>
+  </programme>
+  <programme start="20260929150000 +0000" stop="20260929151500 +0000" channel="NSports.br">
+    <title>Vai, Gabi!</title>
+    <sub-title>A torcida do Once Caldas invadiu o Equador na Sul-Americana</sub-title>
+    <desc>Nesse episódio Gabi vai até o jogo entre Independiente Del Valle x Once Caldas pela sulamericana e também conhece o parque da Mitad del Mundo.</desc>
+    <episode-num system="xmltv_ns">0.54.</episode-num>
   </programme>
   <programme channel="PrimeBoxBrazil.br" start="20260927000000 -0300" stop="20260927010000 -0300">
     <title lang="pt">Prime.doc: Brasil Visto do Alto</title>
@@ -35381,102 +35498,6 @@
     <title>Esporte Record</title>
     <desc>Tudo sobre a rodada esportiva com as últimas notícias dos principais clubes do Brasil, além de convidados especiais promovendo calorosos debates, entrevistas exclusivas, blocos de notícias e um espaço para o humor.</desc>
   </programme>
-  <programme start="20260925235000 +0000" stop="20260926013500 +0000" channel="SonyChannel.br">
-    <title>Rápida Vingança</title>
-    <desc>Driver, que cumpriu 10 anos na prisão tem um objetivo: vingar-se do assassino de seu irmão, que também é culpado por incriminá-lo e leva-lo a cadeia. Agora livre, ele está focado em realizar seu plano.</desc>
-  </programme>
-  <programme start="20260926013500 +0000" stop="20260926031500 +0000" channel="SonyChannel.br">
-    <title>Albatroz</title>
-    <desc>Um fotógrafo viaja a Jerusalém e registra um ataque terrorista, mas recebe críticas negativas por tirar fotos em vez de tentar evitá-lo. Ele cai em depressão e se encontra na fronteira entre a realidade, o sonho e o del...</desc>
-  </programme>
-  <programme start="20260926031500 +0000" stop="20260926053000 +0000" channel="SonyChannel.br">
-    <title>Gigantes de Aço</title>
-    <desc>Viva a adrenalina e o frenesi de uma atividade como a luta de Robôs. Esta é a história de um ex-campeão de boxe que, empurrado pelo forte desejo de uma criança, volta ao mundo da luta como um misterioso andróide.</desc>
-  </programme>
-  <programme start="20260926053000 +0000" stop="20260926060000 +0000" channel="SonyChannel.br">
-    <title>Eu, A Patroa e as Crianças</title>
-    <sub-title>Surto de Macaco</sub-title>
-    <desc>Quando Michael consegue um ingresso para ver o astro do basquete LeBron James jogar no Madison Square Garden, sua empolgação rapidamente se transforma em paranoia quando, poucos dias antes do jogo.</desc>
-    <episode-num system="xmltv_ns">3.18.</episode-num>
-  </programme>
-  <programme start="20260926060000 +0000" stop="20260926063000 +0000" channel="SonyChannel.br">
-    <title>Eu, A Patroa e as Crianças</title>
-    <sub-title>Ninho Vazio - Primeira Parte</sub-title>
-    <desc>Durante uma rara ocasião em que Michael e Jay têm a casa só para eles, eles se pegam relembrando os momentos divertidos que tiveram com seus filhos e vários amigos, em um episódio especial de uma hora. Parte 1 de 2.</desc>
-    <episode-num system="xmltv_ns">3.19.</episode-num>
-  </programme>
-  <programme start="20260926063000 +0000" stop="20260926070000 +0000" channel="SonyChannel.br">
-    <title>Eu, A Patroa e as Crianças</title>
-    <sub-title>Ninho Vazio - Segunda Parte</sub-title>
-    <desc>Durante uma rara ocasião em que Michael e Jay têm a casa só para eles, eles se pegam relembrando os momentos divertidos que tiveram com seus filhos e vários amigos, em um episódio especial de uma hora. Parte 2 de 2.</desc>
-    <episode-num system="xmltv_ns">3.20.</episode-num>
-  </programme>
-  <programme start="20260926070000 +0000" stop="20260926073000 +0000" channel="SonyChannel.br">
-    <title>Designing Women</title>
-    <sub-title>The It Men</sub-title>
-    <desc>Enquanto o namorado de Charlene, Mason, mora em Tóquio, eles combinam de sair com outras pessoas. Ela sai com um homem chamado Ed, que é casado com outra mulher.</desc>
-    <episode-num system="xmltv_ns">0.8.</episode-num>
-  </programme>
-  <programme start="20260926073000 +0000" stop="20260926080000 +0000" channel="SonyChannel.br">
-    <title>Designing Women</title>
-    <sub-title>The Slumber Party</sub-title>
-    <desc>Suzanne acredita que sua empregada, Consuela, lançou sobre ela uma maldição vodu fatal que entrará em vigor à meia-noite. Para o caso de se concretizar, as outras damas organizam uma festa do pijama na casa de Mary Jo.</desc>
-    <episode-num system="xmltv_ns">0.9.</episode-num>
-  </programme>
-  <programme start="20260926080000 +0000" stop="20260926090000 +0000" channel="SonyChannel.br">
-    <title>The Night Shift</title>
-    <sub-title>Seguindo em Frente</sub-title>
-    <desc>Uma mãe começa a apresentar sinais de extrema ansiedade quando um menino tem uma febre altíssima.</desc>
-    <episode-num system="xmltv_ns">1.11.</episode-num>
-  </programme>
-  <programme start="20260926090000 +0000" stop="20260926095500 +0000" channel="SonyChannel.br">
-    <title>Grey's Anatomy</title>
-    <sub-title>Se Você Partir</sub-title>
-    <desc>Os médicos precisam deixar de lado suas emoções em circunstâncias intensas; Levi faz a James uma pergunta chocante que pode impactar o futuro deles.</desc>
-    <episode-num system="xmltv_ns">20.6.</episode-num>
-  </programme>
-  <programme start="20260926095500 +0000" stop="20260926105000 +0000" channel="SonyChannel.br">
-    <title>Grey's Anatomy</title>
-    <sub-title>No Calor do Momento</sub-title>
-    <desc>Em meio a uma onda de calor mortal, a equipe do Gray Sloan se esforça para acompanhar um grande número de pacientes. Amelia e Winston enfrentam uma cirurgia difícil.</desc>
-    <episode-num system="xmltv_ns">20.7.</episode-num>
-  </programme>
-  <programme start="20260926105000 +0000" stop="20260926112000 +0000" channel="SonyChannel.br">
-    <title>Eu, A Patroa e as Crianças</title>
-    <sub-title>Surto de Macaco</sub-title>
-    <desc>Quando Michael consegue um ingresso para ver o astro do basquete LeBron James jogar no Madison Square Garden, sua empolgação rapidamente se transforma em paranoia quando, poucos dias antes do jogo.</desc>
-    <episode-num system="xmltv_ns">3.18.</episode-num>
-  </programme>
-  <programme start="20260926112000 +0000" stop="20260926115000 +0000" channel="SonyChannel.br">
-    <title>Eu, A Patroa e as Crianças</title>
-    <sub-title>Ninho Vazio - Primeira Parte</sub-title>
-    <desc>Durante uma rara ocasião em que Michael e Jay têm a casa só para eles, eles se pegam relembrando os momentos divertidos que tiveram com seus filhos e vários amigos, em um episódio especial de uma hora. Parte 1 de 2.</desc>
-    <episode-num system="xmltv_ns">3.19.</episode-num>
-  </programme>
-  <programme start="20260926115000 +0000" stop="20260926133500 +0000" channel="SonyChannel.br">
-    <title>O Especial da Casa: A Verdade Nua e Crua</title>
-    <desc>Abby está prestes a ser acordada de forma brusca quando seus chefes a colocam frente à frente com Mike, uma personalidade da TV que promete despejar a verdade nua e crua sobre o que faz os homens e as mulheres balançarem.</desc>
-  </programme>
-  <programme start="20260926133500 +0000" stop="20260926153000 +0000" channel="SonyChannel.br">
-    <title>O Especial da Casa: MIB - Homens de Preto Internacional</title>
-    <desc>É uma hora difícil para o mundo. Com a ameaça de uma arma de destruição em massa, mais a suspeita de um informante dentro da Homens de Preto, a nova recruta, Agente M, e seu supervisor, Agente H.</desc>
-  </programme>
-  <programme start="20260926153000 +0000" stop="20260926172000 +0000" channel="SonyChannel.br">
-    <title>O Especial da Casa: Gente Grande</title>
-    <desc>Cinco amigos de infância se reencontram após a morte de seu treinador. Juntos novamente, eles decidem curtir um feriado com suas famílias em uma casa no lago, o que acaba lhes rendendo novas confusões.</desc>
-  </programme>
-  <programme start="20260926172000 +0000" stop="20260926193500 +0000" channel="SonyChannel.br">
-    <title>O Especial da Casa: Um Lugar Bem Longe Daqui</title>
-    <desc>Uma mulher que se criou nos profundos pântanos do Sul dos Estados Unidos torna-se suspeita do assassinato de um homem com quem um dia esteve envolvida.</desc>
-  </programme>
-  <programme start="20260926193500 +0000" stop="20260926212500 +0000" channel="SonyChannel.br">
-    <title>O Especial da Casa: Rápida e Mortal</title>
-    <desc>Uma pistoleira chega a um povoado para se vingar de um vilão que planejou um duelo para matar seus rivais.</desc>
-  </programme>
-  <programme start="20260926212500 +0000" stop="20260926231500 +0000" channel="SonyChannel.br">
-    <title>O Especial da Casa: A Balada do Pistoleiro</title>
-    <desc>Após a mulher ser assassinada, um mariachi abandona a música e com a ajuda de seu amigo transforma-se num pistoleiro em busca de vingança.</desc>
-  </programme>
   <programme start="20260926231500 +0000" stop="20260927012000 +0000" channel="SonyChannel.br">
     <title>O Especial da Casa: Jumanji - Próxima Fase</title>
     <desc>Dwayne Johnson, Kevin Hart e Jack Black voltam ao jogo mais uma vez, o único problema é que seus personagens estão misturados.</desc>
@@ -35568,6 +35589,272 @@
   <programme start="20260928011500 +0000" stop="20260928025000 +0000" channel="SonyChannel.br">
     <title>O Especial da Casa: Proud Mary: A Profissional</title>
     <desc>Levando uma vida de assassina, uma mulher tem seu estilo de vida revirado quando conhece um jovem garoto que desperta nela um instinto materno que ela nunca havia sentido antes.</desc>
+  </programme>
+  <programme start="20260928025000 +0000" stop="20260928043500 +0000" channel="SonyChannel.br">
+    <title>O Especial da Casa: Matilda</title>
+    <desc>Obrigada a frequentar um colégio infernal, menina desenvolve poderes mágicos que usa para acertar as contas com a diretora e seus colegas indesejáveis.</desc>
+  </programme>
+  <programme start="20260928043500 +0000" stop="20260928052500 +0000" channel="SonyChannel.br">
+    <title>Grey's Anatomy</title>
+    <sub-title>Hit The Floor</sub-title>
+    <desc>O caos se instala no Grey Sloan após um tiroteio em uma loja. Ben enfrenta dificuldades com os protocolos de emergência. Owen enfrenta complicações românticas. Amelia e Winston discutem sobre a cirurgia de uma criança.</desc>
+    <episode-num system="xmltv_ns">20.8.</episode-num>
+  </programme>
+  <programme start="20260928052500 +0000" stop="20260928061500 +0000" channel="SonyChannel.br">
+    <title>Grey's Anatomy</title>
+    <sub-title>Jump (for My Love)</sub-title>
+    <desc>Meredith e Nick retornam ao Grey Sloan para tratar um paciente de transplante de fígado; Bailey organiza um retiro para internos em sua casa; Winston e Ben ajudam uma vítima inesperada de acidente.</desc>
+    <episode-num system="xmltv_ns">20.9.</episode-num>
+  </programme>
+  <programme start="20260928061500 +0000" stop="20260928070500 +0000" channel="SonyChannel.br">
+    <title>Grey's Anatomy</title>
+    <sub-title>I Still Haven't Found What I'm Looking For</sub-title>
+    <desc>Após um caso difícil, a equipe enfrenta as complexidades da ética médica; Bailey continua a lidar com seu relacionamento de trabalho com Ben; um grupo de estudantes universitários em uma caça ao tesouro causa caos no ...</desc>
+    <episode-num system="xmltv_ns">20.10.</episode-num>
+  </programme>
+  <programme start="20260928070500 +0000" stop="20260928073500 +0000" channel="SonyChannel.br">
+    <title>Designing Women</title>
+    <sub-title>The It Men</sub-title>
+    <desc>Enquanto o namorado de Charlene, Mason, mora em Tóquio, eles combinam de sair com outras pessoas. Ela sai com um homem chamado Ed, que é casado com outra mulher.</desc>
+    <episode-num system="xmltv_ns">0.8.</episode-num>
+  </programme>
+  <programme start="20260928073500 +0000" stop="20260928080500 +0000" channel="SonyChannel.br">
+    <title>Designing Women</title>
+    <sub-title>The Slumber Party</sub-title>
+    <desc>Suzanne acredita que sua empregada, Consuela, lançou sobre ela uma maldição vodu fatal que entrará em vigor à meia-noite. Para o caso de se concretizar, as outras damas organizam uma festa do pijama na casa de Mary Jo.</desc>
+    <episode-num system="xmltv_ns">0.9.</episode-num>
+  </programme>
+  <programme start="20260928080500 +0000" stop="20260928090000 +0000" channel="SonyChannel.br">
+    <title>The Night Shift</title>
+    <sub-title>Seguindo em Frente</sub-title>
+    <desc>Uma mãe começa a apresentar sinais de extrema ansiedade quando um menino tem uma febre altíssima.</desc>
+    <episode-num system="xmltv_ns">1.11.</episode-num>
+  </programme>
+  <programme start="20260928090000 +0000" stop="20260928100000 +0000" channel="SonyChannel.br">
+    <title>Bettys Diagnose</title>
+    <sub-title>Unangenehme Wahrheiten</sub-title>
+    <desc>Betty ainda está se recuperando da experiência da noite anterior. Ela está completamente confusa, mas tenta esconder isso de todos os outros. O que o futuro reserva para ela e o Dr. Stern?</desc>
+    <episode-num system="xmltv_ns">4.7.</episode-num>
+  </programme>
+  <programme start="20260928100000 +0000" stop="20260928105500 +0000" channel="SonyChannel.br">
+    <title>Bettys Diagnose</title>
+    <sub-title>Tausend Mal berührt</sub-title>
+    <desc>Há agora um sentimento incomum de tensão misturada com excitação entre Betty e o Dr. Stern. Betty resiste e tenta se entregar de todo coração ao casamento com Oliver. será que vai dar certo?</desc>
+    <episode-num system="xmltv_ns">4.8.</episode-num>
+  </programme>
+  <programme start="20260928105500 +0000" stop="20260928115000 +0000" channel="SonyChannel.br">
+    <title>Bettys Diagnose</title>
+    <sub-title>Liebe und Leidenschaft</sub-title>
+    <desc>Betty tem uma ideia sobre como impedir que o senso de rotina volte ao casamento com Oliver. Dr. Lewandowski e Talula, por outro lado, dificilmente podem conter-se com sua paixão.</desc>
+    <episode-num system="xmltv_ns">4.9.</episode-num>
+  </programme>
+  <programme start="20260928115000 +0000" stop="20260928122000 +0000" channel="SonyChannel.br">
+    <title>The Nanny</title>
+    <sub-title>Os Produtores</sub-title>
+    <desc>Niles consegue o apoio de Fran para impressionar C.C. ao produzir uma obra.</desc>
+    <episode-num system="xmltv_ns">5.15.</episode-num>
+  </programme>
+  <programme start="20260928122000 +0000" stop="20260928125000 +0000" channel="SonyChannel.br">
+    <title>The Nanny</title>
+    <sub-title>Os Gêmeos Idiotas</sub-title>
+    <desc>Humilhado depois de C.C. recusar seu pedido de casamento, Niles decide abandonar seu trabalho com os Sheffield.</desc>
+    <episode-num system="xmltv_ns">5.16.</episode-num>
+  </programme>
+  <programme start="20260928125000 +0000" stop="20260928132000 +0000" channel="SonyChannel.br">
+    <title>The Nanny</title>
+    <sub-title>Yettas</sub-title>
+    <desc>Maxwell luta contra um velho rival pelos direitos da história da vida amorosa de Yeta.</desc>
+    <episode-num system="xmltv_ns">5.17.</episode-num>
+  </programme>
+  <programme start="20260928132000 +0000" stop="20260928135000 +0000" channel="SonyChannel.br">
+    <title>The Nanny</title>
+    <sub-title>O Casamento de Maggie</sub-title>
+    <desc>Fran e Maxwell não estão de acordo com a decisão de Maggie de se casar.</desc>
+    <episode-num system="xmltv_ns">5.18.</episode-num>
+  </programme>
+  <programme start="20260928135000 +0000" stop="20260928142000 +0000" channel="SonyChannel.br">
+    <title>Eu, A Patroa e as Crianças</title>
+    <sub-title>Calvin Vem para Ficar</sub-title>
+    <desc>Calvin, o pai de Vanessa, discute com sua esposa, Jasmine, é expulso de casa e vai morar com os Kyle, contra a vontade deles. Michael, frustrado, bola um plano inteligente para levar Calvin de volta para casa.</desc>
+    <episode-num system="xmltv_ns">3.21.</episode-num>
+  </programme>
+  <programme start="20260928142000 +0000" stop="20260928145000 +0000" channel="SonyChannel.br">
+    <title>Eu, A Patroa e as Crianças</title>
+    <sub-title>Calvin Vai Trabalhar</sub-title>
+    <desc>Quando o extremamente forte Calvin, implora a Michael que lhe dê um emprego, Michael o faz com relutância e seus piores medos são realizados.</desc>
+    <episode-num system="xmltv_ns">3.22.</episode-num>
+  </programme>
+  <programme start="20260928145000 +0000" stop="20260928152000 +0000" channel="SonyChannel.br">
+    <title>Eu, A Patroa e as Crianças</title>
+    <sub-title>Noite Romântica</sub-title>
+    <desc>Querendo passar um tempo tranquilo juntos, Michael planeja uma noite romântica com Jay em um hotel exclusivo. Então, quando Jr. cancela a reserva por engano, Michael tenta criar uma noite romântica em casa.</desc>
+    <episode-num system="xmltv_ns">3.23.</episode-num>
+  </programme>
+  <programme start="20260928152000 +0000" stop="20260928155000 +0000" channel="SonyChannel.br">
+    <title>Eu, A Patroa e as Crianças</title>
+    <sub-title>O Diretor</sub-title>
+    <desc>Em sua empolgação para gravar um jogo de basquete, Michael acidentalmente grava por cima de um vídeo caseiro dos primeiros passos de Kady.</desc>
+    <episode-num system="xmltv_ns">3.24.</episode-num>
+  </programme>
+  <programme start="20260928155000 +0000" stop="20260928174500 +0000" channel="SonyChannel.br">
+    <title>Milagres do Paraíso</title>
+    <desc>Christy e Kevin Beam são pais de três garotas: Abbie, Annabel e Adelynn. Eles vivem em uma confortável casa, junto com cinco cachorros. Um dia, Annabel começa a sentir fortes dores na região do abdomem.</desc>
+  </programme>
+  <programme start="20260928174500 +0000" stop="20260928181500 +0000" channel="SonyChannel.br">
+    <title>Eu, A Patroa e as Crianças</title>
+    <sub-title>Calvin Vem para Ficar</sub-title>
+    <desc>Calvin, o pai de Vanessa, discute com sua esposa, Jasmine, é expulso de casa e vai morar com os Kyle, contra a vontade deles. Michael, frustrado, bola um plano inteligente para levar Calvin de volta para casa.</desc>
+    <episode-num system="xmltv_ns">3.21.</episode-num>
+  </programme>
+  <programme start="20260928181500 +0000" stop="20260928184500 +0000" channel="SonyChannel.br">
+    <title>Eu, A Patroa e as Crianças</title>
+    <sub-title>Calvin Vai Trabalhar</sub-title>
+    <desc>Quando o extremamente forte Calvin, implora a Michael que lhe dê um emprego, Michael o faz com relutância e seus piores medos são realizados.</desc>
+    <episode-num system="xmltv_ns">3.22.</episode-num>
+  </programme>
+  <programme start="20260928184500 +0000" stop="20260928191500 +0000" channel="SonyChannel.br">
+    <title>Eu, A Patroa e as Crianças</title>
+    <sub-title>Noite Romântica</sub-title>
+    <desc>Querendo passar um tempo tranquilo juntos, Michael planeja uma noite romântica com Jay em um hotel exclusivo. Então, quando Jr. cancela a reserva por engano, Michael tenta criar uma noite romântica em casa.</desc>
+    <episode-num system="xmltv_ns">3.23.</episode-num>
+  </programme>
+  <programme start="20260928191500 +0000" stop="20260928194500 +0000" channel="SonyChannel.br">
+    <title>Eu, A Patroa e as Crianças</title>
+    <sub-title>O Diretor</sub-title>
+    <desc>Em sua empolgação para gravar um jogo de basquete, Michael acidentalmente grava por cima de um vídeo caseiro dos primeiros passos de Kady.</desc>
+    <episode-num system="xmltv_ns">3.24.</episode-num>
+  </programme>
+  <programme start="20260928194500 +0000" stop="20260928213500 +0000" channel="SonyChannel.br">
+    <title>O Especial da Casa: Gente Grande</title>
+    <desc>Cinco amigos de infância se reencontram após a morte de seu treinador. Juntos novamente, eles decidem curtir um feriado com suas famílias em uma casa no lago, o que acaba lhes rendendo novas confusões.</desc>
+  </programme>
+  <programme start="20260928213500 +0000" stop="20260928231500 +0000" channel="SonyChannel.br">
+    <title>A Volta Do Todo Poderoso</title>
+    <desc>Evan acaba de se mudar para Washington para seu primeiro mandato no Congresso. Mas, chegando lá, ele terá que encarar uma missão dada por Deus: construir uma arca de Noé.</desc>
+  </programme>
+  <programme start="20260928231500 +0000" stop="20260929010000 +0000" channel="SonyChannel.br">
+    <title>Feliz Aniversário, Adam!: Como Se Fosse a Primeira Vez</title>
+    <desc>O veterinário marinho, Henry Roth, é um mulherengo incorrigível. Mas agora está apaixonado pela adorável Lucy Whitmore. O problema é que toda manhã ela esquece tudo que aconteceu no dia anterior, inclusive que o ...</desc>
+  </programme>
+  <programme start="20260929010000 +0000" stop="20260929020000 +0000" channel="SonyChannel.br">
+    <title>Shaking The Bar</title>
+    <desc>Shaking the bar" é um reality show dividido em 10 episódios, que acompanha o processo de transformação de um grande bartender em um novo empresário da noite paulistana.</desc>
+    <episode-num system="xmltv_ns">1.8.</episode-num>
+  </programme>
+  <programme start="20260929020000 +0000" stop="20260929030000 +0000" channel="SonyChannel.br">
+    <title>Mamonas Assassinas</title>
+    <desc>A série mostra a trajetória ascendente da banda de ''rock and roll'' brasileira, formada em Guarulhos, São Paulo, com suas músicas de Rock Cômico.</desc>
+    <episode-num system="xmltv_ns">0.3.</episode-num>
+  </programme>
+  <programme start="20260929030000 +0000" stop="20260929044000 +0000" channel="SonyChannel.br">
+    <title>A Volta Do Todo Poderoso</title>
+    <desc>Evan acaba de se mudar para Washington para seu primeiro mandato no Congresso. Mas, chegando lá, ele terá que encarar uma missão dada por Deus: construir uma arca de Noé.</desc>
+  </programme>
+  <programme start="20260929044000 +0000" stop="20260929051000 +0000" channel="SonyChannel.br">
+    <title>Eu, A Patroa e as Crianças</title>
+    <sub-title>Calvin Vem para Ficar</sub-title>
+    <desc>Calvin, o pai de Vanessa, discute com sua esposa, Jasmine, é expulso de casa e vai morar com os Kyle, contra a vontade deles. Michael, frustrado, bola um plano inteligente para levar Calvin de volta para casa.</desc>
+    <episode-num system="xmltv_ns">3.21.</episode-num>
+  </programme>
+  <programme start="20260929051000 +0000" stop="20260929054000 +0000" channel="SonyChannel.br">
+    <title>Eu, A Patroa e as Crianças</title>
+    <sub-title>Calvin Vai Trabalhar</sub-title>
+    <desc>Quando o extremamente forte Calvin, implora a Michael que lhe dê um emprego, Michael o faz com relutância e seus piores medos são realizados.</desc>
+    <episode-num system="xmltv_ns">3.22.</episode-num>
+  </programme>
+  <programme start="20260929054000 +0000" stop="20260929061000 +0000" channel="SonyChannel.br">
+    <title>Eu, A Patroa e as Crianças</title>
+    <sub-title>Noite Romântica</sub-title>
+    <desc>Querendo passar um tempo tranquilo juntos, Michael planeja uma noite romântica com Jay em um hotel exclusivo. Então, quando Jr. cancela a reserva por engano, Michael tenta criar uma noite romântica em casa.</desc>
+    <episode-num system="xmltv_ns">3.23.</episode-num>
+  </programme>
+  <programme start="20260929061000 +0000" stop="20260929064000 +0000" channel="SonyChannel.br">
+    <title>Eu, A Patroa e as Crianças</title>
+    <sub-title>O Diretor</sub-title>
+    <desc>Em sua empolgação para gravar um jogo de basquete, Michael acidentalmente grava por cima de um vídeo caseiro dos primeiros passos de Kady.</desc>
+    <episode-num system="xmltv_ns">3.24.</episode-num>
+  </programme>
+  <programme start="20260929064000 +0000" stop="20260929071000 +0000" channel="SonyChannel.br">
+    <title>Designing Women</title>
+    <sub-title>New Year's Daze</sub-title>
+    <desc>A festa de Ano Novo das meninas tem uma sombra projetada sobre ela - literalmente - quando o namorado de Charlene, Shadow, foge da prisão para ficar com ela.</desc>
+    <episode-num system="xmltv_ns">0.10.</episode-num>
+  </programme>
+  <programme start="20260929071000 +0000" stop="20260929080500 +0000" channel="SonyChannel.br">
+    <title>Designing Women</title>
+    <sub-title>Old Spouses Never Die: Part 1</sub-title>
+    <desc>A noite romântica de Mary Jo e J.D. é interrompida quando seu ex-marido, Ted, traz as crianças para casa com uma desculpa esfarrapada.</desc>
+    <episode-num system="xmltv_ns">0.11.</episode-num>
+  </programme>
+  <programme start="20260929080500 +0000" stop="20260929090000 +0000" channel="SonyChannel.br">
+    <title>The Night Shift</title>
+    <sub-title>Amanhecer, Anoitecer</sub-title>
+    <desc>Paul fica ferido durante um salvamento arriscado na cena de um acidente envolvendo múltiplos carros.</desc>
+    <episode-num system="xmltv_ns">1.12.</episode-num>
+  </programme>
+  <programme start="20260929090000 +0000" stop="20260929100000 +0000" channel="SonyChannel.br">
+    <title>Bettys Diagnose</title>
+    <sub-title>Liebe und Leidenschaft</sub-title>
+    <desc>Betty tem uma ideia sobre como impedir que o senso de rotina volte ao casamento com Oliver. Dr. Lewandowski e Talula, por outro lado, dificilmente podem conter-se com sua paixão.</desc>
+    <episode-num system="xmltv_ns">4.9.</episode-num>
+  </programme>
+  <programme start="20260929100000 +0000" stop="20260929110000 +0000" channel="SonyChannel.br">
+    <title>Bettys Diagnose</title>
+    <sub-title>Schöne Bescherung</sub-title>
+    <desc>É época de Natal no hospital Karlsklinik. Segredos em todos os lugares. Enquanto fazia a decoração, Ava acidentalmente quebrou os antigos enfeites de Natal da Sra. Puhl. Como ela pode consertar isso antes que Mechthild perceba?</desc>
+    <episode-num system="xmltv_ns">4.10.</episode-num>
+  </programme>
+  <programme start="20260929110000 +0000" stop="20260929113000 +0000" channel="SonyChannel.br">
+    <title>The Nanny</title>
+    <sub-title>O Casamento de Maggie</sub-title>
+    <desc>Fran e Maxwell não estão de acordo com a decisão de Maggie de se casar.</desc>
+    <episode-num system="xmltv_ns">5.18.</episode-num>
+  </programme>
+  <programme start="20260929113000 +0000" stop="20260929120000 +0000" channel="SonyChannel.br">
+    <title>The Nanny</title>
+    <sub-title>Chá de Bebê</sub-title>
+    <desc>Um médium prevê que Maxwell trocará Fran por outra mulher.</desc>
+    <episode-num system="xmltv_ns">5.19.</episode-num>
+  </programme>
+  <programme start="20260929120000 +0000" stop="20260929123000 +0000" channel="SonyChannel.br">
+    <title>The Nanny</title>
+    <sub-title>O Final, Parte 1</sub-title>
+    <desc>Enquanto está preocupada por engordar demais, Fran entra em trabalho de parto presa em um elevador com C.C.</desc>
+    <episode-num system="xmltv_ns">5.20.</episode-num>
+  </programme>
+  <programme start="20260929123000 +0000" stop="20260929130000 +0000" channel="SonyChannel.br">
+    <title>The Nanny</title>
+    <sub-title>O Final, Parte 2</sub-title>
+    <desc>Enquanto está preocupada por engordar demais, Fran entra em trabalho de parto presa em um elevador com C.C.</desc>
+    <episode-num system="xmltv_ns">5.21.</episode-num>
+  </programme>
+  <programme start="20260929130000 +0000" stop="20260929133000 +0000" channel="SonyChannel.br">
+    <title>Eu, A Patroa e as Crianças</title>
+    <sub-title>O Diretor</sub-title>
+    <desc>Em sua empolgação para gravar um jogo de basquete, Michael acidentalmente grava por cima de um vídeo caseiro dos primeiros passos de Kady.</desc>
+    <episode-num system="xmltv_ns">3.24.</episode-num>
+  </programme>
+  <programme start="20260929133000 +0000" stop="20260929140000 +0000" channel="SonyChannel.br">
+    <title>Eu, A Patroa e as Crianças</title>
+    <sub-title>A Empregada</sub-title>
+    <desc>Enquanto Jay está em um seminário, Michael contrata uma empregada, a Sra. Hopkins, para cuidar da família que atende a todas as suas necessidades e desejos com uma doce perfeição.</desc>
+    <episode-num system="xmltv_ns">3.25.</episode-num>
+  </programme>
+  <programme start="20260929140000 +0000" stop="20260929143000 +0000" channel="SonyChannel.br">
+    <title>Eu, A Patroa e as Crianças</title>
+    <sub-title>Modelo de Mão</sub-title>
+    <desc>Michael é recrutado como modelo de mão durante a audição de modelagem de Claire. Enquanto ele ostenta sua fama recém-descoberta, ele tem o cuidado de proteger o novo ativo financeiro da família, suas mãos.</desc>
+    <episode-num system="xmltv_ns">3.26.</episode-num>
+  </programme>
+  <programme start="20260929143000 +0000" stop="20260929150000 +0000" channel="SonyChannel.br">
+    <title>Eu, A Patroa e as Crianças</title>
+    <sub-title>O Que Você Sabe?</sub-title>
+    <desc>É noite de jogo em família e, depois de jogar uma partida de "O que você sabe?" os resultados vão de mal a pior, pois os casais percebem que podem não saber tanto quanto pensavam.</desc>
+    <episode-num system="xmltv_ns">3.27.</episode-num>
+  </programme>
+  <programme start="20260929150000 +0000" stop="20260929165500 +0000" channel="SonyChannel.br">
+    <title>Sing 2</title>
+    <desc>Para criar um novo show, Buster Moon e seus amigos partem em uma missão cheia de desafios, dentre elas convencer um superastro recluso a participar do espetáculo.</desc>
   </programme>
   <programme channel="SonyMovies.br" start="20260927044000 +0000" stop="20260927063500 +0000">
     <title lang="pt">Zohan - O Agente Bom de Corte</title>
@@ -52148,130 +52435,6 @@
     <category lang="pt">Séries</category>
     <category lang="pt">Animação</category>
   </programme>
-  <programme start="20260926000000 +0000" stop="20260926010000 +0000" channel="UOL.br">
-    <title>Splash Show</title>
-    <desc>Os babados, os romances e, lógico, as trends e os memes do momento! Fernanda Braz Soares te conta no "Splash Show"!</desc>
-    <episode-num system="xmltv_ns">0.267.</episode-num>
-  </programme>
-  <programme start="20260926010000 +0000" stop="20260926013000 +0000" channel="UOL.br">
-    <title>Gritzbach</title>
-    <desc>A produção investiga a fundo a vida e a execução do empresário e corretor de imóveis Antônio Vinícius Lopes Gritzbach, assassinado a tiros de fuzil em novembro de 2024 no Aeroporto Internacional de Guarulhos</desc>
-  </programme>
-  <programme start="20260926013000 +0000" stop="20260926023000 +0000" channel="UOL.br">
-    <title>Missão Saber</title>
-    <desc>No Missão Saber, os livros são o começo de uma conversa informal, um papo de bar sobre qualquer assunto.</desc>
-  </programme>
-  <programme start="20260926023000 +0000" stop="20260926033000 +0000" channel="UOL.br">
-    <title>A Hora Especial</title>
-    <desc>José Roberto Toledo e Thais Bilenky, em uma hora, trazem informações e análises sobre os fatos mais importantes da semana.</desc>
-    <episode-num system="xmltv_ns">82.267.</episode-num>
-  </programme>
-  <programme start="20260926033000 +0000" stop="20260926040000 +0000" channel="UOL.br">
-    <title>100 Amigos</title>
-    <desc>100 Amigos fala sobre os afetos, conflitos, perrengues e prazeres de manter vínculos em meio à correria da vida, com histórias que fazem a gente rir, se identificar e pensar nas nossas próprias amizades.</desc>
-  </programme>
-  <programme start="20260926040000 +0000" stop="20260926043000 +0000" channel="UOL.br">
-    <title>Que Energia É Essa?</title>
-    <desc>Márcia Fernandes explica as energias espirituais e vibracionais que afetam o cotidiano, abordando temas como cansaço, brigas familiares e influências energéticas, com o objetivo de ensinar como se proteger e equilibrar essas vibra</desc>
-  </programme>
-  <programme start="20260926043000 +0000" stop="20260926053000 +0000" channel="UOL.br">
-    <title>Na Pilha Com Tati Bernardi - Nova Temporada</title>
-    <desc>Quer conhecer alguém de verdade? Descubra o que a pessoa lê (ou já deixou de ler). Neste programa, a escritora e roteirista Tati Bernardi visita a casa de personalidades conhecidas para conversar sobre suas relações com a ...</desc>
-  </programme>
-  <programme start="20260926053000 +0000" stop="20260926063000 +0000" channel="UOL.br">
-    <title>Finanças do Esporte</title>
-    <desc>O programa acompanha o lado econômico do universo esportivo, revelando como negócios, patrocínios e investimentos impactam clubes, atletas e competições. Com especialistas e dados atualizados, o programa se aprofunda no as...</desc>
-    <episode-num system="xmltv_ns">0.268.</episode-num>
-  </programme>
-  <programme start="20260926063000 +0000" stop="20260926070500 +0000" channel="UOL.br">
-    <title>UOL Prime</title>
-    <desc>O melhor do jornalismo do UOL no formato de reportagens e documentários exclusivos</desc>
-    <episode-num system="xmltv_ns">0.268.</episode-num>
-  </programme>
-  <programme start="20260926070500 +0000" stop="20260926090000 +0000" channel="UOL.br">
-    <title>UOL News - Reapresentação</title>
-    <desc>As principais notícias do Brasil e do mundo em tempo real, com análises que explicam os acontecimentos de forma clara e objetiva. Um jornalismo que informa, contextualiza e ajuda o espectador a construir sua própria opinião com o</desc>
-    <episode-num system="xmltv_ns">0.268.</episode-num>
-  </programme>
-  <programme start="20260926090000 +0000" stop="20260926103000 +0000" channel="UOL.br">
-    <title>Posse de Bola - Reapresentação</title>
-    <desc>Toda semana os jornalistas Arnaldo Ribeiro, Danilo Laveri, Eduardo Tironi, José Trajano, Juca Kfouri e Mauro Cezar Pereira se encontram para debater os temas mais relevantes e quentes do futebol brasileiro e mundial.</desc>
-    <episode-num system="xmltv_ns">0.268.</episode-num>
-  </programme>
-  <programme start="20260926103000 +0000" stop="20260926110000 +0000" channel="UOL.br">
-    <title>Mídia &amp; Marketing</title>
-    <desc>O vídeocast traz entrevistas sobre o mundo da propaganda e da criatividade. O jornalista Renato Pezzotti recebe protagonistas do mercado para falar sobre carreira, publicidade e negócios.</desc>
-    <episode-num system="xmltv_ns">0.268.</episode-num>
-  </programme>
-  <programme start="20260926110000 +0000" stop="20260926120000 +0000" channel="UOL.br">
-    <title>Finanças do Esporte</title>
-    <desc>O programa acompanha o lado econômico do universo esportivo, revelando como negócios, patrocínios e investimentos impactam clubes, atletas e competições. Com especialistas e dados atualizados, o programa se aprofunda no as...</desc>
-    <episode-num system="xmltv_ns">0.268.</episode-num>
-  </programme>
-  <programme start="20260926120000 +0000" stop="20260926130000 +0000" channel="UOL.br">
-    <title>Pole Position</title>
-    <desc>O universo da Fórmula 1 com quem entende: análises e entrevistas no Pole Position.</desc>
-    <episode-num system="xmltv_ns">8.268.</episode-num>
-  </programme>
-  <programme start="20260926130000 +0000" stop="20260926140000 +0000" channel="UOL.br">
-    <title>A Hora</title>
-    <desc>José Roberto Toledo e Thais Bilenky, em uma hora, trazem informações e análises sobre os fatos mais importantes da semana.</desc>
-    <episode-num system="xmltv_ns">0.268.</episode-num>
-  </programme>
-  <programme start="20260926140000 +0000" stop="20260926150000 +0000" channel="UOL.br">
-    <title>UOL News Especial - Ao Vivo</title>
-    <desc>Os principais acontecimentos do Brasil e do mundo, com análises e entrevistas exclusivas, no momento em que os fatos acontecem.</desc>
-    <episode-num system="xmltv_ns">0.268.</episode-num>
-  </programme>
-  <programme start="20260926150000 +0000" stop="20260926153000 +0000" channel="UOL.br">
-    <title>UOL Líderes</title>
-    <desc>O podcast traz entrevistas com presidentes, CEOs ou fundadores de grandes empresas nacionais e estrangeiras.</desc>
-    <episode-num system="xmltv_ns">0.268.</episode-num>
-  </programme>
-  <programme start="20260926153000 +0000" stop="20260926160000 +0000" channel="UOL.br">
-    <title>UOL Prime</title>
-    <desc>O melhor do jornalismo do UOL no formato de reportagens e documentários exclusivos</desc>
-    <episode-num system="xmltv_ns">0.268.</episode-num>
-  </programme>
-  <programme start="20260926160000 +0000" stop="20260926170000 +0000" channel="UOL.br">
-    <title>Alt Tabet</title>
-    <desc>Antonio Tabet conversa com personagens importantes da política, esporte e entretenimento. A entrevista aborda as múltiplas faces dos convidados - ao pressionar Alt Tab num teclado de computador aparecem as várias abas que estão ab</desc>
-    <episode-num system="xmltv_ns">0.268.</episode-num>
-  </programme>
-  <programme start="20260926170000 +0000" stop="20260926180000 +0000" channel="UOL.br">
-    <title>A Hora</title>
-    <desc>José Roberto Toledo e Thais Bilenky, em uma hora, trazem informações e análises sobre os fatos mais importantes da semana.</desc>
-    <episode-num system="xmltv_ns">0.268.</episode-num>
-  </programme>
-  <programme start="20260926180000 +0000" stop="20260926190000 +0000" channel="UOL.br">
-    <title>UOL News Especial - Ao Vivo</title>
-    <desc>Os principais acontecimentos do Brasil e do mundo, com análises e entrevistas exclusivas, no momento em que os fatos acontecem.</desc>
-    <episode-num system="xmltv_ns">0.268.</episode-num>
-  </programme>
-  <programme start="20260926190000 +0000" stop="20260926192000 +0000" channel="UOL.br">
-    <title>100 Amigos</title>
-    <desc>100 Amigos fala sobre os afetos, conflitos, perrengues e prazeres de manter vínculos em meio à correria da vida, com histórias que fazem a gente rir, se identificar e pensar nas nossas próprias amizades.</desc>
-  </programme>
-  <programme start="20260926192000 +0000" stop="20260926213000 +0000" channel="UOL.br">
-    <title>Brasileirão Feminino - Corinthians x São Paulo - Final - Ao Vivo</title>
-    <desc>O Campeonato Brasileiro Feminino Série A1, também conhecido como Brasileirão Feminino, é a principal divisão do futebol feminino no Brasil.</desc>
-  </programme>
-  <programme start="20260926213000 +0000" stop="20260926215000 +0000" channel="UOL.br">
-    <title>Chefs do Brasil</title>
-    <desc>Perfil dos grandes chefs e da força da gastronomia brasileira</desc>
-  </programme>
-  <programme start="20260926215000 +0000" stop="20260926230000 +0000" channel="UOL.br">
-    <title>Wgp Kickboxing - Ao Vivo</title>
-    <desc>O maior e mais emocionante evento de kickboxing da América Latina agora está no UOL, reunindo os melhores lutadores em combates eletrizantes.</desc>
-  </programme>
-  <programme start="20260926230000 +0000" stop="20260926233000 +0000" channel="UOL.br">
-    <title>Profissão Montanhista</title>
-    <desc>As montanhas mais altas do globo da visão de quem conhece do assunto.</desc>
-  </programme>
-  <programme start="20260926233000 +0000" stop="20260927000000 +0000" channel="UOL.br">
-    <title>Duelo Dos Marceneiros</title>
-    <desc>Talentosos marceneiros são desafiados a transformar briefings criativos em móveis e objetos de decoração, dentro de prazos limitados. A cada desafio, originalidade, criatividade e inovação são colocadas à pr...</desc>
-  </programme>
   <programme start="20260927000000 +0000" stop="20260927010000 +0000" channel="UOL.br">
     <title>Alt Tabet</title>
     <desc>Antonio Tabet conversa com personagens importantes da política, esporte e entretenimento. A entrevista aborda as múltiplas faces dos convidados - ao pressionar Alt Tab num teclado de computador aparecem as várias abas que estão ab</desc>
@@ -52344,9 +52507,14 @@
     <desc>O vídeocast traz entrevistas sobre o mundo da propaganda e da criatividade. O jornalista Renato Pezzotti recebe protagonistas do mercado para falar sobre carreira, publicidade e negócios.</desc>
     <episode-num system="xmltv_ns">0.269.</episode-num>
   </programme>
-  <programme start="20260927120000 +0000" stop="20260927143000 +0000" channel="UOL.br">
+  <programme start="20260927120000 +0000" stop="20260927140000 +0000" channel="UOL.br">
     <title>Missão Saber</title>
     <desc>No Missão Saber, os livros são o começo de uma conversa informal, um papo de bar sobre qualquer assunto.</desc>
+  </programme>
+  <programme start="20260927140000 +0000" stop="20260927143000 +0000" channel="UOL.br">
+    <title>Divã de CNPJ</title>
+    <desc>O empreendedor Facundo Guerra entrevista donos de negócios que empreenderam em diferentes ramos de mercado para entender quais são as dores, caminhos e necessidades para criar e manter um negócio no Brasil.</desc>
+    <episode-num system="xmltv_ns">0.269.</episode-num>
   </programme>
   <programme start="20260927143000 +0000" stop="20260927150000 +0000" channel="UOL.br">
     <title>Bastidores da Memória</title>
@@ -52425,197 +52593,175 @@
     <desc>O programa acompanha o lado econômico do universo esportivo, revelando como negócios, patrocínios e investimentos impactam clubes, atletas e competições. Com especialistas e dados atualizados, o programa se aprofunda no as...</desc>
     <episode-num system="xmltv_ns">0.269.</episode-num>
   </programme>
-  <programme start="20260926000000 +0000" stop="20260926004500 +0000" channel="UniversalPremiere.br">
-    <title>Suits LA</title>
-    <sub-title>Bat-sinal</sub-title>
-    <desc>Ted e Harvey se unem para consertar um erro do passado e colocar um monstro atrás das grades.</desc>
-    <episode-num system="xmltv_ns">0.8.</episode-num>
+  <programme start="20260928023000 +0000" stop="20260928030000 +0000" channel="UOL.br">
+    <title>Duelo Dos Marceneiros</title>
+    <desc>Talentosos marceneiros são desafiados a transformar briefings criativos em móveis e objetos de decoração, dentro de prazos limitados. A cada desafio, originalidade, criatividade e inovação são colocadas à pr...</desc>
   </programme>
-  <programme start="20260926004500 +0000" stop="20260926013000 +0000" channel="UniversalPremiere.br">
-    <title>Suits LA</title>
-    <sub-title>Julgamento Simulado</sub-title>
-    <desc>A amizade dos estudantes de direito Ted e Stuart é posta à prova quando eles se enfrentam em um julgamento simulado.</desc>
-    <episode-num system="xmltv_ns">0.9.</episode-num>
+  <programme start="20260928030000 +0000" stop="20260928040000 +0000" channel="UOL.br">
+    <title>Finanças do Esporte</title>
+    <desc>O programa acompanha o lado econômico do universo esportivo, revelando como negócios, patrocínios e investimentos impactam clubes, atletas e competições. Com especialistas e dados atualizados, o programa se aprofunda no as...</desc>
+    <episode-num system="xmltv_ns">0.270.</episode-num>
   </programme>
-  <programme start="20260926013000 +0000" stop="20260926020500 +0000" channel="UniversalPremiere.br">
-    <title>Ted</title>
-    <sub-title>Roe contra Maconha</sub-title>
-    <desc>Blaire enfrenta uma gravidez inesperada, com diferentes reações da família.</desc>
-    <episode-num system="xmltv_ns">1.5.</episode-num>
+  <programme start="20260928040000 +0000" stop="20260928050000 +0000" channel="UOL.br">
+    <title>UOL News Especial - Reapresentação</title>
+    <desc>Os principais acontecimentos do Brasil e do mundo, com análises e entrevistas exclusivas, no momento em que os fatos acontecem.</desc>
+    <episode-num system="xmltv_ns">0.270.</episode-num>
   </programme>
-  <programme start="20260926020500 +0000" stop="20260926024500 +0000" channel="UniversalPremiere.br">
-    <title>FBI</title>
-    <sub-title>Atrelado</sub-title>
-    <desc>A sétima temporada segue acompanhando o trabalho interno do FBI em Nova York, enquanto eles lutam para manter a cidade e o país seguros.</desc>
-    <episode-num system="xmltv_ns">6.12.</episode-num>
+  <programme start="20260928050000 +0000" stop="20260928060000 +0000" channel="UOL.br">
+    <title>Alt Tabet</title>
+    <desc>Antonio Tabet conversa com personagens importantes da política, esporte e entretenimento. A entrevista aborda as múltiplas faces dos convidados - ao pressionar Alt Tab num teclado de computador aparecem as várias abas que estão ab</desc>
+    <episode-num system="xmltv_ns">0.270.</episode-num>
   </programme>
-  <programme start="20260926024500 +0000" stop="20260926033000 +0000" channel="UniversalPremiere.br">
-    <title>FBI</title>
-    <desc>A sétima temporada segue acompanhando o trabalho interno do FBI em Nova York, enquanto eles lutam para manter a cidade e o país seguros.</desc>
-    <episode-num system="xmltv_ns">6.13.</episode-num>
+  <programme start="20260928060000 +0000" stop="20260928063000 +0000" channel="UOL.br">
+    <title>UOL Prime</title>
+    <desc>O melhor do jornalismo do UOL no formato de reportagens e documentários exclusivos</desc>
+    <episode-num system="xmltv_ns">0.270.</episode-num>
   </programme>
-  <programme start="20260926033000 +0000" stop="20260926042000 +0000" channel="UniversalPremiere.br">
-    <title>The Assassin</title>
-    <sub-title>Episódio 2</sub-title>
-    <desc>Julie e Edward precisam manter um disfarce e o passado de Julie escondido de seus novos anfitriões, mas uma chegada surpresa só complica ainda mais as coisas.</desc>
-    <episode-num system="xmltv_ns">0.1.</episode-num>
+  <programme start="20260928063000 +0000" stop="20260928070500 +0000" channel="UOL.br">
+    <title>Alt Tabet - Compacto</title>
+    <desc>Antonio Tabet conversa com personagens importantes da política, esporte e entretenimento. A entrevista aborda as múltiplas faces dos convidados - ao pressionar Alt Tab num teclado de computador aparecem as várias abas que estão ab</desc>
+    <episode-num system="xmltv_ns">2.270.</episode-num>
   </programme>
-  <programme start="20260926042000 +0000" stop="20260926050500 +0000" channel="UniversalPremiere.br">
-    <title>The Assassin</title>
-    <sub-title>Episódio 3</sub-title>
-    <desc>O grupo acaba se dividindo, mas com as respostas cada vez mais próximas, eles precisam seguir em frente enquanto o perigo e a ameaça às suas vidas se aproximam.</desc>
-    <episode-num system="xmltv_ns">0.2.</episode-num>
+  <programme start="20260928070500 +0000" stop="20260928080000 +0000" channel="UOL.br">
+    <title>Divã de CNPJ</title>
+    <desc>O empreendedor Facundo Guerra entrevista donos de negócios que empreenderam em diferentes ramos de mercado para entender quais são as dores, caminhos e necessidades para criar e manter um negócio no Brasil.</desc>
+    <episode-num system="xmltv_ns">0.270.</episode-num>
   </programme>
-  <programme start="20260926050500 +0000" stop="20260926053500 +0000" channel="UniversalPremiere.br">
-    <title>Ted</title>
-    <sub-title>Roe contra Maconha</sub-title>
-    <desc>Blaire enfrenta uma gravidez inesperada, com diferentes reações da família.</desc>
-    <episode-num system="xmltv_ns">1.5.</episode-num>
+  <programme start="20260928080000 +0000" stop="20260928083000 +0000" channel="UOL.br">
+    <title>UOL Líderes</title>
+    <desc>O podcast traz entrevistas com presidentes, CEOs ou fundadores de grandes empresas nacionais e estrangeiras.</desc>
+    <episode-num system="xmltv_ns">0.270.</episode-num>
   </programme>
-  <programme start="20260926053500 +0000" stop="20260926061500 +0000" channel="UniversalPremiere.br">
-    <title>FBI</title>
-    <sub-title>Atrelado</sub-title>
-    <desc>A sétima temporada segue acompanhando o trabalho interno do FBI em Nova York, enquanto eles lutam para manter a cidade e o país seguros.</desc>
-    <episode-num system="xmltv_ns">6.12.</episode-num>
+  <programme start="20260928083000 +0000" stop="20260928090000 +0000" channel="UOL.br">
+    <title>Mídia &amp; Marketing</title>
+    <desc>O vídeocast traz entrevistas sobre o mundo da propaganda e da criatividade. O jornalista Renato Pezzotti recebe protagonistas do mercado para falar sobre carreira, publicidade e negócios.</desc>
+    <episode-num system="xmltv_ns">0.270.</episode-num>
   </programme>
-  <programme start="20260926061500 +0000" stop="20260926070000 +0000" channel="UniversalPremiere.br">
-    <title>FBI</title>
-    <desc>A sétima temporada segue acompanhando o trabalho interno do FBI em Nova York, enquanto eles lutam para manter a cidade e o país seguros.</desc>
-    <episode-num system="xmltv_ns">6.13.</episode-num>
+  <programme start="20260928090000 +0000" stop="20260928100000 +0000" channel="UOL.br">
+    <title>Desculpa Alguma Coisa</title>
+    <desc>O influenciador, roteirista e ator foi o convidado de Tati Bernardi esta semana. Mais conhecido como "Esse Menino</desc>
+    <episode-num system="xmltv_ns">0.270.</episode-num>
   </programme>
-  <programme start="20260926070000 +0000" stop="20260926075000 +0000" channel="UniversalPremiere.br">
-    <title>The Assassin</title>
-    <sub-title>Episódio 2</sub-title>
-    <desc>Julie e Edward precisam manter um disfarce e o passado de Julie escondido de seus novos anfitriões, mas uma chegada surpresa só complica ainda mais as coisas.</desc>
-    <episode-num system="xmltv_ns">0.1.</episode-num>
+  <programme start="20260928100000 +0000" stop="20260928103000 +0000" channel="UOL.br">
+    <title>Alt Tabet - Compacto</title>
+    <desc>Antonio Tabet conversa com personagens importantes da política, esporte e entretenimento. A entrevista aborda as múltiplas faces dos convidados - ao pressionar Alt Tab num teclado de computador aparecem as várias abas que estão ab</desc>
+    <episode-num system="xmltv_ns">6.270.</episode-num>
   </programme>
-  <programme start="20260926075000 +0000" stop="20260926083500 +0000" channel="UniversalPremiere.br">
-    <title>The Assassin</title>
-    <sub-title>Episódio 3</sub-title>
-    <desc>O grupo acaba se dividindo, mas com as respostas cada vez mais próximas, eles precisam seguir em frente enquanto o perigo e a ameaça às suas vidas se aproximam.</desc>
-    <episode-num system="xmltv_ns">0.2.</episode-num>
+  <programme start="20260928103000 +0000" stop="20260928113000 +0000" channel="UOL.br">
+    <title>A Hora</title>
+    <desc>José Roberto Toledo e Thais Bilenky, em uma hora, trazem informações e análises sobre os fatos mais importantes da semana.</desc>
+    <episode-num system="xmltv_ns">0.270.</episode-num>
   </programme>
-  <programme start="20260926083500 +0000" stop="20260926090000 +0000" channel="UniversalPremiere.br">
-    <title>Parks And Recreation</title>
-    <sub-title>Fancy Party</sub-title>
-    <desc>Amy Poehler interpreta Leslie Knope, uma funcionária pública de nível médio que está tentando converter uma construção abandonada em um parque comunitário enquanto uma tripulação de câmera seg...</desc>
-    <episode-num system="xmltv_ns">2.8.</episode-num>
+  <programme start="20260928113000 +0000" stop="20260928130000 +0000" channel="UOL.br">
+    <title>Posse de Bola - Ao Vivo</title>
+    <desc>Toda semana os jornalistas Arnaldo Ribeiro, Danilo Laveri, Eduardo Tironi, José Trajano, Juca Kfouri e Mauro Cezar Pereira se encontram para debater os temas mais relevantes e quentes do futebol brasileiro e mundial.</desc>
+    <episode-num system="xmltv_ns">0.270.</episode-num>
   </programme>
-  <programme start="20260926090000 +0000" stop="20260926092000 +0000" channel="UniversalPremiere.br">
-    <title>Parks and Recreation</title>
-    <sub-title>Leslie's House</sub-title>
-    <desc>Depois de um encontro maravilhoso com Justin em Indianapolis, Leslie tenta impressioná-lo com um jantar em sua casa.</desc>
-    <episode-num system="xmltv_ns">1.13.</episode-num>
+  <programme start="20260928130000 +0000" stop="20260928153000 +0000" channel="UOL.br">
+    <title>UOL News - 1° Edição - Ao Vivo</title>
+    <desc>As principais notícias do Brasil e do mundo em tempo real, com análises que explicam os acontecimentos de forma clara e objetiva. Um jornalismo que informa, contextualiza e ajuda o espectador a construir sua própria opinião com o</desc>
+    <episode-num system="xmltv_ns">79.270.</episode-num>
   </programme>
-  <programme start="20260926092000 +0000" stop="20260926094500 +0000" channel="UniversalPremiere.br">
-    <title>Parks And Recreation</title>
-    <sub-title>Sweetums</sub-title>
-    <desc>Uma companhia da cidade se une ao departamento de parques para vender barrinhas energéticas, mas Leslie descobre que elas fazem muito mal à saúde.</desc>
-    <episode-num system="xmltv_ns">1.14.</episode-num>
+  <programme start="20260928153000 +0000" stop="20260928173000 +0000" channel="UOL.br">
+    <title>Pulso Político Com Daniela Lima - Ao Vivo</title>
+    <desc>No "Pulso Político</desc>
   </programme>
-  <programme start="20260926094500 +0000" stop="20260926100500 +0000" channel="UniversalPremiere.br">
-    <title>Parks And Recreation</title>
-    <sub-title>Galentine's Day</sub-title>
-    <desc>Leslie e Justin descobrem o paradeiro de um antigo namorado da mãe dela para o Dia dos Namorados.</desc>
-    <episode-num system="xmltv_ns">1.15.</episode-num>
+  <programme start="20260928173000 +0000" stop="20260928183000 +0000" channel="UOL.br">
+    <title>De Primeira - Ao Vivo</title>
+    <desc>Programa esportivo que traz notícias exclusivas dos bastidores do futebol antes que os concorrentes e com toda a análise e repercussão dos fatos que movimentam o mundo esportivo.</desc>
+    <episode-num system="xmltv_ns">0.270.</episode-num>
   </programme>
-  <programme start="20260926100500 +0000" stop="20260926103000 +0000" channel="UniversalPremiere.br">
-    <title>Parks and Recreation</title>
-    <sub-title>Woman of the Year</sub-title>
-    <desc>Leslie fica impressionada quando Ron vence um prêmio de "Mulher do Ano" com um projeto que ela iniciou.</desc>
-    <episode-num system="xmltv_ns">1.16.</episode-num>
+  <programme start="20260928183000 +0000" stop="20260928190000 +0000" channel="UOL.br">
+    <title>Alt Tabet - Compacto</title>
+    <desc>Antonio Tabet conversa com personagens importantes da política, esporte e entretenimento. A entrevista aborda as múltiplas faces dos convidados - ao pressionar Alt Tab num teclado de computador aparecem as várias abas que estão ab</desc>
+    <episode-num system="xmltv_ns">14.270.</episode-num>
   </programme>
-  <programme start="20260926103000 +0000" stop="20260926105000 +0000" channel="UniversalPremiere.br">
-    <title>Parks and Recreation</title>
-    <sub-title>The Possum</sub-title>
-    <desc>Depois que um gambá morde o cachorro do prefeito durante um torneio de golfe em Pawnee, Leslie é quem deve livrar a cidade do visitante malcheiroso.</desc>
-    <episode-num system="xmltv_ns">1.17.</episode-num>
+  <programme start="20260928190000 +0000" stop="20260928210000 +0000" channel="UOL.br">
+    <title>UOL News - 2° Edição - Ao Vivo</title>
+    <desc>As principais notícias do Brasil e do mundo em tempo real, com análises que explicam os acontecimentos de forma clara e objetiva. Um jornalismo que informa, contextualiza e ajuda o espectador a construir sua própria opinião com o</desc>
+    <episode-num system="xmltv_ns">85.270.</episode-num>
   </programme>
-  <programme start="20260926105000 +0000" stop="20260926111500 +0000" channel="UniversalPremiere.br">
-    <title>Parks and Recreation</title>
-    <sub-title>Park Safety</sub-title>
-    <desc>Depois que Jerry disse ter sido assaltado por pivetes, no parque, Leslie decide melhorar a segurança nos parques de Pawnee.</desc>
-    <episode-num system="xmltv_ns">1.18.</episode-num>
+  <programme start="20260928210000 +0000" stop="20260928220000 +0000" channel="UOL.br">
+    <title>Live Dos Clubes - Flamengo - Ao Vivo</title>
+    <desc>Programa dedicado ao universo do futebol brasileiro, com foco nos bastidores, nas principais notícias e na análise dos times mais relevantes do país. A atração reúne debates dinâmicos e comentários sobre jog...</desc>
   </programme>
-  <programme start="20260926111500 +0000" stop="20260926113500 +0000" channel="UniversalPremiere.br">
-    <title>Parks and Recreation</title>
-    <sub-title>Summer Catalog</sub-title>
-    <desc>Leslie convida Ron e os antigos diretores do departamento para um piquenique para colocarem as finanças em ordem na preparação para os eventos do verão.</desc>
-    <episode-num system="xmltv_ns">1.19.</episode-num>
+  <programme start="20260928220000 +0000" stop="20260928230000 +0000" channel="UOL.br">
+    <title>Alt Tabet</title>
+    <desc>Antonio Tabet conversa com personagens importantes da política, esporte e entretenimento. A entrevista aborda as múltiplas faces dos convidados - ao pressionar Alt Tab num teclado de computador aparecem as várias abas que estão ab</desc>
+    <episode-num system="xmltv_ns">0.270.</episode-num>
   </programme>
-  <programme start="20260926113500 +0000" stop="20260926120000 +0000" channel="UniversalPremiere.br">
-    <title>Parks and Recreation</title>
-    <sub-title>94 Meetings</sub-title>
-    <desc>Depois que April marca uma quantidade enorme de reuniões para Ron, ele encara a possibilidade horripilante de ter que fazer seu trabalho.</desc>
-    <episode-num system="xmltv_ns">1.20.</episode-num>
+  <programme start="20260928230000 +0000" stop="20260929000000 +0000" channel="UOL.br">
+    <title>Central Splash</title>
+    <desc>No Central Splash Chico Barney e colunistas comentam as últimas notícias dos famosos ao vivo</desc>
+    <episode-num system="xmltv_ns">0.270.</episode-num>
   </programme>
-  <programme start="20260926120000 +0000" stop="20260926122000 +0000" channel="UniversalPremiere.br">
-    <title>Parks and Recreation</title>
-    <sub-title>Telethon</sub-title>
-    <desc>Leslie consegue uma vaga como apresentadora de um telethon local e convence uma celebridade a participar do evento.</desc>
-    <episode-num system="xmltv_ns">1.21.</episode-num>
+  <programme start="20260929000000 +0000" stop="20260929010000 +0000" channel="UOL.br">
+    <title>Splash Show</title>
+    <desc>Os babados, os romances e, lógico, as trends e os memes do momento! Fernanda Braz Soares te conta no "Splash Show"!</desc>
+    <episode-num system="xmltv_ns">0.270.</episode-num>
   </programme>
-  <programme start="20260926122000 +0000" stop="20260926124500 +0000" channel="UniversalPremiere.br">
-    <title>Parks and Recreation</title>
-    <sub-title>The Master Plan</sub-title>
-    <desc>O plano de Leslie para um novo parque vai pelos ares depois da visita de dois auditores.</desc>
-    <episode-num system="xmltv_ns">1.22.</episode-num>
+  <programme start="20260929010000 +0000" stop="20260929020000 +0000" channel="UOL.br">
+    <title>Alt Tabet - Nova Temporada</title>
+    <desc>Antonio Tabet conversa com personagens importantes da política, esporte e entretenimento. A entrevista aborda as múltiplas faces dos convidados - ao pressionar Alt Tab num teclado de computador aparecem as várias abas que estão ab</desc>
+    <episode-num system="xmltv_ns">21.270.</episode-num>
   </programme>
-  <programme start="20260926124500 +0000" stop="20260926133000 +0000" channel="UniversalPremiere.br">
-    <title>Irreverent</title>
-    <sub-title>Problemas Resolvidos</sub-title>
-    <desc>Lester recebe a aprovação para montar um satélite na torre do sino da igreja. Daisy tem que lidar com alguns problemas de saúde. Mack resolve a saga com os motociclistas de uma vez por todas.</desc>
-    <episode-num system="xmltv_ns">0.8.</episode-num>
+  <programme start="20260929020000 +0000" stop="20260929030000 +0000" channel="UOL.br">
+    <title>Profissão Montanhista</title>
+    <desc>As montanhas mais altas do globo da visão de quem conhece do assunto.</desc>
   </programme>
-  <programme start="20260926133000 +0000" stop="20260926142000 +0000" channel="UniversalPremiere.br">
-    <title>Irreverent</title>
-    <sub-title>O último café da manhã</sub-title>
-    <desc>A vida de Mack vai por água abaixo quando Mackenzie aparece para devolver o dinheiro; Piper acelera sua investigação; e Chicago finalmente chega a Clump.</desc>
-    <episode-num system="xmltv_ns">0.9.</episode-num>
+  <programme start="20260929030000 +0000" stop="20260929033000 +0000" channel="UOL.br">
+    <title>O Impensável</title>
+    <desc>O programa apresentado pelo professor Gil Giardelli traz o que há de mais recente no universo da tecnologia e como isso impacta a vida do ser humano e do planeta. Ele tem a companhia de robôs na apresentação do programa.</desc>
+    <episode-num system="xmltv_ns">0.271.</episode-num>
   </programme>
-  <programme start="20260926142000 +0000" stop="20260926150500 +0000" channel="UniversalPremiere.br">
-    <title>O Caminho Estreito para os Confins do Norte</title>
-    <desc>Ao escrever um discurso para o lançamento de um livro, o renomado cirurgião e celebrado herói de guerra, Dorrigo Evans, é jogado de volta às memórias de seu tempo como prisioneiro de guerra na Segunda Guerra Mundial.</desc>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
+  <programme start="20260929033000 +0000" stop="20260929053000 +0000" channel="UOL.br">
+    <title>UOL News - Reapresentação</title>
+    <desc>As principais notícias do Brasil e do mundo em tempo real, com análises que explicam os acontecimentos de forma clara e objetiva. Um jornalismo que informa, contextualiza e ajuda o espectador a construir sua própria opinião com o</desc>
+    <episode-num system="xmltv_ns">0.271.</episode-num>
   </programme>
-  <programme start="20260926150500 +0000" stop="20260926155500 +0000" channel="UniversalPremiere.br">
-    <title>O Caminho Estreito para os Confins do Norte</title>
-    <desc>Testemunhamos o crescente caso de amor entre Dorrigo e Amy na década de 1940, que contrasta fortemente com seu casamento atual com sua esposa, Ella.</desc>
-    <episode-num system="xmltv_ns">0.1.</episode-num>
+  <programme start="20260929053000 +0000" stop="20260929063000 +0000" channel="UOL.br">
+    <title>Finanças do Esporte</title>
+    <desc>O programa acompanha o lado econômico do universo esportivo, revelando como negócios, patrocínios e investimentos impactam clubes, atletas e competições. Com especialistas e dados atualizados, o programa se aprofunda no as...</desc>
+    <episode-num system="xmltv_ns">0.271.</episode-num>
   </programme>
-  <programme start="20260926155500 +0000" stop="20260926163500 +0000" channel="UniversalPremiere.br">
-    <title>O Caminho Estreito para os Confins do Norte</title>
-    <desc>Dorrigo está sob investigação por um procedimento arriscado que realizou, colocando ainda mais pressão em seu casamento.</desc>
-    <episode-num system="xmltv_ns">0.2.</episode-num>
+  <programme start="20260929063000 +0000" stop="20260929070500 +0000" channel="UOL.br">
+    <title>Alt Tabet - Compacto</title>
+    <desc>Antonio Tabet conversa com personagens importantes da política, esporte e entretenimento. A entrevista aborda as múltiplas faces dos convidados - ao pressionar Alt Tab num teclado de computador aparecem as várias abas que estão ab</desc>
+    <episode-num system="xmltv_ns">2.271.</episode-num>
   </programme>
-  <programme start="20260926163500 +0000" stop="20260926182500 +0000" channel="UniversalPremiere.br">
-    <title>Megatubarão 2</title>
-    <desc>A viagem de uma equipe de pesquisa nas profundezas do oceano se transforma em um caos quando uma operação de mineração os força a entrar em uma batalha pela sobrevivência, enfrentando Mega Tubarões e saqueadores ...</desc>
+  <programme start="20260929070500 +0000" stop="20260929090000 +0000" channel="UOL.br">
+    <title>UOL News - Reapresentação</title>
+    <desc>As principais notícias do Brasil e do mundo em tempo real, com análises que explicam os acontecimentos de forma clara e objetiva. Um jornalismo que informa, contextualiza e ajuda o espectador a construir sua própria opinião com o</desc>
+    <episode-num system="xmltv_ns">0.271.</episode-num>
   </programme>
-  <programme start="20260926182500 +0000" stop="20260926202500 +0000" channel="UniversalPremiere.br">
-    <title>Robocop</title>
-    <desc>Detroit 2008 Alex Murphy, um marido amoroso, pai e bom policial, está gravemente ferido no cumprimento do dever, o conglomerado multinacional OmniCorp vê sua oportunidade de criar um policial policial parte homem - parte.</desc>
+  <programme start="20260929090000 +0000" stop="20260929093000 +0000" channel="UOL.br">
+    <title>UOL Prime</title>
+    <desc>O melhor do jornalismo do UOL no formato de reportagens e documentários exclusivos</desc>
+    <episode-num system="xmltv_ns">0.271.</episode-num>
   </programme>
-  <programme start="20260926202500 +0000" stop="20260926214000 +0000" channel="UniversalPremiere.br">
-    <title>Saturday Night Live</title>
-    <sub-title>Olivia Rodrigo</sub-title>
-    <desc>Olivia Rodrigo apresenta e se apresenta ao vivo.</desc>
-    <episode-num system="xmltv_ns">50.17.</episode-num>
+  <programme start="20260929093000 +0000" stop="20260929103000 +0000" channel="UOL.br">
+    <title>Vamos de Vinho</title>
+    <desc>O programa aborda a história, a cultura e o sabor de vinhos do mundo todo combinando conhecimento especializado e uma abordagem descontraída sobre temas como os diferentes tipos de uva e as regiões de destaque na produção ...</desc>
+    <episode-num system="xmltv_ns">0.271.</episode-num>
   </programme>
-  <programme start="20260926214000 +0000" stop="20260926223000 +0000" channel="UniversalPremiere.br">
-    <title>Do Alto Do Seu Conhecimento</title>
-    <desc>Marcia Fu, Max Rodrigues e Erika Coimbra formam o time de peso neste episódio. Vamos aprender sobre o surgimento das paralimpíadas, homenagear grandes nomes do esporte brasileiro como Aída dos Santos.</desc>
-    <episode-num system="xmltv_ns">0.2.</episode-num>
+  <programme start="20260929103000 +0000" stop="20260929113000 +0000" channel="UOL.br">
+    <title>Finanças do Esporte</title>
+    <desc>O programa acompanha o lado econômico do universo esportivo, revelando como negócios, patrocínios e investimentos impactam clubes, atletas e competições. Com especialistas e dados atualizados, o programa se aprofunda no as...</desc>
+    <episode-num system="xmltv_ns">0.271.</episode-num>
   </programme>
-  <programme start="20260926223000 +0000" stop="20260926231500 +0000" channel="UniversalPremiere.br">
-    <title>Do Alto Do Seu Conhecimento</title>
-    <desc>Maria Bopp, Lucca Bopp e Mariana Monaco entregam tudo: fofoca, conteúdo, rivalidade e todos os seus conhecimentos sobre feitiços de Harry Potter.</desc>
-    <episode-num system="xmltv_ns">0.3.</episode-num>
+  <programme start="20260929113000 +0000" stop="20260929120000 +0000" channel="UOL.br">
+    <title>Profissão Montanhista</title>
+    <desc>As montanhas mais altas do globo da visão de quem conhece do assunto.</desc>
   </programme>
-  <programme start="20260926231500 +0000" stop="20260927000000 +0000" channel="UniversalPremiere.br">
-    <title>Do Alto Do Seu Conhecimento</title>
-    <desc>O casal Pepita e Kayque Nogueira e o amigo Alisson Fernández debatem sobre a diversidade do amor. Redes de apoio, de afeto, poligamia e pansexualidade. Termos que podem parecer modernos.</desc>
-    <episode-num system="xmltv_ns">0.4.</episode-num>
+  <programme start="20260929120000 +0000" stop="20260929130000 +0000" channel="UOL.br">
+    <title>UOL News Esporte - Ao Vivo</title>
+    <desc>Eduardo Tironi traz os principais fatos do esporte com a participação de colunistas, repórteres e convidados especiais, provocando a interação com o público e o debate.</desc>
+    <episode-num system="xmltv_ns">0.271.</episode-num>
+  </programme>
+  <programme start="20260929130000 +0000" stop="20260929153000 +0000" channel="UOL.br">
+    <title>UOL News - 1° Edição - Ao Vivo</title>
+    <desc>As principais notícias do Brasil e do mundo em tempo real, com análises que explicam os acontecimentos de forma clara e objetiva. Um jornalismo que informa, contextualiza e ajuda o espectador a construir sua própria opinião com o</desc>
+    <episode-num system="xmltv_ns">79.271.</episode-num>
   </programme>
   <programme start="20260927000000 +0000" stop="20260927004500 +0000" channel="UniversalPremiere.br">
     <title>Suits LA</title>
@@ -52850,6 +52996,385 @@
     <sub-title>Redoubt</sub-title>
     <desc>A sétima temporada segue acompanhando o trabalho interno do FBI em Nova York, enquanto eles lutam para manter a cidade e o país seguros.</desc>
     <episode-num system="xmltv_ns">6.8.</episode-num>
+  </programme>
+  <programme start="20260928025000 +0000" stop="20260928033500 +0000" channel="UniversalPremiere.br">
+    <title>FBI</title>
+    <sub-title>Descent</sub-title>
+    <desc>A sétima temporada segue acompanhando o trabalho interno do FBI em Nova York, enquanto eles lutam para manter a cidade e o país seguros.</desc>
+    <episode-num system="xmltv_ns">6.9.</episode-num>
+  </programme>
+  <programme start="20260928033500 +0000" stop="20260928041500 +0000" channel="UniversalPremiere.br">
+    <title>FBI</title>
+    <sub-title>Manhunt</sub-title>
+    <desc>A sétima temporada segue acompanhando o trabalho interno do FBI em Nova York, enquanto eles lutam para manter a cidade e o país seguros.</desc>
+    <episode-num system="xmltv_ns">6.10.</episode-num>
+  </programme>
+  <programme start="20260928041500 +0000" stop="20260928050000 +0000" channel="UniversalPremiere.br">
+    <title>FBI</title>
+    <sub-title>Shelter</sub-title>
+    <desc>A sétima temporada segue acompanhando o trabalho interno do FBI em Nova York, enquanto eles lutam para manter a cidade e o país seguros.</desc>
+    <episode-num system="xmltv_ns">6.11.</episode-num>
+  </programme>
+  <programme start="20260928050000 +0000" stop="20260928054000 +0000" channel="UniversalPremiere.br">
+    <title>FBI</title>
+    <sub-title>Atrelado</sub-title>
+    <desc>A sétima temporada segue acompanhando o trabalho interno do FBI em Nova York, enquanto eles lutam para manter a cidade e o país seguros.</desc>
+    <episode-num system="xmltv_ns">6.12.</episode-num>
+  </programme>
+  <programme start="20260928054000 +0000" stop="20260928062500 +0000" channel="UniversalPremiere.br">
+    <title>FBI</title>
+    <desc>A sétima temporada segue acompanhando o trabalho interno do FBI em Nova York, enquanto eles lutam para manter a cidade e o país seguros.</desc>
+    <episode-num system="xmltv_ns">6.13.</episode-num>
+  </programme>
+  <programme start="20260928062500 +0000" stop="20260928064500 +0000" channel="UniversalPremiere.br">
+    <title>The Office</title>
+    <sub-title>Café Disco</sub-title>
+    <desc>Michael traz café e dança para o escritório.</desc>
+    <episode-num system="xmltv_ns">4.26.</episode-num>
+  </programme>
+  <programme start="20260928064500 +0000" stop="20260928070500 +0000" channel="UniversalPremiere.br">
+    <title>The Office</title>
+    <sub-title>Piquenique da Empresa</sub-title>
+    <desc>Episódio Final da Temporada. O escritório de Scranton representa a empresa no piquenique. Amy Ryan, indicada ao Oscar e participação especial de Idris Elba.</desc>
+    <episode-num system="xmltv_ns">4.27.</episode-num>
+  </programme>
+  <programme start="20260928070500 +0000" stop="20260928073000 +0000" channel="UniversalPremiere.br">
+    <title>The Office</title>
+    <sub-title>Fofoca</sub-title>
+    <desc>Conforme os estagiários contratados para o verão se preparam para ir embora, o pessoal do escritório faz fofocas sobre eles e Michael se sente excluído. Michael descobre que Stanley está tendo um caso e conta para todos.</desc>
+    <episode-num system="xmltv_ns">5.0.</episode-num>
+  </programme>
+  <programme start="20260928073000 +0000" stop="20260928075000 +0000" channel="UniversalPremiere.br">
+    <title>The Office</title>
+    <sub-title>A Reunião</sub-title>
+    <desc>Toby e Dwight se disfarçam após um incidente no depósito.</desc>
+    <episode-num system="xmltv_ns">5.1.</episode-num>
+  </programme>
+  <programme start="20260928075000 +0000" stop="20260928081500 +0000" channel="UniversalPremiere.br">
+    <title>The Office</title>
+    <sub-title>A Promoção</sub-title>
+    <desc>A recessão atinge a Dunder Mifflin.</desc>
+    <episode-num system="xmltv_ns">5.2.</episode-num>
+  </programme>
+  <programme start="20260928081500 +0000" stop="20260928083500 +0000" channel="UniversalPremiere.br">
+    <title>The Office</title>
+    <sub-title>Niágara - Parte 1</sub-title>
+    <desc>Jim e Pam levam The Office para as Cataratas para um casamento inesquecível. Parte 1 de 2.</desc>
+    <episode-num system="xmltv_ns">5.3.</episode-num>
+  </programme>
+  <programme start="20260928083500 +0000" stop="20260928090000 +0000" channel="UniversalPremiere.br">
+    <title>The Office</title>
+    <sub-title>Niágara - Parte 2</sub-title>
+    <desc>Jim e Pam levam The Office para as Cataratas para um casamento inesquecível. Parte 2 de 2.</desc>
+    <episode-num system="xmltv_ns">5.4.</episode-num>
+  </programme>
+  <programme start="20260928090000 +0000" stop="20260928092000 +0000" channel="UniversalPremiere.br">
+    <title>The Office</title>
+    <sub-title>Lagoa de Carpas</sub-title>
+    <desc>Episódio especial de Halloween. Michael chega ensopado a uma reunião de negócios.</desc>
+    <episode-num system="xmltv_ns">5.7.</episode-num>
+  </programme>
+  <programme start="20260928092000 +0000" stop="20260928094500 +0000" channel="UniversalPremiere.br">
+    <title>The Office</title>
+    <sub-title>Encontro Duplo</sub-title>
+    <desc>Pam e Jim são forçados a ir em um encontro desconfortável com mais um casal, Linda Purl como atriz convidada.</desc>
+    <episode-num system="xmltv_ns">5.8.</episode-num>
+  </programme>
+  <programme start="20260928094500 +0000" stop="20260928100500 +0000" channel="UniversalPremiere.br">
+    <title>The Office</title>
+    <sub-title>Assassinato</sub-title>
+    <desc>Assassinato, escreveu ela.</desc>
+    <episode-num system="xmltv_ns">5.9.</episode-num>
+  </programme>
+  <programme start="20260928100500 +0000" stop="20260928103000 +0000" channel="UniversalPremiere.br">
+    <title>The Office</title>
+    <sub-title>Assembleia de Acionistas</sub-title>
+    <desc>Dunder Mifflin enfrenta os acionistas.</desc>
+    <episode-num system="xmltv_ns">5.10.</episode-num>
+  </programme>
+  <programme start="20260928103000 +0000" stop="20260928105000 +0000" channel="UniversalPremiere.br">
+    <title>The Office</title>
+    <sub-title>As crianças do Scott</sub-title>
+    <desc>Michael é forçado a dizer a verdade depois de fazer uma promessa que não pode cumprir.</desc>
+    <episode-num system="xmltv_ns">5.11.</episode-num>
+  </programme>
+  <programme start="20260928105000 +0000" stop="20260928111000 +0000" channel="UniversalPremiere.br">
+    <title>Parks And Recreation</title>
+    <sub-title>Indianapolis</sub-title>
+    <desc>Ron e Leslie viajam para Indianápolis para receber recomendação para o próximo Festival da Colheita; April e Andy aprendem a se divertir sem gastar dinheiro.</desc>
+    <episode-num system="xmltv_ns">2.5.</episode-num>
+  </programme>
+  <programme start="20260928111000 +0000" stop="20260928113500 +0000" channel="UniversalPremiere.br">
+    <title>Parks And Recreation</title>
+    <sub-title>Harvest Festival</sub-title>
+    <desc>Leslie lida com um líder tribal Wamapoke que está ameaçando lançar uma maldição sobre o Festival de Colheita; April está chateada com Andy e Ann recebe alguns conselhos amorosos.</desc>
+    <episode-num system="xmltv_ns">2.6.</episode-num>
+  </programme>
+  <programme start="20260928113500 +0000" stop="20260928120000 +0000" channel="UniversalPremiere.br">
+    <title>Parks And Recreation</title>
+    <sub-title>Camping</sub-title>
+    <desc>Leslie leva o departamento em um acampamento para trocarem novas ideias; Andy tenta atrair April com romancce; Chris volta para Pawnee como gestor da cidade.</desc>
+    <episode-num system="xmltv_ns">2.7.</episode-num>
+  </programme>
+  <programme start="20260928120000 +0000" stop="20260928122500 +0000" channel="UniversalPremiere.br">
+    <title>Parks And Recreation</title>
+    <sub-title>Fancy Party</sub-title>
+    <desc>Amy Poehler interpreta Leslie Knope, uma funcionária pública de nível médio que está tentando converter uma construção abandonada em um parque comunitário enquanto uma tripulação de câmera seg...</desc>
+    <episode-num system="xmltv_ns">2.8.</episode-num>
+  </programme>
+  <programme start="20260928122500 +0000" stop="20260928125000 +0000" channel="UniversalPremiere.br">
+    <title>Parks And Recreation</title>
+    <sub-title>Soulmates</sub-title>
+    <desc>Um serviço de encontros on-line coloca Leslie com alguém que ela já conhece; Chris desafia Ron em uma competição de hambúrguer, como parte de uma nova iniciativa de saúde.</desc>
+    <episode-num system="xmltv_ns">2.9.</episode-num>
+  </programme>
+  <programme start="20260928125000 +0000" stop="20260928131500 +0000" channel="UniversalPremiere.br">
+    <title>Parks And Recreation</title>
+    <sub-title>Jerry's Painting</sub-title>
+    <desc>A pintura de Jerry cria emoção na exposição de arte da comunidade; Ben vai morar com April e Andy; Leslie discorda com as regras de Chris de namoro no trabalho.</desc>
+    <episode-num system="xmltv_ns">2.10.</episode-num>
+  </programme>
+  <programme start="20260928131500 +0000" stop="20260928134000 +0000" channel="UniversalPremiere.br">
+    <title>Parks And Recreation</title>
+    <sub-title>Eagleton</sub-title>
+    <desc>Quando uma cidade vizinha coloca uma cerca em torno de um de seus parques, Leslie pede ajuda a um velho amigo; Ron tenta impedir que sua própria festa de aniversário aconteça.</desc>
+    <episode-num system="xmltv_ns">2.11.</episode-num>
+  </programme>
+  <programme start="20260928134000 +0000" stop="20260928140500 +0000" channel="UniversalPremiere.br">
+    <title>Parks And Recreation</title>
+    <sub-title>The Fight</sub-title>
+    <desc>A falta de entusiasmo de Ann com uma oferta de emprego da prefeitura cria uma discussão com Leslie; Tom convida todos para ajudá-lo a promover a sua nova bebida alcoólica.</desc>
+    <episode-num system="xmltv_ns">2.12.</episode-num>
+  </programme>
+  <programme start="20260928140500 +0000" stop="20260928145000 +0000" channel="UniversalPremiere.br">
+    <title>The Assassin</title>
+    <sub-title>Episódio 3</sub-title>
+    <desc>O grupo acaba se dividindo, mas com as respostas cada vez mais próximas, eles precisam seguir em frente enquanto o perigo e a ameaça às suas vidas se aproximam.</desc>
+    <episode-num system="xmltv_ns">0.2.</episode-num>
+  </programme>
+  <programme start="20260928145000 +0000" stop="20260928154500 +0000" channel="UniversalPremiere.br">
+    <title>The Assassin</title>
+    <sub-title>Episódio 4</sub-title>
+    <desc>As notícias sobre a tragédia que Julie e Edward testemunharam na ilha se espalham por toda a Europa e eles se tornam alvos de uma caçada policial.</desc>
+    <episode-num system="xmltv_ns">0.3.</episode-num>
+  </programme>
+  <programme start="20260928154500 +0000" stop="20260928163000 +0000" channel="UniversalPremiere.br">
+    <title>House</title>
+    <sub-title>Um Dia Numa Sala</sub-title>
+    <desc>House precisa lidar com uma vítima de estupro que insiste em se confidenciar com ele. Enquanto isso, um paciente que sofre de câncer terminal tenta se aproveitar da fragilidade de Cameron.</desc>
+    <episode-num system="xmltv_ns">2.11.</episode-num>
+  </programme>
+  <programme start="20260928163000 +0000" stop="20260928171500 +0000" channel="UniversalPremiere.br">
+    <title>House</title>
+    <sub-title>Uma Agulha No Palheiro</sub-title>
+    <desc>House e sua equipe recebem um adolescente cigano que sofre de problemas respiratórios. Cuddy da a outra pessoa a vaga de deficiente que o doutor possuía no estacionamento.</desc>
+    <episode-num system="xmltv_ns">2.12.</episode-num>
+  </programme>
+  <programme start="20260928171500 +0000" stop="20260928180000 +0000" channel="UniversalPremiere.br">
+    <title>House</title>
+    <sub-title>Insensível À Dor</sub-title>
+    <desc>House está determinado a atrapalhar o encontro às escuras de Cuddy. Enquanto isso, ele tem que resolver o caso de uma garota insensível à dor.</desc>
+    <episode-num system="xmltv_ns">2.13.</episode-num>
+  </programme>
+  <programme start="20260928180000 +0000" stop="20260928184500 +0000" channel="UniversalPremiere.br">
+    <title>House</title>
+    <sub-title>Meia Capacidade</sub-title>
+    <desc>House encontra um gênio musical que apresenta danos cerebrais e habilidades inexplicáveis. Já a equipe do médico está preocupada com a saúde do chefe.</desc>
+    <episode-num system="xmltv_ns">2.14.</episode-num>
+  </programme>
+  <programme start="20260928184500 +0000" stop="20260928194000 +0000" channel="UniversalPremiere.br">
+    <title>A Friend of the Family</title>
+    <sub-title>A Missão</sub-title>
+    <desc>A busca por Jan se estende cada vez mais quando os Brobergs ligam para o FBI. Jan recebe uma responsabilidade nada confortável.</desc>
+    <episode-num system="xmltv_ns">0.1.</episode-num>
+  </programme>
+  <programme start="20260928194000 +0000" stop="20260928203500 +0000" channel="UniversalPremiere.br">
+    <title>A Friend of the Family</title>
+    <sub-title>O Dom de Línguas</sub-title>
+    <desc>À medida que B. aprofunda seus laços com a família Broberg, Bob começa a sentir que está perdendo o controle.</desc>
+    <episode-num system="xmltv_ns">0.2.</episode-num>
+  </programme>
+  <programme start="20260928203500 +0000" stop="20260928213500 +0000" channel="UniversalPremiere.br">
+    <title>A Friend of the Family</title>
+    <sub-title>Artigos de fé</sub-title>
+    <desc>Os Brobergs lutam para restaurar o senso de normalidade enquanto se preparam para enfrentar B. no tribunal.</desc>
+    <episode-num system="xmltv_ns">0.3.</episode-num>
+  </programme>
+  <programme start="20260928213500 +0000" stop="20260928223000 +0000" channel="UniversalPremiere.br">
+    <title>A Friend of the Family</title>
+    <sub-title>A Taça Amarga</sub-title>
+    <desc>Enquanto o casamento dos Brobergs corre perigo, B. aprofunda ainda mais o seu domínio sinistro sobre Jan.</desc>
+    <episode-num system="xmltv_ns">0.4.</episode-num>
+  </programme>
+  <programme start="20260928223000 +0000" stop="20260928231500 +0000" channel="UniversalPremiere.br">
+    <title>Suits LA</title>
+    <sub-title>Bat-sinal</sub-title>
+    <desc>Ted e Harvey se unem para consertar um erro do passado e colocar um monstro atrás das grades.</desc>
+    <episode-num system="xmltv_ns">0.8.</episode-num>
+  </programme>
+  <programme start="20260928231500 +0000" stop="20260929000000 +0000" channel="UniversalPremiere.br">
+    <title>Suits LA</title>
+    <sub-title>Julgamento Simulado</sub-title>
+    <desc>A amizade dos estudantes de direito Ted e Stuart é posta à prova quando eles se enfrentam em um julgamento simulado.</desc>
+    <episode-num system="xmltv_ns">0.9.</episode-num>
+  </programme>
+  <programme start="20260929000000 +0000" stop="20260929004500 +0000" channel="UniversalPremiere.br">
+    <title>Suits LA</title>
+    <sub-title>Destruindo Meu Coração</sub-title>
+    <desc>Ted precisa atender a um pedido do cliente Patton Oswalt.</desc>
+    <episode-num system="xmltv_ns">0.10.</episode-num>
+  </programme>
+  <programme start="20260929004500 +0000" stop="20260929013000 +0000" channel="UniversalPremiere.br">
+    <title>Suits LA</title>
+    <sub-title>Sylvester furioso</sub-title>
+    <desc>Erica e Ted discordam quando ela tenta contratar um cliente famoso contra a vontade dele.</desc>
+    <episode-num system="xmltv_ns">0.11.</episode-num>
+  </programme>
+  <programme start="20260929013000 +0000" stop="20260929022000 +0000" channel="UniversalPremiere.br">
+    <title>Rei e Conquistador</title>
+    <sub-title>Convite</sub-title>
+    <desc>Na véspera da coroação do rei Eduardo, Harold de Wessex salva a vida de William da Normandia</desc>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20260929022000 +0000" stop="20260929030500 +0000" channel="UniversalPremiere.br">
+    <title>FBI</title>
+    <desc>A sétima temporada segue acompanhando o trabalho interno do FBI em Nova York, enquanto eles lutam para manter a cidade e o país seguros.</desc>
+    <episode-num system="xmltv_ns">6.14.</episode-num>
+  </programme>
+  <programme start="20260929030500 +0000" stop="20260929035000 +0000" channel="UniversalPremiere.br">
+    <title>FBI</title>
+    <desc>A sétima temporada segue acompanhando o trabalho interno do FBI em Nova York, enquanto eles lutam para manter a cidade e o país seguros.</desc>
+    <episode-num system="xmltv_ns">6.15.</episode-num>
+  </programme>
+  <programme start="20260929035000 +0000" stop="20260929043500 +0000" channel="UniversalPremiere.br">
+    <title>The Assassin</title>
+    <sub-title>Episódio 3</sub-title>
+    <desc>O grupo acaba se dividindo, mas com as respostas cada vez mais próximas, eles precisam seguir em frente enquanto o perigo e a ameaça às suas vidas se aproximam.</desc>
+    <episode-num system="xmltv_ns">0.2.</episode-num>
+  </programme>
+  <programme start="20260929043500 +0000" stop="20260929053000 +0000" channel="UniversalPremiere.br">
+    <title>The Assassin</title>
+    <sub-title>Episódio 4</sub-title>
+    <desc>As notícias sobre a tragédia que Julie e Edward testemunharam na ilha se espalham por toda a Europa e eles se tornam alvos de uma caçada policial.</desc>
+    <episode-num system="xmltv_ns">0.3.</episode-num>
+  </programme>
+  <programme start="20260929053000 +0000" stop="20260929062000 +0000" channel="UniversalPremiere.br">
+    <title>Rei e Conquistador</title>
+    <sub-title>Convite</sub-title>
+    <desc>Na véspera da coroação do rei Eduardo, Harold de Wessex salva a vida de William da Normandia</desc>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20260929062000 +0000" stop="20260929070500 +0000" channel="UniversalPremiere.br">
+    <title>FBI</title>
+    <desc>A sétima temporada segue acompanhando o trabalho interno do FBI em Nova York, enquanto eles lutam para manter a cidade e o país seguros.</desc>
+    <episode-num system="xmltv_ns">6.14.</episode-num>
+  </programme>
+  <programme start="20260929070500 +0000" stop="20260929075000 +0000" channel="UniversalPremiere.br">
+    <title>FBI</title>
+    <desc>A sétima temporada segue acompanhando o trabalho interno do FBI em Nova York, enquanto eles lutam para manter a cidade e o país seguros.</desc>
+    <episode-num system="xmltv_ns">6.15.</episode-num>
+  </programme>
+  <programme start="20260929075000 +0000" stop="20260929083500 +0000" channel="UniversalPremiere.br">
+    <title>The Assassin</title>
+    <sub-title>Episódio 3</sub-title>
+    <desc>O grupo acaba se dividindo, mas com as respostas cada vez mais próximas, eles precisam seguir em frente enquanto o perigo e a ameaça às suas vidas se aproximam.</desc>
+    <episode-num system="xmltv_ns">0.2.</episode-num>
+  </programme>
+  <programme start="20260929083500 +0000" stop="20260929090000 +0000" channel="UniversalPremiere.br">
+    <title>The Office</title>
+    <sub-title>Amigo Secreto</sub-title>
+    <desc>Michael e Phyllis brigam pelo privilégio de ser Papai Noel.</desc>
+    <episode-num system="xmltv_ns">5.12.</episode-num>
+  </programme>
+  <programme start="20260929090000 +0000" stop="20260929092000 +0000" channel="UniversalPremiere.br">
+    <title>The Office</title>
+    <sub-title>As crianças do Scott</sub-title>
+    <desc>Michael é forçado a dizer a verdade depois de fazer uma promessa que não pode cumprir.</desc>
+    <episode-num system="xmltv_ns">5.11.</episode-num>
+  </programme>
+  <programme start="20260929092000 +0000" stop="20260929094500 +0000" channel="UniversalPremiere.br">
+    <title>The Office</title>
+    <sub-title>Amigo Secreto</sub-title>
+    <desc>Michael e Phyllis brigam pelo privilégio de ser Papai Noel.</desc>
+    <episode-num system="xmltv_ns">5.12.</episode-num>
+  </programme>
+  <programme start="20260929094500 +0000" stop="20260929100500 +0000" channel="UniversalPremiere.br">
+    <title>The Office</title>
+    <sub-title>O Banqueiro</sub-title>
+    <desc>Michael tenta impressionar um potencial comprador.</desc>
+    <episode-num system="xmltv_ns">5.13.</episode-num>
+  </programme>
+  <programme start="20260929100500 +0000" stop="20260929103000 +0000" channel="UniversalPremiere.br">
+    <title>The Office</title>
+    <sub-title>Sabre</sub-title>
+    <desc>A Dunder Mifflin é adquirida. Participação especial de Kathy Bates.</desc>
+    <episode-num system="xmltv_ns">5.14.</episode-num>
+  </programme>
+  <programme start="20260929103000 +0000" stop="20260929105000 +0000" channel="UniversalPremiere.br">
+    <title>The Office</title>
+    <sub-title>Gerente e vendedor</sub-title>
+    <desc>O escritório recebe a visita da CEO da Sabre. Participação especial de Kathy Bates e Zach Woods.</desc>
+    <episode-num system="xmltv_ns">5.15.</episode-num>
+  </programme>
+  <programme start="20260929105000 +0000" stop="20260929111500 +0000" channel="UniversalPremiere.br">
+    <title>The Office</title>
+    <sub-title>A Entrega, Parte 1</sub-title>
+    <desc>Parte 1 de 2. As contrações da Pam começam, mas ela e Jim estão determinados a esperar o máximo possível para passar mais tempo no hospital.</desc>
+    <episode-num system="xmltv_ns">5.16.</episode-num>
+  </programme>
+  <programme start="20260929111500 +0000" stop="20260929113500 +0000" channel="UniversalPremiere.br">
+    <title>Parks And Recreation</title>
+    <sub-title>Soulmates</sub-title>
+    <desc>Um serviço de encontros on-line coloca Leslie com alguém que ela já conhece; Chris desafia Ron em uma competição de hambúrguer, como parte de uma nova iniciativa de saúde.</desc>
+    <episode-num system="xmltv_ns">2.9.</episode-num>
+  </programme>
+  <programme start="20260929113500 +0000" stop="20260929120000 +0000" channel="UniversalPremiere.br">
+    <title>Parks And Recreation</title>
+    <sub-title>Jerry's Painting</sub-title>
+    <desc>A pintura de Jerry cria emoção na exposição de arte da comunidade; Ben vai morar com April e Andy; Leslie discorda com as regras de Chris de namoro no trabalho.</desc>
+    <episode-num system="xmltv_ns">2.10.</episode-num>
+  </programme>
+  <programme start="20260929120000 +0000" stop="20260929122000 +0000" channel="UniversalPremiere.br">
+    <title>Parks And Recreation</title>
+    <sub-title>Eagleton</sub-title>
+    <desc>Quando uma cidade vizinha coloca uma cerca em torno de um de seus parques, Leslie pede ajuda a um velho amigo; Ron tenta impedir que sua própria festa de aniversário aconteça.</desc>
+    <episode-num system="xmltv_ns">2.11.</episode-num>
+  </programme>
+  <programme start="20260929122000 +0000" stop="20260929124500 +0000" channel="UniversalPremiere.br">
+    <title>Parks And Recreation</title>
+    <sub-title>The Fight</sub-title>
+    <desc>A falta de entusiasmo de Ann com uma oferta de emprego da prefeitura cria uma discussão com Leslie; Tom convida todos para ajudá-lo a promover a sua nova bebida alcoólica.</desc>
+    <episode-num system="xmltv_ns">2.12.</episode-num>
+  </programme>
+  <programme start="20260929124500 +0000" stop="20260929131000 +0000" channel="UniversalPremiere.br">
+    <title>Parks And Recreation</title>
+    <sub-title>Road Trip</sub-title>
+    <desc>Chris envia Leslie e Ben em uma viagem para a capital. Ron ensina um estudante sobre seus pontos de vista. É o novo jogo de Tom. April fere os sentimentos de Andy.</desc>
+    <episode-num system="xmltv_ns">2.13.</episode-num>
+  </programme>
+  <programme start="20260929131000 +0000" stop="20260929133500 +0000" channel="UniversalPremiere.br">
+    <title>Parks and Recreation</title>
+    <sub-title>The Bubble</sub-title>
+    <desc>Amy Poehler interpreta Leslie Knope, uma funcionária pública de nível médio que está tentando converter uma construção abandonada em um parque comunitário enquanto uma tripulação de câmera seg...</desc>
+    <episode-num system="xmltv_ns">2.14.</episode-num>
+  </programme>
+  <programme start="20260929133500 +0000" stop="20260929140000 +0000" channel="UniversalPremiere.br">
+    <title>Parks and Recreation</title>
+    <sub-title>Li'l Sebastian</sub-title>
+    <desc>Tom assume a liderança de um importante evento, porém o planejamento logo foge a seu controle.</desc>
+    <episode-num system="xmltv_ns">2.15.</episode-num>
+  </programme>
+  <programme start="20260929140000 +0000" stop="20260929145500 +0000" channel="UniversalPremiere.br">
+    <title>The Assassin</title>
+    <sub-title>Episódio 4</sub-title>
+    <desc>As notícias sobre a tragédia que Julie e Edward testemunharam na ilha se espalham por toda a Europa e eles se tornam alvos de uma caçada policial.</desc>
+    <episode-num system="xmltv_ns">0.3.</episode-num>
+  </programme>
+  <programme start="20260929145500 +0000" stop="20260929154500 +0000" channel="UniversalPremiere.br">
+    <title>The Assassin</title>
+    <sub-title>Episódio 5</sub-title>
+    <desc>As peças finalmente começam a se encaixar para Julie - será que ela sabe quem pode ser o responsável pela sequência catastrófica de eventos?</desc>
+    <episode-num system="xmltv_ns">0.4.</episode-num>
   </programme>
   <programme start="20260918230000 -0300" stop="20260919010000 -0300" channel="Xsports.br">
     <title lang="pt">SUPERCOPA DA EUROLIGA DE BASQUETE - Real Madrid x Dubai: Novo torneio oficial que abre a temporada europeia de clubes, disputado no formato de Final Four (semifinais e final). - inédito</title>
