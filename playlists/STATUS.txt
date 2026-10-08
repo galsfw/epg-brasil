@@ -1,5 +1,5 @@
-Última atualização (UTC): 2026-10-07T23:09:56.956626+00:00
-Duração: 206.0s
+Última atualização (UTC): 2026-10-08T06:09:37.847476+00:00
+Duração: 212.8s
 
 == Canais ao vivo (playlists/canais_ao_vivo.m3u8 + canais_ao_vivo_epg.xml) ==
 Canais na playlist (entradas): 0
