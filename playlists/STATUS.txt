@@ -1,5 +1,5 @@
-Última atualização (UTC): 2026-10-21T11:53:38.792584+00:00
-Duração: 178.5s
+Última atualização (UTC): 2026-10-21T17:17:17.715543+00:00
+Duração: 226.4s
 
 == Canais ao vivo (playlists/canais_ao_vivo.m3u8 + canais_ao_vivo_epg.xml) ==
 Canais na playlist (entradas): 0
@@ -10,9 +10,10 @@ Canais sem EPG disponível: 0
 Canais no arquivo XMLTV final: 0
 Programas no arquivo XMLTV final: 0
   AVISO: 0 canais nesta execução — todas as fontes configuradas pareceram mortas (ver log da execução para detalhes).
-  Fontes puladas por parecerem mortas: IPTV-Brazuka.m3u, IPTV-Brazuka2.m3u, IPTV-Brazuka4.m3u, IPTV-Brazuka5.m3u, IPTV-Brazuka6.m3u
+  Fontes puladas por parecerem mortas: CanaisBR04.m3u8, IPTV-Brazuka.m3u, IPTV-Brazuka2.m3u, IPTV-Brazuka4.m3u, IPTV-Brazuka5.m3u, IPTV-Brazuka6.m3u
 
 == Filmes e Séries (playlists/filmes_e_series*.m3u8) ==
 Itens (filmes + episódios de séries): 0
 Arquivos: filmes_e_series1.m3u8
   AVISO: 0 itens nesta execução — todas as fontes configuradas pareceram mortas (ver log da execução para detalhes).
+  Fontes puladas por parecerem mortas: CanaisBR04.m3u8
